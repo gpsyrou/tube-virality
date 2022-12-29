@@ -1,0 +1,14 @@
+{
+    "dir": 
+        {
+            "project": "/Users/georgiosspyrou/Desktop/GitHub/Projects/tube-virality/tube-virality",
+            "tests":"/Users/georgiosspyrou/Desktop/GitHub/Projects/tube-virality/tube-virality/src/tube"
+        }
+    ,
+    "filename": 
+        {
+            "header_file": "video_header_metadata.csv",
+            "lines_file": "video_lines_metadata.csv",
+            "channels_file": "channels_metadata.csv"
+        }
+}
