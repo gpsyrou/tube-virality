@@ -30,7 +30,7 @@ class TrendingVideoCollector:
         trending_page: The URL string indicatin the web address of the trending
                        page
         trending_page_parsed:
-                       The parsed version of the HTML page as a BeautifulSoup 
+                       The parsed version of the HTML page as a BeautifulSoup
                        object.
         trending_videos_dict:
                         Dictionary of the collected videos retrieved from the
