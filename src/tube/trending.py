@@ -2,6 +2,7 @@ import os
 import re
 import json
 import pandas as pd
+from typing import List
 from pandas.errors import EmptyDataError
 from utils.transformation import (
     url_to_bs4,
@@ -10,17 +11,39 @@ from utils.transformation import (
     get_video_id_from_json_url
     )
 
+# Setup the schema/column names of the features in the trending output file
+trending_df_schema = [
+    'video_id', 
+    'video_url', 
+    'trending_position', 
+    'trending_date', 
+    'trending_datetime'
+    ]
 
 class TrendingVideoCollector:
+    """ Class to retrieve the Trending videos and their respective metadata
+    from YouTube trending page.
+
+    Attributes:
+    ------------
+        trending_page: The URL string indicatin the web address of the trending
+                       page
+        trending_page_parsed:
+                       The parsed version of the HTML page as a BeautifulSoup 
+                       object.
+        trending_videos_dict:
+                        Dictionary of the collected videos retrieved from the
+                        trending_page.
+    """
     def __init__(self, trending_page: str):
         self.trending_page = trending_page
-        self.trending_page_bs4 = url_to_bs4(trending_page)
+        self.trending_page_parsed = url_to_bs4(trending_page)
         self.trending_videos_dict = self.collect_trending_videos()
 
     def collect_trending_videos(self) -> dict:
         trending_videos_retrieved = re.findall(
             pattern='(?<=watchEndpoint":{)("videoId":".+?(?="))',
-            string=str(self.trending_page_bs4)
+            string=str(self.trending_page_parsed)
             )
 
         self.trending_videos_dict = {}
@@ -32,7 +55,10 @@ class TrendingVideoCollector:
 
         return self.trending_videos_dict
 
-    def generate_trending_videos_metadata(self) -> pd.DataFrame:
+    def generate_trending_videos_metadata(
+        self,
+        trending_df_schema: List[str]
+    ) -> pd.DataFrame:
 
         df_switch = []
 
@@ -45,13 +71,7 @@ class TrendingVideoCollector:
                 )
         trending_df = pd.DataFrame(
             df_switch,
-            columns=[
-                'video_id',
-                'video_url',
-                'trending_position',
-                'trending_date',
-                'trending_datetime'
-                ]
+            columns=trending_df_schema
             )
 
         return trending_df

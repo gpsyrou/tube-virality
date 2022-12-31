@@ -9,6 +9,7 @@
         {
             "header_file": "video_header_metadata.csv",
             "lines_file": "video_lines_metadata.csv",
-            "channels_file": "channels_metadata.csv"
+            "channels_file": "channels_metadata.csv",
+            "trending_videos_file": "trending_videos_metadata.csv"
         }
 }
