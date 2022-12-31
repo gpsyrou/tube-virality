@@ -37,7 +37,7 @@ def create_url_from_video_id(video_id: str) -> str:
     return prefix + video_id
 
 
-def get_current_datetime(as_type='str') -> str:
+def get_current_datetime(as_type: str = 'datetime') -> str:
     """ Returns the current datetime. Supports 3 output formats:
     Parameters:
     -----------

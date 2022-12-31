@@ -81,7 +81,9 @@ class TrendingVideoCollector:
         out_filename: str
     ) -> None:
 
-        trending_videos_df = self.generate_trending_videos_metadata()
+        trending_videos_df = self.generate_trending_videos_metadata(
+            trending_df_schema=trending_df_schema
+        )
 
         if not os.path.isfile(out_filename):
             pd.DataFrame().to_csv(out_filename, index=True)
@@ -98,6 +100,7 @@ class TrendingVideoCollector:
             trending_videos_df.to_csv(out_filename, index=True)
 
     def populate_video_catalog(self, catalog_path: str):
+
         with open(catalog_path) as video_catalog_json:
             catalog = json.load(video_catalog_json)
         try:
