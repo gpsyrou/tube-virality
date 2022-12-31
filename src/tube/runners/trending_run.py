@@ -2,12 +2,12 @@ import sys
 import os
 from pathlib import Path
 
-PROJECT_DIR_PATH  = Path(os.path.dirname(os.path.abspath(__file__))).parents[2]
+PROJECT_DIR_PATH = Path(os.path.dirname(os.path.abspath(__file__))).parents[2]
 COLLECTOR_DIR_PATH = os.path.join(PROJECT_DIR_PATH, 'src/tube')
 DATA_DIR_PATH = os.path.join(PROJECT_DIR_PATH, 'src/tube/data')
 sys.path.append(COLLECTOR_DIR_PATH)
 
-from trending import TrendingVideoCollector
+from trending import TrendingVideoCollector # noqa: E402
 
 # Configuarations for Trending Page
 CONFIGS_DIR_PATH = os.path.join(PROJECT_DIR_PATH, 'config')

@@ -13,12 +13,13 @@ from utils.transformation import (
 
 # Setup the schema/column names of the features in the trending output file
 trending_df_schema = [
-    'video_id', 
-    'video_url', 
-    'trending_position', 
-    'trending_date', 
+    'video_id',
+    'video_url',
+    'trending_position',
+    'trending_date',
     'trending_datetime'
     ]
+
 
 class TrendingVideoCollector:
     """ Class to retrieve the Trending videos and their respective metadata

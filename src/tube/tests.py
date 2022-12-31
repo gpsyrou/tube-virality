@@ -1,5 +1,4 @@
 import unittest
-import numpy as np
 from utils.transformation import create_url_from_video_id
 
 video_url = 'https://youtu.be/iByQSaWTR1g'
