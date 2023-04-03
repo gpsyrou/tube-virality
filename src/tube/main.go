@@ -34,9 +34,19 @@ func (t *TubeVideoMetaDataRetriever) metaContentTags() *goquery.Selection {
 }
 
 func main() {
-	videoIds := []string{"GTWogFFA7TE", "BKLVpDTZOPQ", "qpfJRZfuesU"}
+	// Retrieving a list of the unique video ids from the trending list
+	uniqueIds, err := GetUniqueTreningVideoIds()
+	if err != nil {
+		// Handle the error
+		fmt.Println(err)
+		return
+	}
 
-	// create directory for metadata file if it does not exist
+	// Create the videoIds variable as a slice of strings
+	videoIds := make([]string, len(uniqueIds))
+	copy(videoIds, uniqueIds)
+
+	// Create directory for metadata file if it does not exist
 	dir := "data/metadata/video"
 	if _, err := os.Stat(dir); os.IsNotExist(err) {
 		if err := os.MkdirAll(dir, 0755); err != nil {
