@@ -6,6 +6,15 @@ import (
 	"path/filepath"
 )
 
+// GetUniqueTreningVideoIds returns a list of unique video IDs for the trending videos
+// metadata CSV file.
+//
+// The function reads the CSV file located at "data/metadata/trending/trending_videos_metadata.csv",
+// extracts the second column (which contains the video IDs), and returns a slice of strings
+// containing only the unique video IDs.
+//
+// Returns:
+//   - A slice of strings representing the unique video IDs in the CSV file.
 func GetUniqueTreningVideoIds() ([]string, error) {
 	// Get the current working directory
 	dir, err := os.Getwd()
