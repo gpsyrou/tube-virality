@@ -2,14 +2,14 @@ import sys
 import os
 from pathlib import Path
 
-PROJECT_DIR_PATH = Path(os.path.dirname(os.path.abspath(__file__))).parents[2]
+PROJECT_DIR_PATH = Path(os.path.dirname(os.path.abspath(__file__))).parents[1]
 COLLECTOR_DIR_PATH = os.path.join(PROJECT_DIR_PATH, 'src/tube')
 DATA_DIR_PATH = os.path.join(
     PROJECT_DIR_PATH, 'src/tube/data/metadata/trending'
     )
 sys.path.append(COLLECTOR_DIR_PATH)
 
-from trending import TrendingVideoCollector  # noqa: E402
+from trending import trend  # noqa: E402
 
 # Configuarations for Trending Page
 CONFIGS_DIR_PATH = os.path.join(PROJECT_DIR_PATH, 'config')
@@ -19,11 +19,11 @@ trending_page = 'https://www.youtube.com/feed/trending'
 
 trending_videos_file = 'trending_videos_metadata.csv'
 trending_videos_filename = os.path.join(DATA_DIR_PATH, trending_videos_file)
-
+print(trending_videos_filename)
 
 if __name__ == '__main__':
 
-    video_collector = TrendingVideoCollector(
+    video_collector = trend.TrendingVideoCollector(
         trending_page=trending_page
         )
     video_collector.write_trending_dataframes_to_csv(
