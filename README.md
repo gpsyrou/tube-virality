@@ -1,5 +1,6 @@
 # tube-virality
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Golang-000?&logo=go)
 
 # YouTube Trending Video Analytics API
 
