@@ -15,6 +15,8 @@ import (
 )
 
 func main() {
+	// TODO: here should only put entry point code
+
 	// Retrieving a list of the unique video ids from the trending list
 	uniqueIds, err := utils.GetUniqueTreningVideoIds()
 	if err != nil {
