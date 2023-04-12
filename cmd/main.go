@@ -10,28 +10,8 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/gpsyrou/tube-virality/internal/dataretriever"
 )
-
-type TubeVideoMetaDataRetriever struct {
-	videoUrl   string
-	videoBsoup *goquery.Document
-}
-
-func VideoMetaDataRetriever(videoUrl string) *TubeVideoMetaDataRetriever {
-	videoBsoup, err := goquery.NewDocument(videoUrl)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	return &TubeVideoMetaDataRetriever{
-		videoUrl:   videoUrl,
-		videoBsoup: videoBsoup,
-	}
-}
-
-func (t *TubeVideoMetaDataRetriever) metaContentTags() *goquery.Selection {
-	return t.videoBsoup.Find("meta")
-}
 
 func main() {
 	// Retrieving a list of the unique video ids from the trending list
@@ -85,9 +65,9 @@ func main() {
 		}
 
 		videoUrl := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoId)
-		t := VideoMetaDataRetriever(videoUrl)
+		dataRetriever := dataretriever.NewVideoMetaDataRetriever(videoUrl)
 
-		metaTags := t.metaContentTags()
+		metaTags := dataRetriever.MetaContentTags()
 
 		metaData[videoId] = make(map[string]string)
 		metaTags.Each(func(i int, s *goquery.Selection) {
