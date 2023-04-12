@@ -11,11 +11,12 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gpsyrou/tube-virality/internal/dataretriever"
+	"github.com/gpsyrou/tube-virality/pkg/utils"
 )
 
 func main() {
 	// Retrieving a list of the unique video ids from the trending list
-	uniqueIds, err := GetUniqueTreningVideoIds()
+	uniqueIds, err := utils.GetUniqueTreningVideoIds()
 	if err != nil {
 		// Handle the error
 		fmt.Println(err)
