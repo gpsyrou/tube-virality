@@ -29,6 +29,8 @@ WIP
 
 WIP
 
+* temporary run `make run` or `go run ./cmd/`
+
 ## Contributors
 
 - [Georgios Spyrou](https://github.com/gpsyrou)
