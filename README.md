@@ -29,7 +29,8 @@ WIP
 
 WIP
 
-* temporary run `make run` or `go run ./cmd/`
+* temporary pull trending `make runPullTrending`
+* temporary run `make run2video`
 
 ## Contributors
 
