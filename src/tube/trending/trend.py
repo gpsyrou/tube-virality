@@ -91,7 +91,7 @@ class TrendingVideoCollector:
 
         try:
             df_trending_history = pd.read_csv(out_filename, index_col=[0])
-            df_trending_history = df_trending_history.append(
+            df_trending_history = df_trending_history._append(
                 trending_videos_df
                 )
             print('\nUpdating metadata file at: {0}\n'.format(out_filename))
