@@ -5,7 +5,7 @@ from pathlib import Path
 
 # config file exists two directories above
 PROJECT_PATH = Path(os.path.dirname(os.path.abspath(__file__))).parent.parent
-CONFIGS_PATH = os.path.join(PROJECT_PATH, 'config')
+CONFIGS_PATH = os.path.join(PROJECT_PATH, 'configs')
 PROJECT_CONFIG_PATH = os.path.join(CONFIGS_PATH, 'project_config.json')
 
 with open(PROJECT_CONFIG_PATH) as project_config_json:

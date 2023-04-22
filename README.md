@@ -29,6 +29,9 @@ WIP
 
 WIP
 
+* temporary pull trending `make runPullTrending`
+* temporary run `make run2video`
+
 ## Contributors
 
 - [Georgios Spyrou](https://github.com/gpsyrou)
@@ -72,5 +75,5 @@ graph   LR
 ### Entity-Relatioship Diagram
 
 <p align="center">
-  <img src="/img/ERD_youtube.png" width="720" title="hover text">
+  <img src="/assets/img/ERD_youtube.png" width="720" title="hover text">
 </p>
