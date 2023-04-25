@@ -39,6 +39,8 @@ func GetUniqueTreningVideoIds() ([]string, error) {
 		return nil, err
 	}
 
+	rows = rows[1:] // skip the header row
+
 	// Extract the unique video IDs
 	videoIds := make(map[string]bool)
 	for _, row := range rows {
