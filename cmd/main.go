@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"path/filepath"
+	"sync"
 	"time"
 
 	"github.com/gpsyrou/tube-virality/internal/transformer/dataretriever"
@@ -29,15 +30,24 @@ func main() {
 
 	metaData := make(map[string]map[string]string)
 	// get metadata for each video id
+	var wg sync.WaitGroup
+
 	for _, videoID := range videoIDs {
-		// DISSCUSSION: should we create object each url or create one object and change url each time?
-		videoURL := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
-		dataRetriever := dataretriever.NewDataRetriever(videoURL)
+		wg.Add(1)
 
-		metaData[videoID] = dataRetriever.FetchMetadata()
+		go func(id string) {
+			// DISSCUSSION: should we create object each url or create one object and change url each time?
+			videoURL := fmt.Sprintf("https://www.youtube.com/watch?v=%s", id)
+			dataRetriever := dataretriever.NewDataRetriever(videoURL)
 
-		fmt.Printf("Metadata for video %s is handled\n", videoID)
+			metaData[id] = dataRetriever.FetchMetadata()
+
+			wg.Done()
+			fmt.Printf("Metadata for video %s is handled\n", id)
+		}(videoID)
 	}
+
+	wg.Wait()
 
 	// write to json file
 	beWriteJSONData, err := json.MarshalIndent(metaData, "", "    ")
