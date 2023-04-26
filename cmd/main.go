@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"os"
 	"path/filepath"
 	"time"
 
@@ -27,13 +26,9 @@ func main() {
 	videoIds := make([]string, len(uniqueIds))
 	copy(videoIds, uniqueIds)
 
-	// Create directory for metadata file if it does not exist
+	// Create directory for metadata
 	dir := "assets/metadata/video"
-	if _, err := os.Stat(dir); os.IsNotExist(err) {
-		if err := os.MkdirAll(dir, 0755); err != nil {
-			log.Fatal(err)
-		}
-	}
+	utils.CreateDirIfNotExist(dir)
 
 	metaData := make(map[string]map[string]string)
 

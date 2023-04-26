@@ -30,3 +30,13 @@ func SaveJSONToFile(filepath string, data []byte) error {
 
 	return nil
 }
+
+func CreateDirIfNotExist(dir string) error {
+	if _, err := os.Stat(dir); os.IsNotExist(err) {
+		if err := os.MkdirAll(dir, 0755); err != nil {
+			return fmt.Errorf("error creating dir: %s", err)
+		}
+	}
+
+	return nil
+}
