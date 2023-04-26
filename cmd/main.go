@@ -52,6 +52,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+	// get already written metadata in json, and these data will be skipped in the next step
 	metaData := make(map[string]map[string]string)
 	if len(jsonData) > 0 {
 		err = json.Unmarshal(jsonData, &metaData)
@@ -60,10 +61,11 @@ func main() {
 		}
 	}
 
+	// get metadata for each video id
 	for _, videoId := range videoIds {
 		if _, ok := metaData[videoId]; ok {
 			// Video metadata already exists, skip
-			fmt.Printf("Skipping video %s, metadata already exists in %s\n", videoId, filename)
+			// fmt.Printf("Skipping video %s, metadata already exists in %s\n", videoId, filename)
 			continue
 		}
 
@@ -72,6 +74,7 @@ func main() {
 
 		metaTags := dataRetriever.MetaContentTags()
 
+		// get all tags which is not empty
 		metaData[videoId] = make(map[string]string)
 		metaTags.Each(func(i int, s *goquery.Selection) {
 			itemProp := s.AttrOr("itemprop", "")
@@ -80,27 +83,29 @@ func main() {
 				metaData[videoId][itemProp] = metaContent
 			}
 		})
-
-		jsonData, err := json.MarshalIndent(metaData, "", "    ")
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		_, err = jsonFile.Seek(0, 0)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		_, err = jsonFile.Write(jsonData)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		err = jsonFile.Truncate(int64(len(jsonData)))
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		fmt.Printf("Metadata for video %s saved to %s\n", videoId, filename)
+		fmt.Printf("Metadata for video %s is handled\n", videoId)
 	}
+
+	// write to json file
+	beWriteJsonData, err := json.MarshalIndent(metaData, "", "    ")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	_, err = jsonFile.Seek(0, 0)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	_, err = jsonFile.Write(beWriteJsonData)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = jsonFile.Truncate(int64(len(beWriteJsonData)))
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("Metadata is saved to %s\n", filename)
 }
