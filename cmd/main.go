@@ -21,15 +21,11 @@ func main() {
 		return
 	}
 
-	uniqueIds, err := utils.GetUniqueTrendingVideoIds()
+	videoIDs, err := utils.GetUniqueTrendingVideoIds()
 	if err != nil {
 		log.Fatal(err)
 		return
 	}
-
-	// Create the videoIDs variable as a slice of strings
-	videoIDs := make([]string, len(uniqueIds))
-	copy(videoIDs, uniqueIds)
 
 	metaData := make(map[string]map[string]string)
 	// get metadata for each video id
