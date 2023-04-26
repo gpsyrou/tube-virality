@@ -9,7 +9,6 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/PuerkitoBio/goquery"
 	"github.com/gpsyrou/tube-virality/internal/transformer/dataretriever"
 	"github.com/gpsyrou/tube-virality/pkg/utils"
 )
@@ -36,7 +35,6 @@ func main() {
 			log.Fatal(err)
 		}
 	}
-
 
 	// TODO: use a utils to save json to file
 	// create metadata file with suffix of current date in yyymmdd format
@@ -76,19 +74,7 @@ func main() {
 		videoUrl := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoId)
 		dataRetriever := dataretriever.NewDataRetriever(videoUrl)
 
-		// TODO: this should be hide in dataretriever package
-		metaTags := dataRetriever.MetaContentTags()
-
-		// TODO: should be like `metaData := dataRetriever.FetchMetadata()`
-		// get all tags which is not empty
-		metaData[videoId] = make(map[string]string)
-		metaTags.Each(func(i int, s *goquery.Selection) {
-			itemProp := s.AttrOr("itemprop", "")
-			metaContent := s.AttrOr("content", "")
-			if itemProp != "" && metaContent != "" {
-				metaData[videoId][itemProp] = metaContent
-			}
-		})
+		metaData[videoId] = dataRetriever.FetchMetadata()
 		fmt.Printf("Metadata for video %s is handled\n", videoId)
 	}
 

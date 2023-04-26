@@ -24,6 +24,21 @@ func NewDataRetriever(videoUrl string) *dataRetriever {
 	}
 }
 
-func (t *dataRetriever) MetaContentTags() *goquery.Selection {
+func (t *dataRetriever) getMetaContentTags() *goquery.Selection {
 	return t.bsoup.Find("meta")
+}
+
+func (t *dataRetriever) FetchMetadata() map[string]string {
+	metaTags := t.getMetaContentTags()
+	metaData := make(map[string]string)
+
+	metaTags.Each(func(i int, s *goquery.Selection) {
+		itemProp := s.AttrOr("itemprop", "")
+		metaContent := s.AttrOr("content", "")
+		if itemProp != "" && metaContent != "" {
+			metaData[itemProp] = metaContent
+		}
+	})
+
+	return metaData
 }
