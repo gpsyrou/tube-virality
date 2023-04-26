@@ -55,8 +55,9 @@ func main() {
 
 	// create metadata file with suffix of current date in yyymmdd format
 	filename := fmt.Sprintf("video_metadata_%s.json", time.Now().Format("20060102"))
-	filepath := filepath.Join(dir, filename)
-	err = utils.SaveJSONToFile(filepath, beWriteJsonData)
+	filePath := filepath.Join(dir, filename)
+
+	err = utils.SaveJSONToFile(filePath, beWriteJsonData)
 	if err != nil {
 		log.Fatal(err)
 		return
