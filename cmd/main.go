@@ -37,6 +37,8 @@ func main() {
 		}
 	}
 
+
+	// TODO: use a utils to save json to file
 	// create metadata file with suffix of current date in yyymmdd format
 	filename := fmt.Sprintf("video_metadata_%s.json", time.Now().Format("20060102"))
 	filepath := filepath.Join(dir, filename)
@@ -52,6 +54,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+	// TODO:to make code simple, we can create whole json file each time instead of append
 	// get already written metadata in json, and these data will be skipped in the next step
 	metaData := make(map[string]map[string]string)
 	if len(jsonData) > 0 {
@@ -69,11 +72,14 @@ func main() {
 			continue
 		}
 
+		// DISSCUSSION: should we create object each url or create one object and change url each time?
 		videoUrl := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoId)
 		dataRetriever := dataretriever.NewDataRetriever(videoUrl)
 
+		// TODO: this should be hide in dataretriever package
 		metaTags := dataRetriever.MetaContentTags()
 
+		// TODO: should be like `metaData := dataRetriever.FetchMetadata()`
 		// get all tags which is not empty
 		metaData[videoId] = make(map[string]string)
 		metaTags.Each(func(i int, s *goquery.Selection) {
@@ -86,6 +92,7 @@ func main() {
 		fmt.Printf("Metadata for video %s is handled\n", videoId)
 	}
 
+	// TODO: use a utils to save json to file
 	// write to json file
 	beWriteJsonData, err := json.MarshalIndent(metaData, "", "    ")
 	if err != nil {
