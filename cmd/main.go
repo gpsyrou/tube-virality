@@ -13,46 +13,46 @@ import (
 
 func main() {
 	// TODO: here should only put entry point code
+	metaDir := "assets/metadata/video"
 
-	// Retrieving a list of the unique video ids from the trending list
-	uniqueIds, err := utils.GetUniqueTreningVideoIds()
+	err := utils.CreateDirIfNotExist(metaDir)
 	if err != nil {
-		// Handle the error
-		fmt.Println(err)
+		log.Fatal(err)
 		return
 	}
 
-	// Create the videoIds variable as a slice of strings
-	videoIds := make([]string, len(uniqueIds))
-	copy(videoIds, uniqueIds)
+	uniqueIds, err := utils.GetUniqueTrendingVideoIds()
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
 
-	// Create directory for metadata
-	dir := "assets/metadata/video"
-	utils.CreateDirIfNotExist(dir)
+	// Create the videoIDs variable as a slice of strings
+	videoIDs := make([]string, len(uniqueIds))
+	copy(videoIDs, uniqueIds)
 
 	metaData := make(map[string]map[string]string)
-
 	// get metadata for each video id
-	for _, videoId := range videoIds {
+	for _, videoID := range videoIDs {
 		// DISSCUSSION: should we create object each url or create one object and change url each time?
-		videoUrl := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoId)
-		dataRetriever := dataretriever.NewDataRetriever(videoUrl)
+		videoURL := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
+		dataRetriever := dataretriever.NewDataRetriever(videoURL)
 
-		metaData[videoId] = dataRetriever.FetchMetadata()
-		fmt.Printf("Metadata for video %s is handled\n", videoId)
+		metaData[videoID] = dataRetriever.FetchMetadata()
+
+		fmt.Printf("Metadata for video %s is handled\n", videoID)
 	}
 
 	// write to json file
-	beWriteJsonData, err := json.MarshalIndent(metaData, "", "    ")
+	beWriteJSONData, err := json.MarshalIndent(metaData, "", "    ")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	// create metadata file with suffix of current date in yyymmdd format
 	filename := fmt.Sprintf("video_metadata_%s.json", time.Now().Format("20060102"))
-	filePath := filepath.Join(dir, filename)
+	filePath := filepath.Join(metaDir, filename)
 
-	err = utils.SaveJSONToFile(filePath, beWriteJsonData)
+	err = utils.SaveJSONToFile(filePath, beWriteJSONData)
 	if err != nil {
 		log.Fatal(err)
 		return

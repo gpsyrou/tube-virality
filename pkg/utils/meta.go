@@ -15,7 +15,7 @@ import (
 //
 // Returns:
 //   - A slice of strings representing the unique video IDs in the CSV file.
-func GetUniqueTreningVideoIds() ([]string, error) {
+func GetUniqueTrendingVideoIds() ([]string, error) {
 	// Get the current working directory
 	dir, err := os.Getwd()
 	if err != nil {
