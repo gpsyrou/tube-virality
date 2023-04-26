@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/gpsyrou/tube-virality/internal/dataretriever"
+	"github.com/gpsyrou/tube-virality/internal/transformer/dataretriever"
 	"github.com/gpsyrou/tube-virality/pkg/utils"
 )
 
@@ -70,7 +70,7 @@ func main() {
 		}
 
 		videoUrl := fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoId)
-		dataRetriever := dataretriever.NewVideoMetaDataRetriever(videoUrl)
+		dataRetriever := dataretriever.NewDataRetriever(videoUrl)
 
 		metaTags := dataRetriever.MetaContentTags()
 
