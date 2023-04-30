@@ -15,7 +15,7 @@ import (
 //
 // Returns:
 //   - A slice of strings representing the unique video IDs in the CSV file.
-func GetUniqueTreningVideoIds() ([]string, error) {
+func GetUniqueTrendingVideoIds() ([]string, error) {
 	// Get the current working directory
 	dir, err := os.Getwd()
 	if err != nil {
@@ -41,17 +41,11 @@ func GetUniqueTreningVideoIds() ([]string, error) {
 
 	rows = rows[1:] // skip the header row
 
-	// Extract the unique video IDs
-	videoIds := make(map[string]bool)
+	// Simply extract the unique video IDs, and keep them order
+	uniqueIDs := make([]string, 0, 128)
 	for _, row := range rows {
-		videoIds[row[1]] = true
+		uniqueIDs = append(uniqueIDs, row[1])
 	}
 
-	// Convert the map of unique video IDs to a slice of strings
-	uniqueIds := make([]string, 0, len(videoIds))
-	for id := range videoIds {
-		uniqueIds = append(uniqueIds, id)
-	}
-
-	return uniqueIds, nil
+	return uniqueIDs, nil
 }
