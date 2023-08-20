@@ -1,6 +1,6 @@
 # Tube Virality Project
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Golang-000?&logo=go)
 
 ## YouTube Trending Video Analytics API
 
