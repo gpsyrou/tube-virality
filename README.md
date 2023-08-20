@@ -1,25 +1,27 @@
-# tube-virality
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Golang-000?&logo=go)
+# Tube Virality Project
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 
-# YouTube Trending Video Analytics API
+## YouTube Trending Video Analytics API
 
-The purpose of this project is to build an API to retrieve metadata such as the number of views, likes, and descriptions from YouTube videos and channels. We are building the retrieval API from scratch, rather than utilizing existing APIs from other developers that potentially exist and perform similar tasks. This approach gives us the ability to build all levels of abstraction we need for the API, from the smallest to the largest parts/modules.
+**Purpose:** The **Tube Virality** project aims to develop a comprehensive API that retrieves metadata, including view counts, likes, and descriptions, from YouTube videos and channels. Unlike relying on existing APIs, we're creating this retrieval API from the ground up. This approach grants us full control over all levels of abstraction, ensuring our API's efficiency and flexibility.
 
-Furthermore, we will utilize the API to collect data for a specific set of YouTube trending videos throughout time. Upon collecting a sufficient amount of data, we will move to the second part of the project which is going to be the actual analysis of the datasets collected to mine useful information and attempt to answer the following questions:
+We will not only gather data but also utilize the API to collect information about a curated selection of trending YouTube videos over time. Once a substantial dataset is collected, we'll proceed to the next phase: analyzing the collected data to uncover insights and answer critical questions:
 
-- What makes a YouTube video go viral?
-- Can we build a model that understands when a new video has the potential to become viral?
+- What factors contribute to a YouTube video going viral?
+- Can we construct a model capable of predicting when a new video has the potential to go viral?
 
-## About
+## About the Project
 
-This project is focused on developing an API to retrieve statistics and information around YouTube trending videos. We will also perform descriptive statistics analysis and build models that are able to project the likelihood of a trending video to become viral. 
+The **Tube Virality** project is dedicated to constructing an API tailored to fetch statistics and details related to trending YouTube videos. Moreover, we're committed to conducting descriptive statistical analyses and crafting predictive models that gauge the likelihood of a trending video attaining viral status.
 
-## Technologies Used
+## Technologies Utilized
 
-- Python 3.9
-- SQL
-- Go
+We've harnessed a blend of cutting-edge technologies to power the **Tube Virality** project:
+
+- **Python 3.9:** This versatile programming language is at the core of our project, facilitating data manipulation, analysis, and model development.
+- **SQL:** We're leveraging SQL databases to efficiently store and manage the collected data, ensuring scalability and structured data retrieval.
+- **Go:** With the power of Go, we're enhancing our API's performance and concurrent processing capabilities, resulting in a robust and responsive user experience.
 
 ## Installation
 
