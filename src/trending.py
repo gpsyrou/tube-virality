@@ -10,6 +10,8 @@ load_dotenv()
 metadata_loc = 'tube-virality/assets/meta/trending'
 
 # Function to fetch trending videos
+
+
 def get_trending_videos(api_key, region_code="GB"):
     youtube = build('youtube', 'v3', developerKey=api_key)
     request = youtube.videos().list(
@@ -21,18 +23,21 @@ def get_trending_videos(api_key, region_code="GB"):
     response = request.execute()
     return response
 
-def save_to_json(data, output_dir=metadata_loc, filename="trending_videos.json"):
+
+def save_to_json(data, output_dir=metadata_loc,
+                 filename="trending_videos.json"):
     if not os.path.isabs(output_dir):
         output_dir = os.path.join(os.getcwd(), output_dir)
-    
+
     date_str = datetime.now().strftime("_%Y%m%d")
-    filename = os.path.splitext(filename)[0] + date_str + os.path.splitext(filename)[1]
+    filename = os.path.splitext(
+        filename)[0] + date_str + os.path.splitext(filename)[1]
     filename = os.path.join(output_dir, filename)
-    
+
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as json_file:
         json.dump(data, json_file, indent=4)
-    
+
     print(f"Trending videos saved to {filename}")
 
 
@@ -46,6 +51,7 @@ def main():
     region_code = "GB"
     trending_videos = get_trending_videos(api_key, region_code)
     save_to_json(trending_videos)
+
 
 if __name__ == "__main__":
     main()
