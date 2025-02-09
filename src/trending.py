@@ -3,52 +3,57 @@ import os
 import json
 from googleapiclient.discovery import build
 from datetime import datetime
+from typing import Any, Dict
 
-# Load environment variables from .env file
 load_dotenv()
 
-metadata_loc = 'tube-virality/assets/meta/trending'
+class YouTubeTrending:
+    def __init__(self,
+                 api_key: str, 
+                 region_code: str = "GB", 
+                 metadata_loc: str = 'tube-virality/assets/meta/trending'
+    ):
+        self.api_key = api_key
+        self.region_code = region_code
+        self.metadata_loc = metadata_loc
+        self.youtube = build('youtube', 'v3', developerKey=self.api_key)
 
-# Function to fetch trending videos
-def get_trending_videos(api_key, region_code="GB"):
-    youtube = build('youtube', 'v3', developerKey=api_key)
-    request = youtube.videos().list(
-        part="snippet,statistics",
-        chart="mostPopular",
-        regionCode=region_code,
-        maxResults=10
-    )
-    response = request.execute()
-    return response
+    def get_trending_videos(self) -> Dict[str, Any]:
+        request = self.youtube.videos().list(
+            part="snippet,statistics",
+            chart="mostPopular",
+            regionCode=self.region_code,
+            maxResults=10
+        )
+        response = request.execute()
+        return response
 
-def save_to_json(data, 
-                 output_dir=metadata_loc,
-                 region_code='GB',
-                 filename="trending_videos.json"):
-    if not os.path.isabs(output_dir):
-        output_dir = os.path.join(os.getcwd(), output_dir)
+    def save_to_json(self, 
+                     data: Dict[str, Any], 
+                     filename: str = "trending_videos.json"
+    ) -> None:
+        output_dir = self.metadata_loc
+        if not os.path.isabs(output_dir):
+            output_dir = os.path.join(os.getcwd(), output_dir)
 
-    date_str = datetime.now().strftime("_%Y%m%d")
-    filename = os.path.splitext(
-        filename)[0] + f"_{region_code}" + date_str + os.path.splitext(filename)[1]
-    filename = os.path.join(output_dir, filename)
+        date_str = datetime.now().strftime("_%Y%m%d")
+        filename = os.path.splitext(
+            filename)[0] + f"_{self.region_code}" + date_str + os.path.splitext(filename)[1]
+        filename = os.path.join(output_dir, filename)
 
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    with open(filename, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, 'w') as json_file:
+            json.dump(data, json_file, indent=4)
 
-    print(f"Trending videos saved to {filename}")
+        print(f"Trending videos saved to {filename}")
 
-def main():
-    # Retrieve the API key from the environment variable
+
+if __name__ == "__main__":
     api_key = os.getenv("YOUTUBE_API_KEY")
     if not api_key:
         print("Error: YOUTUBE_API_KEY environment variable not set.")
-        return
 
     region_code = "GB"
-    trending_videos = get_trending_videos(api_key, region_code)
-    save_to_json(trending_videos, region_code=region_code)
-
-if __name__ == "__main__":
-    main()
+    yt_trending = YouTubeTrending(api_key, region_code)
+    trending_videos = yt_trending.get_trending_videos()
+    yt_trending.save_to_json(trending_videos)
