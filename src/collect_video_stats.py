@@ -25,7 +25,7 @@ def fetch_video_details(video_id_list):
 
         try:
             request = youtube.videos().list(
-                part="snippet,statistics",
+                part="snippet,statistics,contentDetails,status,topicDetails",
                 id=video_ids
             )
             response = request.execute()
@@ -34,6 +34,9 @@ def fetch_video_details(video_id_list):
                 video_id = item["id"]
                 snippet = item.get("snippet", {})
                 statistics = item.get("statistics", {})
+                content_details = item.get("contentDetails", {})
+                status = item.get("status", {})
+                topic_details = item.get("topicDetails", {})
 
                 video_data.append({
                     "video_id": video_id,
@@ -41,10 +44,23 @@ def fetch_video_details(video_id_list):
                     "title": snippet.get("title"),
                     "description": snippet.get("description"),
                     "published_at": snippet.get("publishedAt"),
+                    "tags": ",".join(snippet.get("tags", [])),
                     "view_count": int(statistics.get("viewCount", 0)),
                     "like_count": int(statistics.get("likeCount", 0)),
                     "comment_count": int(statistics.get("commentCount", 0)),
-                    "tags": ",".join(snippet.get("tags", [])),
+                    "dislike_count": int(statistics.get("dislikeCount", 0)),
+                    "favorite_count": int(statistics.get("favoriteCount", 0)),
+                    "duration": content_details.get("duration"),
+                    "dimension": content_details.get("dimension"),
+                    "definition": content_details.get("definition"),
+                    "caption": content_details.get("caption"),
+                    "licensed_content": content_details.get("licensedContent"),
+                    "projection": content_details.get("projection"),
+                    "privacy_status": status.get("privacyStatus"),
+                    "license": status.get("license"),
+                    "embeddable": status.get("embeddable"),
+                    "public_stats_viewable": status.get("publicStatsViewable"),
+                    "topic_categories": topic_details.get("topicCategories", []),
                     "collection_day": datetime.now().strftime("%Y-%m-%d")
                 })
         except Exception as e:
@@ -59,32 +75,23 @@ def save_to_json(video_data):
 
         # Construct the filename with the current date
         run_date = datetime.now().strftime("%Y%m%d")
-        filename = os.path.join(metadata_loc, f"video_statistics_{run_date}.json")
+        filename = os.path.join(metadata_loc, f"video_stats_{run_date}.json")
 
         # Load existing data if the file exists
         if os.path.exists(filename):
             with open(filename, mode="r", encoding="utf-8") as file:
                 existing_data = json.load(file)
         else:
-            existing_data = []
-
-        # Create a dictionary for fast look-up by video_id and collection_day
-        existing_data_dict = {
-            (entry["video_id"], entry["collection_day"]): entry
-            for entry in existing_data
-        }
+            existing_data = {}
 
         # Update or add new data
         for entry in video_data:
-            key = (entry["video_id"], entry["collection_day"])
-            existing_data_dict[key] = entry
-
-        # Convert the dictionary back to a list
-        updated_data = list(existing_data_dict.values())
+            video_id = entry.pop("video_id")
+            existing_data[video_id] = entry
 
         # Save the updated data to the JSON file
         with open(filename, mode="w", encoding="utf-8") as file:
-            json.dump(updated_data, file, indent=4, ensure_ascii=False)
+            json.dump(existing_data, file, indent=4, ensure_ascii=False)
 
         print(f"Data saved to {filename}")
     except Exception as e:
@@ -92,7 +99,7 @@ def save_to_json(video_data):
 
 # Example usage
 if __name__ == "__main__":
-    video_id_list = ["xqdUBkO-zjo", "V2HqOw1-w20"]  # Replace with actual video IDs
+    video_id_list = ["xqdUBkO-zjo", "V2HqOw1-w20", "NDsO1LT_0lw"]  # Replace with actual video IDs
 
     try:
         video_data = fetch_video_details(video_id_list)
