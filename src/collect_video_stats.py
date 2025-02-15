@@ -96,6 +96,11 @@ class YouTubeStatsCollector:
             print(f"An error occurred while saving to JSON: {e}")
 
     def get_unique_video_ids(self, directory: str) -> List[str]:
+        if not os.path.exists(directory):
+            print(f"Warning: Directory {directory} does not exist. Creating it now.")
+            os.makedirs(directory, exist_ok=True)  # Create directory if missing
+            return []  # Return empty list since no files exist
+
         video_ids = set()
         for filename in os.listdir(directory):
             if filename.endswith('.json'):
@@ -109,8 +114,8 @@ class YouTubeStatsCollector:
 
 if __name__ == "__main__":
     api_key = os.getenv("YOUTUBE_API_KEY")
-    metadata_loc = 'tube-virality/assets/meta/video_stats'
-    trending_data_loc = '/Users/georgiosspyrou/Desktop/GitHub/Projects/tube-virality/tube-virality/assets/meta/trending'
+    metadata_loc = os.path.join(os.getcwd(), 'assets', 'meta', 'video_stats')
+    trending_data_loc = os.path.join(os.getcwd(), 'assets', 'meta', 'trending')
 
     collector = YouTubeStatsCollector(api_key, metadata_loc, trending_data_loc)
     video_id_list = collector.get_unique_video_ids(trending_data_loc)
