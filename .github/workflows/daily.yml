@@ -22,7 +22,7 @@ jobs:
         run: pip install -r requirements.txt || echo "No dependencies"
 
       - name: Run the script
-        run: python script.py
+        run: python tube-virality/src/collect_video_stats.py
 
       - name: Configure Git
         run: |
@@ -32,5 +32,5 @@ jobs:
       - name: Commit CSV file
         run: |
           git add *.csv
-          git commit -m "Automated CSV update [$(date)]" || echo "No changes to commit"
+          git commit -m "Automated data update for video stats [$(date)]" || echo "No changes to commit"
           git push
