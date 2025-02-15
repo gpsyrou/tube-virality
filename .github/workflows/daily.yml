@@ -34,8 +34,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit CSV file
+      - name: Commit JSON file
         run: |
-          git add *.csv
-          git commit -m "Automated video stats data collection [$(date)]" || echo "No changes to commit"
+          git add assets/meta/video_stats/*.json
+          git commit -m "Automated JSON update [$(date)]" || echo "No changes to commit"
           git push
+
+
