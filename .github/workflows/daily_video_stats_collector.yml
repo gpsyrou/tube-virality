@@ -1,4 +1,4 @@
-name: Run Script and Commit CSV
+name: Daily Video Statistics Collector
 
 on:
   schedule:
