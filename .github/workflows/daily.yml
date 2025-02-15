@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies (if needed)
-        run: pip install -r requirements.txt || echo "No dependencies"
+        run: pip install -r src/requirements.txt || echo "No dependencies"
 
       - name: Run the script
         run: python src/collect_video_stats.py
