@@ -3,7 +3,7 @@ name: Run Script and Commit CSV
 on:
   schedule:
     - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
-  workflow_dispatch:  # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -18,8 +18,15 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if needed)
-        run: pip install -r src/requirements.txt || echo "No dependencies"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/requirements.txt
+
+      - name: Set up Google Cloud Credentials
+        run: |
+          echo "${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}" > gcp_key.json
+          export GOOGLE_APPLICATION_CREDENTIALS=$GITHUB_WORKSPACE/gcp_key.json
 
       - name: Run the script
         run: python src/collect_video_stats.py
