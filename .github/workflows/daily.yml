@@ -23,10 +23,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r src/requirements.txt
 
-      - name: Set up Google Cloud Credentials
-        run: |
-          echo "${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}" > gcp_key.json
-          export GOOGLE_APPLICATION_CREDENTIALS=$GITHUB_WORKSPACE/gcp_key.json
+      - name: Set API Key Environment Variable
+        run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
 
       - name: Run the script
         run: python src/collect_video_stats.py
@@ -39,5 +37,5 @@ jobs:
       - name: Commit CSV file
         run: |
           git add *.csv
-          git commit -m "Automated data update for video stats [$(date)]" || echo "No changes to commit"
+          git commit -m "Automated video stats data collection [$(date)]" || echo "No changes to commit"
           git push
