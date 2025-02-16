@@ -1,9 +1,11 @@
-import json
 import os
+import json
+import time
 from datetime import datetime
+from dotenv import load_dotenv
 from typing import List, Dict, Any
 from googleapiclient.discovery import build
-from dotenv import load_dotenv
+
 
 load_dotenv()
 
@@ -31,6 +33,7 @@ class YouTubeStatsCollector:
                     id=video_ids
                 )
                 response = request.execute()
+                time.sleep(1)
 
                 for item in response.get("items", []):
                     video_id = item["id"]
