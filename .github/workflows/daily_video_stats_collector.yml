@@ -27,7 +27,7 @@ jobs:
         run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
 
       - name: Run the script
-        run: python src/collect_video_stats.py
+        run: python src/collection/collect_video_stats.py
 
       - name: Configure Git
         run: |
