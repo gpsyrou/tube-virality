@@ -8,75 +8,83 @@ from googleapiclient.discovery import build
 
 load_dotenv()
 
+
 class YouTubeStatsCollector:
-    def __init__(self, api_key: str, metadata_loc: str, trending_data_loc: str):
+    def __init__(self, api_key: str, config_path: str):
         self.api_key = api_key
-        self.metadata_loc = metadata_loc
-        self.trending_data_loc = trending_data_loc
+        self.config = self.load_config(config_path)
+        self.metadata_loc = self.config.get("VIDEO_STATS_METADATA_LOC")
+        self.trending_data_loc = self.config.get("TRENDING_METADATA_LOC")
         self.youtube = build("youtube", "v3", developerKey=api_key)
 
-    def fetch_video_details(self, 
-                            video_id_list: List[str]) -> List[Dict[str, Any]]:
+        if not os.path.isdir(self.metadata_loc):
+            os.makedirs(self.metadata_loc, exist_ok=True)
+
+    def load_config(self, config_path: str) -> Dict[str, Any]:
+        """Loads the configuration from a JSON file."""
+        with open(config_path, mode="r", encoding="utf-8") as file:
+            return json.load(file)
+
+    def fetch_video_details(self, video_id_list: List[str]) -> List[Dict[str, Any]]:
+        """Fetches video details from the YouTube API."""
         if not self.api_key:
             print("Error: YOUTUBE_API_KEY environment variable not set.")
             return []
 
         video_data = []
-
         for i in range(0, len(video_id_list), 50):
-            video_ids = ",".join(video_id_list[i:i + 50])
+            video_ids = ",".join(video_id_list[i : i + 50])
 
             try:
                 request = self.youtube.videos().list(
                     part="snippet,statistics,contentDetails,status,topicDetails",
-                    id=video_ids
+                    id=video_ids,
                 )
                 response = request.execute()
                 time.sleep(1)
 
                 for item in response.get("items", []):
-                    video_id = item["id"]
                     snippet = item.get("snippet", {})
                     statistics = item.get("statistics", {})
                     content_details = item.get("contentDetails", {})
                     status = item.get("status", {})
                     topic_details = item.get("topicDetails", {})
 
-                    video_data.append({
-                        "video_id": video_id,
-                        "channel_id": snippet.get("channelId"),
-                        "title": snippet.get("title"),
-                        "description": snippet.get("description"),
-                        "published_at": snippet.get("publishedAt"),
-                        "tags": ",".join(snippet.get("tags", [])),
-                        "view_count": int(statistics.get("viewCount", 0)),
-                        "like_count": int(statistics.get("likeCount", 0)),
-                        "comment_count": int(statistics.get("commentCount", 0)),
-                        "dislike_count": int(statistics.get("dislikeCount", 0)),
-                        "favorite_count": int(statistics.get("favoriteCount", 0)),
-                        "duration": content_details.get("duration"),
-                        "dimension": content_details.get("dimension"),
-                        "definition": content_details.get("definition"),
-                        "caption": content_details.get("caption"),
-                        "licensed_content": content_details.get("licensedContent"),
-                        "projection": content_details.get("projection"),
-                        "privacy_status": status.get("privacyStatus"),
-                        "license": status.get("license"),
-                        "embeddable": status.get("embeddable"),
-                        "public_stats_viewable": status.get("publicStatsViewable"),
-                        "topic_categories": topic_details.get("topicCategories", []),
-                        "collection_day": datetime.now().strftime("%Y-%m-%d")
-                    })
+                    video_data.append(
+                        {
+                            "video_id": item["id"],
+                            "channel_id": snippet.get("channelId"),
+                            "title": snippet.get("title"),
+                            "description": snippet.get("description"),
+                            "published_at": snippet.get("publishedAt"),
+                            "tags": ",".join(snippet.get("tags", [])),
+                            "view_count": int(statistics.get("viewCount", 0)),
+                            "like_count": int(statistics.get("likeCount", 0)),
+                            "comment_count": int(statistics.get("commentCount", 0)),
+                            "dislike_count": int(statistics.get("dislikeCount", 0)),
+                            "favorite_count": int(statistics.get("favoriteCount", 0)),
+                            "duration": content_details.get("duration"),
+                            "dimension": content_details.get("dimension"),
+                            "definition": content_details.get("definition"),
+                            "caption": content_details.get("caption"),
+                            "licensed_content": content_details.get("licensedContent"),
+                            "projection": content_details.get("projection"),
+                            "privacy_status": status.get("privacyStatus"),
+                            "license": status.get("license"),
+                            "embeddable": status.get("embeddable"),
+                            "public_stats_viewable": status.get("publicStatsViewable"),
+                            "topic_categories": topic_details.get("topicCategories", []),
+                            "collection_day": datetime.now().strftime("%Y-%m-%d"),
+                        }
+                    )
             except Exception as e:
                 print(f"An error occurred while fetching video details: {e}")
 
         return video_data
 
-    def save_to_json(self, 
-                     video_data: List[Dict[str, Any]]) -> None:
+    def save_to_json(self, video_data: List[Dict[str, Any]]) -> None:
+        """Saves the fetched video data to a JSON file."""
         try:
-            os.makedirs(self.metadata_loc, exist_ok=True)
-
             run_date = datetime.now().strftime("%Y%m%d")
             filename = os.path.join(self.metadata_loc, f"video_stats_{run_date}.json")
 
@@ -98,29 +106,31 @@ class YouTubeStatsCollector:
             print(f"An error occurred while saving to JSON: {e}")
 
     def get_unique_video_ids(self, directory: str) -> List[str]:
+        """Extracts unique video IDs from JSON files in a directory."""
         if not os.path.exists(directory):
             print(f"Warning: Directory {directory} does not exist. Creating it now.")
-            os.makedirs(directory, exist_ok=True)  # Create directory if missing
-            return []  # Return empty list since no files exist
+            os.makedirs(directory, exist_ok=True)
+            return []
 
         video_ids = set()
         for filename in os.listdir(directory):
-            if filename.endswith('.json'):
+            if filename.endswith(".json"):
                 filepath = os.path.join(directory, filename)
-                with open(filepath, 'r') as file:
+                with open(filepath, mode="r") as file:
                     data = json.load(file)
-                    for item in data.get('items', []):
-                        video_ids.add(item.get('id'))
+                    for item in data.get("items", []):
+                        video_ids.add(item.get("id"))
+
         return list(video_ids)
 
 
 if __name__ == "__main__":
-    api_key = os.getenv("YOUTUBE_API_KEY")
-    metadata_loc = os.path.join(os.getcwd(), 'tube-virality', 'assets', 'meta', 'video_stats')
-    trending_data_loc = os.path.join(os.getcwd(), 'tube-virality', 'assets', 'meta', 'trending')
+    CONFIG_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../config.json"))
 
-    collector = YouTubeStatsCollector(api_key, metadata_loc, trending_data_loc)
-    video_id_list = collector.get_unique_video_ids(trending_data_loc)
+    api_key = os.getenv("YOUTUBE_API_KEY")
+    collector = YouTubeStatsCollector(api_key, CONFIG_PATH)
+    
+    video_id_list = collector.get_unique_video_ids(collector.trending_data_loc)
 
     try:
         video_data = collector.fetch_video_details(video_id_list)
