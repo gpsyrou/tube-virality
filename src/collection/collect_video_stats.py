@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 from typing import List, Dict, Any
 from googleapiclient.discovery import build
 
-
 load_dotenv()
 
 class YouTubeStatsCollector:
@@ -117,8 +116,8 @@ class YouTubeStatsCollector:
 
 if __name__ == "__main__":
     api_key = os.getenv("YOUTUBE_API_KEY")
-    metadata_loc = os.path.join(os.getcwd(), 'assets', 'meta', 'video_stats')
-    trending_data_loc = os.path.join(os.getcwd(), 'assets', 'meta', 'trending')
+    metadata_loc = os.path.join(os.getcwd(), 'tube-virality', 'assets', 'meta', 'video_stats')
+    trending_data_loc = os.path.join(os.getcwd(), 'tube-virality', 'assets', 'meta', 'trending')
 
     collector = YouTubeStatsCollector(api_key, metadata_loc, trending_data_loc)
     video_id_list = collector.get_unique_video_ids(trending_data_loc)
