@@ -86,7 +86,7 @@ class YouTubeStatsCollector:
         """Saves the fetched video data to a JSON file."""
         try:
             run_date = datetime.now().strftime("%Y%m%d")
-            filename = os.path.join(self.metadata_loc, f"video_stats_{run_date}.json")
+            filename = os.path.join(os.getcwd(), self.metadata_loc, f"video_stats_{run_date}.json")
 
             if os.path.exists(filename):
                 with open(filename, mode="r", encoding="utf-8") as file:
