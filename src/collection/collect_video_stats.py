@@ -130,7 +130,7 @@ if __name__ == "__main__":
     api_key = os.getenv("YOUTUBE_API_KEY")
     collector = YouTubeStatsCollector(api_key, CONFIG_PATH)
     
-    video_id_list = collector.get_unique_video_ids(collector.trending_data_loc)
+    video_id_list = collector.get_unique_video_ids(os.path.join(os.getcwd(), collector.trending_data_loc))
 
     try:
         video_data = collector.fetch_video_details(video_id_list)
