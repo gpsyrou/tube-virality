@@ -9,7 +9,7 @@ class TrendingVideoProcessor:
     def __init__(self, config_path: str):
         self.config_path = config_path
         self.config = self.load_config()
-        self.metadata_dir = self.config.get("TRENDING_METADATA_LOC")
+        self.metadata_dir = os.path.join('tube-virality', self.config.get("TRENDING_METADATA_LOC"))
         self.output_dir = self.config.get("TRENDING_ODS_DIR")
 
         if not os.path.isdir(self.metadata_dir):
