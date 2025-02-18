@@ -12,7 +12,7 @@ class YouTubeTrending:
         self.api_key = api_key
         self.region_code = region_code
         self.config = self.load_config(config_path)
-        self.metadata_loc = self.config.get("TRENDING_METADATA_LOC", "tube-virality/assets/meta/trending")
+        self.metadata_loc = self.config.get("TRENDING_METADATA_LOC")
         self.youtube = build("youtube", "v3", developerKey=self.api_key)
 
         if not os.path.isdir(self.metadata_loc):
