@@ -26,6 +26,9 @@ jobs:
       - name: Set API Key Environment Variable
         run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
 
+      - name: Debug Working Directory
+        run: pwd
+
       - name: Run the script
         run: python src/collection/collect_video_stats.py
 
