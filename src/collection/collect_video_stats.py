@@ -86,7 +86,7 @@ class YouTubeStatsCollector:
         """Saves the fetched video data to a JSON file."""
         try:
             run_date = datetime.now().strftime("%Y%m%d")
-            filename = os.path.join(os.getcwd(), self.metadata_loc, f"video_stats_{run_date}.json")
+            filename = os.path.join(self.metadata_loc, f"video_stats_{run_date}.json")
 
             if os.path.exists(filename):
                 with open(filename, mode="r", encoding="utf-8") as file:
@@ -107,7 +107,6 @@ class YouTubeStatsCollector:
 
     def get_unique_video_ids(self, directory: str) -> List[str]:
         """Extracts unique video IDs from JSON files in a directory."""
-        print(directory)
         if not os.path.exists(directory):
             print(f"Warning: Directory {directory} does not exist. Creating it now.")
             os.makedirs(directory, exist_ok=True)

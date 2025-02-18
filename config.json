@@ -1,7 +1,7 @@
 {
-    "TRENDING_METADATA_LOC": "tube-virality/assets/meta/trending",
+    "TRENDING_METADATA_LOC": "assets/meta/trending",
     "TRENDING_ODS_DIR": "db/ods/",
 
-    "VIDEO_STATS_METADATA_LOC": "tube-virality/assets/meta/video_stats",
+    "VIDEO_STATS_METADATA_LOC": "assets/meta/video_stats",
     "VIDEO_STATS_ODS_DIR": "db/ods/"
 }
