@@ -39,6 +39,7 @@ jobs:
 
       - name: Commit JSON file
         run: |
+          git pull
           git add assets/meta/video_stats/*.json
           git commit -m "Automated collection of Video Statistics update [$(date)]" || echo "No changes to commit"
           git push
