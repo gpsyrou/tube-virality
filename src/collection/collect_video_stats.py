@@ -1,10 +1,12 @@
 import os
 import json
 import time
+import asyncio
 from datetime import datetime
 from dotenv import load_dotenv
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 from googleapiclient.discovery import build
+from concurrent.futures import ThreadPoolExecutor
 
 load_dotenv()
 
@@ -43,96 +45,102 @@ class YouTubeStatsCollector:
         self.trending_data_loc = self.config.get("TRENDING_METADATA_LOC")
         self.youtube = build("youtube", "v3", developerKey=api_key)
 
-        if not os.path.isdir(self.metadata_loc):
-            os.makedirs(self.metadata_loc, exist_ok=True)
+        os.makedirs(self.metadata_loc, exist_ok=True)
 
     def load_config(self, config_path: str) -> Dict[str, Any]:
         """Loads the configuration from a JSON file."""
         with open(config_path, mode="r", encoding="utf-8") as file:
             return json.load(file)
 
-    def fetch_video_details(self, video_id_list: List[str]) -> List[Dict[str, Any]]:
-        """Fetches video details from the YouTube API."""
-        if not self.api_key:
-            print("Error: YOUTUBE_API_KEY environment variable not set.")
-            return []
-
+    def fetch_video_details_batch(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
+        """Fetches video details from YouTube API in parallel."""
         video_data = []
-        for i in range(0, len(video_id_list), 50):
-            video_ids = ",".join(video_id_list[i : i + 50])
+        video_ids = ",".join([vid[0] for vid in video_id_list])
+        country_codes = {vid[0]: vid[1] for vid in video_id_list}  # Map video_id → country
 
-            try:
-                request = self.youtube.videos().list(
-                    part="snippet,statistics,contentDetails,status,topicDetails",
-                    id=video_ids,
+        try:
+            request = self.youtube.videos().list(
+                part="snippet,statistics,contentDetails,status,topicDetails",
+                id=video_ids,
+            )
+            response = request.execute()
+
+            for item in response.get("items", []):
+                snippet = item.get("snippet", {})
+                statistics = item.get("statistics", {})
+                content_details = item.get("contentDetails", {})
+                status = item.get("status", {})
+                topic_details = item.get("topicDetails", {})
+
+                video_data.append(
+                    {
+                        "video_id": item["id"],
+                        "channel_id": snippet.get("channelId"),
+                        "title": snippet.get("title"),
+                        "description": snippet.get("description"),
+                        "published_at": snippet.get("publishedAt"),
+                        "tags": ",".join(snippet.get("tags", [])),
+                        "view_count": int(statistics.get("viewCount", 0)),
+                        "like_count": int(statistics.get("likeCount", 0)),
+                        "comment_count": int(statistics.get("commentCount", 0)),
+                        "dislike_count": int(statistics.get("dislikeCount", 0)),
+                        "favorite_count": int(statistics.get("favoriteCount", 0)),
+                        "duration": content_details.get("duration"),
+                        "dimension": content_details.get("dimension"),
+                        "definition": content_details.get("definition"),
+                        "caption": content_details.get("caption"),
+                        "licensed_content": content_details.get("licensedContent"),
+                        "projection": content_details.get("projection"),
+                        "privacy_status": status.get("privacyStatus"),
+                        "license": status.get("license"),
+                        "embeddable": status.get("embeddable"),
+                        "public_stats_viewable": status.get("publicStatsViewable"),
+                        "topic_categories": topic_details.get("topicCategories", []),
+                        "collection_day": datetime.now().strftime("%Y-%m-%d"),
+                        "country_code": country_codes.get(item["id"], "UNKNOWN"),
+                    }
                 )
-                response = request.execute()
-                time.sleep(1)
-
-                for item in response.get("items", []):
-                    snippet = item.get("snippet", {})
-                    statistics = item.get("statistics", {})
-                    content_details = item.get("contentDetails", {})
-                    status = item.get("status", {})
-                    topic_details = item.get("topicDetails", {})
-
-                    video_data.append(
-                        {
-                            "video_id": item["id"],
-                            "channel_id": snippet.get("channelId"),
-                            "title": snippet.get("title"),
-                            "description": snippet.get("description"),
-                            "published_at": snippet.get("publishedAt"),
-                            "tags": ",".join(snippet.get("tags", [])),
-                            "view_count": int(statistics.get("viewCount", 0)),
-                            "like_count": int(statistics.get("likeCount", 0)),
-                            "comment_count": int(statistics.get("commentCount", 0)),
-                            "dislike_count": int(statistics.get("dislikeCount", 0)),
-                            "favorite_count": int(statistics.get("favoriteCount", 0)),
-                            "duration": content_details.get("duration"),
-                            "dimension": content_details.get("dimension"),
-                            "definition": content_details.get("definition"),
-                            "caption": content_details.get("caption"),
-                            "licensed_content": content_details.get("licensedContent"),
-                            "projection": content_details.get("projection"),
-                            "privacy_status": status.get("privacyStatus"),
-                            "license": status.get("license"),
-                            "embeddable": status.get("embeddable"),
-                            "public_stats_viewable": status.get("publicStatsViewable"),
-                            "topic_categories": topic_details.get("topicCategories", []),
-                            "collection_day": datetime.now().strftime("%Y-%m-%d"),
-                        }
-                    )
-            except Exception as e:
-                print(f"An error occurred while fetching video details: {e}")
+        except Exception as e:
+            print(f"Error fetching video details: {e}")
 
         return video_data
 
+    async def fetch_video_details(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
+        """Fetch video details in parallel using asyncio & ThreadPoolExecutor."""
+        loop = asyncio.get_event_loop()
+        tasks = []
+
+        with ThreadPoolExecutor(max_workers=5) as executor:  # Run 5 parallel API calls
+            for i in range(0, len(video_id_list), 50):
+                batch = video_id_list[i : i + 50]
+                tasks.append(loop.run_in_executor(executor, self.fetch_video_details_batch, batch))
+
+            results = await asyncio.gather(*tasks)
+
+        return [video for batch in results for video in batch]  # Flatten results
+
     def save_to_json(self, video_data: List[Dict[str, Any]]) -> None:
-        """Saves the fetched video data to a JSON file."""
+        """Saves the fetched video data to a JSON file efficiently."""
         try:
             run_date = datetime.now().strftime("%Y%m%d")
             filename = os.path.join(self.metadata_loc, f"video_stats_{run_date}.json")
 
+            existing_data = {}
             if os.path.exists(filename):
                 with open(filename, mode="r", encoding="utf-8") as file:
                     existing_data = json.load(file)
-            else:
-                existing_data = {}
 
-            for entry in video_data:
-                video_id = entry.pop("video_id")
-                existing_data[video_id] = entry
+            existing_data.update({entry.pop("video_id"): entry for entry in video_data})
 
             with open(filename, mode="w", encoding="utf-8") as file:
                 json.dump(existing_data, file, indent=4, ensure_ascii=False)
 
             print(f"Data saved to {filename}")
         except Exception as e:
-            print(f"An error occurred while saving to JSON: {e}")
+            print(f"Error saving to JSON: {e}")
 
-    def get_unique_video_ids(self, directory: str) -> List[str]:
-        """Extracts unique video IDs from JSON files in a directory."""
+    def get_unique_video_ids(self, directory: str) -> List[Tuple[str, str]]:
+        """Extracts unique video IDs with country codes from JSON files."""
         if not os.path.exists(directory):
             print(f"Warning: Directory {directory} does not exist. Creating it now.")
             os.makedirs(directory, exist_ok=True)
@@ -141,11 +149,16 @@ class YouTubeStatsCollector:
         video_ids = set()
         for filename in os.listdir(directory):
             if filename.endswith(".json"):
+                country_code = filename.split("_")[2]
                 filepath = os.path.join(directory, filename)
+
                 with open(filepath, mode="r") as file:
-                    data = json.load(file)
-                    for item in data.get("items", []):
-                        video_ids.add(item.get("id"))
+                    try:
+                        data = json.load(file)
+                        for item in data.get("items", []):
+                            video_ids.add((item.get("id"), country_code))
+                    except json.JSONDecodeError:
+                        print(f"Skipping corrupted file: {filename}")
 
         return list(video_ids)
 
@@ -159,7 +172,7 @@ if __name__ == "__main__":
     video_id_list = collector.get_unique_video_ids(collector.trending_data_loc)
 
     try:
-        video_data = collector.fetch_video_details(video_id_list)
+        video_data = asyncio.run(collector.fetch_video_details(video_id_list))
         if video_data:
             collector.save_to_json(video_data)
         else:
