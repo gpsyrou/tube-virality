@@ -8,9 +8,9 @@ from typing import Any, Dict
 load_dotenv()
 
 class YouTubeTrending:
-    def __init__(self, api_key: str, config_path: str, region_code: str = "GB"):
+    def __init__(self, api_key: str, config_path: str, country_code: str):
         self.api_key = api_key
-        self.region_code = region_code
+        self.country_code = country_code
         self.config = self.load_config(config_path)
         self.metadata_loc = os.path.join('tube-virality', self.config.get("TRENDING_METADATA_LOC"))
         self.youtube = build("youtube", "v3", developerKey=self.api_key)
@@ -28,7 +28,7 @@ class YouTubeTrending:
         request = self.youtube.videos().list(
             part="snippet,statistics",
             chart="mostPopular",
-            regionCode=self.region_code,
+            regionCode=self.country_code,
             maxResults=30
         )
         response = request.execute()
@@ -37,7 +37,7 @@ class YouTubeTrending:
     def save_to_json(self, data: Dict[str, Any], filename: str = "trending_videos.json") -> None:
         """Saves trending videos data to a JSON file."""
         date_str = datetime.now().strftime("_%Y%m%d")
-        filename = os.path.splitext(filename)[0] + f"_{self.region_code}" + date_str + os.path.splitext(filename)[1]
+        filename = os.path.splitext(filename)[0] + f"_{self.country_code}" + date_str + os.path.splitext(filename)[1]
         filename = os.path.join(self.metadata_loc, filename)
 
         os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -55,7 +55,14 @@ if __name__ == "__main__":
         print("Error: YOUTUBE_API_KEY environment variable not set.")
         exit(1)
 
-    region_code = "IN"
-    yt_trending = YouTubeTrending(api_key, CONFIG_PATH, region_code)
-    trending_videos = yt_trending.get_trending_videos()
-    yt_trending.save_to_json(trending_videos)
+    with open(CONFIG_PATH, "r", encoding="utf-8") as config_file:
+        config = json.load(config_file)
+
+    country_codes = config.get("TRENDING_COUNTRY_CODES", [])
+
+    for country_code in country_codes:
+        print(f"Fetching trending videos for country: {country_code}")
+        yt_trending = YouTubeTrending(api_key, CONFIG_PATH, country_code)
+        trending_videos = yt_trending.get_trending_videos()
+        yt_trending.save_to_json(trending_videos)
+        print(f"Saved trending videos for {country_code}\n")
