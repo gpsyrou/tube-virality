@@ -55,7 +55,7 @@ if __name__ == "__main__":
         print("Error: YOUTUBE_API_KEY environment variable not set.")
         exit(1)
 
-    region_code = "GB"
+    region_code = "IN"
     yt_trending = YouTubeTrending(api_key, CONFIG_PATH, region_code)
     trending_videos = yt_trending.get_trending_videos()
     yt_trending.save_to_json(trending_videos)
