@@ -8,6 +8,29 @@ from typing import Any, Dict
 load_dotenv()
 
 class YouTubeTrending:
+    """
+    A class to interact with the YouTube API to fetch and save trending videos.
+
+    Attributes:
+        api_key (str): The API key for accessing the YouTube API.
+        country_code (str): The country code to fetch trending videos for.
+        config (Dict[str, Any]): The configuration loaded from a JSON file.
+        metadata_loc (str): The location to save metadata files.
+        youtube (Resource): The YouTube API resource object.
+
+    Methods:
+        __init__(api_key: str, config_path: str, country_code: str):
+            Initializes the YouTubeTrending instance with the provided API key, configuration path, and country code.
+
+        load_config(config_path: str) -> Dict[str, Any]:
+            Loads the configuration from a JSON file.
+
+        get_trending_videos() -> Dict[str, Any]:
+            Fetches trending videos from the YouTube API.
+
+        save_to_json(data: Dict[str, Any], filename: str = "trending_videos.json") -> None:
+            Saves trending videos data to a JSON file.
+    """
     def __init__(self, api_key: str, config_path: str, country_code: str):
         self.api_key = api_key
         self.country_code = country_code

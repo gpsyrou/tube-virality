@@ -10,6 +10,32 @@ load_dotenv()
 
 
 class YouTubeStatsCollector:
+    """
+    A class to collect YouTube video statistics using the YouTube Data API.
+
+    Attributes:
+        api_key (str): The API key for accessing the YouTube Data API.
+        config (Dict[str, Any]): The configuration loaded from a JSON file.
+        metadata_loc (str): The location to save video statistics metadata.
+        trending_data_loc (str): The location to save trending metadata.
+        youtube (Resource): The YouTube API client.
+
+    Methods:
+        __init__(api_key: str, config_path: str):
+            Initializes the YouTubeStatsCollector with the provided API key and configuration path.
+
+        load_config(config_path: str) -> Dict[str, Any]:
+            Loads the configuration from a JSON file.
+
+        fetch_video_details(video_id_list: List[str]) -> List[Dict[str, Any]]:
+            Fetches video details from the YouTube API for a list of video IDs.
+
+        save_to_json(video_data: List[Dict[str, Any]]) -> None:
+            Saves the fetched video data to a JSON file.
+
+        get_unique_video_ids(directory: str) -> List[str]:
+            Extracts unique video IDs from JSON files in a directory.
+    """
     def __init__(self, api_key: str, config_path: str):
         self.api_key = api_key
         self.config = self.load_config(config_path)
