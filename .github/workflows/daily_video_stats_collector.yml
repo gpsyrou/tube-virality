@@ -30,7 +30,7 @@ jobs:
         run: pwd
 
       - name: Run the script
-        run: python src/collection/collect_video_stats.py
+        run: python src/collection/video_stats.py
 
       - name: Configure Git
         run: |
