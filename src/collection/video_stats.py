@@ -92,7 +92,7 @@ class YouTubeStatsCollector:
         loop = asyncio.get_event_loop()
         tasks = []
 
-        with ThreadPoolExecutor(max_workers=2) as executor:  # Run 2 parallel API calls
+        with ThreadPoolExecutor(max_workers=1) as executor:
             for i in range(0, len(video_id_list), 50):
                 batch = video_id_list[i : i + 50]
                 tasks.append(loop.run_in_executor(executor, self.fetch_video_details_batch, batch))
