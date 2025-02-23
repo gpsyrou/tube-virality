@@ -1,13 +1,11 @@
 import os
 import json
 import time
-import asyncio
 import pandas as pd
 from datetime import datetime
 from dotenv import load_dotenv
 from typing import List, Dict, Any, Tuple
 from googleapiclient.discovery import build
-from concurrent.futures import ThreadPoolExecutor
 
 load_dotenv()
 
@@ -32,13 +30,13 @@ class YouTubeStatsCollector:
             return json.load(file)
 
     def fetch_video_details_batch(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
-        """Fetches video details from YouTube API in batches."""
+        """Fetches video details from YouTube API in batches (max 50 at a time)."""
         video_data = []
         video_ids = ",".join([vid[0] for vid in video_id_list])
         country_codes = {vid[0]: vid[1] for vid in video_id_list}  # Map video_id → country_code
 
         try:
-            time.sleep(1.5)
+            time.sleep(1.5)  # Delay to prevent rate limits
             request = self.youtube.videos().list(
                 part="snippet,statistics,contentDetails,status,topicDetails",
                 id=video_ids,
@@ -46,8 +44,8 @@ class YouTubeStatsCollector:
             response = request.execute()
 
             if not response:  # Ensure response is valid
-                    print("Warning: Empty API response.")
-                    return []
+                print("Warning: Empty API response.")
+                return []
 
             for item in response.get("items", []):
                 snippet = item.get("snippet", {})
@@ -87,19 +85,17 @@ class YouTubeStatsCollector:
 
         return video_data
 
-    async def fetch_video_details(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
-        """Fetch video details in parallel using asyncio & ThreadPoolExecutor."""
-        loop = asyncio.get_event_loop()
-        tasks = []
+    def fetch_video_details(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
+        """Fetches video details sequentially from the YouTube API."""
+        video_data = []
 
-        with ThreadPoolExecutor(max_workers=1) as executor:
-            for i in range(0, len(video_id_list), 50):
-                batch = video_id_list[i : i + 50]
-                tasks.append(loop.run_in_executor(executor, self.fetch_video_details_batch, batch))
+        for i in range(0, len(video_id_list), 50):  # Process in batches of 50
+            batch = video_id_list[i : i + 50]
+            batch_data = self.fetch_video_details_batch(batch)  # Call batch fetcher
+            video_data.extend(batch_data)
+            time.sleep(1.5)  # Avoid hitting API rate limits
 
-            results = await asyncio.gather(*tasks, return_exceptions=True)
-
-        return [video for batch in results for video in batch]  # Flatten results
+        return video_data
 
     def save_to_json(self, video_data: List[Dict[str, Any]]) -> None:
         """Saves the fetched video data to a JSON file."""
@@ -146,7 +142,7 @@ if __name__ == "__main__":
 
     if video_id_list:
         try:
-            video_data = asyncio.run(collector.fetch_video_details(video_id_list))
+            video_data = collector.fetch_video_details(video_id_list)
             if video_data:
                 collector.save_to_json(video_data)
             else:
