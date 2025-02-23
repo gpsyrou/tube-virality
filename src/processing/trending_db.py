@@ -21,8 +21,10 @@ class TrendingVideoProcessor:
         with open(self.config_path, "r", encoding="utf-8") as config_file:
             return json.load(config_file)
 
-    def extract_video_data(self, json_file: str, video_dict: dict):
+    def extract_video_data(self, json_file: str, video_list: list):
+        """Extracts video metadata from a JSON file and appends to video_list."""
         country_code = os.path.basename(json_file).split('_')[2]
+        
         with open(json_file, "r", encoding="utf-8") as file:
             data = json.load(file)
 
@@ -45,20 +47,20 @@ class TrendingVideoProcessor:
                 "commentCount": statistics.get("commentCount"),
                 "thumbnail_url": snippet.get("thumbnails", {}).get("high", {}).get("url"),
                 "defaultAudioLanguage": snippet.get("defaultAudioLanguage"),
-
             }
-            video_dict[item.get("id")] = video_info
+            video_list.append(video_info)
 
     def process_videos(self):
-        video_dict = {}
+        """Processes all JSON files and saves a CSV with all trending videos."""
+        video_list = []
+        
         for filename in os.listdir(self.metadata_dir):
             if filename.endswith(".json"):
                 file_path = os.path.join(self.metadata_dir, filename)
-                self.extract_video_data(file_path, video_dict)
+                self.extract_video_data(file_path, video_list)
 
-        all_videos = list(video_dict.values())
-        df = pd.DataFrame(all_videos)
-        output_path = os.path.join(self.output_dir, "trending_videos.csv")
+        df = pd.DataFrame(video_list)
+        output_path = os.path.join("tube-virality", self.output_dir, "trending_videos.csv")
         df.to_csv(output_path, index=False)
 
         print(f"Trending videos merged file saved to {output_path}")
