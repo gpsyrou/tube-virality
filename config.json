@@ -1,8 +1,8 @@
 {
     "TRENDING_METADATA_LOC": "assets/meta/trending",
-    "TRENDING_ODS_DIR": "tube-virality/db/ods/",
+    "TRENDING_ODS_DIR": "db/ods/",
     "TRENDING_COUNTRY_CODES":  ["IN", "US", "GB", "DE", "FR", "BR", "CA", "PH", "KR", "GR"],
 
     "VIDEO_STATS_METADATA_LOC": "assets/meta/video_stats",
-    "VIDEO_STATS_ODS_DIR": "tube-virality/db/ods/"
+    "VIDEO_STATS_ODS_DIR": "db/ods/"
 }
