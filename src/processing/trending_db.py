@@ -21,18 +21,20 @@ class TrendingVideoProcessor:
         with open(self.config_path, "r", encoding="utf-8") as config_file:
             return json.load(config_file)
 
-    def extract_video_data(self, json_file: str):
+    def extract_video_data(self, json_file: str, video_dict: dict):
+        country_code = os.path.basename(json_file).split('_')[2]
         with open(json_file, "r", encoding="utf-8") as file:
             data = json.load(file)
 
-        videos = []
-        for item in data.get("items", []):
+        for position, item in enumerate(data.get("items", []), start=1):
             snippet = item.get("snippet", {})
             statistics = item.get("statistics", {})
 
             video_info = {
                 "id": item.get("id"),
+                "trending_position": position,
                 "publishedAt": snippet.get("publishedAt"),
+                "country_code": country_code,
                 "channelId": snippet.get("channelId"),
                 "channelTitle": snippet.get("channelTitle"),
                 "title": snippet.get("title"),
@@ -43,17 +45,18 @@ class TrendingVideoProcessor:
                 "commentCount": statistics.get("commentCount"),
                 "thumbnail_url": snippet.get("thumbnails", {}).get("high", {}).get("url"),
                 "defaultAudioLanguage": snippet.get("defaultAudioLanguage"),
+
             }
-            videos.append(video_info)
-        return videos
+            video_dict[item.get("id")] = video_info
 
     def process_videos(self):
-        all_videos = []
+        video_dict = {}
         for filename in os.listdir(self.metadata_dir):
             if filename.endswith(".json"):
                 file_path = os.path.join(self.metadata_dir, filename)
-                all_videos.extend(self.extract_video_data(file_path))
+                self.extract_video_data(file_path, video_dict)
 
+        all_videos = list(video_dict.values())
         df = pd.DataFrame(all_videos)
         output_path = os.path.join(self.output_dir, "trending_videos.csv")
         df.to_csv(output_path, index=False)
