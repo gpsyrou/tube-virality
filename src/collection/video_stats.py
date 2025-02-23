@@ -2,6 +2,7 @@ import os
 import json
 import time
 import asyncio
+import pandas as pd
 from datetime import datetime
 from dotenv import load_dotenv
 from typing import List, Dict, Any, Tuple
@@ -14,35 +15,13 @@ load_dotenv()
 class YouTubeStatsCollector:
     """
     A class to collect YouTube video statistics using the YouTube Data API.
-
-    Attributes:
-        api_key (str): The API key for accessing the YouTube Data API.
-        config (Dict[str, Any]): The configuration loaded from a JSON file.
-        metadata_loc (str): The location to save video statistics metadata.
-        trending_data_loc (str): The location to save trending metadata.
-        youtube (Resource): The YouTube API client.
-
-    Methods:
-        __init__(api_key: str, config_path: str):
-            Initializes the YouTubeStatsCollector with the provided API key and configuration path.
-
-        load_config(config_path: str) -> Dict[str, Any]:
-            Loads the configuration from a JSON file.
-
-        fetch_video_details(video_id_list: List[str]) -> List[Dict[str, Any]]:
-            Fetches video details from the YouTube API for a list of video IDs.
-
-        save_to_json(video_data: List[Dict[str, Any]]) -> None:
-            Saves the fetched video data to a JSON file.
-
-        get_unique_video_ids(directory: str) -> List[str]:
-            Extracts unique video IDs from JSON files in a directory.
     """
+
     def __init__(self, api_key: str, config_path: str):
         self.api_key = api_key
         self.config = self.load_config(config_path)
         self.metadata_loc = self.config.get("VIDEO_STATS_METADATA_LOC")
-        self.trending_data_loc = self.config.get("TRENDING_METADATA_LOC")
+        self.trending_csv_path = os.path.join(self.config.get("TRENDING_ODS_DIR"), "trending_videos.csv")
         self.youtube = build("youtube", "v3", developerKey=api_key)
 
         os.makedirs(self.metadata_loc, exist_ok=True)
@@ -53,17 +32,22 @@ class YouTubeStatsCollector:
             return json.load(file)
 
     def fetch_video_details_batch(self, video_id_list: List[Tuple[str, str]]) -> List[Dict[str, Any]]:
-        """Fetches video details from YouTube API in parallel."""
+        """Fetches video details from YouTube API in batches."""
         video_data = []
         video_ids = ",".join([vid[0] for vid in video_id_list])
-        country_codes = {vid[0]: vid[1] for vid in video_id_list}  # Map video_id → country
+        country_codes = {vid[0]: vid[1] for vid in video_id_list}  # Map video_id → country_code
 
         try:
+            time.sleep(1.5)
             request = self.youtube.videos().list(
                 part="snippet,statistics,contentDetails,status,topicDetails",
                 id=video_ids,
             )
             response = request.execute()
+
+            if not response:  # Ensure response is valid
+                    print("Warning: Empty API response.")
+                    return []
 
             for item in response.get("items", []):
                 snippet = item.get("snippet", {})
@@ -83,8 +67,6 @@ class YouTubeStatsCollector:
                         "view_count": int(statistics.get("viewCount", 0)),
                         "like_count": int(statistics.get("likeCount", 0)),
                         "comment_count": int(statistics.get("commentCount", 0)),
-                        "dislike_count": int(statistics.get("dislikeCount", 0)),
-                        "favorite_count": int(statistics.get("favoriteCount", 0)),
                         "duration": content_details.get("duration"),
                         "dimension": content_details.get("dimension"),
                         "definition": content_details.get("definition"),
@@ -110,17 +92,17 @@ class YouTubeStatsCollector:
         loop = asyncio.get_event_loop()
         tasks = []
 
-        with ThreadPoolExecutor(max_workers=5) as executor:  # Run 5 parallel API calls
+        with ThreadPoolExecutor(max_workers=2) as executor:  # Run 2 parallel API calls
             for i in range(0, len(video_id_list), 50):
                 batch = video_id_list[i : i + 50]
                 tasks.append(loop.run_in_executor(executor, self.fetch_video_details_batch, batch))
 
-            results = await asyncio.gather(*tasks)
+            results = await asyncio.gather(*tasks, return_exceptions=True)
 
         return [video for batch in results for video in batch]  # Flatten results
 
     def save_to_json(self, video_data: List[Dict[str, Any]]) -> None:
-        """Saves the fetched video data to a JSON file efficiently."""
+        """Saves the fetched video data to a JSON file."""
         try:
             run_date = datetime.now().strftime("%Y%m%d")
             filename = os.path.join(self.metadata_loc, f"video_stats_{run_date}.json")
@@ -139,28 +121,19 @@ class YouTubeStatsCollector:
         except Exception as e:
             print(f"Error saving to JSON: {e}")
 
-    def get_unique_video_ids(self, directory: str) -> List[Tuple[str, str]]:
-        """Extracts unique video IDs with country codes from JSON files."""
-        if not os.path.exists(directory):
-            print(f"Warning: Directory {directory} does not exist. Creating it now.")
-            os.makedirs(directory, exist_ok=True)
+    def get_unique_video_ids_from_csv(self) -> List[Tuple[str, str]]:
+        """Reads unique video IDs and country codes from the CSV file."""
+        if not os.path.exists(self.trending_csv_path):
+            print(f"Error: CSV file {self.trending_csv_path} not found.")
             return []
 
-        video_ids = set()
-        for filename in os.listdir(directory):
-            if filename.endswith(".json"):
-                country_code = filename.split("_")[2]
-                filepath = os.path.join(directory, filename)
-
-                with open(filepath, mode="r") as file:
-                    try:
-                        data = json.load(file)
-                        for item in data.get("items", []):
-                            video_ids.add((item.get("id"), country_code))
-                    except json.JSONDecodeError:
-                        print(f"Skipping corrupted file: {filename}")
-
-        return list(video_ids)
+        try:
+            df = pd.read_csv(self.trending_csv_path, usecols=["id", "country_code"])
+            df.drop_duplicates(inplace=True)  # Ensure unique video IDs
+            return list(df.itertuples(index=False, name=None))  # Convert to list of tuples (video_id, country_code)
+        except Exception as e:
+            print(f"Error reading CSV: {e}")
+            return []
 
 
 if __name__ == "__main__":
@@ -169,13 +142,16 @@ if __name__ == "__main__":
     api_key = os.getenv("YOUTUBE_API_KEY")
     collector = YouTubeStatsCollector(api_key, CONFIG_PATH)
     
-    video_id_list = collector.get_unique_video_ids(collector.trending_data_loc)
+    video_id_list = collector.get_unique_video_ids_from_csv()
 
-    try:
-        video_data = asyncio.run(collector.fetch_video_details(video_id_list))
-        if video_data:
-            collector.save_to_json(video_data)
-        else:
-            print("No video data found.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    if video_id_list:
+        try:
+            video_data = asyncio.run(collector.fetch_video_details(video_id_list))
+            if video_data:
+                collector.save_to_json(video_data)
+            else:
+                print("No video data found.")
+        except Exception as e:
+            print(f"An error occurred: {e}")
+    else:
+        print("No video IDs found in CSV.")
