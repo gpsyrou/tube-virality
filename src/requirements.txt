@@ -1,5 +1,4 @@
-google-api-python-client==2.70.0
+google-api-python-client==2.92.0
 python-dotenv==1.0.1
-pandas>=1.3.0,<2.0.0  # Ensures compatibility with older scripts
-numpy>=1.21.0  # Required for pandas
-requests>=2.26.0  # Ensures smooth HTTP requests
+numpy==1.21.0
+pandas==1.5.3

@@ -13,14 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y libatlas-base-dev libopenblas-dev
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.9'
 
-      - name: Install dependencies
+      - name: Upgrade pip and install dependencies
         run: |
-          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip setuptools wheel
           pip install -r src/requirements.txt
 
       - name: Set API Key Environment Variable
@@ -42,5 +45,3 @@ jobs:
           git add assets/meta/video_stats/*.json
           git commit -m "Automated collection of Video Statistics update [$(date)]" || echo "No changes to commit"
           git push
-
-
