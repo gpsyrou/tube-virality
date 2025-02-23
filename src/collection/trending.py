@@ -52,7 +52,7 @@ class YouTubeTrending:
             part="snippet,statistics",
             chart="mostPopular",
             regionCode=self.country_code,
-            maxResults=30
+            maxResults=50
         )
         response = request.execute()
         return response

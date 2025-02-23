@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "gKhTQso_pW6WUU7tN48X5e9F9t8",
+    "etag": "Bz39wNdhzSCO5RySlEvFfvcy7-k",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "Sh3M6-Pfl6ealDJMKxR24YM-hWQ",
+            "etag": "5n3s4SvqbvAK87NDUHz9NnQ6-nE",
             "id": "RHZb_u3VOco",
             "snippet": {
                 "publishedAt": "2025-02-20T10:00:27Z",
@@ -51,15 +51,67 @@
                 }
             },
             "statistics": {
-                "viewCount": "3341591",
-                "likeCount": "117184",
+                "viewCount": "3372945",
+                "likeCount": "118183",
                 "favoriteCount": "0",
-                "commentCount": "4850"
+                "commentCount": "4882"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "INHjeB_8WWJwjUv8hzv0aTR0vtk",
+            "etag": "pCxmXuLd-K72I5Ym8_aCwJTq0Mo",
+            "id": "Ke_hXYcLhXw",
+            "snippet": {
+                "publishedAt": "2025-02-22T05:15:55Z",
+                "channelId": "UCeU5qTuBiqTU5z-hyL6WITQ",
+                "title": "G-DRAGON - 3RD ALBUM 'TOO BAD (feat. Anderson .Paak)' MV TEASER",
+                "description": "G-DRAGON 3RD ALBUM \u2018TOO BAD (feat. Anderson .Paak)\u2019 MV TEASER\n\u00dcbermensch \u27a6 2025.02.25 2PM (KST)\n\n#GDRAGON #GD #\u00dcbermensch #\uc704\ubc84\ub9e8\uc26c #TOOBAD #GDRAGON2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "OfficialGDRAGON",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "G-DRAGON - 3RD ALBUM 'TOO BAD (feat. Anderson .Paak)' MV TEASER",
+                    "description": "G-DRAGON 3RD ALBUM \u2018TOO BAD (feat. Anderson .Paak)\u2019 MV TEASER\n\u00dcbermensch \u27a6 2025.02.25 2PM (KST)\n\n#GDRAGON #GD #\u00dcbermensch #\uc704\ubc84\ub9e8\uc26c #TOOBAD #GDRAGON2025"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "960570",
+                "likeCount": "65733",
+                "favoriteCount": "0",
+                "commentCount": "4820"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "do_FMNkGro0PvyxcoVfFsIyKbFM",
             "id": "uTmUFbACM44",
             "snippet": {
                 "publishedAt": "2025-02-22T18:05:36Z",
@@ -135,67 +187,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "1552571",
-                "likeCount": "15873",
+                "viewCount": "1577727",
+                "likeCount": "16034",
                 "favoriteCount": "0",
-                "commentCount": "2002"
+                "commentCount": "2012"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GZLJCawcuugmeXkqvK-Z9iM4yxc",
-            "id": "Ke_hXYcLhXw",
-            "snippet": {
-                "publishedAt": "2025-02-22T05:15:55Z",
-                "channelId": "UCeU5qTuBiqTU5z-hyL6WITQ",
-                "title": "G-DRAGON - 3RD ALBUM 'TOO BAD (feat. Anderson .Paak)' MV TEASER",
-                "description": "G-DRAGON 3RD ALBUM \u2018TOO BAD (feat. Anderson .Paak)\u2019 MV TEASER\n\u00dcbermensch \u27a6 2025.02.25 2PM (KST)\n\n#GDRAGON #GD #\u00dcbermensch #\uc704\ubc84\ub9e8\uc26c #TOOBAD #GDRAGON2025",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Ke_hXYcLhXw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "OfficialGDRAGON",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "G-DRAGON - 3RD ALBUM 'TOO BAD (feat. Anderson .Paak)' MV TEASER",
-                    "description": "G-DRAGON 3RD ALBUM \u2018TOO BAD (feat. Anderson .Paak)\u2019 MV TEASER\n\u00dcbermensch \u27a6 2025.02.25 2PM (KST)\n\n#GDRAGON #GD #\u00dcbermensch #\uc704\ubc84\ub9e8\uc26c #TOOBAD #GDRAGON2025"
-                },
-                "defaultAudioLanguage": "ko"
-            },
-            "statistics": {
-                "viewCount": "950291",
-                "likeCount": "65418",
-                "favoriteCount": "0",
-                "commentCount": "4807"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "qvfo5yOvYqwMJSOWZ2kUseyFtRg",
+            "etag": "Nr-AAIaoSIva0kaJwcBXOixuyuU",
             "id": "2W6FPr3s5Kg",
             "snippet": {
                 "publishedAt": "2025-02-21T12:52:45Z",
@@ -273,15 +273,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "879729",
-                "likeCount": "22627",
+                "viewCount": "890667",
+                "likeCount": "22828",
                 "favoriteCount": "0",
-                "commentCount": "2420"
+                "commentCount": "2435"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1NC5a76HSEn-yYzHrCANG_NhrDQ",
+            "etag": "kwq8NNm3xwglLjIoSqmA1uI6Bec",
             "id": "yNf59qOk1hk",
             "snippet": {
                 "publishedAt": "2025-02-22T00:00:06Z",
@@ -353,15 +353,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "1632744",
-                "likeCount": "34054",
+                "viewCount": "1658722",
+                "likeCount": "34334",
                 "favoriteCount": "0",
-                "commentCount": "1585"
+                "commentCount": "1589"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K5HIXWETSKWrILuCRf6eeeuDBNY",
+            "etag": "4u_T0Gdjm-29M_mVXU43QaIf5VY",
             "id": "gzQvTsakFs4",
             "snippet": {
                 "publishedAt": "2025-02-22T07:43:55Z",
@@ -405,15 +405,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "514122",
-                "likeCount": "10769",
+                "viewCount": "523764",
+                "likeCount": "10860",
                 "favoriteCount": "0",
-                "commentCount": "581"
+                "commentCount": "588"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "nc5tVcXYhYmrJKuORV1HQkR89hQ",
+            "etag": "4xv3RTKL-z9ELg_8Z-l8mazgt5c",
             "id": "eWAdpUyzCkI",
             "snippet": {
                 "publishedAt": "2025-02-21T05:00:40Z",
@@ -492,15 +492,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "11343738",
-                "likeCount": "1253956",
+                "viewCount": "11411344",
+                "likeCount": "1256840",
                 "favoriteCount": "0",
-                "commentCount": "69787"
+                "commentCount": "69957"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-3Ow19_R8hBX4656vXNvwQ5T5l0",
+            "etag": "ENns_4xoNBFXv-8sYsfv54Lh-vg",
             "id": "R1XtFNn4MI4",
             "snippet": {
                 "publishedAt": "2025-02-21T09:00:34Z",
@@ -549,15 +549,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "2697799",
-                "likeCount": "62145",
+                "viewCount": "2716268",
+                "likeCount": "62503",
                 "favoriteCount": "0",
-                "commentCount": "4107"
+                "commentCount": "4158"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "XHimeJldFlJIDTm6Q_bflTrGz3M",
+            "etag": "9fm7T00onZwm65jqpf5-_BwGl98",
             "id": "C44fToCLDu8",
             "snippet": {
                 "publishedAt": "2025-02-22T16:18:54Z",
@@ -609,15 +609,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "150767",
-                "likeCount": "1909",
+                "viewCount": "154565",
+                "likeCount": "1932",
                 "favoriteCount": "0",
-                "commentCount": "706"
+                "commentCount": "720"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "AcA9b-wqAQcZcC_TEGaF68fzYXg",
+            "etag": "W1VmC7l0RhOdty2EIUlV6SfHWzY",
             "id": "NiZSGAdfPMk",
             "snippet": {
                 "publishedAt": "2025-02-22T02:08:01Z",
@@ -671,15 +671,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "585252",
-                "likeCount": "23007",
+                "viewCount": "592410",
+                "likeCount": "23168",
                 "favoriteCount": "0",
-                "commentCount": "2696"
+                "commentCount": "2708"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RJnDX6VK-oynb9PiQ79oSXIK5cI",
+            "etag": "Lk_7ESFiLOP6wS2DnbFJNBmt_-c",
             "id": "PI_UtDlNoaI",
             "snippet": {
                 "publishedAt": "2025-02-22T10:00:33Z",
@@ -729,15 +729,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "487994",
-                "likeCount": "8417",
+                "viewCount": "495735",
+                "likeCount": "8496",
                 "favoriteCount": "0",
-                "commentCount": "1515"
+                "commentCount": "1527"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IMrqNZQuKbGd36u3sWJqP2JgxGw",
+            "etag": "EYdENkPydgpz1IESaLgtVrJyPxs",
             "id": "nF2gPfU6Kqg",
             "snippet": {
                 "publishedAt": "2025-02-22T15:01:09Z",
@@ -813,15 +813,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "560310",
-                "likeCount": "60357",
+                "viewCount": "575909",
+                "likeCount": "61202",
                 "favoriteCount": "0",
-                "commentCount": "5190"
+                "commentCount": "5257"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "W6_qkAWkL-EShdFWJIpzHhEJvG4",
+            "etag": "afrAEyhePSW8ZNtYOjc_EtFlgZA",
             "id": "66Os07E25kE",
             "snippet": {
                 "publishedAt": "2025-02-20T11:45:00Z",
@@ -872,15 +872,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "1096102",
-                "likeCount": "10812",
+                "viewCount": "1100416",
+                "likeCount": "10852",
                 "favoriteCount": "0",
-                "commentCount": "1808"
+                "commentCount": "1811"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "bMNQGejfRpniXBTG1asUHWDR__k",
+            "etag": "Xyq86Ai11cMBX2rweA3IiWaxNTM",
             "id": "UzO0GMO-PUk",
             "snippet": {
                 "publishedAt": "2025-02-22T11:30:30Z",
@@ -938,15 +938,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "178827",
-                "likeCount": "3776",
+                "viewCount": "182638",
+                "likeCount": "3823",
                 "favoriteCount": "0",
-                "commentCount": "355"
+                "commentCount": "353"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "VPvtDR0TdGtLw1WauEaKsPzWewg",
+            "etag": "KqmgOq9z53w2MVL7HDSZRz4WImY",
             "id": "DCS6P5m3v4k",
             "snippet": {
                 "publishedAt": "2025-02-22T06:01:08Z",
@@ -1028,15 +1028,71 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "161036",
-                "likeCount": "3199",
+                "viewCount": "164181",
+                "likeCount": "3237",
                 "favoriteCount": "0",
-                "commentCount": "221"
+                "commentCount": "223"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rHOzFbG1od4JrYZ5Elf8SpBJt00",
+            "etag": "bsUQQfumuvIUxoI6nE1kWzTQuQM",
+            "id": "P4iN285pFx4",
+            "snippet": {
+                "publishedAt": "2025-02-22T06:37:26Z",
+                "channelId": "UC8TxOmxwC8QpHRZra7sOFig",
+                "title": "\ud070 \uc2f8\uc6c0 \ub4a4 '\uac00\uc694\uc774 \ud0a4\uc6b0\uae30' \ub9c8\uc9c0\ub9c9 \ub0a0",
+                "description": "\uae4c - \uaf41 \uc548\ub155\ud558\uc138\uc694 \uac00\uc694\uc774\uc785\ub2c8\ub2e4\n\uc798 \uc9c0\ub0b4\uace0 \uacc4\uc2e0\uac00\uc6a9 ? 2\uc6d4 \ub9d0\uc774\uba74 \uc880 \ub530\ub73b\ud574\uc9c8 \uc904 \uc54c\uc558\uc73c\ub098 \uc5ec\uc804\ud788 \ub108\ubb34 \ucd94\uc6b4 \uc694\uc988\uc74c\uc785\ub2c8\ub2e4 ! \uc88b\uc740 \uc18c\uc2dd\uc740 \ub2e4\uc74c\uc8fc \ub418\uba74 \uc81c\ubc95 \ub530\uc218\uc6cc\uc9c4\ub300\uc694 \uae84\uc544\uc544\uc544 \ud83d\udc8c\ud83d\udc8c\n\n\u2070 Instagram :\n@gayooii \n https://www.instagram.com/gayooii/\n\n\uc774\ubc88 \uc601\uc0c1\uc740 \uc800\ud76c\uc758 \uc9c0\ub09c \ubc1c\uc790\ucde8\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ... \ud83e\udee7 \ub0b4\uac00 \ubb58 \ud558\uba74 \uc88b\uc744\uae4c \uc9c0\uae08 \ud558\uace0 \uc788\ub294 \uc77c\uc774 \uc798 \ub9de\ub294 \uac74\uac00\uc5d0 \ub300\ud55c \uace0\ubbfc\uc740 \ub204\uad6c\ub098 \uac16\uace0 \uc788\uc796\uc544\uc694 ,,, \uc800\ub3c4 \uc6d0\ub798 \uafc8\uc740 \uc120\uc0dd\ub2d8\uc774\uc5c8\ub294\ub370 \uc9c0\uae08\uc758 \uc77c\uc744 \ub9cc\ub098\uac8c \ub418\uc5c8\uc5b4\uc694 ! \uadf8 \uc0ac\uc774\uc5d0 \uc788\uc5c8\ub358 \uc800\ud76c\uc758 \ub3cc\ud48d \uac19\uc740 \uace0\ubbfc\uc758 \uc2dc\uae30\uc640 \uadf8\ub54c\uc758 \uc194\uc9c1\ud55c \uc774\uc57c\uae30\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ! \uadf8\ub9ac\uace0 \ub610\ub2e4\uc2dc \ub4e4\uac8c \ub41c \uace0\ubbfc ... \ubb34\uc5c7\uc744 \ud558\uba74 \uc88b\uc744\uae4c\uc6a9 ... ?\n\n\ub9c8\uc74c\uc18d\uc5d0 \uc62c\ud574 \ubaa9\ud45c \ud558\ub098\uc529 \uac16\uace0 \uc788\uc744 \ud150\ub370 \uc2dc\uc791\uc774 \ubc18\uc774\ub77c\uace0 \uadf8\ub7ac\uc5b4\uc694 ! \uc2e4\ud589\ub825\uc774 \ubb34\uc9c0 \uc911\uc694\ud55c \uac70 \uac19\uc2b5\ub2c8\ub2e4 ! \uc5ec\ub7ec\ubd84\ub4e4\uc758 \ubaa9\ud45c\uc774\uc790, \ud574\ubcfc\uae4c \uace0\ubbfc \uc911\uc778 \uc77c\ub4e4\uc774 \uc788\ub2e4\uba74 \uacf5\uc720\ud574\uc8fc\uc138\uc694 ,,, \uac19\uc774 \ub3c4\uc804\ud574 \ubcf4\uc544\uc694 ! \ud568\uaed8 \uc73c\uc330\uc73c\uc330\ud558\uace0 \ub354 \uc798 \ud574\ub0bc \uc218 \uc788\uc744 \uac70\ub77c\uad6c !\n\n\ub9e4\ub144 \uc9c0\ub098\uc624\uba74\uc11c\n\uc62c\ud574 \ub9d0\uc5d0\ub294 \ub0b4\uac00 \uc5b4\ub5a4 \ubaa8\uc2b5\uc77c\uae4c \uafc8\uafd4\ubcf4\ub294\ub370\n\uc5f4\uc2ec\ud788 \ub2ec\ub824\uac00 \ubd05\uc2dc\ub2e4 ! \uc6b0\ub9ac \ubaa8\ub450 \ubbc0\uca0d\uc774\ub124 - \ud83e\udd0d\n\n** \uac00\uc694\uc774\uc758 \uc637\uc7a5\uc815\ubcf4\n\uc5b4\uca4c\ub2e4\ubcf4\ub2c8 \ub860\ub860\ub8e9\n- \ucf54\uc624\ud2b8  '\ub860\ub860' wool hoodie short duffle coat\n- \ub2c8\ud2b8  \ub108\ubb34 \uc624\ub798\uc804\uc5d0 \uc0ac\uc11c \uc815\ubcf4\uac00 \uc5c6\uc11c\uc6a9 ...\n- \ub808\uc774\uc5b4\ub4dc\ud2f0\uc0e4\uc4f0  '\ub860\ub860' frill shirring long sleeve T\n- \ubc14\uc9c0  '\ub860\ub860' side lace track denim\n- \ube44\ub458\uae30\uac00\ubc29  'uios'\n\n#\uac00\uc694\uc774 #\uadc0\uc5fd\ub2f9",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uac00\uc694\uc774 \ud0a4\uc6b0\uae30 YoiKi",
+                "tags": [
+                    "\uac00\uc694\uc774"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\ud070 \uc2f8\uc6c0 \ub4a4 '\uac00\uc694\uc774 \ud0a4\uc6b0\uae30' \ub9c8\uc9c0\ub9c9 \ub0a0",
+                    "description": "\uae4c - \uaf41 \uc548\ub155\ud558\uc138\uc694 \uac00\uc694\uc774\uc785\ub2c8\ub2e4\n\uc798 \uc9c0\ub0b4\uace0 \uacc4\uc2e0\uac00\uc6a9 ? 2\uc6d4 \ub9d0\uc774\uba74 \uc880 \ub530\ub73b\ud574\uc9c8 \uc904 \uc54c\uc558\uc73c\ub098 \uc5ec\uc804\ud788 \ub108\ubb34 \ucd94\uc6b4 \uc694\uc988\uc74c\uc785\ub2c8\ub2e4 ! \uc88b\uc740 \uc18c\uc2dd\uc740 \ub2e4\uc74c\uc8fc \ub418\uba74 \uc81c\ubc95 \ub530\uc218\uc6cc\uc9c4\ub300\uc694 \uae84\uc544\uc544\uc544 \ud83d\udc8c\ud83d\udc8c\n\n\u2070 Instagram :\n@gayooii \n https://www.instagram.com/gayooii/\n\n\uc774\ubc88 \uc601\uc0c1\uc740 \uc800\ud76c\uc758 \uc9c0\ub09c \ubc1c\uc790\ucde8\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ... \ud83e\udee7 \ub0b4\uac00 \ubb58 \ud558\uba74 \uc88b\uc744\uae4c \uc9c0\uae08 \ud558\uace0 \uc788\ub294 \uc77c\uc774 \uc798 \ub9de\ub294 \uac74\uac00\uc5d0 \ub300\ud55c \uace0\ubbfc\uc740 \ub204\uad6c\ub098 \uac16\uace0 \uc788\uc796\uc544\uc694 ,,, \uc800\ub3c4 \uc6d0\ub798 \uafc8\uc740 \uc120\uc0dd\ub2d8\uc774\uc5c8\ub294\ub370 \uc9c0\uae08\uc758 \uc77c\uc744 \ub9cc\ub098\uac8c \ub418\uc5c8\uc5b4\uc694 ! \uadf8 \uc0ac\uc774\uc5d0 \uc788\uc5c8\ub358 \uc800\ud76c\uc758 \ub3cc\ud48d \uac19\uc740 \uace0\ubbfc\uc758 \uc2dc\uae30\uc640 \uadf8\ub54c\uc758 \uc194\uc9c1\ud55c \uc774\uc57c\uae30\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ! \uadf8\ub9ac\uace0 \ub610\ub2e4\uc2dc \ub4e4\uac8c \ub41c \uace0\ubbfc ... \ubb34\uc5c7\uc744 \ud558\uba74 \uc88b\uc744\uae4c\uc6a9 ... ?\n\n\ub9c8\uc74c\uc18d\uc5d0 \uc62c\ud574 \ubaa9\ud45c \ud558\ub098\uc529 \uac16\uace0 \uc788\uc744 \ud150\ub370 \uc2dc\uc791\uc774 \ubc18\uc774\ub77c\uace0 \uadf8\ub7ac\uc5b4\uc694 ! \uc2e4\ud589\ub825\uc774 \ubb34\uc9c0 \uc911\uc694\ud55c \uac70 \uac19\uc2b5\ub2c8\ub2e4 ! \uc5ec\ub7ec\ubd84\ub4e4\uc758 \ubaa9\ud45c\uc774\uc790, \ud574\ubcfc\uae4c \uace0\ubbfc \uc911\uc778 \uc77c\ub4e4\uc774 \uc788\ub2e4\uba74 \uacf5\uc720\ud574\uc8fc\uc138\uc694 ,,, \uac19\uc774 \ub3c4\uc804\ud574 \ubcf4\uc544\uc694 ! \ud568\uaed8 \uc73c\uc330\uc73c\uc330\ud558\uace0 \ub354 \uc798 \ud574\ub0bc \uc218 \uc788\uc744 \uac70\ub77c\uad6c !\n\n\ub9e4\ub144 \uc9c0\ub098\uc624\uba74\uc11c\n\uc62c\ud574 \ub9d0\uc5d0\ub294 \ub0b4\uac00 \uc5b4\ub5a4 \ubaa8\uc2b5\uc77c\uae4c \uafc8\uafd4\ubcf4\ub294\ub370\n\uc5f4\uc2ec\ud788 \ub2ec\ub824\uac00 \ubd05\uc2dc\ub2e4 ! \uc6b0\ub9ac \ubaa8\ub450 \ubbc0\uca0d\uc774\ub124 - \ud83e\udd0d\n\n** \uac00\uc694\uc774\uc758 \uc637\uc7a5\uc815\ubcf4\n\uc5b4\uca4c\ub2e4\ubcf4\ub2c8 \ub860\ub860\ub8e9\n- \ucf54\uc624\ud2b8  '\ub860\ub860' wool hoodie short duffle coat\n- \ub2c8\ud2b8  \ub108\ubb34 \uc624\ub798\uc804\uc5d0 \uc0ac\uc11c \uc815\ubcf4\uac00 \uc5c6\uc11c\uc6a9 ...\n- \ub808\uc774\uc5b4\ub4dc\ud2f0\uc0e4\uc4f0  '\ub860\ub860' frill shirring long sleeve T\n- \ubc14\uc9c0  '\ub860\ub860' side lace track denim\n- \ube44\ub458\uae30\uac00\ubc29  'uios'\n\n#\uac00\uc694\uc774 #\uadc0\uc5fd\ub2f9"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "371472",
+                "likeCount": "6940",
+                "favoriteCount": "0",
+                "commentCount": "565"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nDpfNcJPDCUSu_4uiVXa9OTbmOk",
             "id": "SFkIwPs9hiw",
             "snippet": {
                 "publishedAt": "2025-02-21T12:00:46Z",
@@ -1095,71 +1151,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "409731",
-                "likeCount": "8609",
+                "viewCount": "413636",
+                "likeCount": "8664",
                 "favoriteCount": "0",
-                "commentCount": "1231"
+                "commentCount": "1235"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JunyrRhabkkrgyOIcaFiOumbAq0",
-            "id": "P4iN285pFx4",
-            "snippet": {
-                "publishedAt": "2025-02-22T06:37:26Z",
-                "channelId": "UC8TxOmxwC8QpHRZra7sOFig",
-                "title": "\ud070 \uc2f8\uc6c0 \ub4a4 '\uac00\uc694\uc774 \ud0a4\uc6b0\uae30' \ub9c8\uc9c0\ub9c9 \ub0a0",
-                "description": "\uae4c - \uaf41 \uc548\ub155\ud558\uc138\uc694 \uac00\uc694\uc774\uc785\ub2c8\ub2e4\n\uc798 \uc9c0\ub0b4\uace0 \uacc4\uc2e0\uac00\uc6a9 ? 2\uc6d4 \ub9d0\uc774\uba74 \uc880 \ub530\ub73b\ud574\uc9c8 \uc904 \uc54c\uc558\uc73c\ub098 \uc5ec\uc804\ud788 \ub108\ubb34 \ucd94\uc6b4 \uc694\uc988\uc74c\uc785\ub2c8\ub2e4 ! \uc88b\uc740 \uc18c\uc2dd\uc740 \ub2e4\uc74c\uc8fc \ub418\uba74 \uc81c\ubc95 \ub530\uc218\uc6cc\uc9c4\ub300\uc694 \uae84\uc544\uc544\uc544 \ud83d\udc8c\ud83d\udc8c\n\n\u2070 Instagram :\n@gayooii \n https://www.instagram.com/gayooii/\n\n\uc774\ubc88 \uc601\uc0c1\uc740 \uc800\ud76c\uc758 \uc9c0\ub09c \ubc1c\uc790\ucde8\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ... \ud83e\udee7 \ub0b4\uac00 \ubb58 \ud558\uba74 \uc88b\uc744\uae4c \uc9c0\uae08 \ud558\uace0 \uc788\ub294 \uc77c\uc774 \uc798 \ub9de\ub294 \uac74\uac00\uc5d0 \ub300\ud55c \uace0\ubbfc\uc740 \ub204\uad6c\ub098 \uac16\uace0 \uc788\uc796\uc544\uc694 ,,, \uc800\ub3c4 \uc6d0\ub798 \uafc8\uc740 \uc120\uc0dd\ub2d8\uc774\uc5c8\ub294\ub370 \uc9c0\uae08\uc758 \uc77c\uc744 \ub9cc\ub098\uac8c \ub418\uc5c8\uc5b4\uc694 ! \uadf8 \uc0ac\uc774\uc5d0 \uc788\uc5c8\ub358 \uc800\ud76c\uc758 \ub3cc\ud48d \uac19\uc740 \uace0\ubbfc\uc758 \uc2dc\uae30\uc640 \uadf8\ub54c\uc758 \uc194\uc9c1\ud55c \uc774\uc57c\uae30\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ! \uadf8\ub9ac\uace0 \ub610\ub2e4\uc2dc \ub4e4\uac8c \ub41c \uace0\ubbfc ... \ubb34\uc5c7\uc744 \ud558\uba74 \uc88b\uc744\uae4c\uc6a9 ... ?\n\n\ub9c8\uc74c\uc18d\uc5d0 \uc62c\ud574 \ubaa9\ud45c \ud558\ub098\uc529 \uac16\uace0 \uc788\uc744 \ud150\ub370 \uc2dc\uc791\uc774 \ubc18\uc774\ub77c\uace0 \uadf8\ub7ac\uc5b4\uc694 ! \uc2e4\ud589\ub825\uc774 \ubb34\uc9c0 \uc911\uc694\ud55c \uac70 \uac19\uc2b5\ub2c8\ub2e4 ! \uc5ec\ub7ec\ubd84\ub4e4\uc758 \ubaa9\ud45c\uc774\uc790, \ud574\ubcfc\uae4c \uace0\ubbfc \uc911\uc778 \uc77c\ub4e4\uc774 \uc788\ub2e4\uba74 \uacf5\uc720\ud574\uc8fc\uc138\uc694 ,,, \uac19\uc774 \ub3c4\uc804\ud574 \ubcf4\uc544\uc694 ! \ud568\uaed8 \uc73c\uc330\uc73c\uc330\ud558\uace0 \ub354 \uc798 \ud574\ub0bc \uc218 \uc788\uc744 \uac70\ub77c\uad6c !\n\n\ub9e4\ub144 \uc9c0\ub098\uc624\uba74\uc11c\n\uc62c\ud574 \ub9d0\uc5d0\ub294 \ub0b4\uac00 \uc5b4\ub5a4 \ubaa8\uc2b5\uc77c\uae4c \uafc8\uafd4\ubcf4\ub294\ub370\n\uc5f4\uc2ec\ud788 \ub2ec\ub824\uac00 \ubd05\uc2dc\ub2e4 ! \uc6b0\ub9ac \ubaa8\ub450 \ubbc0\uca0d\uc774\ub124 - \ud83e\udd0d\n\n** \uac00\uc694\uc774\uc758 \uc637\uc7a5\uc815\ubcf4\n\uc5b4\uca4c\ub2e4\ubcf4\ub2c8 \ub860\ub860\ub8e9\n- \ucf54\uc624\ud2b8  '\ub860\ub860' wool hoodie short duffle coat\n- \ub2c8\ud2b8  \ub108\ubb34 \uc624\ub798\uc804\uc5d0 \uc0ac\uc11c \uc815\ubcf4\uac00 \uc5c6\uc11c\uc6a9 ...\n- \ub808\uc774\uc5b4\ub4dc\ud2f0\uc0e4\uc4f0  '\ub860\ub860' frill shirring long sleeve T\n- \ubc14\uc9c0  '\ub860\ub860' side lace track denim\n- \ube44\ub458\uae30\uac00\ubc29  'uios'\n\n#\uac00\uc694\uc774 #\uadc0\uc5fd\ub2f9",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/P4iN285pFx4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "\uac00\uc694\uc774 \ud0a4\uc6b0\uae30 YoiKi",
-                "tags": [
-                    "\uac00\uc694\uc774"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ko",
-                "localized": {
-                    "title": "\ud070 \uc2f8\uc6c0 \ub4a4 '\uac00\uc694\uc774 \ud0a4\uc6b0\uae30' \ub9c8\uc9c0\ub9c9 \ub0a0",
-                    "description": "\uae4c - \uaf41 \uc548\ub155\ud558\uc138\uc694 \uac00\uc694\uc774\uc785\ub2c8\ub2e4\n\uc798 \uc9c0\ub0b4\uace0 \uacc4\uc2e0\uac00\uc6a9 ? 2\uc6d4 \ub9d0\uc774\uba74 \uc880 \ub530\ub73b\ud574\uc9c8 \uc904 \uc54c\uc558\uc73c\ub098 \uc5ec\uc804\ud788 \ub108\ubb34 \ucd94\uc6b4 \uc694\uc988\uc74c\uc785\ub2c8\ub2e4 ! \uc88b\uc740 \uc18c\uc2dd\uc740 \ub2e4\uc74c\uc8fc \ub418\uba74 \uc81c\ubc95 \ub530\uc218\uc6cc\uc9c4\ub300\uc694 \uae84\uc544\uc544\uc544 \ud83d\udc8c\ud83d\udc8c\n\n\u2070 Instagram :\n@gayooii \n https://www.instagram.com/gayooii/\n\n\uc774\ubc88 \uc601\uc0c1\uc740 \uc800\ud76c\uc758 \uc9c0\ub09c \ubc1c\uc790\ucde8\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ... \ud83e\udee7 \ub0b4\uac00 \ubb58 \ud558\uba74 \uc88b\uc744\uae4c \uc9c0\uae08 \ud558\uace0 \uc788\ub294 \uc77c\uc774 \uc798 \ub9de\ub294 \uac74\uac00\uc5d0 \ub300\ud55c \uace0\ubbfc\uc740 \ub204\uad6c\ub098 \uac16\uace0 \uc788\uc796\uc544\uc694 ,,, \uc800\ub3c4 \uc6d0\ub798 \uafc8\uc740 \uc120\uc0dd\ub2d8\uc774\uc5c8\ub294\ub370 \uc9c0\uae08\uc758 \uc77c\uc744 \ub9cc\ub098\uac8c \ub418\uc5c8\uc5b4\uc694 ! \uadf8 \uc0ac\uc774\uc5d0 \uc788\uc5c8\ub358 \uc800\ud76c\uc758 \ub3cc\ud48d \uac19\uc740 \uace0\ubbfc\uc758 \uc2dc\uae30\uc640 \uadf8\ub54c\uc758 \uc194\uc9c1\ud55c \uc774\uc57c\uae30\ub97c \ub2f4\uc544\ubcf4\uc558\uc2b5\ub2c8\ub2e4 ! \uadf8\ub9ac\uace0 \ub610\ub2e4\uc2dc \ub4e4\uac8c \ub41c \uace0\ubbfc ... \ubb34\uc5c7\uc744 \ud558\uba74 \uc88b\uc744\uae4c\uc6a9 ... ?\n\n\ub9c8\uc74c\uc18d\uc5d0 \uc62c\ud574 \ubaa9\ud45c \ud558\ub098\uc529 \uac16\uace0 \uc788\uc744 \ud150\ub370 \uc2dc\uc791\uc774 \ubc18\uc774\ub77c\uace0 \uadf8\ub7ac\uc5b4\uc694 ! \uc2e4\ud589\ub825\uc774 \ubb34\uc9c0 \uc911\uc694\ud55c \uac70 \uac19\uc2b5\ub2c8\ub2e4 ! \uc5ec\ub7ec\ubd84\ub4e4\uc758 \ubaa9\ud45c\uc774\uc790, \ud574\ubcfc\uae4c \uace0\ubbfc \uc911\uc778 \uc77c\ub4e4\uc774 \uc788\ub2e4\uba74 \uacf5\uc720\ud574\uc8fc\uc138\uc694 ,,, \uac19\uc774 \ub3c4\uc804\ud574 \ubcf4\uc544\uc694 ! \ud568\uaed8 \uc73c\uc330\uc73c\uc330\ud558\uace0 \ub354 \uc798 \ud574\ub0bc \uc218 \uc788\uc744 \uac70\ub77c\uad6c !\n\n\ub9e4\ub144 \uc9c0\ub098\uc624\uba74\uc11c\n\uc62c\ud574 \ub9d0\uc5d0\ub294 \ub0b4\uac00 \uc5b4\ub5a4 \ubaa8\uc2b5\uc77c\uae4c \uafc8\uafd4\ubcf4\ub294\ub370\n\uc5f4\uc2ec\ud788 \ub2ec\ub824\uac00 \ubd05\uc2dc\ub2e4 ! \uc6b0\ub9ac \ubaa8\ub450 \ubbc0\uca0d\uc774\ub124 - \ud83e\udd0d\n\n** \uac00\uc694\uc774\uc758 \uc637\uc7a5\uc815\ubcf4\n\uc5b4\uca4c\ub2e4\ubcf4\ub2c8 \ub860\ub860\ub8e9\n- \ucf54\uc624\ud2b8  '\ub860\ub860' wool hoodie short duffle coat\n- \ub2c8\ud2b8  \ub108\ubb34 \uc624\ub798\uc804\uc5d0 \uc0ac\uc11c \uc815\ubcf4\uac00 \uc5c6\uc11c\uc6a9 ...\n- \ub808\uc774\uc5b4\ub4dc\ud2f0\uc0e4\uc4f0  '\ub860\ub860' frill shirring long sleeve T\n- \ubc14\uc9c0  '\ub860\ub860' side lace track denim\n- \ube44\ub458\uae30\uac00\ubc29  'uios'\n\n#\uac00\uc694\uc774 #\uadc0\uc5fd\ub2f9"
-                },
-                "defaultAudioLanguage": "ko"
-            },
-            "statistics": {
-                "viewCount": "356121",
-                "likeCount": "6806",
-                "favoriteCount": "0",
-                "commentCount": "555"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "g03dIL3TPv865VOHcrHrGekxim8",
+            "etag": "c9SEvCvZRwoOf6Fwp-SFie3bhb0",
             "id": "XsLNLBedG_I",
             "snippet": {
                 "publishedAt": "2025-02-19T08:30:21Z",
@@ -1276,15 +1276,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "2073054",
-                "likeCount": "38255",
+                "viewCount": "2078147",
+                "likeCount": "38340",
                 "favoriteCount": "0",
-                "commentCount": "2639"
+                "commentCount": "2641"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-CPf--4sX2yITpiuytXCZLyE7sU",
+            "etag": "qIOAloGSnjFbk1x2Tf-z6GZIa4A",
             "id": "jmhEWKK_ez4",
             "snippet": {
                 "publishedAt": "2025-02-21T16:11:17Z",
@@ -1336,67 +1336,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "533618",
-                "likeCount": "10231",
+                "viewCount": "545004",
+                "likeCount": "10410",
                 "favoriteCount": "0",
-                "commentCount": "330"
+                "commentCount": "333"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xvixggIDij5vAj4uM3C8FuXTd3Y",
-            "id": "nGyuNmy1Qok",
-            "snippet": {
-                "publishedAt": "2025-02-21T12:26:48Z",
-                "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
-                "title": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]",
-                "description": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]\n\n2025\ub144 2\uc6d4 21\uc77c \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8 \ubaa9\ub3d9\uc544\uc774\uc2a4\ub9c1\ud06c\uc7a5\uc5d0\uc11c \uc5f4\ub9b0 2025 ISU \ud53c\uaca8 4\ub300\ub959\uc120\uc218\uad8c \ub300\ud68c \uc5ec\uc790 \uc2f1\uae00 \uc1fc\ud2b8 \ud504\ub85c\uadf8\ub7a8\uc5d0\uc11c \uae30\uc220\uc810\uc218 40.15\uc810, \uc608\uc220\uc810\uc218 33.87\uc810\uc73c\ub85c \ud569\uacc4 74.02\uc810, 1\uc704\uc5d0 \uc624\ub978 \uae40\ucc44\uc5f0 \uc120\uc218.\n\n#4\ub300\ub959\ud53c\uaca8_\uc11c\uc6b8 #\uae40\ucc44\uc5f0 #\ud2b8\ub860_\uc0c8\ub85c\uc6b4_\uc2dc\uc791",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "\uc2a4\ube0c\uc2a4\uc2a4\ud3ec\uce20 SUBUSU SPORTS",
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]",
-                    "description": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]\n\n2025\ub144 2\uc6d4 21\uc77c \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8 \ubaa9\ub3d9\uc544\uc774\uc2a4\ub9c1\ud06c\uc7a5\uc5d0\uc11c \uc5f4\ub9b0 2025 ISU \ud53c\uaca8 4\ub300\ub959\uc120\uc218\uad8c \ub300\ud68c \uc5ec\uc790 \uc2f1\uae00 \uc1fc\ud2b8 \ud504\ub85c\uadf8\ub7a8\uc5d0\uc11c \uae30\uc220\uc810\uc218 40.15\uc810, \uc608\uc220\uc810\uc218 33.87\uc810\uc73c\ub85c \ud569\uacc4 74.02\uc810, 1\uc704\uc5d0 \uc624\ub978 \uae40\ucc44\uc5f0 \uc120\uc218.\n\n#4\ub300\ub959\ud53c\uaca8_\uc11c\uc6b8 #\uae40\ucc44\uc5f0 #\ud2b8\ub860_\uc0c8\ub85c\uc6b4_\uc2dc\uc791"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "278676",
-                "likeCount": "4642",
-                "favoriteCount": "0",
-                "commentCount": "408"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ubXqPfZTJ1nFJnSGW3lrWE8dJw4",
+            "etag": "HKWvMcG2V32afeA-6gBgqGp7Nyk",
             "id": "CzQph64bwdU",
             "snippet": {
                 "publishedAt": "2025-02-20T09:15:01Z",
@@ -1504,15 +1452,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "645697",
-                "likeCount": "10665",
+                "viewCount": "649352",
+                "likeCount": "10717",
                 "favoriteCount": "0",
                 "commentCount": "365"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "r1vJ1wCJiDhL5Hll2iCh1WXTO0o",
+            "etag": "agDOUGMM6PoxlNj4D60GhkLfETA",
             "id": "4Lbl2ERHTmU",
             "snippet": {
                 "publishedAt": "2025-02-21T12:38:13Z",
@@ -1611,15 +1559,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "184047",
-                "likeCount": "2619",
+                "viewCount": "189470",
+                "likeCount": "2647",
                 "favoriteCount": "0",
                 "commentCount": "102"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "h7Oi6ypSsQB6FUCPwlqJJkOTgJ0",
+            "etag": "01nan7y5WUiMIhcs-O5xYi1HHNk",
             "id": "y-QX0rtXHk4",
             "snippet": {
                 "publishedAt": "2025-02-20T10:01:09Z",
@@ -1664,15 +1612,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "610620",
-                "likeCount": "9536",
+                "viewCount": "615694",
+                "likeCount": "9605",
                 "favoriteCount": "0",
-                "commentCount": "714"
+                "commentCount": "717"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0O7j5ytzRu-wMzhHAwVQrsy2Oa4",
+            "etag": "FBvDkex_thcWZxpAsa2CtPN0oIw",
             "id": "sZOuDLNHoC0",
             "snippet": {
                 "publishedAt": "2025-02-21T09:40:58Z",
@@ -1740,15 +1688,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "296887",
-                "likeCount": "16952",
+                "viewCount": "298006",
+                "likeCount": "16987",
                 "favoriteCount": "0",
-                "commentCount": "789"
+                "commentCount": "790"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "bEz7Je84JCiECtdxbvOaLUgb7eo",
+            "etag": "O2wcDrXYUj6M5pXg1L-PM-_bi7I",
             "id": "HLJISxBgCLY",
             "snippet": {
                 "publishedAt": "2025-02-20T09:15:01Z",
@@ -1849,85 +1797,67 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "408016",
-                "likeCount": "7023",
+                "viewCount": "410984",
+                "likeCount": "7054",
                 "favoriteCount": "0",
                 "commentCount": "304"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RE7DvcxUEX-lTiTcDKHyDl7XYrY",
-            "id": "mKl_Hwlq6Nk",
+            "etag": "-1WZLkB7s2zQhnR752KTaCUnW5A",
+            "id": "nGyuNmy1Qok",
             "snippet": {
-                "publishedAt": "2025-02-21T07:29:45Z",
-                "channelId": "UCoQU5wtIxq0QGh80NHky82g",
-                "title": "14\ub144 \ub9cc\uc5d0 \uc815\uc0c1\ud654 \ub418\ub294 \uc2a4\ud3f0\uc54c! \ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8 \uccb4\ud5d8\ud558\uae30",
-                "description": "\u203b \ubcf8 \uc601\uc0c1\uc740 1.22 \uc2a4\ub0c5\uc0f7(25w07a, 25w08a)\uc744 \ud65c\uc6a9\ud574\uc11c \uc81c\uc791\ud588\uc2b5\ub2c8\ub2e4.\n\uc544\uc9c1 \uc2a4\ub0c5\uc0f7 \ub2e8\uacc4\uc774\uba70 \ubcf8 \ubc84\uc804\uc5d0\uc11c \ubcc0\uacbd\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ud328\uce58 \ub0b4\uc5ed \ud655\uc778\ud558\uae30 :\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a\n\n#\ub9c8\uc778\ud06c\ub798\ud504\ud2b8#\uae40\ub9cc\ub355#\uc5c5\ub370\uc774\ud2b8\n\n0:00 \uc778\ud2b8\ub85c\n0:34 \uc591 \uc5c5\ub370\uc774\ud2b8\n1:41 \uc0dd\uc131\uc54c \ub9ac\uba54\uc774\ud06c\n3:43 \ub291\ub300 \uac10\uc815\uc18c\ub9ac \ucd94\uac00\n4:18 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8\n5:45 \uc5c5\ub370\uc774\ud2b8 \ubbfc\uc2ec",
+                "publishedAt": "2025-02-21T12:26:48Z",
+                "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
+                "title": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]",
+                "description": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]\n\n2025\ub144 2\uc6d4 21\uc77c \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8 \ubaa9\ub3d9\uc544\uc774\uc2a4\ub9c1\ud06c\uc7a5\uc5d0\uc11c \uc5f4\ub9b0 2025 ISU \ud53c\uaca8 4\ub300\ub959\uc120\uc218\uad8c \ub300\ud68c \uc5ec\uc790 \uc2f1\uae00 \uc1fc\ud2b8 \ud504\ub85c\uadf8\ub7a8\uc5d0\uc11c \uae30\uc220\uc810\uc218 40.15\uc810, \uc608\uc220\uc810\uc218 33.87\uc810\uc73c\ub85c \ud569\uacc4 74.02\uc810, 1\uc704\uc5d0 \uc624\ub978 \uae40\ucc44\uc5f0 \uc120\uc218.\n\n#4\ub300\ub959\ud53c\uaca8_\uc11c\uc6b8 #\uae40\ucc44\uc5f0 #\ud2b8\ub860_\uc0c8\ub85c\uc6b4_\uc2dc\uc791",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nGyuNmy1Qok/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "\uc57c\uc0dd\uc778 \uae40\ub9cc\ub355",
-                "tags": [
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \ud06c\ub9ac\ud0b9",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacf5\ud3ec",
-                    "minecraft 1.22",
-                    "minecraft ender update",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc5d4\ub354 \uc5c5\ub370\uc774\ud2b8",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc2e0\uaddc\ubab9",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uae40\ub9cc\ub355",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc5c5\ub370\uc774\ud2b8",
-                    "\uc5c5\ub370\uc774\ud2b8",
-                    "\uc790\uc5f0 \uc5c5\ub370\uc774\ud2b8",
-                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacc4\uc808",
-                    "\uacc4\uc808 \uc5c5\ub370\uc774\ud2b8",
-                    "\uc2a4\ud3f0\uc54c \uc5c5\ub370\uc774\ud2b8",
-                    "\uc0dd\uc131 \uc54c \uc5c5\ub370\uc774\ud2b8"
-                ],
-                "categoryId": "20",
+                "channelTitle": "\uc2a4\ube0c\uc2a4\uc2a4\ud3ec\uce20 SUBUSU SPORTS",
+                "categoryId": "17",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "14\ub144 \ub9cc\uc5d0 \uc815\uc0c1\ud654 \ub418\ub294 \uc2a4\ud3f0\uc54c! \ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8 \uccb4\ud5d8\ud558\uae30",
-                    "description": "\u203b \ubcf8 \uc601\uc0c1\uc740 1.22 \uc2a4\ub0c5\uc0f7(25w07a, 25w08a)\uc744 \ud65c\uc6a9\ud574\uc11c \uc81c\uc791\ud588\uc2b5\ub2c8\ub2e4.\n\uc544\uc9c1 \uc2a4\ub0c5\uc0f7 \ub2e8\uacc4\uc774\uba70 \ubcf8 \ubc84\uc804\uc5d0\uc11c \ubcc0\uacbd\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ud328\uce58 \ub0b4\uc5ed \ud655\uc778\ud558\uae30 :\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a\n\n#\ub9c8\uc778\ud06c\ub798\ud504\ud2b8#\uae40\ub9cc\ub355#\uc5c5\ub370\uc774\ud2b8\n\n0:00 \uc778\ud2b8\ub85c\n0:34 \uc591 \uc5c5\ub370\uc774\ud2b8\n1:41 \uc0dd\uc131\uc54c \ub9ac\uba54\uc774\ud06c\n3:43 \ub291\ub300 \uac10\uc815\uc18c\ub9ac \ucd94\uac00\n4:18 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8\n5:45 \uc5c5\ub370\uc774\ud2b8 \ubbfc\uc2ec"
+                    "title": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]",
+                    "description": "2025 ISU 4\ub300\ub959 \ud53c\uaca8\uc120\uc218\uad8c_\uc11c\uc6b8_\uae40\ucc44\uc5f0 \uc1fc\ud2b8_\uc601\ud654 '\ud2b8\ub860: \uc0c8\ub85c\uc6b4 \uc2dc\uc791' OST [\uc2b5\uce20_\ud53c\uaca8\uc2a4\ucf00\uc774\ud305]\n\n2025\ub144 2\uc6d4 21\uc77c \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8 \ubaa9\ub3d9\uc544\uc774\uc2a4\ub9c1\ud06c\uc7a5\uc5d0\uc11c \uc5f4\ub9b0 2025 ISU \ud53c\uaca8 4\ub300\ub959\uc120\uc218\uad8c \ub300\ud68c \uc5ec\uc790 \uc2f1\uae00 \uc1fc\ud2b8 \ud504\ub85c\uadf8\ub7a8\uc5d0\uc11c \uae30\uc220\uc810\uc218 40.15\uc810, \uc608\uc220\uc810\uc218 33.87\uc810\uc73c\ub85c \ud569\uacc4 74.02\uc810, 1\uc704\uc5d0 \uc624\ub978 \uae40\ucc44\uc5f0 \uc120\uc218.\n\n#4\ub300\ub959\ud53c\uaca8_\uc11c\uc6b8 #\uae40\ucc44\uc5f0 #\ud2b8\ub860_\uc0c8\ub85c\uc6b4_\uc2dc\uc791"
                 },
-                "defaultAudioLanguage": "ko"
+                "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "251653",
-                "likeCount": "4185",
+                "viewCount": "283231",
+                "likeCount": "4674",
                 "favoriteCount": "0",
-                "commentCount": "728"
+                "commentCount": "410"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6Al2WHMDe7Qwx-t5YdaNHBbaBew",
+            "etag": "2Um_lXRn-lpy68qwv7t0EeUdCXQ",
             "id": "wsASLAHlw6Y",
             "snippet": {
                 "publishedAt": "2025-02-20T11:01:20Z",
@@ -1990,15 +1920,85 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "522458",
-                "likeCount": "10674",
+                "viewCount": "525647",
+                "likeCount": "10749",
                 "favoriteCount": "0",
-                "commentCount": "1567"
+                "commentCount": "1574"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ez3H5k7kx3pj5llX72iBmi1eeuI",
+            "etag": "qx9YohbWMfGH7pyN3lggIVa24AA",
+            "id": "mKl_Hwlq6Nk",
+            "snippet": {
+                "publishedAt": "2025-02-21T07:29:45Z",
+                "channelId": "UCoQU5wtIxq0QGh80NHky82g",
+                "title": "14\ub144 \ub9cc\uc5d0 \uc815\uc0c1\ud654 \ub418\ub294 \uc2a4\ud3f0\uc54c! \ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8 \uccb4\ud5d8\ud558\uae30",
+                "description": "\u203b \ubcf8 \uc601\uc0c1\uc740 1.22 \uc2a4\ub0c5\uc0f7(25w07a, 25w08a)\uc744 \ud65c\uc6a9\ud574\uc11c \uc81c\uc791\ud588\uc2b5\ub2c8\ub2e4.\n\uc544\uc9c1 \uc2a4\ub0c5\uc0f7 \ub2e8\uacc4\uc774\uba70 \ubcf8 \ubc84\uc804\uc5d0\uc11c \ubcc0\uacbd\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ud328\uce58 \ub0b4\uc5ed \ud655\uc778\ud558\uae30 :\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a\n\n#\ub9c8\uc778\ud06c\ub798\ud504\ud2b8#\uae40\ub9cc\ub355#\uc5c5\ub370\uc774\ud2b8\n\n0:00 \uc778\ud2b8\ub85c\n0:34 \uc591 \uc5c5\ub370\uc774\ud2b8\n1:41 \uc0dd\uc131\uc54c \ub9ac\uba54\uc774\ud06c\n3:43 \ub291\ub300 \uac10\uc815\uc18c\ub9ac \ucd94\uac00\n4:18 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8\n5:45 \uc5c5\ub370\uc774\ud2b8 \ubbfc\uc2ec",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mKl_Hwlq6Nk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc57c\uc0dd\uc778 \uae40\ub9cc\ub355",
+                "tags": [
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \ud06c\ub9ac\ud0b9",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacf5\ud3ec",
+                    "minecraft 1.22",
+                    "minecraft ender update",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc5d4\ub354 \uc5c5\ub370\uc774\ud2b8",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc2e0\uaddc\ubab9",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uae40\ub9cc\ub355",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uc5c5\ub370\uc774\ud2b8",
+                    "\uc5c5\ub370\uc774\ud2b8",
+                    "\uc790\uc5f0 \uc5c5\ub370\uc774\ud2b8",
+                    "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacc4\uc808",
+                    "\uacc4\uc808 \uc5c5\ub370\uc774\ud2b8",
+                    "\uc2a4\ud3f0\uc54c \uc5c5\ub370\uc774\ud2b8",
+                    "\uc0dd\uc131 \uc54c \uc5c5\ub370\uc774\ud2b8"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "14\ub144 \ub9cc\uc5d0 \uc815\uc0c1\ud654 \ub418\ub294 \uc2a4\ud3f0\uc54c! \ub9c8\uc778\ud06c\ub798\ud504\ud2b8 1.22 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8 \uccb4\ud5d8\ud558\uae30",
+                    "description": "\u203b \ubcf8 \uc601\uc0c1\uc740 1.22 \uc2a4\ub0c5\uc0f7(25w07a, 25w08a)\uc744 \ud65c\uc6a9\ud574\uc11c \uc81c\uc791\ud588\uc2b5\ub2c8\ub2e4.\n\uc544\uc9c1 \uc2a4\ub0c5\uc0f7 \ub2e8\uacc4\uc774\uba70 \ubcf8 \ubc84\uc804\uc5d0\uc11c \ubcc0\uacbd\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ud328\uce58 \ub0b4\uc5ed \ud655\uc778\ud558\uae30 :\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w07a\nhttps://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a\n\n#\ub9c8\uc778\ud06c\ub798\ud504\ud2b8#\uae40\ub9cc\ub355#\uc5c5\ub370\uc774\ud2b8\n\n0:00 \uc778\ud2b8\ub85c\n0:34 \uc591 \uc5c5\ub370\uc774\ud2b8\n1:41 \uc0dd\uc131\uc54c \ub9ac\uba54\uc774\ud06c\n3:43 \ub291\ub300 \uac10\uc815\uc18c\ub9ac \ucd94\uac00\n4:18 \ud3b8\uc758\uc131 \uc5c5\ub370\uc774\ud2b8\n5:45 \uc5c5\ub370\uc774\ud2b8 \ubbfc\uc2ec"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "252514",
+                "likeCount": "4196",
+                "favoriteCount": "0",
+                "commentCount": "730"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-iJPmTH36jEem8G0Fi8wV1oqip0",
             "id": "QE-oDsgL0Xs",
             "snippet": {
                 "publishedAt": "2025-02-21T09:24:34Z",
@@ -2058,15 +2058,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "335563",
-                "likeCount": "2569",
+                "viewCount": "338052",
+                "likeCount": "2580",
                 "favoriteCount": "0",
-                "commentCount": "219"
+                "commentCount": "220"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "npQ_VVh5bwIDKsL6IKWSzwHIWC8",
+            "etag": "TXqcFVol9Lh2fuVKaqZUyxUV6WY",
             "id": "SAlg6fDASF8",
             "snippet": {
                 "publishedAt": "2025-02-20T09:30:07Z",
@@ -2131,15 +2131,15 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "802367",
-                "likeCount": "10109",
+                "viewCount": "808379",
+                "likeCount": "10164",
                 "favoriteCount": "0",
-                "commentCount": "1008"
+                "commentCount": "1009"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "F8YehEnglETBJqyhmDkBXC6oa5M",
+            "etag": "dYnF4JChm1w6sfE5IVDH7ikwoR8",
             "id": "SGI6fWmPNx0",
             "snippet": {
                 "publishedAt": "2025-02-20T04:00:12Z",
@@ -2183,16 +2183,1346 @@
                 "defaultAudioLanguage": "ko"
             },
             "statistics": {
-                "viewCount": "760311",
-                "likeCount": "62633",
+                "viewCount": "762084",
+                "likeCount": "62678",
                 "favoriteCount": "0",
                 "commentCount": "4435"
             }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nj3PyWm86NM16NStJo-A-pPRnMU",
+            "id": "vCTOBkFz_Xw",
+            "snippet": {
+                "publishedAt": "2025-02-20T11:01:16Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "\uc0c8\ub85c\ub098\uc628 \ubcf4\uae09\ud615 \uc544\uc774\ud3f0 16e \ucd1d\uc815\ub9ac! \uc560\ud50c\ube60\ub3c4 \uc190\uc808\ud560\ub9cc\ud55c \ubbf8\uce5c \uac00\uaca9",
+                "description": "\uc544\uc774\ud3f0 SE 3\uc138\ub300 \ucd9c\uc2dc \uc774\ud6c4 \ub9ce\uc740 \uc874\ubc84\ub2e8\ubd84\ub4e4\uc774 4\uc138\ub300\ub97c \uae30\ub2e4\ub824\uc654\uc8e0. \uadf8\ub9ac\uace0 2025\ub144 \uc0c1\ubc18\uae30 \ucd9c\uc2dc \uc608\uc815\uc774\ub77c\ub294 \ub8e8\uba38\uc640\ud568\uaed8 \ub354\uc6b1 \uae30\ub300\uac10\uc774 \ucef8\ub294\ub370\uc694, \uc5b4\ub290\uc815\ub3c4 \uac00\uaca9\uc774 \uc624\ub97c\uac70\ub77c\uace0 \uc608\uc0c1\uc740\ud588\uc9c0\ub9cc \uc774\ub807\uac8c \ub9ce\uc774 \uc624\ub97c\uc904\uc740 \ubab0\ub790\ub358 16e. \uc804\uc791\ub300\ube44 \uc5b4\ub5a0\ud55c \uc810\uc774 \ub2ec\ub77c\uc84c\ub294\uc9c0 \ubaa8\ub450 \ucd1d\uc815\ub9ac \ud574\ubd24\uc2b5\ub2c8\ub2e4!\n\n\n\ud83d\udd0b Specs.\n\uacf5\uac1c \uc81c\ud488 : iPhone 16e\n\ub514\uc2a4\ud50c\ub808\uc774 : 6.1\uc778\uce58 Super Retina XDR\n\ud504\ub85c\uc138\uc11c : \uc560\ud50c A18 (6\ucf54\uc5b4 CPU / 4\ucf54\uc5b4 GPU)\nRAM : 8GB\n\uc800\uc7a5\uacf5\uac04 : 128GB/256GB/512GB\n\uce74\uba54\ub77c : \ud22c\uc778\uc6d0 (4,800\ub9cc \ud654\uc18c/1,200\ub9cc \ud654\uc18c 2\ubc30 \ub9dd\uc6d0)\n\ubb34\uac8c : 167g\n\uc0c9\uc0c1 : \ube14\ub799, \ud654\uc774\ud2b8\n\uac00\uaca9 : 990,000\uc6d0~\n\n\n\ud83c\udfb5 BGM.\nES_Jacuzzi - Jobii\n\n\n\u23f2\ufe0f Timestamps.\n00:00 \uc0c1\uc0c1\ub3c4 \ubabb\ud55c \uc815\uccb4\n00:12 \uc624\ud504\ub2dd\n00:43 \ub514\uc790\uc778\n02:04 \ub514\uc2a4\ud50c\ub808\uc774\n02:59 \ud504\ub85c\uc138\uc11c\n04:36 \uce74\uba54\ub77c\n05:22 \ubc30\ud130\ub9ac\n05:48 \ube60\uc9c4 \uae30\ub2a5\n06:37 \ubbf8\uce5c \uac00\uaca9\n\n\n\ud83d\udd16Tags.\n#\uc544\uc774\ud3f016e\n#\ud300\ucfe1\n#\ub9e5\uc138\uc774\ud504\n\n\n\ud83d\udca1 Merch.\n\ube14\ub799\uce74\uc6b0\ub7a9\uc2a4 \uad7f\uc988\ub97c \uc0ac\uace0 \uc2f6\ub2e4\uba74?\n-https://abit.ly/blackcowlabs\n\n\n\ud83d\udce8 Business contacts.\n itsub@itud.io",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vCTOBkFz_Xw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vCTOBkFz_Xw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vCTOBkFz_Xw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vCTOBkFz_Xw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vCTOBkFz_Xw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ITSub\uc787\uc12d",
+                "tags": [
+                    "\uc544\uc774\ud3f0 16e",
+                    "\uc544\uc774\ud3f0 16 e",
+                    "\uc544\uc774\ud3f0 se4",
+                    "se4",
+                    "se4 16e",
+                    "16e",
+                    "\uc544\uc774\ud3f0 16e \uc0ac\uc804\uc608\uc57d",
+                    "\uc544\uc774\ud3f0 16e 16",
+                    "\uc544\uc774\ud3f0 16e 16\ube44\uad50",
+                    "\uc544\uc774\ud3f0 16e \ucd9c\uc2dc\uc77c",
+                    "\uc544\uc774\ud3f0 16e \ube44\uad50",
+                    "\uc544\uc774\ud3f0 16e \uce74\uba54\ub77c",
+                    "\uc544\uc774\ud3f0 16e 15",
+                    "iPhone 16e"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\uc0c8\ub85c\ub098\uc628 \ubcf4\uae09\ud615 \uc544\uc774\ud3f0 16e \ucd1d\uc815\ub9ac! \uc560\ud50c\ube60\ub3c4 \uc190\uc808\ud560\ub9cc\ud55c \ubbf8\uce5c \uac00\uaca9",
+                    "description": "\uc544\uc774\ud3f0 SE 3\uc138\ub300 \ucd9c\uc2dc \uc774\ud6c4 \ub9ce\uc740 \uc874\ubc84\ub2e8\ubd84\ub4e4\uc774 4\uc138\ub300\ub97c \uae30\ub2e4\ub824\uc654\uc8e0. \uadf8\ub9ac\uace0 2025\ub144 \uc0c1\ubc18\uae30 \ucd9c\uc2dc \uc608\uc815\uc774\ub77c\ub294 \ub8e8\uba38\uc640\ud568\uaed8 \ub354\uc6b1 \uae30\ub300\uac10\uc774 \ucef8\ub294\ub370\uc694, \uc5b4\ub290\uc815\ub3c4 \uac00\uaca9\uc774 \uc624\ub97c\uac70\ub77c\uace0 \uc608\uc0c1\uc740\ud588\uc9c0\ub9cc \uc774\ub807\uac8c \ub9ce\uc774 \uc624\ub97c\uc904\uc740 \ubab0\ub790\ub358 16e. \uc804\uc791\ub300\ube44 \uc5b4\ub5a0\ud55c \uc810\uc774 \ub2ec\ub77c\uc84c\ub294\uc9c0 \ubaa8\ub450 \ucd1d\uc815\ub9ac \ud574\ubd24\uc2b5\ub2c8\ub2e4!\n\n\n\ud83d\udd0b Specs.\n\uacf5\uac1c \uc81c\ud488 : iPhone 16e\n\ub514\uc2a4\ud50c\ub808\uc774 : 6.1\uc778\uce58 Super Retina XDR\n\ud504\ub85c\uc138\uc11c : \uc560\ud50c A18 (6\ucf54\uc5b4 CPU / 4\ucf54\uc5b4 GPU)\nRAM : 8GB\n\uc800\uc7a5\uacf5\uac04 : 128GB/256GB/512GB\n\uce74\uba54\ub77c : \ud22c\uc778\uc6d0 (4,800\ub9cc \ud654\uc18c/1,200\ub9cc \ud654\uc18c 2\ubc30 \ub9dd\uc6d0)\n\ubb34\uac8c : 167g\n\uc0c9\uc0c1 : \ube14\ub799, \ud654\uc774\ud2b8\n\uac00\uaca9 : 990,000\uc6d0~\n\n\n\ud83c\udfb5 BGM.\nES_Jacuzzi - Jobii\n\n\n\u23f2\ufe0f Timestamps.\n00:00 \uc0c1\uc0c1\ub3c4 \ubabb\ud55c \uc815\uccb4\n00:12 \uc624\ud504\ub2dd\n00:43 \ub514\uc790\uc778\n02:04 \ub514\uc2a4\ud50c\ub808\uc774\n02:59 \ud504\ub85c\uc138\uc11c\n04:36 \uce74\uba54\ub77c\n05:22 \ubc30\ud130\ub9ac\n05:48 \ube60\uc9c4 \uae30\ub2a5\n06:37 \ubbf8\uce5c \uac00\uaca9\n\n\n\ud83d\udd16Tags.\n#\uc544\uc774\ud3f016e\n#\ud300\ucfe1\n#\ub9e5\uc138\uc774\ud504\n\n\n\ud83d\udca1 Merch.\n\ube14\ub799\uce74\uc6b0\ub7a9\uc2a4 \uad7f\uc988\ub97c \uc0ac\uace0 \uc2f6\ub2e4\uba74?\n-https://abit.ly/blackcowlabs\n\n\n\ud83d\udce8 Business contacts.\n itsub@itud.io"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1061137",
+                "likeCount": "10014",
+                "favoriteCount": "0",
+                "commentCount": "3519"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fKyhoQoc-i1bFAUSqvR6UrTD2WA",
+            "id": "VsLwUvZsYqQ",
+            "snippet": {
+                "publishedAt": "2025-02-20T10:00:38Z",
+                "channelId": "UCwx6n_4OcLgzAGdty0RWCoA",
+                "title": "\uac1c\uc548 \uc8fc\uc758! \uc5ec\uc2e0 \ucd9c\ubab0 \uac00\uac8c\u2728\u3163\uc6cc\ud06c\ub3cc\u3163\ud654\uc7a5\ud488 \uac00\uac8c\u3163\uc5d4\ubbf9\uc2a4 \ud574\uc6d0, \ub974\uc138\ub77c\ud54c \ud64d\uc740\ucc44",
+                "description": "\ud30c\uc6b4\ub370\uc774\uc158 \uceec\ub7ec\ub9cc 52\uac1c?! \ud558\ub298 \uc544\ub798 \uac19\uc740 \ube68\uac15\uc740 \uc5c6\ub2e4?!\n(\ub0a8\uc131 \uc7a1\uac83\ub4e4 \ub3d9\uacf5\uc9c0\uc9c4 \ub098\ub294 \uc18c\ub9ac)\n\uc624\ub298\uc758 \uc6cc\ud06c\ub3cc \uc54c\ubc14 \uccb4\ud5d8!\n\n\ubc31\ud654\uc810 \ud004\uc758 \ubdf0\ud2f0 \uc81c\ud488\uc744 \ucd5c\uc800\uac00\ub85c \ub9cc\ub098\ub294 \uacf3\n\uae00\ub85c\ubc8c K-Beauty \uc571 'YLESS'\n\n\ud83d\udcf1 \ud835\udc18\ud835\udc0b\ud835\udc04\ud835\udc12\ud835\udc12 App \ub2e4\uc6b4\ub85c\ub4dc : https://yless.app/kr\n(Android, iOS)\n\n\uba85\ud488 \uce74\ud53c\uc5d0\ub3c4 \ub4f1\uae09\uc774 \uc788\ub2e4?!\nYLESS \ub4c0\ud504 \uc81c\ud488\uc740 SSS\ub4f1\uae09 \uc9ed!\n\n\u2714\ud55c\uc815 \ud504\ub85c\ubaa8\uc158 \uac00\uc785\ube44 \uc5c6\uc774 3\uac1c \uc774\uc0c1 \uc0ac\uba74 \ubb34\uc870\uac74 50% \ud560\uc778!\n\n\ud83d\udccc \uc640\uc774\ub808\uc2a4 \ud50c\ub798\uadf8\uc2ed \uc2a4\ud1a0\uc5b4\n\ud83d\udccd\uc11c\uc6b8 \uc885\ub85c\uad6c \ubd81\ucd0c\ub85c 58\n\u23f0 10:00 ~ 18:00\n\n\n\ub2e4\uc74c\uc5d4 \uc5b4\ub5a4 \uc54c\ubc14\ub97c \uccb4\ud5d8\ud574 \ubcfc\uae4c\uc694?\n\n\ud83c\udf1a\ub9e4\uc8fc \ubaa9\uc694\uc77c \uc800\ub1417\uc2dc \uc6cc\ud06c\ub3cc\ud83c\udf1a\n*\uc77c\ubc18\uc778 \ucd9c\uc5f0\uc790\uc5d0 \ub300\ud55c \uc9c0\ub098\uce5c \ube44\ubc29 \ubc0f \uc778\uc2e0\uacf5\uaca9\uc131 \ub313\uae00\uc740 \uad00\ub9ac\uc790\uc5d0 \uc758\ud574 \uc0ad\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\u25b6 \uc77c\uac70\ub9ac \uc81c\ubcf4: \uc6cc\ud06c\ub9e8 \uc778\uc2a4\ud0c0\uadf8\ub7a8 @workman_job\n\u25b6 \ube44\uc988\ub2c8\uc2a4 \ubb38\uc758: lululala.ad@hll.kr\n\n#\uc6cc\ud06c\ub3cc #\uc5d4\ubbf9\uc2a4 #\ud574\uc6d0 #\ub974\uc138\ub77c\ud54c #\ud64d\uc740\ucc44\n#\ud654\uc7a5\ud488 #\ubdf0\ud2f0 #\ucd5c\uc800\uac00 #\uc640\uc774\ub808\uc2a4 #YLESS #Kbeauty #\uc54c\ubc14 #\uc9c1\uc5c5\uccb4\ud5d8",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VsLwUvZsYqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VsLwUvZsYqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VsLwUvZsYqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VsLwUvZsYqQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VsLwUvZsYqQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc6cc\ud06c\ub9e8-Workman",
+                "tags": [
+                    "\uc6cc\ud06c\ub3cc",
+                    "\uc6cc\ud06c\ub9e8",
+                    "\uc5d4\ubbf9\uc2a4",
+                    "\ud574\uc6d0",
+                    "\uc624\ud574\uc6d0",
+                    "\uc54c\ubc14\uc0dd",
+                    "\uc54c\ubc14",
+                    "\uc9c1\uc5c5",
+                    "\uc9c1\uc5c5\uccb4\ud5d8",
+                    "\ub974\uc138\ub77c\ud54c",
+                    "\ud64d\uc740\ucc44",
+                    "\ud654\uc7a5\ud488",
+                    "\ubdf0\ud2f0",
+                    "\ud30c\uc6b4\ub370\uc774\uc158",
+                    "\ud50c\ub7fc\ud37c",
+                    "\ub9bd",
+                    "\ub9c8\uc2a4\uce74\ub77c",
+                    "\ud654\uc7a5\ud488\ucd94\ucc9c",
+                    "\ubdf0\ud2f0\ube0c\ub79c\ub4dc",
+                    "\uc870\ub974\uc9c0\uc624\uc544\ub974\ub9c8\ub2c8",
+                    "\ud30c\ub370",
+                    "\ucfe0\uc158",
+                    "\uba54\uc774\ud06c\uc5c5",
+                    "\ud654\uc7a5",
+                    "\uc544\uc774\ub3cc\ud654\uc7a5",
+                    "\uc544\uc774\ub3cc",
+                    "kpop",
+                    "kbeauty",
+                    "makeup",
+                    "JYP",
+                    "NMIXX",
+                    "LE SSERAFIM",
+                    "\uae40\ucc44\uc6d0",
+                    "\uce74\uc988\ud558",
+                    "\uc0ac\ucfe0\ub77c",
+                    "\ud5c8\uc724\uc9c4",
+                    "\ub9b4\ub9ac",
+                    "\uc124\uc724",
+                    "\uc9c0\uc6b0",
+                    "\uaddc\uc9c4",
+                    "\ubc30\uc774",
+                    "\uc5ec\uc790\uc544\uc774\ub3cc",
+                    "\uac78\uadf8\ub8f9"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\uac1c\uc548 \uc8fc\uc758! \uc5ec\uc2e0 \ucd9c\ubab0 \uac00\uac8c\u2728\u3163\uc6cc\ud06c\ub3cc\u3163\ud654\uc7a5\ud488 \uac00\uac8c\u3163\uc5d4\ubbf9\uc2a4 \ud574\uc6d0, \ub974\uc138\ub77c\ud54c \ud64d\uc740\ucc44",
+                    "description": "\ud30c\uc6b4\ub370\uc774\uc158 \uceec\ub7ec\ub9cc 52\uac1c?! \ud558\ub298 \uc544\ub798 \uac19\uc740 \ube68\uac15\uc740 \uc5c6\ub2e4?!\n(\ub0a8\uc131 \uc7a1\uac83\ub4e4 \ub3d9\uacf5\uc9c0\uc9c4 \ub098\ub294 \uc18c\ub9ac)\n\uc624\ub298\uc758 \uc6cc\ud06c\ub3cc \uc54c\ubc14 \uccb4\ud5d8!\n\n\ubc31\ud654\uc810 \ud004\uc758 \ubdf0\ud2f0 \uc81c\ud488\uc744 \ucd5c\uc800\uac00\ub85c \ub9cc\ub098\ub294 \uacf3\n\uae00\ub85c\ubc8c K-Beauty \uc571 'YLESS'\n\n\ud83d\udcf1 \ud835\udc18\ud835\udc0b\ud835\udc04\ud835\udc12\ud835\udc12 App \ub2e4\uc6b4\ub85c\ub4dc : https://yless.app/kr\n(Android, iOS)\n\n\uba85\ud488 \uce74\ud53c\uc5d0\ub3c4 \ub4f1\uae09\uc774 \uc788\ub2e4?!\nYLESS \ub4c0\ud504 \uc81c\ud488\uc740 SSS\ub4f1\uae09 \uc9ed!\n\n\u2714\ud55c\uc815 \ud504\ub85c\ubaa8\uc158 \uac00\uc785\ube44 \uc5c6\uc774 3\uac1c \uc774\uc0c1 \uc0ac\uba74 \ubb34\uc870\uac74 50% \ud560\uc778!\n\n\ud83d\udccc \uc640\uc774\ub808\uc2a4 \ud50c\ub798\uadf8\uc2ed \uc2a4\ud1a0\uc5b4\n\ud83d\udccd\uc11c\uc6b8 \uc885\ub85c\uad6c \ubd81\ucd0c\ub85c 58\n\u23f0 10:00 ~ 18:00\n\n\n\ub2e4\uc74c\uc5d4 \uc5b4\ub5a4 \uc54c\ubc14\ub97c \uccb4\ud5d8\ud574 \ubcfc\uae4c\uc694?\n\n\ud83c\udf1a\ub9e4\uc8fc \ubaa9\uc694\uc77c \uc800\ub1417\uc2dc \uc6cc\ud06c\ub3cc\ud83c\udf1a\n*\uc77c\ubc18\uc778 \ucd9c\uc5f0\uc790\uc5d0 \ub300\ud55c \uc9c0\ub098\uce5c \ube44\ubc29 \ubc0f \uc778\uc2e0\uacf5\uaca9\uc131 \ub313\uae00\uc740 \uad00\ub9ac\uc790\uc5d0 \uc758\ud574 \uc0ad\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\u25b6 \uc77c\uac70\ub9ac \uc81c\ubcf4: \uc6cc\ud06c\ub9e8 \uc778\uc2a4\ud0c0\uadf8\ub7a8 @workman_job\n\u25b6 \ube44\uc988\ub2c8\uc2a4 \ubb38\uc758: lululala.ad@hll.kr\n\n#\uc6cc\ud06c\ub3cc #\uc5d4\ubbf9\uc2a4 #\ud574\uc6d0 #\ub974\uc138\ub77c\ud54c #\ud64d\uc740\ucc44\n#\ud654\uc7a5\ud488 #\ubdf0\ud2f0 #\ucd5c\uc800\uac00 #\uc640\uc774\ub808\uc2a4 #YLESS #Kbeauty #\uc54c\ubc14 #\uc9c1\uc5c5\uccb4\ud5d8"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "957430",
+                "likeCount": "29881",
+                "favoriteCount": "0",
+                "commentCount": "3663"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jIo3I6CdPczOQMniXJnjPGTNi08",
+            "id": "azknRoYaMs0",
+            "snippet": {
+                "publishedAt": "2025-02-19T10:30:03Z",
+                "channelId": "UCRMA_Nb5VF-YoWApSVeXPVA",
+                "title": "[#\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed] \ube44\ub9cc \uc804\ubb38\uc758\uac00 \ub9d0\ud558\ub294 \ud558\ub8e8\uc5d0 \ub9cc \ubcf4\ub97c \uac78\uc5b4\ub3c4 \uc0b4\uc774 \uc548 \ube60\uc9c0\ub294 \uc774\uc720\ud83d\udca1 \ub2f9\uc2e0\uc774 \ud55c \uc6b4\ub3d9\uc740 \uc6b4\ub3d9\uc774 \uc544\ub2d9\ub2c8\ub2e4\ud83d\ude45\u200d\u2642\ufe0f",
+                "description": "\ud2f0\ube59\uc5d0\uc11c \uc2a4\ud2b8\ub9ac\ubc0d : https://tving.onelink.me/xHqC/30a78d6f\n\n#\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed #\uc720\ud034\uc988 #\uc720\uc7ac\uc11d #\uc870\uc138\ud638\n\ub9e4\uc8fc \uc218\uc694\uc77c \uc800\ub141 8\uc2dc 45\ubd84 tvN\uc5d0\uc11c!\n\nwe\u2019re :DIGGLE family\n\n#\ud2f0\ube59\uc5d0\uc11c\uc2a4\ud2b8\ub9ac\ubc0d",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/azknRoYaMs0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/azknRoYaMs0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/azknRoYaMs0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/azknRoYaMs0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/azknRoYaMs0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ub514\uae00 \ud074\ub798\uc2dd :Diggle Classic",
+                "tags": [
+                    "CJ100",
+                    "YOUQUIZONTHEBLOCK",
+                    "tvN \uc720\ud034\uc988",
+                    "\uc720\uc7ac\uc11d",
+                    "\uc720\uc7ac\uc11d \uc870\uc138\ud638",
+                    "\uc720\ud034\uc988",
+                    "\uc720\ud034\uc988 \uac10\ub3d9",
+                    "\uc720\ud034\uc988 \uac8c\uc2a4\ud2b8",
+                    "\uc720\ud034\uc988 \ub178\uac00\ub9ac",
+                    "\uc720\ud034\uc988 \ub208\ubb3c",
+                    "\uc720\ud034\uc988 \ub2e4\uc2dc\ubcf4\uae30",
+                    "\uc720\ud034\uc988 \ub808\uc804\ub4dc",
+                    "\uc720\ud034\uc988 \ub808\uc804\ub4dc \ubaa8\uc74c",
+                    "\uc720\ud034\uc988 \ubab0\uc544\ubcf4\uae30",
+                    "\uc720\ud034\uc988 \ubc30\uc6b0",
+                    "\uc720\ud034\uc988 \uc0ac\ud22c\ub9ac",
+                    "\uc720\ud034\uc988 \uc601\ud654",
+                    "\uc720\ud034\uc988 \uc6b4\ub3d9\uc120\uc218",
+                    "\uc720\ud034\uc988 \uc720\uc7ac\uc11d",
+                    "\uc720\ud034\uc988 \uc77c\ubc18\uc778",
+                    "\uc720\ud034\uc988 \uc7ac\ubbf8",
+                    "\uc720\ud034\uc988 \uc870\uc138\ud638",
+                    "\uc720\ud034\uc988 \ud034\uc988",
+                    "\uc720\ud034\uc988 \ud480\ubc84\uc804",
+                    "\uc720\ud034\uc988 \ud560\uba38\ub2c8",
+                    "\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed",
+                    "\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed \ub2e4\uc2dc\ubcf4\uae30",
+                    "\uc870\uc138\ud638",
+                    "\ud2f0\ube59\uc5d0\uc11c\uc2a4\ud2b8\ub9ac\ubc0d"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[#\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed] \ube44\ub9cc \uc804\ubb38\uc758\uac00 \ub9d0\ud558\ub294 \ud558\ub8e8\uc5d0 \ub9cc \ubcf4\ub97c \uac78\uc5b4\ub3c4 \uc0b4\uc774 \uc548 \ube60\uc9c0\ub294 \uc774\uc720\ud83d\udca1 \ub2f9\uc2e0\uc774 \ud55c \uc6b4\ub3d9\uc740 \uc6b4\ub3d9\uc774 \uc544\ub2d9\ub2c8\ub2e4\ud83d\ude45\u200d\u2642\ufe0f",
+                    "description": "\ud2f0\ube59\uc5d0\uc11c \uc2a4\ud2b8\ub9ac\ubc0d : https://tving.onelink.me/xHqC/30a78d6f\n\n#\uc720\ud034\uc988\uc628\ub354\ube14\ub7ed #\uc720\ud034\uc988 #\uc720\uc7ac\uc11d #\uc870\uc138\ud638\n\ub9e4\uc8fc \uc218\uc694\uc77c \uc800\ub141 8\uc2dc 45\ubd84 tvN\uc5d0\uc11c!\n\nwe\u2019re :DIGGLE family\n\n#\ud2f0\ube59\uc5d0\uc11c\uc2a4\ud2b8\ub9ac\ubc0d"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "1810240",
+                "likeCount": "13954",
+                "favoriteCount": "0",
+                "commentCount": "1321"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "84H0Bs6SnXFDCRXeDG8vCH2i9eQ",
+            "id": "VG0C9IF3Zg0",
+            "snippet": {
+                "publishedAt": "2025-02-19T09:00:38Z",
+                "channelId": "UCSSkHIU1-nL_FeCjeZ_Xtvg",
+                "title": "\ub3d9\uc720\ub7fd\uc5d4 \uc138\ub974\uac8c\uc774 \ud55c\uad6d\uc5d0\ub294 \uc6a9\uc6d0\uac8c\uc774 feat. \ud14c\ubb34 \uae40\uc720\uc815 '\uc774\ub098'\u3163\ub178\ube60\uafb8\ud0c1\uc7ac\ud6c8 \uc2dc\uc98c3 EP.31",
+                "description": "\u2714\uad6c\ub3c5 & \uc88b\uc544\uc694 & \uc54c\ub9bc\uc124\uc815 \ud544\uc218\u2714\n\n\ub178\ube60\uafb8 \ud0c1\uc7ac\ud6c8 \uac8c\uc2a4\ud2b8 \uc9c0\uc6d0 \ubc0f \ube44\uc988\ub2c8\uc2a4 \ubb38\uc758 \n: project@hsquad.co.kr\n\n\ub178\ube60\uafb8 \ud0c1\uc7ac\ud6c8 \uc778\uc2a4\ud0c0\n: https://www.instagram.com/noback_tak/...\n\n*\ubcf8 \uc601\uc0c1\uacfc \ubb34\uad00\ud55c \ub0b4\uc6a9\uc758 \ub313\uae00 \ubc0f \ud5c8\uc704\uc0ac\uc2e4, \ucd9c\uc5f0\uc790\uc5d0 \ub300\ud55c \uacfc\ud55c \uc695\uc124, \ube44\ub09c \ubc0f \uc870\ub871 \ub4f1 \uc545\uc758\uc801\uc778 \ub313\uae00\uc740 \ubb34\ud1b5\ubcf4 \uc0ad\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n#\uc6a9\uc6d0\uac8c\uc774 #\uc774\ub098  #\ud0c1\uc7ac\ud6c8 #\uc2e0\uaddc\uc9c4 #\uc608\ub2a5",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VG0C9IF3Zg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VG0C9IF3Zg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VG0C9IF3Zg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VG0C9IF3Zg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VG0C9IF3Zg0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ub178\ube60\uafb8\ud0c1\uc7ac\ud6c8",
+                "tags": [
+                    "\uc2e0\uaddc\uc9c4",
+                    "\ud0c1\ubc18\uc7a5",
+                    "\ub178\ube61\uad6c",
+                    "\ub178\ube61\ud0c1",
+                    "\ud0c1\uc81c\ud6c8",
+                    "\ud589\uc8fc",
+                    "\ub178\ubc14\uad6c",
+                    "\ub178\ube61\uafb8",
+                    "\uc2f1\uaddc\uc9c4",
+                    "shQKRN",
+                    "\ub178\ube60\uafb8\ud0c1\uc7ac\ud6c8",
+                    "\ub178\ube61",
+                    "\uc2dc\uc98c",
+                    "\uc2dc\uc98c3",
+                    "dPtkdclahtgksvlffma",
+                    "\uc6a9\uc6d0\uaca1\u3163",
+                    "dyddnjsrpdl",
+                    "wkddyddnjs",
+                    "dlsk",
+                    "\uc778\ub098",
+                    "\uc6a9\uc6d0\u3134\uac8c\uc774"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ub3d9\uc720\ub7fd\uc5d4 \uc138\ub974\uac8c\uc774 \ud55c\uad6d\uc5d0\ub294 \uc6a9\uc6d0\uac8c\uc774 feat. \ud14c\ubb34 \uae40\uc720\uc815 '\uc774\ub098'\u3163\ub178\ube60\uafb8\ud0c1\uc7ac\ud6c8 \uc2dc\uc98c3 EP.31",
+                    "description": "\u2714\uad6c\ub3c5 & \uc88b\uc544\uc694 & \uc54c\ub9bc\uc124\uc815 \ud544\uc218\u2714\n\n\ub178\ube60\uafb8 \ud0c1\uc7ac\ud6c8 \uac8c\uc2a4\ud2b8 \uc9c0\uc6d0 \ubc0f \ube44\uc988\ub2c8\uc2a4 \ubb38\uc758 \n: project@hsquad.co.kr\n\n\ub178\ube60\uafb8 \ud0c1\uc7ac\ud6c8 \uc778\uc2a4\ud0c0\n: https://www.instagram.com/noback_tak/...\n\n*\ubcf8 \uc601\uc0c1\uacfc \ubb34\uad00\ud55c \ub0b4\uc6a9\uc758 \ub313\uae00 \ubc0f \ud5c8\uc704\uc0ac\uc2e4, \ucd9c\uc5f0\uc790\uc5d0 \ub300\ud55c \uacfc\ud55c \uc695\uc124, \ube44\ub09c \ubc0f \uc870\ub871 \ub4f1 \uc545\uc758\uc801\uc778 \ub313\uae00\uc740 \ubb34\ud1b5\ubcf4 \uc0ad\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n#\uc6a9\uc6d0\uac8c\uc774 #\uc774\ub098  #\ud0c1\uc7ac\ud6c8 #\uc2e0\uaddc\uc9c4 #\uc608\ub2a5"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "980315",
+                "likeCount": "14884",
+                "favoriteCount": "0",
+                "commentCount": "1451"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "__uDnC7-HPYld9Vec7hV0CBOAOo",
+            "id": "IRXLEZv1j_c",
+            "snippet": {
+                "publishedAt": "2025-02-21T09:00:22Z",
+                "channelId": "UCaaZFxjlHI3T_I-uFbldIGA",
+                "title": "\uc5c4\ub9c8\uc758 \uc624\uc9d5\uc5b4 \uac8c\uc784",
+                "description": "#\uc18c\ub9e5\uac70\ud540 #\uc624\uc9d5\uc5b4\uac8c\uc784 #squidgame #animation \n\uc778\uac04\uc774 \ub9cc\ub4e0 \uac8c\uc784\uc73c\ub85c\ub294 \uc5c4\ub9c8\ub97c \uc774\uae38 \uc218 \uc5c6\uc5b4\uc694\n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubb34\uad81\ud654 \uaf43\uc774 \ud53c\uc5c8\uc2b5\ub2c8\ub2e4 - https://youtu.be/Y8jh4gBETos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IRXLEZv1j_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IRXLEZv1j_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IRXLEZv1j_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IRXLEZv1j_c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IRXLEZv1j_c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc18c\ub9e5\uac70\ud540",
+                "tags": [
+                    "\ub9cc\ud654",
+                    "\uc18c\ub9e5\uac70\ud540",
+                    "\uc560\ub2c8\uba54\uc774\uc158",
+                    "\uc18c\ub9e5\uac70\ud540 \uc560\ub2c8\uba54\uc774\uc158",
+                    "\uc601\ud654/\uc560\ub2c8\uba54\uc774\uc158",
+                    "\uc18c\ub9e5",
+                    "somacguffin",
+                    "somacguffin animation",
+                    "animation",
+                    "meme",
+                    "Squid Game",
+                    "squid game animation",
+                    "Squid Game season 2",
+                    "Squid Game: Season 2 Animation",
+                    "\uc624\uc9d5\uc5b4\uac8c\uc784",
+                    "\uc624\uc9d5\uc5b4\uac8c\uc784 2"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\uc5c4\ub9c8\uc758 \uc624\uc9d5\uc5b4 \uac8c\uc784",
+                    "description": "#\uc18c\ub9e5\uac70\ud540 #\uc624\uc9d5\uc5b4\uac8c\uc784 #squidgame #animation \n\uc778\uac04\uc774 \ub9cc\ub4e0 \uac8c\uc784\uc73c\ub85c\ub294 \uc5c4\ub9c8\ub97c \uc774\uae38 \uc218 \uc5c6\uc5b4\uc694\n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubb34\uad81\ud654 \uaf43\uc774 \ud53c\uc5c8\uc2b5\ub2c8\ub2e4 - https://youtu.be/Y8jh4gBETos"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1680734",
+                "likeCount": "43831",
+                "favoriteCount": "0",
+                "commentCount": "1728"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pRmz4EtG6K13IylRnVaSn20OnKg",
+            "id": "8dMEUjKM7DI",
+            "snippet": {
+                "publishedAt": "2025-02-20T09:49:49Z",
+                "channelId": "UCaJCF6bmhG2wqPF3jA9gS4w",
+                "title": "\uc77c\ubcf8\uc8fc \uc804\uc6a9 \ud63c\uc220 \uae30\uacc4\ub85c \ud63c\uc220 \ud574\ubd24\uc2b5\ub2c8\ub2e4",
+                "description": "\uae30\uacc4\ub294 \ubaa8\ub450 \uc53b\uace0 \ucd2c\uc601\ud588\uc2b5\ub2c8\ub2e4~\ud83d\ude0a",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8dMEUjKM7DI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8dMEUjKM7DI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8dMEUjKM7DI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8dMEUjKM7DI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "\uc720\uc6b0\ud0a4\uc758 \uc77c\ubcf8\uc774\uc57c\uae30 YUUKI",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\uc77c\ubcf8\uc8fc \uc804\uc6a9 \ud63c\uc220 \uae30\uacc4\ub85c \ud63c\uc220 \ud574\ubd24\uc2b5\ub2c8\ub2e4",
+                    "description": "\uae30\uacc4\ub294 \ubaa8\ub450 \uc53b\uace0 \ucd2c\uc601\ud588\uc2b5\ub2c8\ub2e4~\ud83d\ude0a"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "462732",
+                "likeCount": "11127",
+                "favoriteCount": "0",
+                "commentCount": "1113"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "59vsB4qcZNcxcE3iTHF001v1waw",
+            "id": "rfFg6ztOUUw",
+            "snippet": {
+                "publishedAt": "2025-02-21T09:01:07Z",
+                "channelId": "UCXGXTy_GDJAlRTk9ypTHNKQ",
+                "title": "\uc6b0\ub9ac\ub294 \ubc18\uc9c0\ud558 \uc6d0\ub8f8\uc5d0\uc11c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4. \ub4dc\ub514\uc5b4 \ud55c\uad6d \uc4f0\ub9ac\ub8f8\uc5d0 \uc785\uc8fc\ud55c \ud504\ub791\uc2a4 \uc544\ub0b4.",
+                "description": "#\uad6d\uc81c\ucee4\ud50c #\uad6d\uc81c\uacb0\ud63c \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : Doopba -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839] (\uc378/\uc5f0\uc778/Sweet) Doopba [\ubb34\ub8cc\uc74c\uc545/\ube0c\uae08/...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubc31\uc218\uc758 \ud558\ub8e8 -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839](\ud55c\ub7c9/\ucf54\ubbf9/Comic) \ubc31\uc218\uc758 \ud558\ub8e8 / A Day o...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : A Peaceful Afternoon -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839] (\ud790\ub9c1/\uc11c\uc815/Healing) A Peaceful Af...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubb34\ub8cc\ubc30\uc1a1 -    \u2022 \uc9c0\ub2a5\uc9c0\uc218 \ub0ae\uc544\uc9c0\ub294 \ube0c\uae08",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rfFg6ztOUUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rfFg6ztOUUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rfFg6ztOUUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rfFg6ztOUUw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rfFg6ztOUUw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uae40\uce58\uc640 \ubc14\uac8c\ub728 / Kimchi & Baguette",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\uc6b0\ub9ac\ub294 \ubc18\uc9c0\ud558 \uc6d0\ub8f8\uc5d0\uc11c \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4. \ub4dc\ub514\uc5b4 \ud55c\uad6d \uc4f0\ub9ac\ub8f8\uc5d0 \uc785\uc8fc\ud55c \ud504\ub791\uc2a4 \uc544\ub0b4.",
+                    "description": "#\uad6d\uc81c\ucee4\ud50c #\uad6d\uc81c\uacb0\ud63c \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : Doopba -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839] (\uc378/\uc5f0\uc778/Sweet) Doopba [\ubb34\ub8cc\uc74c\uc545/\ube0c\uae08/...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubc31\uc218\uc758 \ud558\ub8e8 -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839](\ud55c\ub7c9/\ucf54\ubbf9/Comic) \ubc31\uc218\uc758 \ud558\ub8e8 / A Day o...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : A Peaceful Afternoon -    \u2022 [\ube0c\uae08\ub300\ud1b5\ub839] (\ud790\ub9c1/\uc11c\uc815/Healing) A Peaceful Af...  \n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\n\ud83c\udfb5Track : \ubb34\ub8cc\ubc30\uc1a1 -    \u2022 \uc9c0\ub2a5\uc9c0\uc218 \ub0ae\uc544\uc9c0\ub294 \ube0c\uae08"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "450985",
+                "likeCount": "25376",
+                "favoriteCount": "0",
+                "commentCount": "2222"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "S4itYODRb9qAk3uEL6csqiuFLO4",
+            "id": "LDemgZcBj7o",
+            "snippet": {
+                "publishedAt": "2025-02-18T10:00:07Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "PLAVE (\ud50c\ub808\uc774\ube0c)\uc758 \ud0ac\ub9c1\ubcf4\uc774\uc2a4\ub97c \ub77c\uc774\ube0c\ub85c! - \uae30\ub2e4\ub9b4\uac8c, Dash, \uc5ec\uc12f \ubc88\uc9f8 \uc5ec\ub984, WAY 4 LUV, \uc65c\uc694 \uc65c\uc694 \uc65c?, \ubc84\ucd94\uc5bc \uc544\uc774\ub3cc\u3163\ub529\uace0\ubba4\uc9c1\u3163Dingo Music",
+                "description": "\ud601\uba85\uc740 \uc2dc\uc791\ub410\uc5b4 \uc77c\uc5b4\ub098 \uc601\uad11\uc740 \ud50c\ub808\uc774\ube0c\uc758 \uac83\ud83d\udc99\ud83d\udc9c\ud83d\udc97\u2764\ufe0f\ud83d\udda4\n\n00:00 \uc624\ud504\ub2dd\n00:53 \uae30\ub2e4\ub9b4\uac8c\n02:58 WAY 4 LUV\n04:19 Pump Up The Volume!\n06:01 \uc5ec\uc12f \ubc88\uc9f8 \uc5ec\ub984\n07:13 Pixel World\n08:18 \uc65c\uc694 \uc65c\uc694 \uc65c?\n09:26 Watch Me Woo!\n10:26 Dear. PLLI\n11:49 \uc6b0\ub9ac \uc601\ud654\n13:35 \ubc84\ucd94\uc5bc \uc544\uc774\ub3cc\n15:04 Chroma Drift\n16:23 Dash\n\n\u25b6\ub529\uace0\ubba4\uc9c1 (Dingo Music) : http://bit.ly/Dingo__Music\n\u25b6\ub529\uace0\ud504\ub9ac\uc2a4\ud0c0\uc77c (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n\u25b6\uc77c\uc18c\ub77c (\uc77c\ubc18\uc778\ub4e4\uc758 \uc18c\ub984\ub3cb\ub294 \ub77c\uc774\ube0c) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#PLAVE #\ud50c\ub808\uc774\ube0c\n#\ud0ac\ub9c1\ubcf4\uc774\uc2a4 #KillingVoice\n#\ub529\uace0\ubba4\uc9c1 #DingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LDemgZcBj7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LDemgZcBj7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LDemgZcBj7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LDemgZcBj7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LDemgZcBj7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ub529\uace0 \ubba4\uc9c1 / dingo music",
+                "tags": [
+                    "\ub529\uace0\ubba4\uc9c1",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "kpop",
+                    "live",
+                    "\uba5c\ub860",
+                    "\uc138\ub85c\ub77c\uc774\ube0c",
+                    "\ucd5c\uc2e0\uac00\uc694",
+                    "top100",
+                    "\uc544\uc774\ub3cc",
+                    "\ub77c\uc774\ube0c",
+                    "\uc74c\uc545",
+                    "\ub529\uace0",
+                    "\ud0ac\ub9c1\ubcf4\uc774\uc2a4",
+                    "KillingVoice",
+                    "plave",
+                    "\ud50c\ub808\uc774\ube0c",
+                    "\uc740\ud638",
+                    "\ub178\uc544",
+                    "\uc608\uc900",
+                    "\ubc24\ube44",
+                    "\ud558\ubbfc",
+                    "\ubc84\ud29c\ubc84",
+                    "\ubc84\ucd94\uc5bc\uc544\uc774\ub3cc",
+                    "Dash",
+                    "\ud50c\ub9ac"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "PLAVE (\ud50c\ub808\uc774\ube0c)\uc758 \ud0ac\ub9c1\ubcf4\uc774\uc2a4\ub97c \ub77c\uc774\ube0c\ub85c! - \uae30\ub2e4\ub9b4\uac8c, Dash, \uc5ec\uc12f \ubc88\uc9f8 \uc5ec\ub984, WAY 4 LUV, \uc65c\uc694 \uc65c\uc694 \uc65c?, \ubc84\ucd94\uc5bc \uc544\uc774\ub3cc\u3163\ub529\uace0\ubba4\uc9c1\u3163Dingo Music",
+                    "description": "\ud601\uba85\uc740 \uc2dc\uc791\ub410\uc5b4 \uc77c\uc5b4\ub098 \uc601\uad11\uc740 \ud50c\ub808\uc774\ube0c\uc758 \uac83\ud83d\udc99\ud83d\udc9c\ud83d\udc97\u2764\ufe0f\ud83d\udda4\n\n00:00 \uc624\ud504\ub2dd\n00:53 \uae30\ub2e4\ub9b4\uac8c\n02:58 WAY 4 LUV\n04:19 Pump Up The Volume!\n06:01 \uc5ec\uc12f \ubc88\uc9f8 \uc5ec\ub984\n07:13 Pixel World\n08:18 \uc65c\uc694 \uc65c\uc694 \uc65c?\n09:26 Watch Me Woo!\n10:26 Dear. PLLI\n11:49 \uc6b0\ub9ac \uc601\ud654\n13:35 \ubc84\ucd94\uc5bc \uc544\uc774\ub3cc\n15:04 Chroma Drift\n16:23 Dash\n\n\u25b6\ub529\uace0\ubba4\uc9c1 (Dingo Music) : http://bit.ly/Dingo__Music\n\u25b6\ub529\uace0\ud504\ub9ac\uc2a4\ud0c0\uc77c (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n\u25b6\uc77c\uc18c\ub77c (\uc77c\ubc18\uc778\ub4e4\uc758 \uc18c\ub984\ub3cb\ub294 \ub77c\uc774\ube0c) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#PLAVE #\ud50c\ub808\uc774\ube0c\n#\ud0ac\ub9c1\ubcf4\uc774\uc2a4 #KillingVoice\n#\ub529\uace0\ubba4\uc9c1 #DingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1230154",
+                "likeCount": "92513",
+                "favoriteCount": "0",
+                "commentCount": "25270"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EgfRSvfGTlh8f9_RqaUQspyDJJI",
+            "id": "Rk4BtxQoNOo",
+            "snippet": {
+                "publishedAt": "2025-02-20T00:00:15Z",
+                "channelId": "UCSHbm2TrspNZ_p_yd39kMNg",
+                "title": "[\ud558\ub098\uc740\ud589] \ub0b4\uac00 \ubc1b\ub294 \uc5f0\uae08\ub3c4, \ud558\ub098\uc740\ud589\uc73c\ub85c! (15s)",
+                "description": "\uc9c0\uae08\ucc98\ub7fc \uc778\uc0dd\uc758 \ud589\ubcf5\uc744 \uc774\uc5b4\uac00\uace0 \uc2f6\uc740 \ud55c\ubd84 \ud55c\ubd84\uc758 \ub9c8\uc74c, \n\ud3c9\uc0dd \uc9c0\ucf1c\ub4dc\ub9ac\uace0 \uc2f6\uc5b4\uc694 \ud83e\udec2\n\uc190\ub2d8\uc758 \uc18c\uc911\ud55c \uc5f0\uae08\ub3c4 \ud558\ub098\uc740\ud589\uc774 \ud3c9\uc0dd \uc9c0\ucf1c\ub4dc\ub9b4\uac8c\uc694 \ud83d\udcaa\ud83c\udffb\n\n\ud83d\udc9a\uc601\uc6c5\uacfc \ud568\uaed8 \uc2dc\uc791\ud558\ub294 \ud558\ub8e8! \ud558\ub098\uc6d0\ud050\uc5d0\uc11c \uc784\uc601\uc6c5 \ubc30\uacbd\ud654\uba74 \ubc1b\uc544\uac00\uc138\uc694!\n\uc784\uc601\uc6c5 \ubc30\uacbd\ud654\uba74 \ub2e4\uc6b4\ubc1b\uae30 \u25b6 https://hanabank.me/3WLDZbv \n\n\ud83d\udcb0\uc5f0\uae08\uc218\uae09 \uacc4\uc88c\ub294 \ud558\ub098\uc740\ud589!\n\uad6d\ubbfc\uc5f0\uae08 | \uacf5\ubb34\uc6d0\uc5f0\uae08 | \uc0ac\ud559\uc5f0\uae08 | \uad70\uc778\uc5f0\uae08 \n\n#\ud558\ub098\uc740\ud589 #\uc784\uc601\uc6c5 #\uc5f0\uae08\uc218\uae09\uacc4\uc88c \n#\ud558\ub098\ubfd0\uc778\ub0b4\ud3b8 #\uc5f0\uae08 \n#\uad6d\ubbfc\uc5f0\uae08 #\uacf5\ubb34\uc6d0\uc5f0\uae08 #\uc0ac\ud559\uc5f0\uae08 #\uad70\uc778\uc5f0\uae08 \n\n-----\n[\uc720\uc758\uc0ac\ud56d]\n\u203b\ud558\ub098\uc6d0\ud050\ub294 \ud558\ub098\uc740\ud589\uc758 \ub300\ud45c \uc2a4\ub9c8\ud2b8\ud3f0\ubc45\ud0b9 \ube0c\ub79c\ub4dc\uc785\ub2c8\ub2e4.\u203b \uae08\uc735\uc0c1\ud488\uc5d0 \uad00\ud55c \uacc4\uc57d\uc744 \uccb4\uacb0\ud558\uae30 \uc804\uc5d0 \uae08\uc735\uc0c1\ud488 \uc124\uba85\uc11c \ubc0f \uc57d\uad00\uc744 \uc77d\uc5b4 \ubcf4\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4 \u203b \uae08\uc735\uc18c\ube44\uc790\ub294 \ud574\ub2f9 \uc0c1\ud488 \ub610\ub294 \uc11c\ube44\uc2a4\uc5d0 \ub300\ud558\uc5ec \uc124\uba85 \ubc1b\uc744 \uad8c\ub9ac\uac00 \uc788\uc2b5\ub2c8\ub2e4 \u203b \uc911\ub3c4\ud574\uc9c0\uae08\ub9ac \ubc0f \ub9cc\uae30\ud6c4 \uae08\ub9ac \ub4f1 \uc0c1\ud488 \uad00\ub828 \uc790\uc138\ud55c \uc0ac\ud56d\uc740 \uc0c1\ud488\uc124\uba85\uc11c \ubc0f \ud558\ub098\uc740\ud589 \ud648\ud398\uc774\uc9c0(www.kebhana.com)\ub97c \ucc38\uace0\ud558\uc2dc\uac70\ub098, \ud558\ub098\uc740\ud589 \uace0\uac1d\uc13c\ud130(1599-1111) \ub610\ub294 \uc601\uc5c5\uc810\uc73c\ub85c \ubb38\uc758\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4. \u203b \uc774 \uc608\uae08\uc740 \uc608\uae08\uc790\ubcf4\ud638\ubc95\uc5d0 \ub530\ub77c \uc6d0\uae08\uacfc \uc18c\uc815\uc758 \uc774\uc790\ub97c \ud569\ud558\uc5ec 1\uc778\ub2f9 \u201c5\ucc9c\ub9cc\uc6d0\uae4c\uc9c0\u201d(\ubcf8 \uc740\ud589\uc758 \uc5ec\ud0c0 \ubcf4\ud638\uc0c1\ud488\uacfc \ud569\uc0b0) \ubcf4\ud638\ub429\ub2c8\ub2e4. \u203b \ubcf8 \ud64d\ubcf4\ubb3c\uc740 \ubc95\ub839 \ubc0f \ub0b4\ubd80\ud1b5\uc81c\uae30\uc900\uc5d0 \ub530\ub978 \uc808\ucc28\ub97c \uac70\uccd0 \uc81c\uacf5\ub429\ub2c8\ub2e4 \u203b\ubcf8 \ud64d\ubcf4\ubb3c\uc740 2026\ub144 1\uc6d4 31\uc77c\uae4c\uc9c0 \uc720\ud6a8\ud558\uba70, \uc720\ud6a8\uae30\uac04 \uc774\ud6c4\uc5d0\ub294 \uac8c\uc2dc\ubb3c \uad00\ub9ac \uae30\ub85d \ubaa9\uc801\uc73c\ub85c \uc720\uc9c0\ub429\ub2c8\ub2e4. \u203b\uc900\ubc95\uac10\uc2dc\uc778 \uc2ec\uc758\ud544 \uc81c2025-\uad11\uace0-00971\ud638(2025.02.06) / CC\ube0c\ub79c\ub4dc241128-0279",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rk4BtxQoNOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rk4BtxQoNOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rk4BtxQoNOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rk4BtxQoNOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rk4BtxQoNOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ud558\ub098TV [\ud558\ub098\uc740\ud589]",
+                "tags": [
+                    "\ud558\ub098\uc740\ud589",
+                    "KEBHANA.COM",
+                    "\ud558\ub098\uc6d0\ud050",
+                    "HANA1Q",
+                    "HanaOneQ"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[\ud558\ub098\uc740\ud589] \ub0b4\uac00 \ubc1b\ub294 \uc5f0\uae08\ub3c4, \ud558\ub098\uc740\ud589\uc73c\ub85c! (15s)",
+                    "description": "\uc9c0\uae08\ucc98\ub7fc \uc778\uc0dd\uc758 \ud589\ubcf5\uc744 \uc774\uc5b4\uac00\uace0 \uc2f6\uc740 \ud55c\ubd84 \ud55c\ubd84\uc758 \ub9c8\uc74c, \n\ud3c9\uc0dd \uc9c0\ucf1c\ub4dc\ub9ac\uace0 \uc2f6\uc5b4\uc694 \ud83e\udec2\n\uc190\ub2d8\uc758 \uc18c\uc911\ud55c \uc5f0\uae08\ub3c4 \ud558\ub098\uc740\ud589\uc774 \ud3c9\uc0dd \uc9c0\ucf1c\ub4dc\ub9b4\uac8c\uc694 \ud83d\udcaa\ud83c\udffb\n\n\ud83d\udc9a\uc601\uc6c5\uacfc \ud568\uaed8 \uc2dc\uc791\ud558\ub294 \ud558\ub8e8! \ud558\ub098\uc6d0\ud050\uc5d0\uc11c \uc784\uc601\uc6c5 \ubc30\uacbd\ud654\uba74 \ubc1b\uc544\uac00\uc138\uc694!\n\uc784\uc601\uc6c5 \ubc30\uacbd\ud654\uba74 \ub2e4\uc6b4\ubc1b\uae30 \u25b6 https://hanabank.me/3WLDZbv \n\n\ud83d\udcb0\uc5f0\uae08\uc218\uae09 \uacc4\uc88c\ub294 \ud558\ub098\uc740\ud589!\n\uad6d\ubbfc\uc5f0\uae08 | \uacf5\ubb34\uc6d0\uc5f0\uae08 | \uc0ac\ud559\uc5f0\uae08 | \uad70\uc778\uc5f0\uae08 \n\n#\ud558\ub098\uc740\ud589 #\uc784\uc601\uc6c5 #\uc5f0\uae08\uc218\uae09\uacc4\uc88c \n#\ud558\ub098\ubfd0\uc778\ub0b4\ud3b8 #\uc5f0\uae08 \n#\uad6d\ubbfc\uc5f0\uae08 #\uacf5\ubb34\uc6d0\uc5f0\uae08 #\uc0ac\ud559\uc5f0\uae08 #\uad70\uc778\uc5f0\uae08 \n\n-----\n[\uc720\uc758\uc0ac\ud56d]\n\u203b\ud558\ub098\uc6d0\ud050\ub294 \ud558\ub098\uc740\ud589\uc758 \ub300\ud45c \uc2a4\ub9c8\ud2b8\ud3f0\ubc45\ud0b9 \ube0c\ub79c\ub4dc\uc785\ub2c8\ub2e4.\u203b \uae08\uc735\uc0c1\ud488\uc5d0 \uad00\ud55c \uacc4\uc57d\uc744 \uccb4\uacb0\ud558\uae30 \uc804\uc5d0 \uae08\uc735\uc0c1\ud488 \uc124\uba85\uc11c \ubc0f \uc57d\uad00\uc744 \uc77d\uc5b4 \ubcf4\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4 \u203b \uae08\uc735\uc18c\ube44\uc790\ub294 \ud574\ub2f9 \uc0c1\ud488 \ub610\ub294 \uc11c\ube44\uc2a4\uc5d0 \ub300\ud558\uc5ec \uc124\uba85 \ubc1b\uc744 \uad8c\ub9ac\uac00 \uc788\uc2b5\ub2c8\ub2e4 \u203b \uc911\ub3c4\ud574\uc9c0\uae08\ub9ac \ubc0f \ub9cc\uae30\ud6c4 \uae08\ub9ac \ub4f1 \uc0c1\ud488 \uad00\ub828 \uc790\uc138\ud55c \uc0ac\ud56d\uc740 \uc0c1\ud488\uc124\uba85\uc11c \ubc0f \ud558\ub098\uc740\ud589 \ud648\ud398\uc774\uc9c0(www.kebhana.com)\ub97c \ucc38\uace0\ud558\uc2dc\uac70\ub098, \ud558\ub098\uc740\ud589 \uace0\uac1d\uc13c\ud130(1599-1111) \ub610\ub294 \uc601\uc5c5\uc810\uc73c\ub85c \ubb38\uc758\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4. \u203b \uc774 \uc608\uae08\uc740 \uc608\uae08\uc790\ubcf4\ud638\ubc95\uc5d0 \ub530\ub77c \uc6d0\uae08\uacfc \uc18c\uc815\uc758 \uc774\uc790\ub97c \ud569\ud558\uc5ec 1\uc778\ub2f9 \u201c5\ucc9c\ub9cc\uc6d0\uae4c\uc9c0\u201d(\ubcf8 \uc740\ud589\uc758 \uc5ec\ud0c0 \ubcf4\ud638\uc0c1\ud488\uacfc \ud569\uc0b0) \ubcf4\ud638\ub429\ub2c8\ub2e4. \u203b \ubcf8 \ud64d\ubcf4\ubb3c\uc740 \ubc95\ub839 \ubc0f \ub0b4\ubd80\ud1b5\uc81c\uae30\uc900\uc5d0 \ub530\ub978 \uc808\ucc28\ub97c \uac70\uccd0 \uc81c\uacf5\ub429\ub2c8\ub2e4 \u203b\ubcf8 \ud64d\ubcf4\ubb3c\uc740 2026\ub144 1\uc6d4 31\uc77c\uae4c\uc9c0 \uc720\ud6a8\ud558\uba70, \uc720\ud6a8\uae30\uac04 \uc774\ud6c4\uc5d0\ub294 \uac8c\uc2dc\ubb3c \uad00\ub9ac \uae30\ub85d \ubaa9\uc801\uc73c\ub85c \uc720\uc9c0\ub429\ub2c8\ub2e4. \u203b\uc900\ubc95\uac10\uc2dc\uc778 \uc2ec\uc758\ud544 \uc81c2025-\uad11\uace0-00971\ud638(2025.02.06) / CC\ube0c\ub79c\ub4dc241128-0279"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "552289",
+                "likeCount": "15417",
+                "favoriteCount": "0",
+                "commentCount": "1516"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MLNDskOvLxiKXP7A4qHQi48Folw",
+            "id": "4Moma3pMakg",
+            "snippet": {
+                "publishedAt": "2025-02-19T11:00:10Z",
+                "channelId": "UCby6TnEm4xha2NIncRxC2EQ",
+                "title": "23\uc0b4\uc5d0 7\uc5b5 \ubaa8\uc740 \uc370",
+                "description": "\u2022\uc778\uc2a4\ud0c0\uadf8\ub7a8\nID | yeboring03\nhttps://www.instagram.com/yeboring03/\n\n\u2022\ube44\uc988\ub2c8\uc2a4 \ubb38\uc758 | hotdogmedia.inc@gmail.com\n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\nTrack : \uc5ec\ub984\ubc24\uc758 \uafc8 3 - https://youtu.be/sWGs5_0V8Rw?si=M1_dWtjQNhX3K66-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4Moma3pMakg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4Moma3pMakg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4Moma3pMakg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4Moma3pMakg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4Moma3pMakg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc608\ubcf4\ub9c1 ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "23\uc0b4\uc5d0 7\uc5b5 \ubaa8\uc740 \uc370",
+                    "description": "\u2022\uc778\uc2a4\ud0c0\uadf8\ub7a8\nID | yeboring03\nhttps://www.instagram.com/yeboring03/\n\n\u2022\ube44\uc988\ub2c8\uc2a4 \ubb38\uc758 | hotdogmedia.inc@gmail.com\n\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839\nTrack : \uc5ec\ub984\ubc24\uc758 \uafc8 3 - https://youtu.be/sWGs5_0V8Rw?si=M1_dWtjQNhX3K66-"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "395081",
+                "likeCount": "6926",
+                "favoriteCount": "0",
+                "commentCount": "590"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Rro2S2LMofna2jB4pTbg0NSt_JM",
+            "id": "AjK7KpxkW-o",
+            "snippet": {
+                "publishedAt": "2025-02-20T12:00:13Z",
+                "channelId": "UCYDyvqaGX6WxH77N04sj6mg",
+                "title": "[VLOG] \ub4dc\ub514\uc5b4 \uc81c\uc8fc\uc0b4\uc774 \uc2dc\uc791\ud83c\udfe0\ud83c\udf4a \ub85c\ub9dd \uc2e4\ud604 \u2049\ufe0f(\ub9c8\uc9c0\ub9c9 \uc5b4\ub9b0\uc774\uc9d1 \ub4f1\uc6d0\ud83d\ude22)",
+                "description": "\ud83c\udf81 \uc96c\ub514\ubc14 \uc5ec\ub7ec\ubd84\ub4e4\uc744 \uc704\ud574 \ub9ac\ub4dc\ubcfc\ud2b8\uac00 \uc900\ube44\ud55c \ud2b9\ubcc4 \ud61c\ud0dd \ud83c\udf81\n\uc96c\ub561\ubd80\ubd80\uc640 \ucee4\ud50c \uce90\ub9ac\uc5b4\ud574\uc694~~\u2764\ufe0f\n\n1\ufe0f\u20e3 \uc5ed\ub300\uae09 \ud560\uc778\n\uc9c1\uc811 \ucd08\uc774\uc2a4\ud55c \ub9ac\ub4dc\ubcfc\ud2b8 \uce90\ub9ac\uc5b4\ub97c \uae30\uac04\ud55c\uc815 \uc5ed\ub300\uae09 \ud560\uc778\ud61c\ud0dd\uc73c\ub85c \ub9cc\ub098\ubcf4\uc138\uc694 !\n\ub9ac\ub4dc\ubcfc\ud2b8 \ubc14\ub85c\uac00\uae30: https://bit.ly/413162x\n\n2\ufe0f\u20e3 \ub9ac\uc96c\ub77c\uc774\ud06c \uc720\ud29c\ube0c \ub313\uae00 \uc774\ubca4\ud2b8\n\ucd94\ucca8\uc744 \ud1b5\ud574 10\uba85\uc5d0\uac8c \ub9ac\ub4dc\ubcfc\ud2b8 \uce90\ub9ac\uc5b4\ub97c \uc120\ubb3c\ub85c \ub4dc\ub9bd\ub2c8\ub2e4! (\uc635\uc158\ub79c\ub364)\n\uc774\ubca4\ud2b8 \uae30\uac04: 25.02.20 21:00 ~ 25.02.26 23:59 \n\ub2f9\ucca8\uc790 \ubc1c\ud45c: 25.02.28 \ub354\ubcf4\uae30\ub780 \ub610\ub294 \uace0\uc815 \ub313\uae00\n\ucc38\uc5ec \ubc29\ubc95\n1. \ub9ac\uc96c\ub77c\uc774\ud06c \uad6c\ub3c5\ud558\uae30!\n2. \ub313\uae00\uc5d0 \ub9ac\uc96c\ub77c\uc774\ud06c+\ub9ac\ub4dc\ubcfc\ud2b8 \uc751\uc6d0 \ub313\uae00 \ub0a8\uae30\uae30\n3. \uad6c\uae00 \ud3fc \uc791\uc131\ud558\uae30\n\uad6c\uae00\ud3fc: https://forms.gle/kbKQubp1gG4jPRdR9\n\n\ud83c\udfb6BGM - \uc624\ub298\uc758 \uc77c\uae30 Oneul\ninstagram : @r_yuhyeju\n\nYouTube & Instagram \ubb38\uc758\nlijulike@crbhoney.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AjK7KpxkW-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AjK7KpxkW-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AjK7KpxkW-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AjK7KpxkW-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AjK7KpxkW-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ub9ac\uc96c\ub77c\uc774\ud06c LIJULIKE",
+                "tags": [
+                    "\ube0c\uc774\ub85c\uadf8",
+                    "\ucee4\ud50cvlog",
+                    "\ubd80\ubd80",
+                    "\uc720\ud61c\uc8fc"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[VLOG] \ub4dc\ub514\uc5b4 \uc81c\uc8fc\uc0b4\uc774 \uc2dc\uc791\ud83c\udfe0\ud83c\udf4a \ub85c\ub9dd \uc2e4\ud604 \u2049\ufe0f(\ub9c8\uc9c0\ub9c9 \uc5b4\ub9b0\uc774\uc9d1 \ub4f1\uc6d0\ud83d\ude22)",
+                    "description": "\ud83c\udf81 \uc96c\ub514\ubc14 \uc5ec\ub7ec\ubd84\ub4e4\uc744 \uc704\ud574 \ub9ac\ub4dc\ubcfc\ud2b8\uac00 \uc900\ube44\ud55c \ud2b9\ubcc4 \ud61c\ud0dd \ud83c\udf81\n\uc96c\ub561\ubd80\ubd80\uc640 \ucee4\ud50c \uce90\ub9ac\uc5b4\ud574\uc694~~\u2764\ufe0f\n\n1\ufe0f\u20e3 \uc5ed\ub300\uae09 \ud560\uc778\n\uc9c1\uc811 \ucd08\uc774\uc2a4\ud55c \ub9ac\ub4dc\ubcfc\ud2b8 \uce90\ub9ac\uc5b4\ub97c \uae30\uac04\ud55c\uc815 \uc5ed\ub300\uae09 \ud560\uc778\ud61c\ud0dd\uc73c\ub85c \ub9cc\ub098\ubcf4\uc138\uc694 !\n\ub9ac\ub4dc\ubcfc\ud2b8 \ubc14\ub85c\uac00\uae30: https://bit.ly/413162x\n\n2\ufe0f\u20e3 \ub9ac\uc96c\ub77c\uc774\ud06c \uc720\ud29c\ube0c \ub313\uae00 \uc774\ubca4\ud2b8\n\ucd94\ucca8\uc744 \ud1b5\ud574 10\uba85\uc5d0\uac8c \ub9ac\ub4dc\ubcfc\ud2b8 \uce90\ub9ac\uc5b4\ub97c \uc120\ubb3c\ub85c \ub4dc\ub9bd\ub2c8\ub2e4! (\uc635\uc158\ub79c\ub364)\n\uc774\ubca4\ud2b8 \uae30\uac04: 25.02.20 21:00 ~ 25.02.26 23:59 \n\ub2f9\ucca8\uc790 \ubc1c\ud45c: 25.02.28 \ub354\ubcf4\uae30\ub780 \ub610\ub294 \uace0\uc815 \ub313\uae00\n\ucc38\uc5ec \ubc29\ubc95\n1. \ub9ac\uc96c\ub77c\uc774\ud06c \uad6c\ub3c5\ud558\uae30!\n2. \ub313\uae00\uc5d0 \ub9ac\uc96c\ub77c\uc774\ud06c+\ub9ac\ub4dc\ubcfc\ud2b8 \uc751\uc6d0 \ub313\uae00 \ub0a8\uae30\uae30\n3. \uad6c\uae00 \ud3fc \uc791\uc131\ud558\uae30\n\uad6c\uae00\ud3fc: https://forms.gle/kbKQubp1gG4jPRdR9\n\n\ud83c\udfb6BGM - \uc624\ub298\uc758 \uc77c\uae30 Oneul\ninstagram : @r_yuhyeju\n\nYouTube & Instagram \ubb38\uc758\nlijulike@crbhoney.kr"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "807981",
+                "likeCount": "15879",
+                "favoriteCount": "0",
+                "commentCount": "3258"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BX_CDLIpEwinWkMjx6FWfKf-79g",
+            "id": "NUvg69SPKhI",
+            "snippet": {
+                "publishedAt": "2025-02-17T10:05:31Z",
+                "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+                "title": "\ub530\ub73b\ud55c \uc0bf\ud3ec\ub85c \ud558\uc219\uc0dd\ud65c \uc77c\uc8fc\uc77c - \uc77c\ubcf8(2)",
+                "description": "Please activate the English subtitles.\n\u65e5\u672c\u8a9e\u5b57\u5e55\u3092\u6709\u52b9\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\n\uc548\ub155\ud558\uc138\uc694\n\uc990\uac70\uc6e0\ub358 \ud64b\uce74\uc774\ub3c4\uc758 \ud559\uad50\uc0dd\ud65c\uc744 \ub9c8\ucce4\uc2b5\ub2c8\ub2e4\n\uadf8\ub9ac\uace0 \uc88b\uc740 \ucd94\uc5b5\uc744 \ub0a8\uaca8\uc900\n\ub9c8\uc0ac\ud0a4 \uac00\uc871\ub4e4\uc5d0\uac8c\ub3c4 \uac10\uc0ac \uc778\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4\n\n-------------------------------------------------------------------------------\ninsta : @jbkwak\nmail : wnsqls3@gmail.com\n\ucd2c\uc601\uc7a5\ube44 : \uc624\uc988\ubaa8 \uc561\uc158 5 \ud504\ub85c\n\ud3b8\uc9d1 : \ub9e5\ubd81\ud504\ub85c 16\uc778\uce58, \ud30c\uc774\ub110\ucef7 X\n\uc74c\uc6d0 : Epidemic sound&Artlist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NUvg69SPKhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NUvg69SPKhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NUvg69SPKhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NUvg69SPKhI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NUvg69SPKhI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uacfd\ud29c\ube0c",
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ub530\ub73b\ud55c \uc0bf\ud3ec\ub85c \ud558\uc219\uc0dd\ud65c \uc77c\uc8fc\uc77c - \uc77c\ubcf8(2)",
+                    "description": "Please activate the English subtitles.\n\u65e5\u672c\u8a9e\u5b57\u5e55\u3092\u6709\u52b9\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\n\uc548\ub155\ud558\uc138\uc694\n\uc990\uac70\uc6e0\ub358 \ud64b\uce74\uc774\ub3c4\uc758 \ud559\uad50\uc0dd\ud65c\uc744 \ub9c8\ucce4\uc2b5\ub2c8\ub2e4\n\uadf8\ub9ac\uace0 \uc88b\uc740 \ucd94\uc5b5\uc744 \ub0a8\uaca8\uc900\n\ub9c8\uc0ac\ud0a4 \uac00\uc871\ub4e4\uc5d0\uac8c\ub3c4 \uac10\uc0ac \uc778\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4\n\n-------------------------------------------------------------------------------\ninsta : @jbkwak\nmail : wnsqls3@gmail.com\n\ucd2c\uc601\uc7a5\ube44 : \uc624\uc988\ubaa8 \uc561\uc158 5 \ud504\ub85c\n\ud3b8\uc9d1 : \ub9e5\ubd81\ud504\ub85c 16\uc778\uce58, \ud30c\uc774\ub110\ucef7 X\n\uc74c\uc6d0 : Epidemic sound&Artlist"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "829880",
+                "likeCount": "23611",
+                "favoriteCount": "0",
+                "commentCount": "2056"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ih_3f6zC9pzwUA-DkG1zqaQI1Yg",
+            "id": "YxO47PO8-jc",
+            "snippet": {
+                "publishedAt": "2025-02-18T14:16:40Z",
+                "channelId": "UCZB8FKm68UQPGWKebOel4Pw",
+                "title": "\uc9c0\uae08\uae4c\uc9c0 \ubabb\ud588\ub358 \uc774\uc57c\uae30",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YxO47PO8-jc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YxO47PO8-jc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YxO47PO8-jc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\uc218\uca61\ubbfc",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\uc9c0\uae08\uae4c\uc9c0 \ubabb\ud588\ub358 \uc774\uc57c\uae30",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "461809",
+                "likeCount": "15217",
+                "favoriteCount": "0",
+                "commentCount": "1333"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GLM6rYTKFZPITCsNQNYAGTvhJo4",
+            "id": "9wjRjp6QpfQ",
+            "snippet": {
+                "publishedAt": "2025-02-18T10:00:18Z",
+                "channelId": "UC9kmlDcqksaOnCkC_qzGacA",
+                "title": "18\ubd84\ub3d9\uc548 \ud604\uc9c4\uc774 \uc5bc\uad74 \uac10\uc0c1\ud558\uae30\ud83e\udd5f\ud83d\udc0d\u2728l \uc774\uc0ac\ubc30(RISABAE Makeup)",
+                "description": "#Straykids #hyunjin #\ud604\uc9c4\n\n\uaf3c\ud654\uc544\uac00\uc528 \uaf3c\ud654\ub3c4\ub828\ub2d8\ub4e4! \uadf8\ub9ac\uace0 \uc2a4\ud14c\uc774, \uc608\ube44\uc2a4\ud14c\uc774 \uc5ec\ub7ec\ubd84!\n\uc624\ub298 \uc601\uc0c1\ub3c4 \uc798 \uac10\uc0c1\ud558\uc168\uc8e0?!!\n\uc2a4\ud14c\uc774\ub85c\uc11c \ud604\uc9c4\uc528\uc758 \ub450\uac00\uc9c0 \ub9e4\ub825\uc744 \ubcf4\uc5ec\uc904 \uc218 \uc788\uc5b4\uc11c \ud589\ubcf5\ud588\uc2b5\ub2c8\ub2e4 \uc815\ub9d0 \uac10\uc0ac\ud569\ub2c8\ub2e4..\ud83e\udd79\ud83d\udc99\n\ud604\uc9c4\uc528\uc758 \ub3c5\uc5c6\ubc40 vs \ub3c5\uc788\ubc40\ud83d\udc0d \uc5ec\ub7ec\ubd84\ub4e4\uc758 \uc120\ud0dd\uc740? \ub313\uae00\ub85c \ub2ec\uc544\uc8fc\uc2dc\uad6c\uc694!\n\ud604\uc9c4\uc528\uc5d0\uac8c \uc751\uc6d0\uc758 \ub313\uae00\ub3c4 \ub9ce\uc774\ub9ce\uc774 \ubd80\ud0c1\ub4dc\ub824\uc694!\u2728\n\n\nINSTAGRAM : @risabae_art\nTIKTOK : @risabae_art",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9wjRjp6QpfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9wjRjp6QpfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9wjRjp6QpfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9wjRjp6QpfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9wjRjp6QpfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RISABAE",
+                "tags": [
+                    "\uc774\uc0ac\ubc30",
+                    "\uc774\uc0ac\ubc30\uba54\uc774\ud06c\uc5c5",
+                    "RISABAE",
+                    "\ubd84\uc7a5",
+                    "\uba54\uc774\ud06c\uc5c5\uc544\ud2f0\uc2a4\ud2b8",
+                    "risabae makeup",
+                    "\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988",
+                    "\ud604\uc9c4",
+                    "StrayKids",
+                    "Hyunjin",
+                    "HOP",
+                    "WalkinOnWater",
+                    "\uc2a4\ud0a4\uc988",
+                    "\uc2a4\ud14c\uc774",
+                    "\ubc40\uc0c1\uba54\uc774\ud06c\uc5c5",
+                    "\ub3c5\uc5c6\ubc40",
+                    "\ub3c5\uc788\ubc40",
+                    "\ubc40\uc0c1\uc5f0\uc608\uc778",
+                    "\ud0a4\uc704\ud604\uc9c4",
+                    "\uc774\uc0ac\ubc30\ud604\uc9c4",
+                    "\ud604\uc9c4\uc774\uc0ac\ubc30"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "18\ubd84\ub3d9\uc548 \ud604\uc9c4\uc774 \uc5bc\uad74 \uac10\uc0c1\ud558\uae30\ud83e\udd5f\ud83d\udc0d\u2728l \uc774\uc0ac\ubc30(RISABAE Makeup)",
+                    "description": "#Straykids #hyunjin #\ud604\uc9c4\n\n\uaf3c\ud654\uc544\uac00\uc528 \uaf3c\ud654\ub3c4\ub828\ub2d8\ub4e4! \uadf8\ub9ac\uace0 \uc2a4\ud14c\uc774, \uc608\ube44\uc2a4\ud14c\uc774 \uc5ec\ub7ec\ubd84!\n\uc624\ub298 \uc601\uc0c1\ub3c4 \uc798 \uac10\uc0c1\ud558\uc168\uc8e0?!!\n\uc2a4\ud14c\uc774\ub85c\uc11c \ud604\uc9c4\uc528\uc758 \ub450\uac00\uc9c0 \ub9e4\ub825\uc744 \ubcf4\uc5ec\uc904 \uc218 \uc788\uc5b4\uc11c \ud589\ubcf5\ud588\uc2b5\ub2c8\ub2e4 \uc815\ub9d0 \uac10\uc0ac\ud569\ub2c8\ub2e4..\ud83e\udd79\ud83d\udc99\n\ud604\uc9c4\uc528\uc758 \ub3c5\uc5c6\ubc40 vs \ub3c5\uc788\ubc40\ud83d\udc0d \uc5ec\ub7ec\ubd84\ub4e4\uc758 \uc120\ud0dd\uc740? \ub313\uae00\ub85c \ub2ec\uc544\uc8fc\uc2dc\uad6c\uc694!\n\ud604\uc9c4\uc528\uc5d0\uac8c \uc751\uc6d0\uc758 \ub313\uae00\ub3c4 \ub9ce\uc774\ub9ce\uc774 \ubd80\ud0c1\ub4dc\ub824\uc694!\u2728\n\n\nINSTAGRAM : @risabae_art\nTIKTOK : @risabae_art"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1106403",
+                "likeCount": "114281",
+                "favoriteCount": "0",
+                "commentCount": "6404"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "O-Y7rjnApKXU6AyV9X2utfhGTFY",
+            "id": "jEMo0CX8m3Y",
+            "snippet": {
+                "publishedAt": "2025-02-19T10:00:51Z",
+                "channelId": "UCHrX2qBKBuS2aUZkvr-UdxA",
+                "title": "\uac15\uc6d0\ub3c4 \u98df\uc5ec\ud589 2\ud0c4! \uc904\uc11c\uc11c \uba39\ub294 \ub204\ub8fd\uc9c0\uc21c\ub300\uc640 \ub300\ud3ec\ud56d \ud280\uae40\uace8\ubaa9\ud83e\udd24 \uc778\uc0dd \ub4e4\uae68\ub9c9\uad6d\uc218\uae4c\uc9c0(\uc9c4\uc9dc \uac15\ucd94..)",
+                "description": "\uac01\uad6d\uc5b4 \ubc88\uc5ed \uc790\ub9c9 \uc81c\uc791 : \n\ucee8\ud150\uce20 \uc81c\uc791\uc758 \ub9c8\ubb34\ub9ac\ub294 \ucee8\ud150\uce20\ud50c\ub77c\uc774! \uae00\ub85c\ubc8c \uc9c4\ucd9c\uc744 \uc704\ud55c \ucd5c\uace0\uc758 \ud30c\ud2b8\ub108,\nCONTENTSFLY\uc5d0\uc11c \uc81c\uc791\ub418\uc5c8\uc2b5\ub2c8\ub2e4.\nhttps://www.contentsfly.com\n\n\ube44\uc9c0\ub2c8\uc2a4 \uba54\uc77c:gardenm1120@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jEMo0CX8m3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jEMo0CX8m3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jEMo0CX8m3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jEMo0CX8m3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jEMo0CX8m3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ucbd4\uc591\ubc16\uc815\uc6d0",
+                "tags": [
+                    "real sound",
+                    "\ub9ac\uc5bc\uc0ac\uc6b4\ub4dc",
+                    "social eating",
+                    "mukbang",
+                    "eating show",
+                    "\uba39\ubc29",
+                    "\ub9db\uc9d1",
+                    "\ucbd4\uc591",
+                    "v-log",
+                    "\ube0c\uc774\ub85c\uadf8",
+                    "\ucbd4\uc591 \ube0c\uc774\ub85c\uadf8",
+                    "\ucbd4\uc591 v-log",
+                    "\ucbd4\uc591 vlog"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\uac15\uc6d0\ub3c4 \u98df\uc5ec\ud589 2\ud0c4! \uc904\uc11c\uc11c \uba39\ub294 \ub204\ub8fd\uc9c0\uc21c\ub300\uc640 \ub300\ud3ec\ud56d \ud280\uae40\uace8\ubaa9\ud83e\udd24 \uc778\uc0dd \ub4e4\uae68\ub9c9\uad6d\uc218\uae4c\uc9c0(\uc9c4\uc9dc \uac15\ucd94..)",
+                    "description": "\uac01\uad6d\uc5b4 \ubc88\uc5ed \uc790\ub9c9 \uc81c\uc791 : \n\ucee8\ud150\uce20 \uc81c\uc791\uc758 \ub9c8\ubb34\ub9ac\ub294 \ucee8\ud150\uce20\ud50c\ub77c\uc774! \uae00\ub85c\ubc8c \uc9c4\ucd9c\uc744 \uc704\ud55c \ucd5c\uace0\uc758 \ud30c\ud2b8\ub108,\nCONTENTSFLY\uc5d0\uc11c \uc81c\uc791\ub418\uc5c8\uc2b5\ub2c8\ub2e4.\nhttps://www.contentsfly.com\n\n\ube44\uc9c0\ub2c8\uc2a4 \uba54\uc77c:gardenm1120@gmail.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "280473",
+                "likeCount": "10143",
+                "favoriteCount": "0",
+                "commentCount": "343"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "odt4YtZLTuP96daomYhoQdvw6fU",
+            "id": "Kf6IDkrhOkQ",
+            "snippet": {
+                "publishedAt": "2025-02-17T10:00:22Z",
+                "channelId": "UC69Z5Vd-Z6bdCC5LKM_lv_g",
+                "title": "2\ub144 \ub9cc\uc5d0 \ub3cc\uc544\uc628 \uc21c\ucc9c\uc758 \uc81c\uc655, \ub371\ucabd\uc774\uc758 \uadc0\ud658 (sub)",
+                "description": "#\ub371\uc2a4 #dex #\ube0c\uc774\ub85c\uadf8 #\uc21c\ucc9c #\uc625\ud669\uc0c1\uc81c\n\uc124\ub0a0\uc5d0 \uc0c8\ud574 \ubcf5 \ub9ce\uc774\ub4e4 \ubc1b\uc73c\uc168\uc2b5\ub2c8\uae4c?\n\n[CONTACT]\n\ube44\uc988\ub2c8\uc2a4\ubb38\uc758: kthdstudio@kthd.co.kr\n\uc778\uc2a4\ud0c0\uadf8\ub7a8: https://www.instagram.com/dex_xeb/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kf6IDkrhOkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kf6IDkrhOkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kf6IDkrhOkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kf6IDkrhOkQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Kf6IDkrhOkQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ub371\uc2a4101",
+                "tags": [
+                    "\ub371\uc2a4",
+                    "\ub371\uc2a4101",
+                    "dex101",
+                    "\uc720\ub514\ud2f0",
+                    "UDT",
+                    "udt/seal",
+                    "\ube0c\uc774\ub85c\uadf8",
+                    "\ub0a8\uc790 \ube0c\uc774\ub85c\uadf8",
+                    "\ube0c\uc774\ub85c\uadf8 \uc77c\uc0c1",
+                    "\uae40\uc9c4\uc601",
+                    "kimjinyoung",
+                    "jinyoungkim",
+                    "dex"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "2\ub144 \ub9cc\uc5d0 \ub3cc\uc544\uc628 \uc21c\ucc9c\uc758 \uc81c\uc655, \ub371\ucabd\uc774\uc758 \uadc0\ud658 (sub)",
+                    "description": "#\ub371\uc2a4 #dex #\ube0c\uc774\ub85c\uadf8 #\uc21c\ucc9c #\uc625\ud669\uc0c1\uc81c\n\uc124\ub0a0\uc5d0 \uc0c8\ud574 \ubcf5 \ub9ce\uc774\ub4e4 \ubc1b\uc73c\uc168\uc2b5\ub2c8\uae4c?\n\n[CONTACT]\n\ube44\uc988\ub2c8\uc2a4\ubb38\uc758: kthdstudio@kthd.co.kr\n\uc778\uc2a4\ud0c0\uadf8\ub7a8: https://www.instagram.com/dex_xeb/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "659282",
+                "likeCount": "14017",
+                "favoriteCount": "0",
+                "commentCount": "1685"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OaeVQ13MTTd9becmOCAl-uX6wmU",
+            "id": "hmCaiqvxKlI",
+            "snippet": {
+                "publishedAt": "2025-02-17T07:05:42Z",
+                "channelId": "UC0O5nt2FnH1ZR0JEtc_98IQ",
+                "title": "\ud83d\udc3a : \uc57c...! \uc880.. \uc808\uc5b4\ubd10!! \uc548 \ub4e4\ud0a4\uac8c!! | \uc0bc\ub300\uc624 \ucee8\ud150\uce20 | \ub9ac\uadf8 \uc624\ube0c \ub808\uc804\ub4dc",
+                "description": "#t1wolf #\uc6b8\ud504 #\uc774\uc7ac\uc644 #\uc544\uc790\ubc29 #\uc0bc\ub300\uc624 #\ubc45 #\uc6b4\ud0c0\ub77c #\ub2e4\uc8fc\n\ubc29\uc1a1 \uc815\ubcf4 : 2025\ub144 2\uc6d4 10\uc77c \uce58\uc9c0\uc9c1 \uc0dd\ubc29\uc1a1 \ub2e4\uc2dc\ubcf4\uae30\n------------------------------------------------------------------------------\nT1\uc758 \uc778\ud50c\ub8e8\uc5b8\uc11c \uc774\uc790 \ubc29\uc1a1\uc778\uc73c\ub85c\uc11c \ud65c\ub3d9\ud558\uace0 \uc788\ub294 \uc6b8\ud504 \uc774\uc7ac\uc644\uc785\ub2c8\ub2e4.\n\uc885\ud569 \uac8c\uc784 \ucc44\ub110\ub3c4 \ub9ce\uc740 \uad00\uc2ec \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4!\n\n\ube44\uc988\ub2c8\uc2a4 \ubc0f \ubb38\uc758\uba54\uc77c : Wolf@t1.gg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hmCaiqvxKlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hmCaiqvxKlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hmCaiqvxKlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hmCaiqvxKlI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hmCaiqvxKlI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc6b8\ud504 \uc774\uc7ac\uc644",
+                "tags": [
+                    "#t1",
+                    "#wolf",
+                    "#\uc6b8\ud504",
+                    "#\ub864",
+                    "#\ub9ac\uadf8\uc624\ube0c\ub808\uc804\ub4dc",
+                    "#\uc11c\ud3ec\ud130",
+                    "#\uc774\uc7ac\uc644",
+                    "#\uc544\uc790\ubc29"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ud83d\udc3a : \uc57c...! \uc880.. \uc808\uc5b4\ubd10!! \uc548 \ub4e4\ud0a4\uac8c!! | \uc0bc\ub300\uc624 \ucee8\ud150\uce20 | \ub9ac\uadf8 \uc624\ube0c \ub808\uc804\ub4dc",
+                    "description": "#t1wolf #\uc6b8\ud504 #\uc774\uc7ac\uc644 #\uc544\uc790\ubc29 #\uc0bc\ub300\uc624 #\ubc45 #\uc6b4\ud0c0\ub77c #\ub2e4\uc8fc\n\ubc29\uc1a1 \uc815\ubcf4 : 2025\ub144 2\uc6d4 10\uc77c \uce58\uc9c0\uc9c1 \uc0dd\ubc29\uc1a1 \ub2e4\uc2dc\ubcf4\uae30\n------------------------------------------------------------------------------\nT1\uc758 \uc778\ud50c\ub8e8\uc5b8\uc11c \uc774\uc790 \ubc29\uc1a1\uc778\uc73c\ub85c\uc11c \ud65c\ub3d9\ud558\uace0 \uc788\ub294 \uc6b8\ud504 \uc774\uc7ac\uc644\uc785\ub2c8\ub2e4.\n\uc885\ud569 \uac8c\uc784 \ucc44\ub110\ub3c4 \ub9ce\uc740 \uad00\uc2ec \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4!\n\n\ube44\uc988\ub2c8\uc2a4 \ubc0f \ubb38\uc758\uba54\uc77c : Wolf@t1.gg"
+                }
+            },
+            "statistics": {
+                "viewCount": "331713",
+                "likeCount": "4041",
+                "favoriteCount": "0",
+                "commentCount": "255"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oWpuQWIQthqyjT3O9FGNu6VRgso",
+            "id": "zHxQFOWkcMo",
+            "snippet": {
+                "publishedAt": "2025-02-18T12:15:06Z",
+                "channelId": "UCPVENfTGbgD-CUuvrN7rRGQ",
+                "title": "\uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud070 \ub9cc\ub450 \uc778\ucc9c \ub180\ubd80 \ucd08\ub300\uc655\ub9cc\ub450 20\uc778\ubd84 \uba39\ubc29 \ub9e4\uc6b4\uae40\uce58\ub9cc\ub450 \ubbf8\uce5c\uc624\ub9ac\ub9cc\ub450 \uace0\uae30\ub9cc\ub450 \ub9cc\ub463\uad6d \ub9cc\ub450 \uba39\ubc29  korean mukbang eatingshow",
+                "description": "\uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud070 \ub9cc\ub450 \uc778\ucc9c \ub180\ubd80 \ucd08\ub300\uc655\ub9cc\ub450 20\uc778\ubd84 \uba39\ubc29 \ub9e4\uc6b4\uae40\uce58\ub9cc\ub450 \ubbf8\uce5c\uc624\ub9ac\ub9cc\ub450 \uace0\uae30\ub9cc\ub450 \ub9cc\ub463\uad6d \ub9cc\ub450 \uba39\ubc29  korean mukbang eatingshow\n\n\u25a0\ub9e4\uc8fc \uc77c,\ud654,\ubaa9 \uc624\ud6c49\uc2dc15\ubd84 \uc2e4\uc2dc\uac04 \ucd5c\ucd08\uacf5\uac1c\ub85c \uc601\uc0c1\uc774 \uc5c5\ub85c\ub4dc \ub429\ub2c8\ub2e4\n\n\ud574\ucf69\uc774 \uc5ec\ub7ec\ubd84 \uc548\ub155\ud558\uc138\uc694 \uc0c1\ud574\uae30\uc785\ub2c8\ub2e4\u314e\u314e\n\uc5ec\ub7ec\ubd84 \uc624\ub298\uc740 \uc778\ucc9c \uad6c\uc6d4\ub3d9\uc758 \ub300\uc655\ub9cc\ub450 \uba39\ubc29\uc785\ub2c8\ub2e4\n\n\uc774\ub7f0 \ud06c\uae30\uc758 \ub9cc\ub450\ub294 \ucc98\uc74c\uc774\uc5c8\ub124\uc694 \u314e\u314e \ub9db \ubfd0\ub9cc \uc544\ub2c8\ub77c \n\uc591 \uac00\uaca9 \uad6d\ub0b4\uc0b0\uc7ac\ub8cc \ub9cc\ub4e0 \uc815\uc131\uae4c\uc9c0 \ubaa8\ub4e0\uac8c \ub108\ubb34 \uc88b\uc558\ub358 \ub9cc\ub450\uc9d1\uc774\ub124\uc694 \n\n\uc624\ub298\ub3c4 \uc990\uac81\uace0 \ub9db\uc788\ub294 \uc601\uc0c1\uc774\uc5c8\uc73c\uba74 \ud569\ub2c8\ub2e4\n\ub298 \ud568\uaed8 \ud574 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4. \n\uc601\uc0c1\uc774 \uad1c\ucc2e\uc73c\uc168\ub2e4\uba74 \uad6c\ub3c5 \uc88b\uc544\uc694 \uc54c\ub9bc\uc124\uc815 \ubd80\ud0c1\ub4dc\ub9b4\uac8c\uc694\u2665 \n\n\ud83c\udf88\uc804\uc81c\ud488 \ubb34\ub8cc\ubc30\uc1a1!! \uad6d\ub0b4\ucd5c\uc800\uac00 \uc0c1\ud574\uae30x\ub098\ub791\ub4dc\uc0ac\uc774\ub2e4 \uad6c\ub9e4\ub9c1\ud06c\ud83c\udf88\n\ud83d\udd35\uc0c1\ud574\uae30 X \ub098\ub791\ub4dc\uc0ac\uc774\ub2e4 \uc81c\ub85c 1.25L , 345ml , 180ml (1\ubc15\uc2a4) \n: https://link.inpock.co.kr/sanghyukkwon\n\ud83d\udc37\uc88b\uc740\uace0\uae30\ub97c \ucc29\ud55c\uac00\uaca9\uc5d0 \ub3fc\uc9c0\ub4dc\ub9bc \n: https://m.smartstore.naver.com/-pigdream\n\ud83d\udd25\uc9c0\ubc29 \ud761\ucc29!\ud83d\udd25 \ubc30\ucd9c!\ud83d\udcaa \ub05d\ud310\uc655 \uc6d0\ud54f \uc81c\ub85c\ud30c\uc6b0\ub354\n: https://link.inpock.co.kr/sanghyukkwon\n\n\ud83c\udfe0\ub9e4\uc7a5\uba85: \ub180\ubd80\ub9cc\ub450\n\ud83d\udccd\uc704\uce58: \uc778\ucc9c \ub0a8\ub3d9\uad6c \ubb38\ud654\uc11c\ub85c 13 1\uce35\n\n#\ub3c4\uc804\uba39\ubc29 #\ub9cc\ub450 #\uc778\ucc9c\n---------------------------------------------------------------------------------------------------------\n\uc0c1\ud574\uae30 E - mail : thenamekwon@nate.com\n\uc0c1\ud574\uae30 \uad6c\ub3c5 : https://bit.ly/2UXxr6F\n\uc0c1\ud574\uae30 \uc778\uc2a4\ud0c0\uadf8\ub7a8 : https://www.instagram.com/sanghyukkwon",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zHxQFOWkcMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zHxQFOWkcMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zHxQFOWkcMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zHxQFOWkcMo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zHxQFOWkcMo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\uc0c1\ud574\uae30SangHyuk",
+                "tags": [
+                    "\uc778\ucc9c\ub9db\uc9d1",
+                    "\ub3c4\uc804\uba39\ubc29",
+                    "\ud788\ubc25",
+                    "\ucbd4\uc591",
+                    "\uc720\ub178",
+                    "\ub178\ud3ec"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud070 \ub9cc\ub450 \uc778\ucc9c \ub180\ubd80 \ucd08\ub300\uc655\ub9cc\ub450 20\uc778\ubd84 \uba39\ubc29 \ub9e4\uc6b4\uae40\uce58\ub9cc\ub450 \ubbf8\uce5c\uc624\ub9ac\ub9cc\ub450 \uace0\uae30\ub9cc\ub450 \ub9cc\ub463\uad6d \ub9cc\ub450 \uba39\ubc29  korean mukbang eatingshow",
+                    "description": "\uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud070 \ub9cc\ub450 \uc778\ucc9c \ub180\ubd80 \ucd08\ub300\uc655\ub9cc\ub450 20\uc778\ubd84 \uba39\ubc29 \ub9e4\uc6b4\uae40\uce58\ub9cc\ub450 \ubbf8\uce5c\uc624\ub9ac\ub9cc\ub450 \uace0\uae30\ub9cc\ub450 \ub9cc\ub463\uad6d \ub9cc\ub450 \uba39\ubc29  korean mukbang eatingshow\n\n\u25a0\ub9e4\uc8fc \uc77c,\ud654,\ubaa9 \uc624\ud6c49\uc2dc15\ubd84 \uc2e4\uc2dc\uac04 \ucd5c\ucd08\uacf5\uac1c\ub85c \uc601\uc0c1\uc774 \uc5c5\ub85c\ub4dc \ub429\ub2c8\ub2e4\n\n\ud574\ucf69\uc774 \uc5ec\ub7ec\ubd84 \uc548\ub155\ud558\uc138\uc694 \uc0c1\ud574\uae30\uc785\ub2c8\ub2e4\u314e\u314e\n\uc5ec\ub7ec\ubd84 \uc624\ub298\uc740 \uc778\ucc9c \uad6c\uc6d4\ub3d9\uc758 \ub300\uc655\ub9cc\ub450 \uba39\ubc29\uc785\ub2c8\ub2e4\n\n\uc774\ub7f0 \ud06c\uae30\uc758 \ub9cc\ub450\ub294 \ucc98\uc74c\uc774\uc5c8\ub124\uc694 \u314e\u314e \ub9db \ubfd0\ub9cc \uc544\ub2c8\ub77c \n\uc591 \uac00\uaca9 \uad6d\ub0b4\uc0b0\uc7ac\ub8cc \ub9cc\ub4e0 \uc815\uc131\uae4c\uc9c0 \ubaa8\ub4e0\uac8c \ub108\ubb34 \uc88b\uc558\ub358 \ub9cc\ub450\uc9d1\uc774\ub124\uc694 \n\n\uc624\ub298\ub3c4 \uc990\uac81\uace0 \ub9db\uc788\ub294 \uc601\uc0c1\uc774\uc5c8\uc73c\uba74 \ud569\ub2c8\ub2e4\n\ub298 \ud568\uaed8 \ud574 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4. \n\uc601\uc0c1\uc774 \uad1c\ucc2e\uc73c\uc168\ub2e4\uba74 \uad6c\ub3c5 \uc88b\uc544\uc694 \uc54c\ub9bc\uc124\uc815 \ubd80\ud0c1\ub4dc\ub9b4\uac8c\uc694\u2665 \n\n\ud83c\udf88\uc804\uc81c\ud488 \ubb34\ub8cc\ubc30\uc1a1!! \uad6d\ub0b4\ucd5c\uc800\uac00 \uc0c1\ud574\uae30x\ub098\ub791\ub4dc\uc0ac\uc774\ub2e4 \uad6c\ub9e4\ub9c1\ud06c\ud83c\udf88\n\ud83d\udd35\uc0c1\ud574\uae30 X \ub098\ub791\ub4dc\uc0ac\uc774\ub2e4 \uc81c\ub85c 1.25L , 345ml , 180ml (1\ubc15\uc2a4) \n: https://link.inpock.co.kr/sanghyukkwon\n\ud83d\udc37\uc88b\uc740\uace0\uae30\ub97c \ucc29\ud55c\uac00\uaca9\uc5d0 \ub3fc\uc9c0\ub4dc\ub9bc \n: https://m.smartstore.naver.com/-pigdream\n\ud83d\udd25\uc9c0\ubc29 \ud761\ucc29!\ud83d\udd25 \ubc30\ucd9c!\ud83d\udcaa \ub05d\ud310\uc655 \uc6d0\ud54f \uc81c\ub85c\ud30c\uc6b0\ub354\n: https://link.inpock.co.kr/sanghyukkwon\n\n\ud83c\udfe0\ub9e4\uc7a5\uba85: \ub180\ubd80\ub9cc\ub450\n\ud83d\udccd\uc704\uce58: \uc778\ucc9c \ub0a8\ub3d9\uad6c \ubb38\ud654\uc11c\ub85c 13 1\uce35\n\n#\ub3c4\uc804\uba39\ubc29 #\ub9cc\ub450 #\uc778\ucc9c\n---------------------------------------------------------------------------------------------------------\n\uc0c1\ud574\uae30 E - mail : thenamekwon@nate.com\n\uc0c1\ud574\uae30 \uad6c\ub3c5 : https://bit.ly/2UXxr6F\n\uc0c1\ud574\uae30 \uc778\uc2a4\ud0c0\uadf8\ub7a8 : https://www.instagram.com/sanghyukkwon"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "322389",
+                "likeCount": "7616",
+                "favoriteCount": "0",
+                "commentCount": "254"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FVd-PI-Lk_xAwhfIngyzT9DDheA",
+            "id": "Pv7UCVArAJ4",
+            "snippet": {
+                "publishedAt": "2025-02-16T09:58:18Z",
+                "channelId": "UCObJpvG3_f0P3EuLJCjzT5g",
+                "title": "150\ud3c9 3\uce35 \uac74\ubb3c\uc5d0 \uc190\ub2d8 \ub531 1\ud300\ub9cc \ubc1b\ub294 \ub300\ud55c\ubbfc\uad6d \ucd5c\uace0\uc758 \uc0bc\uacb9\uc0b4 \uc7a5\uc778",
+                "description": "\ub300\ud55c\ubbfc\uad6d \uc5ed\uc0ac\uc0c1 \ucd5c\uace0\uc758 \uace0\uae43\uc9d1\n\n\ube45\ud398\uc774\uc2a4 \uc778\uc2a4\ud0c0\uadf8\ub7a8\u25b6 https://www.instagram.com/bigfacetv/\n\ube45\ud398\uc774\uc2a4\uc774\uba54\uc77c\u25b6  bigfacetv@naver.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pv7UCVArAJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pv7UCVArAJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pv7UCVArAJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pv7UCVArAJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pv7UCVArAJ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ube45\ud398\uc774\uc2a4 BIGFACE",
+                "tags": [
+                    "\uc0bc\uacb9\uc0b4 \ub9ac\ubdf0",
+                    "\uc0bc\uacb9\uc0b4 \uba39\ubc29",
+                    "\uc0bc\uacb9\uc0b4 \uc694\ub9ac",
+                    "\uc0bc\uacb9\uc0b4",
+                    "\ub0c9\ub3d9\uc0bc\uacb9\uc0b4",
+                    "\ub0c9\ub3d9\uc0bc\uacb9\uc0b4 \ub9ac\ubdf0",
+                    "\ube45\ud398\uc774\uc2a4 \uc0bc\uacb9\uc0b4",
+                    "\ud504\ub9ac\ubbf8\uc5c4 \uc0bc\uacb9\uc0b4",
+                    "\uba85\ud488 \uc0bc\uacb9\uc0b4",
+                    "\uc0bc\uacb9\uc0b4 \ub9c8\ube14\ub9c1",
+                    "\uc0bc\uacb9\uc0b4 \uae40\uce58",
+                    "\uc7ac\uc0c1\uc774 \uae40\uce58",
+                    "\uc0bc\uacb9\uc0b4 \uad7d\uae30",
+                    "\uc774\ubca0\ub9ac\ucf54 \uc0bc\uacb9\uc0b4",
+                    "\uad11\uc8fc \ub9db\uc9d1",
+                    "\uad11\uc8fc \uc218\uc644\ub3d9 \ub9db\uc9d1",
+                    "\uad11\uc8fc \uc0bc\uacb9\uc0b4",
+                    "\uc0bc\uacb9\uc0b4 \uc721\uc999",
+                    "\ucd08\ub3c8 \uc0bc\uacb9\uc0b4",
+                    "\ubc30\ub2ec \uc0bc\uacb9\uc0b4",
+                    "\ucd08\ub3c8",
+                    "\ub0c9\ub3d9\uc0bc\uacb9\uc0b4 \uba39\ubc29",
+                    "\uc0bc\uacb9\uc0b4 \ub9db\uc9d1",
+                    "\uc0bc\uacb9\uc0b4 \uc18c\uc8fc",
+                    "\ub300\uad6c \uc0bc\uacb9\uc0b4",
+                    "\ub300\uad6c \ub9db\uc9d1",
+                    "\uc11c\ucd08\uac08\ube44",
+                    "\uc7ac\uc0c1\uc774\uae40\uce58",
+                    "\uad11\uc8fc \ucd08\ub3c8",
+                    "\ube44\uc2fc\uc0bc\uacb9\uc0b4",
+                    "\ubaa9\uc0b4 \uba39\ubc29",
+                    "\uae08\ub3fc\uc9c0\uc2dd\ub2f9",
+                    "\uc81c\uc8fc\ub3c4 \ud751\ub3fc\uc9c0",
+                    "\ud56d\uc815\uc0b4 \uba39\ubc29",
+                    "\uc0bc\uacb9\uc0b4 \ucd94\ucc9c",
+                    "\uad11\uc8fc \ucd94\ucc9c",
+                    "\ud654\uc21c \ub9db\uc9d1",
+                    "\ucd08\ub3c8\uc27c\ud45c",
+                    "\ube45\ud398\uc774\uc2a4"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "150\ud3c9 3\uce35 \uac74\ubb3c\uc5d0 \uc190\ub2d8 \ub531 1\ud300\ub9cc \ubc1b\ub294 \ub300\ud55c\ubbfc\uad6d \ucd5c\uace0\uc758 \uc0bc\uacb9\uc0b4 \uc7a5\uc778",
+                    "description": "\ub300\ud55c\ubbfc\uad6d \uc5ed\uc0ac\uc0c1 \ucd5c\uace0\uc758 \uace0\uae43\uc9d1\n\n\ube45\ud398\uc774\uc2a4 \uc778\uc2a4\ud0c0\uadf8\ub7a8\u25b6 https://www.instagram.com/bigfacetv/\n\ube45\ud398\uc774\uc2a4\uc774\uba54\uc77c\u25b6  bigfacetv@naver.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1211753",
+                "likeCount": "18624",
+                "favoriteCount": "0",
+                "commentCount": "2901"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Z9NZMZd038w9gvdOs0eOfue_zu4",
+            "id": "QEYWXlA5R1c",
+            "snippet": {
+                "publishedAt": "2025-02-17T11:00:05Z",
+                "channelId": "UCguzIEj_YJl_z7X89mJ03ow",
+                "title": "\uc824\ub9ac\ub85c \ud0a4\ub9c1 \ub9cc\ub4dc\ub294 \uc5ec\uc790",
+                "description": "* \ubcf8 \uc601\uc0c1\uc740 \ub098\uc774\ud0a4\uc758 \uc720\ub8cc\uad11\uace0\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4 * \n\n\ud83d\udecd\ufe0f\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uc774\ubca4\ud2b8\ud83d\udecd\ufe0f\n\n\ubabd\uc528 \uc601\uc0c1 \ubcf4\uace0, \uc0c8 \ud559\uae30 \ub9de\uc774 \uc1fc\ud551\ud569\uc2dc\ub2e4\ud83d\uded2\n\uc0c8 \ud559\uae30\ub97c \ub9de\uc774\ud560 \uc5ec\ub7ec\ubd84\ub4e4\uc744 \uc704\ud574 \ub098\uc774\ud0a4\uc640 \ud2b9\ubcc4\ud55c \ud61c\ud0dd\uc744 \uac00\uc838\uc654\uc2b5\ub2c8\ub2e4!\n\n\ud83d\udccc10 \ub9cc\uc6d0 \uc0c1\ub2f9\uc758 \ub098\uc774\ud0a4 \ubc14\uc6b0\ucc98 \ud61c\ud0dd (\ucd94\ucca8)\n(*\uae30\uac04 : 25.02.17~03.02)\n\n\ubabd\uc528 \uc601\uc0c1\uc744 \ubcf8 \ud6c4 \uac04\ub2e8\ud55c \ud034\uc988\ub97c \ud480\uace0, 10\ub9cc\uc6d0 \ubc14\uc6b0\ucc98\uc5d0 \ub2f9\ucca8\ub418\uc5b4 \ubcf4\uc138\uc694.\n\n: https://nike.sng.link/Astn5/7qft/mni1\n\n\ud83d\udccc\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uceec\ub809\uc158 10% \ud560\uc778 \ud61c\ud0dd\n(*\uae30\uac04 : 25.02.17~03.02)\n\n\ud504\ub85c\ubaa8\uc158 \ucf54\ub4dc(SCHOOL10)\ub97c \uc785\ub825\ud558\uace0 \uc0c8 \ud559\uae30 \uceec\ub809\uc158 \uc804 \uc81c\ud488 10% \ud560\uc778\uc744 \ubc1b\uc544\ubcf4\uc138\uc694. \n\n: https://nike.sng.link/Astn5/xtv8/xdqv\n\n\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uceec\ub809\uc158\uacfc \ud568\uaed8 \uc0c8 \uc2a4\ud0c0\uc77c\ub85c \uc0c8 \ud559\uae30\ub97c \uc2dc\uc791\ud574 \ubcf4\uc138\uc694\ud83d\udc5f\n\n----------------------------------------\n\n\ud83c\udf53\ubabd\uc528\ub124 \uba64\ubc84\ub418\uae30\nhttps://www.youtube.com/channel/UCguzIEj_YJl_z7X89mJ03ow/join\n\n\u2705English / \u65e5\u672c\u8a9e Subtitles Available\n\n----------------------------------------\n\ud83c\udf19 Online Class\nhttps://class101.net/products/7ZjrMtXtXjCpWU23agBW\n\n\u2600\ufe0fContact:\nmongsweets@gmail.com\n\n\u2600\ufe0fInstagram :\nhttps://www.instagram.com/mymongsweets",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QEYWXlA5R1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QEYWXlA5R1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QEYWXlA5R1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QEYWXlA5R1c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QEYWXlA5R1c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\ubabd\uc911\ub2e4\uacfcMongsweets",
+                "tags": [
+                    "\ub098\uc774\ud0a4",
+                    "\ud0a4\ub9c1",
+                    "\ubc31\uafb8",
+                    "\uac00\ubc29\uafb8\ubbf8\uae30",
+                    "\uac1c\uac15",
+                    "\uac1c\ud559",
+                    "nike",
+                    "keychain",
+                    "back to school"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\uc824\ub9ac\ub85c \ud0a4\ub9c1 \ub9cc\ub4dc\ub294 \uc5ec\uc790",
+                    "description": "* \ubcf8 \uc601\uc0c1\uc740 \ub098\uc774\ud0a4\uc758 \uc720\ub8cc\uad11\uace0\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4 * \n\n\ud83d\udecd\ufe0f\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uc774\ubca4\ud2b8\ud83d\udecd\ufe0f\n\n\ubabd\uc528 \uc601\uc0c1 \ubcf4\uace0, \uc0c8 \ud559\uae30 \ub9de\uc774 \uc1fc\ud551\ud569\uc2dc\ub2e4\ud83d\uded2\n\uc0c8 \ud559\uae30\ub97c \ub9de\uc774\ud560 \uc5ec\ub7ec\ubd84\ub4e4\uc744 \uc704\ud574 \ub098\uc774\ud0a4\uc640 \ud2b9\ubcc4\ud55c \ud61c\ud0dd\uc744 \uac00\uc838\uc654\uc2b5\ub2c8\ub2e4!\n\n\ud83d\udccc10 \ub9cc\uc6d0 \uc0c1\ub2f9\uc758 \ub098\uc774\ud0a4 \ubc14\uc6b0\ucc98 \ud61c\ud0dd (\ucd94\ucca8)\n(*\uae30\uac04 : 25.02.17~03.02)\n\n\ubabd\uc528 \uc601\uc0c1\uc744 \ubcf8 \ud6c4 \uac04\ub2e8\ud55c \ud034\uc988\ub97c \ud480\uace0, 10\ub9cc\uc6d0 \ubc14\uc6b0\ucc98\uc5d0 \ub2f9\ucca8\ub418\uc5b4 \ubcf4\uc138\uc694.\n\n: https://nike.sng.link/Astn5/7qft/mni1\n\n\ud83d\udccc\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uceec\ub809\uc158 10% \ud560\uc778 \ud61c\ud0dd\n(*\uae30\uac04 : 25.02.17~03.02)\n\n\ud504\ub85c\ubaa8\uc158 \ucf54\ub4dc(SCHOOL10)\ub97c \uc785\ub825\ud558\uace0 \uc0c8 \ud559\uae30 \uceec\ub809\uc158 \uc804 \uc81c\ud488 10% \ud560\uc778\uc744 \ubc1b\uc544\ubcf4\uc138\uc694. \n\n: https://nike.sng.link/Astn5/xtv8/xdqv\n\n\ub098\uc774\ud0a4 \uc0c8 \ud559\uae30 \uceec\ub809\uc158\uacfc \ud568\uaed8 \uc0c8 \uc2a4\ud0c0\uc77c\ub85c \uc0c8 \ud559\uae30\ub97c \uc2dc\uc791\ud574 \ubcf4\uc138\uc694\ud83d\udc5f\n\n----------------------------------------\n\n\ud83c\udf53\ubabd\uc528\ub124 \uba64\ubc84\ub418\uae30\nhttps://www.youtube.com/channel/UCguzIEj_YJl_z7X89mJ03ow/join\n\n\u2705English / \u65e5\u672c\u8a9e Subtitles Available\n\n----------------------------------------\n\ud83c\udf19 Online Class\nhttps://class101.net/products/7ZjrMtXtXjCpWU23agBW\n\n\u2600\ufe0fContact:\nmongsweets@gmail.com\n\n\u2600\ufe0fInstagram :\nhttps://www.instagram.com/mymongsweets"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "302781",
+                "likeCount": "7811",
+                "favoriteCount": "0",
+                "commentCount": "567"
+            }
         }
     ],
-    "nextPageToken": "CB4QAA",
+    "nextPageToken": "CDIQAA",
     "pageInfo": {
         "totalResults": 200,
-        "resultsPerPage": 30
+        "resultsPerPage": 50
     }
 }

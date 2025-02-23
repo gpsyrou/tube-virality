@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "B6VhZjZN2R7zU54H7h3y847Xa-I",
+    "etag": "OkdKgliZJZ5MXgCzZ_TdvCTV4ic",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "gLBA-r5dXum60Zk9axrUb_CUL-M",
+            "etag": "RkRaxZHQSi22kHcpdCEOEqU0GN0",
             "id": "22q9n4rqiaQ",
             "snippet": {
                 "publishedAt": "2025-02-21T03:00:06Z",
@@ -66,15 +66,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1926105",
-                "likeCount": "111843",
+                "viewCount": "1929892",
+                "likeCount": "112047",
                 "favoriteCount": "0",
-                "commentCount": "6304"
+                "commentCount": "6311"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qRLGd8aiNlx7FsiqMzUwCLPhK6M",
+            "etag": "cFY6aq1j9xqNKP2KrxOJWG7HEV8",
             "id": "NvsnFZRqZzw",
             "snippet": {
                 "publishedAt": "2025-02-21T21:00:07Z",
@@ -139,15 +139,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "232162",
-                "likeCount": "6327",
+                "viewCount": "233938",
+                "likeCount": "6364",
                 "favoriteCount": "0",
-                "commentCount": "226"
+                "commentCount": "228"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8fGbJTEoIR3bOLhhTEm4yf3vd5k",
+            "etag": "J8R5ruHDaPECUBy60i0x53kIhUM",
             "id": "jokftEqMvqg",
             "snippet": {
                 "publishedAt": "2025-02-21T14:22:41Z",
@@ -202,15 +202,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "700216",
-                "likeCount": "56102",
+                "viewCount": "702458",
+                "likeCount": "56389",
                 "favoriteCount": "0",
-                "commentCount": "12013"
+                "commentCount": "12060"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GRQziGWA63hCJKm4oFMJpv_-5cg",
+            "etag": "TQYW04yHyB0_B6sHkVuf16IVl8o",
             "id": "9OxLhc0T2KA",
             "snippet": {
                 "publishedAt": "2025-02-21T21:39:32Z",
@@ -254,15 +254,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "147639",
-                "likeCount": "1896",
+                "viewCount": "148221",
+                "likeCount": "1905",
                 "favoriteCount": "0",
                 "commentCount": "129"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yoOqOWxnlnoo3GFky3xrnuhGefY",
+            "etag": "-W6JXlNd0E_3PxhuLWbli3p3cVg",
             "id": "Bbp26Cep0Og",
             "snippet": {
                 "publishedAt": "2025-02-21T19:30:01Z",
@@ -329,15 +329,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "335904",
-                "likeCount": "24965",
+                "viewCount": "337156",
+                "likeCount": "25079",
                 "favoriteCount": "0",
-                "commentCount": "1855"
+                "commentCount": "1859"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ytNWyDdOYHB905lvKiARH-jHw_8",
+            "etag": "01thhF-vWHKopFQJrzHh5wkiWkI",
             "id": "Wf4nrDfWVk8",
             "snippet": {
                 "publishedAt": "2025-02-21T21:00:07Z",
@@ -393,15 +393,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "191513",
-                "likeCount": "10364",
+                "viewCount": "193176",
+                "likeCount": "10394",
                 "favoriteCount": "0",
-                "commentCount": "1011"
+                "commentCount": "1014"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uhSzJSm5Y1NLLnD7fGRM0l8cC9Q",
+            "etag": "Ma45Pyd2PPVQxr3b6JRhTjJAiMU",
             "id": "i3CTT4ITSjE",
             "snippet": {
                 "publishedAt": "2025-02-22T09:33:55Z",
@@ -459,7 +459,7 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "53188",
+                "viewCount": "53354",
                 "likeCount": "3460",
                 "favoriteCount": "0",
                 "commentCount": "194"
@@ -467,7 +467,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "vB8rr9TYfrNXh8WY_g3P4aymCzk",
+            "etag": "oaTxQNv3txTF8HcqJR2VmmtMlE0",
             "id": "xfZ3cT5FLxE",
             "snippet": {
                 "publishedAt": "2025-02-21T16:23:01Z",
@@ -534,15 +534,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "441507",
-                "likeCount": "13266",
+                "viewCount": "442112",
+                "likeCount": "13288",
                 "favoriteCount": "0",
                 "commentCount": "576"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hTQYQLV2Es5_3M00Z2cWPC7WnY8",
+            "etag": "ql5pDZ3_aOQwQcHcIf0Hn5wDvzI",
             "id": "ULuOnY6cVfI",
             "snippet": {
                 "publishedAt": "2025-02-21T14:59:15Z",
@@ -602,15 +602,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "1090459",
-                "likeCount": "9024",
+                "viewCount": "1091917",
+                "likeCount": "9072",
                 "favoriteCount": "0",
-                "commentCount": "1697"
+                "commentCount": "1701"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "nc5tVcXYhYmrJKuORV1HQkR89hQ",
+            "etag": "4xv3RTKL-z9ELg_8Z-l8mazgt5c",
             "id": "eWAdpUyzCkI",
             "snippet": {
                 "publishedAt": "2025-02-21T05:00:40Z",
@@ -689,15 +689,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "11343738",
-                "likeCount": "1253956",
+                "viewCount": "11411344",
+                "likeCount": "1256840",
                 "favoriteCount": "0",
-                "commentCount": "69787"
+                "commentCount": "69957"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ik4ZM_FWH9oqCrbFqETLDIlvyCY",
+            "etag": "i7FWSrgk7XDojja8ADeYBz5urEE",
             "id": "uEwQbHUO5AM",
             "snippet": {
                 "publishedAt": "2025-02-21T22:00:06Z",
@@ -746,15 +746,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "195469",
-                "likeCount": "5639",
+                "viewCount": "195857",
+                "likeCount": "5646",
                 "favoriteCount": "0",
                 "commentCount": "289"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IXRn4-7pfCZqYJJvb-FLneb9mBI",
+            "etag": "BZEYzUKn7nsSkRvkz0bQnwJqOjs",
             "id": "iKqwcAQY4Dk",
             "snippet": {
                 "publishedAt": "2025-02-21T18:15:05Z",
@@ -822,15 +822,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "113734",
-                "likeCount": "10607",
+                "viewCount": "113947",
+                "likeCount": "10625",
                 "favoriteCount": "0",
-                "commentCount": "838"
+                "commentCount": "841"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "tjZg7FJ-UNy9Z2DLiULD-3aIWig",
+            "etag": "rHzifklGKbipSWIsMI07-c_3R3Y",
             "id": "eXMm2q8Yneo",
             "snippet": {
                 "publishedAt": "2025-02-21T20:00:24Z",
@@ -875,15 +875,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "92397",
-                "likeCount": "5960",
+                "viewCount": "92614",
+                "likeCount": "5988",
                 "favoriteCount": "0",
                 "commentCount": "166"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "tXvrdNO2PzYxtX03JOiSmx_8gHk",
+            "etag": "tPYzvZ-CBdjOOtwdXjpUyBExaJE",
             "id": "aQMKAZpcynA",
             "snippet": {
                 "publishedAt": "2025-02-21T16:00:06Z",
@@ -950,15 +950,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "836346",
-                "likeCount": "96560",
+                "viewCount": "841566",
+                "likeCount": "96830",
                 "favoriteCount": "0",
-                "commentCount": "9324"
+                "commentCount": "9340"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uOQqjTa2pO0qJ7kMDubshYus9rQ",
+            "etag": "AKHABmw5QQ_LK9Q4CxCjzNbRieo",
             "id": "GpefTFZLknk",
             "snippet": {
                 "publishedAt": "2025-02-21T00:00:09Z",
@@ -1027,15 +1027,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1737653",
-                "likeCount": "97486",
+                "viewCount": "1742469",
+                "likeCount": "97591",
                 "favoriteCount": "0",
-                "commentCount": "8302"
+                "commentCount": "8307"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sDCj5Sh3C0cMneTV0Qp6jR9Ik_c",
+            "etag": "pjfdCQuaoJEaIuD-R524LGGAxLE",
             "id": "Ls1g14HxDlg",
             "snippet": {
                 "publishedAt": "2025-02-19T22:05:10Z",
@@ -1097,15 +1097,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "5473921",
-                "likeCount": "191414",
+                "viewCount": "5474560",
+                "likeCount": "191435",
                 "favoriteCount": "0",
                 "commentCount": "6384"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "gYYwQYFvD4UxWkdYQe-qLbz-3k4",
+            "etag": "w9S85azPqgjYN_pnGlOV9vLUkAg",
             "id": "b7GjV_aeoK4",
             "snippet": {
                 "publishedAt": "2025-02-21T03:45:06Z",
@@ -1167,15 +1167,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "806809",
-                "likeCount": "42148",
+                "viewCount": "809048",
+                "likeCount": "42288",
                 "favoriteCount": "0",
-                "commentCount": "1917"
+                "commentCount": "1923"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "loQxrHeC3n9A2ac-RaXPeBCgxUc",
+            "etag": "GsIkCR460FtT3fNLcFypqOt8cVY",
             "id": "WQpIT9blHsE",
             "snippet": {
                 "publishedAt": "2025-02-21T02:49:25Z",
@@ -1242,15 +1242,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "157506",
-                "likeCount": "2754",
+                "viewCount": "157584",
+                "likeCount": "2756",
                 "favoriteCount": "0",
-                "commentCount": "389"
+                "commentCount": "391"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TBb3BSEWv0MTkRTFY0b4d819mIw",
+            "etag": "RaFTZTSuErjrphFEe14jG86q0WY",
             "id": "n5UzwDVGTfU",
             "snippet": {
                 "publishedAt": "2025-02-20T14:00:06Z",
@@ -1294,15 +1294,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "1793263",
-                "likeCount": "8941",
+                "viewCount": "1794533",
+                "likeCount": "8953",
                 "favoriteCount": "0",
                 "commentCount": "128"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YcyXagt_8MocnpXmTkZbBHK6W4o",
+            "etag": "jfUfxlY1Z19DBayhH-FwmEN6io4",
             "id": "DiJp5KlQLv4",
             "snippet": {
                 "publishedAt": "2025-02-20T19:46:25Z",
@@ -1357,15 +1357,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "137123",
-                "likeCount": "6563",
+                "viewCount": "137171",
+                "likeCount": "6574",
                 "favoriteCount": "0",
                 "commentCount": "1258"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YM1w1b7m0Tl5wQ7x-tgguWzkrdA",
+            "etag": "t3pq94K1zl4UwMuaFr3po3egOW8",
             "id": "oBe_HbXg8BE",
             "snippet": {
                 "publishedAt": "2025-02-20T14:03:15Z",
@@ -1424,15 +1424,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "350055",
-                "likeCount": "14836",
+                "viewCount": "350417",
+                "likeCount": "14856",
                 "favoriteCount": "0",
-                "commentCount": "931"
+                "commentCount": "932"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "nm9uZmK8C5rivXO3hqPG_6MtBGg",
+            "etag": "jrob7adDcFADwEuBspxbeIGr5kg",
             "id": "_NE7jubXixs",
             "snippet": {
                 "publishedAt": "2025-02-20T15:34:01Z",
@@ -1493,15 +1493,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "319300",
-                "likeCount": "15287",
+                "viewCount": "319506",
+                "likeCount": "15307",
                 "favoriteCount": "0",
                 "commentCount": "497"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eEBWagWleUPy88Wz-62Ataepveg",
+            "etag": "PkqTtO_o0z5lXeUL0aKL7UhouzM",
             "id": "H0y5RwcCJ0Q",
             "snippet": {
                 "publishedAt": "2025-02-20T17:00:18Z",
@@ -1549,15 +1549,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1637310",
-                "likeCount": "128819",
+                "viewCount": "1643412",
+                "likeCount": "129068",
                 "favoriteCount": "0",
-                "commentCount": "6176"
+                "commentCount": "6189"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "FBzYHPx8e9nDFHVhDNt96KbhJcE",
+            "etag": "WuwuJ-jXeeMDCSjRt4XY1yPAFh0",
             "id": "WdAGPCq35oE",
             "snippet": {
                 "publishedAt": "2025-02-20T21:03:16Z",
@@ -1600,15 +1600,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "231483",
-                "likeCount": "16327",
+                "viewCount": "231598",
+                "likeCount": "16341",
                 "favoriteCount": "0",
-                "commentCount": "235"
+                "commentCount": "236"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-OSpFpqRU6CvtFM9vm1EErVxLeo",
+            "etag": "WfyDf9Hcj-C5ztjAu4q70c7FJRk",
             "id": "67i6UhQ_jJI",
             "snippet": {
                 "publishedAt": "2025-02-21T03:15:06Z",
@@ -1670,15 +1670,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "734563",
-                "likeCount": "39252",
+                "viewCount": "736161",
+                "likeCount": "39334",
                 "favoriteCount": "0",
-                "commentCount": "1643"
+                "commentCount": "1646"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "iBoIHln804in-PDh2EktsO39YDk",
+            "etag": "qmC1be2iGgiwZFilviLauLQkJh8",
             "id": "km7Ax4O6pdM",
             "snippet": {
                 "publishedAt": "2025-02-19T22:21:01Z",
@@ -1736,15 +1736,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1275367",
-                "likeCount": "48464",
+                "viewCount": "1276399",
+                "likeCount": "48539",
                 "favoriteCount": "0",
-                "commentCount": "9148"
+                "commentCount": "9159"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ygzFm-HYALxfr_hUNvmibFv99lI",
+            "etag": "mV5KdQoQd8yrMyRni_no3PCfjj0",
             "id": "7n1gzhWrKkY",
             "snippet": {
                 "publishedAt": "2025-02-21T14:11:14Z",
@@ -1814,15 +1814,15 @@
                 "defaultAudioLanguage": "pt-BR"
             },
             "statistics": {
-                "viewCount": "76446",
-                "likeCount": "6551",
+                "viewCount": "76507",
+                "likeCount": "6559",
                 "favoriteCount": "0",
                 "commentCount": "349"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IUiojLRPxiH_RD0g3JaYhm1inXA",
+            "etag": "oFu4ImRRYMER6louXpuaoLW4-p4",
             "id": "Qh9Em9tCuig",
             "snippet": {
                 "publishedAt": "2025-02-20T14:00:33Z",
@@ -1934,15 +1934,15 @@
                 "defaultAudioLanguage": "pt"
             },
             "statistics": {
-                "viewCount": "588785",
-                "likeCount": "39663",
+                "viewCount": "588988",
+                "likeCount": "39684",
                 "favoriteCount": "0",
                 "commentCount": "796"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TYwnTlui30H5PXJVVyNVXV7E7HM",
+            "etag": "7Y-72cVUuyJCjEmksP_M78Aj40U",
             "id": "kJ8-wBEDvTc",
             "snippet": {
                 "publishedAt": "2025-02-20T15:00:13Z",
@@ -2026,15 +2026,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1709113",
-                "likeCount": "235259",
+                "viewCount": "1712109",
+                "likeCount": "235339",
                 "favoriteCount": "0",
                 "commentCount": "9258"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4HakkCcdVyjyb_hTBuOm2TOYNxc",
+            "etag": "ynM_tOpNleIuj1Sx0sC27tYstyI",
             "id": "5CVj41dtkIA",
             "snippet": {
                 "publishedAt": "2025-02-20T15:00:06Z",
@@ -2115,16 +2115,1423 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1940553",
-                "likeCount": "86906",
+                "viewCount": "1945442",
+                "likeCount": "87051",
                 "favoriteCount": "0",
-                "commentCount": "9930"
+                "commentCount": "9939"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ocgGueiHmEf46yGYIHFuhKq-F6g",
+            "id": "oe4XJ851oOk",
+            "snippet": {
+                "publishedAt": "2025-02-20T13:00:06Z",
+                "channelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
+                "title": "LiSA\u300eReawakeR (feat. Felix of Stray Kids)\u300fMUSiC CLiP",
+                "description": "\u30a2\u30cb\u30e1\u300e\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2- Arise from the Shadow -\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\n\nReawakeR (feat. Felix of Stray Kids)\n\u4f5c\u8a5e\uff1aBenjamin + cAnON.\n\u4f5c\u66f2\u30fb\u7de8\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\n\n\u27a4Download\uff06Streaming\nhttps://lisa.lnk.to/ReawakeR_DG\n\n23rd Single\u300cReawakeR (feat. Felix of Stray Kids)\u300d\n\u767a\u58f2\u65e5\uff1a2025\u5e743\u67085\u65e5(\u6c34)\nCD\u4e88\u7d04\uff1ahttps://lisa.lnk.to/ReawakeR_PKG\n\n\u521d\u56de\u751f\u7523\u9650\u5b9a\u76e4\uff08CD+GOODS\uff09\n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n\u4f5c\u8a5e\uff1aBenjamin + cAnON.\u3000\u4f5c\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\u3000\u7de8\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental - \n\n[GOODS]\n\u30fb\u30d5\u30a9\u30c8\u30d6\u30c3\u30af\u30ec\u30c3\u30c8\uff0820P\uff09\n\u30fb\u30b9\u30c6\u30c3\u30ab\u30fc\uff084\u679a\u7d44\uff09\n\n\u901a\u5e38\u76e4\uff08CD\uff09  \n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental -\n\n\u671f\u9593\u751f\u7523\u9650\u5b9a\u76e4\uff08CD+Blu-ray\uff09  \n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental -\n5.ReawakeR (feat. Felix of Stray Kids) - TV ver. -\n6.ReawakeR (feat. Felix of Stray Kids) - English TV ver. - \n\n[Blu-ray]\n1.ReawakeR (feat. Felix of Stray Kids) - MUSiC CLiP -\n2.ReawakeR (feat. Felix of Stray Kids) - \u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6Season 2 -Arise from the Shadow - non-credit opening-\n\n\u203b\u30a2\u30cb\u30e1\u63cf\u304d\u304a\u308d\u3057\u30a4\u30e9\u30b9\u30c8\u4f7f\u7528\u30c7\u30b8\u30d1\u30c3\u30af\u4ed5\u69d8\n\u203b\u30a2\u30cb\u30e1\u63cf\u304d\u304a\u308d\u3057\u30a4\u30e9\u30b9\u30c8\u4f7f\u7528\u30b9\u30c6\u30c3\u30ab\u30fc\u540c\u68b1\n\n\n[ReawakeR (feat. Felix of Stray Kids) MUSiC CLiP  credit]\n\nProduction (JP)\uff1aPARADE Tokyo \nProducer\uff1a\u6e21\u8fba\u6d0b\u6717 (PARADE Tokyo)\nLine Producer\uff1aBAE INSOOK\u3001TROUSSIER WATANABE (PARADE Tokyo)\nProduction Manager\uff1aKOUKI MUGII\n\nProduction (KR)\uff1aBANGJAEYEOB FILM\nDirector\uff1aBANG JAE YEOB\nAssistant Director\uff1aHANSOL KIM\u3001JIMIN AHN\u3001SOYEON BAE\n\nProducer\uff1aMINJAE KIM\n\nProduction Support Team Leader\uff1aKYOUNGJIN LEE\nProduction Support Team Member\uff1aJAEHYEON WANG\u3001MYUNGDONG LEE\u3001SANGMI LEE\u3001HYOBIN LEE\u3001JINWOOK CHOI\n\nDop\uff1aINSEOK JUNG\n1st YUNHWAN PARK\n2nd JEONGWOONG CHOI\n3rd SIYEON YUK\nData manager JISEONG HAN\n\nJimmy Jib Operator\uff1aYOONGU JI\nJimmy Jib Assistant\uff1aJINHO YOO\u3001SEUNGJUN YOO\u3001MINGI JUNG\n\nGaffer\uff1aJONGHWAN OH (HIGH LIGHT)\n1st JUNGHEE SON\n2nd SUNGHOON PARK\u3001JAEJUN HOON\n3rd SEUNGMIN KIM\u3001JAEWOONG YOON\u3001SEUNGHYEOK YEOM\u3001JUHO JUNG \n\nArt Director\uff1aYERIN CHOI\u3001CHAEYONG SONG (YAWN.PROJECT)\nArt Team\uff1aHYOJUNG CHOI\u3001RHOONEY LEE\nSet\uff1aNAMA\n\nSpecial Effect Representative\uff1aCHOULYOUNG PARK (DRAGON)\nHead of Department\uff1aWONJUN OH\u3001JAESUNG PARK\u3001CHONGYOUNG SEOL\nTeam Leader\uff1aJUNHAK LEE\nTeam Member\uff1aWONTAE KIM \n\nEdit\uff1aSOYEON BAE (BANGJAEYEOB FILM)\n\nVFX Supervisor\uff1aDAEYOUNG BYUN (SECONDFLOOR)\nVFX Producer\uff1aHYEONGDEOK IM\n2D Composite Lead\uff1aAYOUNG LEE\n2D Composite Artist\uff1aYOUNGJUN KO\u3001HEESU KIM\u3001SUHWAN KIM\u3001YEWON AHN\n3D / FX Artist\uff1aSEOKJOO JANG\u3001JINSEONG PARK\u3001JUNHUI RHEE\n\nDI Colorist\uff1aJIYUN YEOM (LUCID COLOUR)\nDI Crew\uff1aSOMI NA\u3001MIRIM LEE\u3001EUNSEO CHOI\u3001MINKYUNG LEE\nDI Producer\uff1aSUHYEON KIM \nManager\uff1aYUJIN SEO\n\nHair & Make up (LiSA)\uff1a\u6a58\u623f\u56f3 (\u00e9trenne)\nStylist (LiSA)\uff1a\u91d1\u5149\u82f1\u884c (CEKAI)\nStylist Assistant (LiSA)\uff1a\u7532\u6590 \u7dd1\u3001\u8239\u8d8a\u83ef\u5b50\n\nHair (Felix)\uff1aCHOI BORA\nMake up (Felix)\uff1aJUN JIWON\nStylist (Felix)\uff1aKWON HYEMI\n\n\nFollow LiSA\nOFFICIAL WEBSITE\uff1ahttp://www.lxixsxa.com/\nLiSA Twitter\uff1ahttps://twitter.com/LiSA_OLiVE\nLiSA STAFF Twitter\uff1ahttps://twitter.com/LiSA_STAFF\nFacebook\uff1ahttps://www.facebook.com/lxixsxa.jp/\nInstagram\uff1ahttps://www.instagram.com/xlisa_olivex/\nTikTok\uff1ahttps://www.tiktok.com/@lxixsxa_official\n\n#LiSA #Felix #sololeveling #\u4ffa\u30ec\u3079",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oe4XJ851oOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oe4XJ851oOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oe4XJ851oOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oe4XJ851oOk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oe4XJ851oOk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LiSA Official YouTube",
+                "tags": [
+                    "LiSA",
+                    "LISA",
+                    "Lisa",
+                    "\u30a2\u30cb\u30bd\u30f3",
+                    "\u30a2\u30cb\u30e1",
+                    "crossing",
+                    "\u30ea\u30b5",
+                    "\u9b3c\u6ec5",
+                    "\u304d\u3081\u3064\u306e\u3084\u3044\u3070",
+                    "\u30d9\u30b9\u30c8",
+                    "\u30b8\u30e3\u30f3\u30d7",
+                    "FGO",
+                    "Fate",
+                    "\u30a2\u30cb\u30d7\u30ec",
+                    "ANIPLEX",
+                    "SAO",
+                    "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8",
+                    "\u30bd\u30fc\u30c9",
+                    "\u7c73\u6d25",
+                    "\u7c73\u6d25\u7384\u5e2b",
+                    "KINGGNU",
+                    "\u30ad\u30f3\u30b0\u30cc\u30fc",
+                    "Aimer",
+                    "RADWINPS",
+                    "\u7d05\u84ee\u83ef",
+                    "\u3050\u308c\u3093\u3052",
+                    "\u9b3c\u6ec5\u306e\u5203",
+                    "\u7d05\u84ee",
+                    "BTS",
+                    "DemonSlayer",
+                    "\u30b9\u30d1\u30a4\u30c0\u30fc\u30de\u30f3",
+                    "\u30b9\u30d1\u30a4\u30c0\u30fc\u30d0\u30fc\u30b9",
+                    "\u30de\u30fc\u30d9\u30eb",
+                    "YOASOBI",
+                    "\u63a8\u3057\u306e\u5b50",
+                    "MAN WITH A MISSION",
+                    "milet",
+                    "KICK BACK",
+                    "Ado",
+                    "\u30ea\u30a2\u30e9\u30a4\u30ba",
+                    "\u4e00\u6589\u30ce\u559d\u91c7",
+                    "Polyphia",
+                    "TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
+                    "\u7dd1\u9ec4\u8272\u793e\u4f1a",
+                    "Ayase",
+                    "Vaundy",
+                    "\u602a\u7363\u306e\u82b1\u5504",
+                    "\u6fa4\u91ce\u5f18\u4e4b",
+                    "Awich",
+                    "\u3055\u30e6\u308a",
+                    "GARNiDELiA",
+                    "\u3061\u3083\u3093\u307f\u306a",
+                    "\u546a\u8853\u5efb\u6226",
+                    "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+                    "\u82b1\u8b5c",
+                    "UVERworld",
+                    "\u30dd\u30eb\u30ce\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
+                    "tuki",
+                    "LE SSERAFIM",
+                    "Mrs. GREEN APPLE",
+                    "\u30e8\u30eb\u30b7\u30ab",
+                    "MY FIRST STORY",
+                    "HYDE",
+                    "\u512a\u91cc",
+                    "New Jeans",
+                    "official\u9aed\u7537dism",
+                    "\u5b87\u591a\u7530\u30d2\u30ab\u30eb",
+                    "\u690e\u540d\u6797\u6a8e",
+                    "TOMOO",
+                    "a\u5b50",
+                    "\u9b54\u6cd5\u79d1",
+                    "\u9b54\u6cd5\u79d1\u9ad8\u6821\u306e\u52a3\u7b49\u751f"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "LiSA\u300eReawakeR (feat. Felix of Stray Kids)\u300fMUSiC CLiP",
+                    "description": "\u30a2\u30cb\u30e1\u300e\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2- Arise from the Shadow -\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\n\nReawakeR (feat. Felix of Stray Kids)\n\u4f5c\u8a5e\uff1aBenjamin + cAnON.\n\u4f5c\u66f2\u30fb\u7de8\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\n\n\u27a4Download\uff06Streaming\nhttps://lisa.lnk.to/ReawakeR_DG\n\n23rd Single\u300cReawakeR (feat. Felix of Stray Kids)\u300d\n\u767a\u58f2\u65e5\uff1a2025\u5e743\u67085\u65e5(\u6c34)\nCD\u4e88\u7d04\uff1ahttps://lisa.lnk.to/ReawakeR_PKG\n\n\u521d\u56de\u751f\u7523\u9650\u5b9a\u76e4\uff08CD+GOODS\uff09\n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n\u4f5c\u8a5e\uff1aBenjamin + cAnON.\u3000\u4f5c\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\u3000\u7de8\u66f2\uff1a\u6fa4\u91ce\u5f18\u4e4b\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental - \n\n[GOODS]\n\u30fb\u30d5\u30a9\u30c8\u30d6\u30c3\u30af\u30ec\u30c3\u30c8\uff0820P\uff09\n\u30fb\u30b9\u30c6\u30c3\u30ab\u30fc\uff084\u679a\u7d44\uff09\n\n\u901a\u5e38\u76e4\uff08CD\uff09  \n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental -\n\n\u671f\u9593\u751f\u7523\u9650\u5b9a\u76e4\uff08CD+Blu-ray\uff09  \n[CD]\n1.ReawakeR (feat. Felix of Stray Kids)\n2.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a1\n3.\u30bf\u30a4\u30c8\u30eb\u672a\u5b9a2\n4.ReawakeR (feat. Felix of Stray Kids) - Instrumental -\n5.ReawakeR (feat. Felix of Stray Kids) - TV ver. -\n6.ReawakeR (feat. Felix of Stray Kids) - English TV ver. - \n\n[Blu-ray]\n1.ReawakeR (feat. Felix of Stray Kids) - MUSiC CLiP -\n2.ReawakeR (feat. Felix of Stray Kids) - \u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6Season 2 -Arise from the Shadow - non-credit opening-\n\n\u203b\u30a2\u30cb\u30e1\u63cf\u304d\u304a\u308d\u3057\u30a4\u30e9\u30b9\u30c8\u4f7f\u7528\u30c7\u30b8\u30d1\u30c3\u30af\u4ed5\u69d8\n\u203b\u30a2\u30cb\u30e1\u63cf\u304d\u304a\u308d\u3057\u30a4\u30e9\u30b9\u30c8\u4f7f\u7528\u30b9\u30c6\u30c3\u30ab\u30fc\u540c\u68b1\n\n\n[ReawakeR (feat. Felix of Stray Kids) MUSiC CLiP  credit]\n\nProduction (JP)\uff1aPARADE Tokyo \nProducer\uff1a\u6e21\u8fba\u6d0b\u6717 (PARADE Tokyo)\nLine Producer\uff1aBAE INSOOK\u3001TROUSSIER WATANABE (PARADE Tokyo)\nProduction Manager\uff1aKOUKI MUGII\n\nProduction (KR)\uff1aBANGJAEYEOB FILM\nDirector\uff1aBANG JAE YEOB\nAssistant Director\uff1aHANSOL KIM\u3001JIMIN AHN\u3001SOYEON BAE\n\nProducer\uff1aMINJAE KIM\n\nProduction Support Team Leader\uff1aKYOUNGJIN LEE\nProduction Support Team Member\uff1aJAEHYEON WANG\u3001MYUNGDONG LEE\u3001SANGMI LEE\u3001HYOBIN LEE\u3001JINWOOK CHOI\n\nDop\uff1aINSEOK JUNG\n1st YUNHWAN PARK\n2nd JEONGWOONG CHOI\n3rd SIYEON YUK\nData manager JISEONG HAN\n\nJimmy Jib Operator\uff1aYOONGU JI\nJimmy Jib Assistant\uff1aJINHO YOO\u3001SEUNGJUN YOO\u3001MINGI JUNG\n\nGaffer\uff1aJONGHWAN OH (HIGH LIGHT)\n1st JUNGHEE SON\n2nd SUNGHOON PARK\u3001JAEJUN HOON\n3rd SEUNGMIN KIM\u3001JAEWOONG YOON\u3001SEUNGHYEOK YEOM\u3001JUHO JUNG \n\nArt Director\uff1aYERIN CHOI\u3001CHAEYONG SONG (YAWN.PROJECT)\nArt Team\uff1aHYOJUNG CHOI\u3001RHOONEY LEE\nSet\uff1aNAMA\n\nSpecial Effect Representative\uff1aCHOULYOUNG PARK (DRAGON)\nHead of Department\uff1aWONJUN OH\u3001JAESUNG PARK\u3001CHONGYOUNG SEOL\nTeam Leader\uff1aJUNHAK LEE\nTeam Member\uff1aWONTAE KIM \n\nEdit\uff1aSOYEON BAE (BANGJAEYEOB FILM)\n\nVFX Supervisor\uff1aDAEYOUNG BYUN (SECONDFLOOR)\nVFX Producer\uff1aHYEONGDEOK IM\n2D Composite Lead\uff1aAYOUNG LEE\n2D Composite Artist\uff1aYOUNGJUN KO\u3001HEESU KIM\u3001SUHWAN KIM\u3001YEWON AHN\n3D / FX Artist\uff1aSEOKJOO JANG\u3001JINSEONG PARK\u3001JUNHUI RHEE\n\nDI Colorist\uff1aJIYUN YEOM (LUCID COLOUR)\nDI Crew\uff1aSOMI NA\u3001MIRIM LEE\u3001EUNSEO CHOI\u3001MINKYUNG LEE\nDI Producer\uff1aSUHYEON KIM \nManager\uff1aYUJIN SEO\n\nHair & Make up (LiSA)\uff1a\u6a58\u623f\u56f3 (\u00e9trenne)\nStylist (LiSA)\uff1a\u91d1\u5149\u82f1\u884c (CEKAI)\nStylist Assistant (LiSA)\uff1a\u7532\u6590 \u7dd1\u3001\u8239\u8d8a\u83ef\u5b50\n\nHair (Felix)\uff1aCHOI BORA\nMake up (Felix)\uff1aJUN JIWON\nStylist (Felix)\uff1aKWON HYEMI\n\n\nFollow LiSA\nOFFICIAL WEBSITE\uff1ahttp://www.lxixsxa.com/\nLiSA Twitter\uff1ahttps://twitter.com/LiSA_OLiVE\nLiSA STAFF Twitter\uff1ahttps://twitter.com/LiSA_STAFF\nFacebook\uff1ahttps://www.facebook.com/lxixsxa.jp/\nInstagram\uff1ahttps://www.instagram.com/xlisa_olivex/\nTikTok\uff1ahttps://www.tiktok.com/@lxixsxa_official\n\n#LiSA #Felix #sololeveling #\u4ffa\u30ec\u3079"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "statistics": {
+                "viewCount": "2374826",
+                "likeCount": "335482",
+                "favoriteCount": "0",
+                "commentCount": "12613"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vznwgi8mHNccRHEXpwDtGaHIfXc",
+            "id": "dz94JYi08uQ",
+            "snippet": {
+                "publishedAt": "2025-02-21T16:00:06Z",
+                "channelId": "UC896QaWKoSGdZTmy9rHyU_g",
+                "title": "FLAMENGO PODE SER CAMPE\u00c3O DA GUANABARA E GR\u00caMIO X JUVENTUDE - AN\u00c1LISE E MELHORES ODDS I BANDPLACAR",
+                "description": "No BandPlacar de hoje, Bernardo Ramos e Aline Fanelli falam sobre Flamengo x Maric\u00e1 e Gr\u00eamio x Juventude. Nos jogos da NBA, Eduardo Bar\u00e3o traz todas as informa\u00e7\u00f5es de Cavaliers x Knicks e Kings x Warriors.\n\nPara saber tudo sobre resultados de futebol ao vivo, visite o site do Band Placar: https://www.band.com.br/band-placar\nAs melhores odds do mercado \u00e9 na BandBet: https://www.bandbet.bet.br/\n\nNos siga tamb\u00e9m nas redes sociais:\nInstagram: https://www.instagram.com/esportenaband/\nTwitter: https://x.com/esportenaband\n\n#BandPlacar #Gr\u00eamio #Juventude #Flamengo #CampeonatCarioca #NBA #BandBetUmLanceInfinitasPossibilidades",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dz94JYi08uQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dz94JYi08uQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dz94JYi08uQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dz94JYi08uQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dz94JYi08uQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Esporte na Band",
+                "tags": [
+                    "esporte na band",
+                    "band ao vivo",
+                    "jogo ao vivo na band",
+                    "flamengo x maric\u00e1",
+                    "odds flamengo x maric\u00e1",
+                    "flamengo x maric\u00e1 ao vivo",
+                    "pr\u00e9 jogo flamengo x maric\u00e1",
+                    "melhores odds flamengo x maric\u00e1",
+                    "campeonato carioca",
+                    "flamengo ta\u00e7a guanabara",
+                    "gr\u00eamio x juventude",
+                    "melhores odds gr\u00eamio x juventude",
+                    "odds gr\u00eamio x juventude",
+                    "em quem apostar nba",
+                    "odds nba",
+                    "melhores odds nba",
+                    "campeonato ga\u00facho",
+                    "Cavaliers x Knicks",
+                    "Kings x Warriors",
+                    "odds cavaliers x knicks",
+                    "odds knigs x warriors"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "FLAMENGO PODE SER CAMPE\u00c3O DA GUANABARA E GR\u00caMIO X JUVENTUDE - AN\u00c1LISE E MELHORES ODDS I BANDPLACAR",
+                    "description": "No BandPlacar de hoje, Bernardo Ramos e Aline Fanelli falam sobre Flamengo x Maric\u00e1 e Gr\u00eamio x Juventude. Nos jogos da NBA, Eduardo Bar\u00e3o traz todas as informa\u00e7\u00f5es de Cavaliers x Knicks e Kings x Warriors.\n\nPara saber tudo sobre resultados de futebol ao vivo, visite o site do Band Placar: https://www.band.com.br/band-placar\nAs melhores odds do mercado \u00e9 na BandBet: https://www.bandbet.bet.br/\n\nNos siga tamb\u00e9m nas redes sociais:\nInstagram: https://www.instagram.com/esportenaband/\nTwitter: https://x.com/esportenaband\n\n#BandPlacar #Gr\u00eamio #Juventude #Flamengo #CampeonatCarioca #NBA #BandBetUmLanceInfinitasPossibilidades"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "79418",
+                "likeCount": "140",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mslMJLJ5hn7AE4S4m1gRdswMnjU",
+            "id": "gC_PRxarXl4",
+            "snippet": {
+                "publishedAt": "2025-02-20T15:01:01Z",
+                "channelId": "UC63iwP6BtIjxB6xn1GKR6Lw",
+                "title": "O MELHOR ROB\u00d4 DO SEU ELEMENTO VENCE *surreal",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gC_PRxarXl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gC_PRxarXl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gC_PRxarXl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gC_PRxarXl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gC_PRxarXl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emilly Vick",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "O MELHOR ROB\u00d4 DO SEU ELEMENTO VENCE *surreal",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "1782929",
+                "likeCount": "32416",
+                "favoriteCount": "0",
+                "commentCount": "3673"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JNcgf-d2J1WFdpd4DwQa4v9TyaM",
+            "id": "giGpjhkU_vI",
+            "snippet": {
+                "publishedAt": "2025-02-20T02:42:34Z",
+                "channelId": "UCyuLjFPzlkMSYJpIpY8M6qA",
+                "title": "UNIVERSIDAD CENTRAL X CORINTHIANS | MELHORES MOMENTOS | CONMEBOL LIBERTADORES 2025",
+                "description": "\u26bd\ud83e\udd85 Estreia do Tim\u00e3o na CONMEBOL #Libertadores! Pela Fase 2, #UniversidadCentral e #Corinthians\n empataram por 1-1!\n\n\ud83d\udd1c A volta acontece em S\u00e3o Paulo, no dia 26/2!\n\n#GloriaEterna \n\nInscreva-se no canal oficial da CONMEBOL Libertadores para ter acesso ao melhor conte\u00fado: https://bit.ly/2mRGAD6\n\nEncontre todas as informa\u00e7\u00f5es da competi\u00e7\u00e3o no nosso site oficial:  https://conmebollibertadores.com/\n\nSiga-nos nas redes sociais:\n\nTwitter: https://twitter.com/libertadoresbr\nInstagram: https://instagram.com/libertadoresbr\nFacebook: http://www.facebook.com/CopaLibertadores\nTikTok: https://www.tiktok.com/@libertadores",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/giGpjhkU_vI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/giGpjhkU_vI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/giGpjhkU_vI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/giGpjhkU_vI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/giGpjhkU_vI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CONMEBOL Libertadores",
+                "tags": [
+                    "conmebol libertadores",
+                    "libertadores",
+                    "liberta",
+                    "copa libertadores",
+                    "gols",
+                    "goles",
+                    "goals",
+                    "gola\u00e7os",
+                    "highlights",
+                    "resumen",
+                    "melhores momentos",
+                    "futebol",
+                    "f\u00fatbol",
+                    "soccer",
+                    "gols libertadores",
+                    "goles libertadores",
+                    "melhores momentos libertadores",
+                    "highlights liberta",
+                    "libertadores femenina",
+                    "libertadores fem",
+                    "universidad central",
+                    "corinthians",
+                    "corinthians libertadores",
+                    "universidad central libertadores"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UNIVERSIDAD CENTRAL X CORINTHIANS | MELHORES MOMENTOS | CONMEBOL LIBERTADORES 2025",
+                    "description": "\u26bd\ud83e\udd85 Estreia do Tim\u00e3o na CONMEBOL #Libertadores! Pela Fase 2, #UniversidadCentral e #Corinthians\n empataram por 1-1!\n\n\ud83d\udd1c A volta acontece em S\u00e3o Paulo, no dia 26/2!\n\n#GloriaEterna \n\nInscreva-se no canal oficial da CONMEBOL Libertadores para ter acesso ao melhor conte\u00fado: https://bit.ly/2mRGAD6\n\nEncontre todas as informa\u00e7\u00f5es da competi\u00e7\u00e3o no nosso site oficial:  https://conmebollibertadores.com/\n\nSiga-nos nas redes sociais:\n\nTwitter: https://twitter.com/libertadoresbr\nInstagram: https://instagram.com/libertadoresbr\nFacebook: http://www.facebook.com/CopaLibertadores\nTikTok: https://www.tiktok.com/@libertadores"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "135970",
+                "likeCount": "2178",
+                "favoriteCount": "0",
+                "commentCount": "229"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4uTNj3VaoxR3CRbrdo-aulugncQ",
+            "id": "2QViuZXQbgw",
+            "snippet": {
+                "publishedAt": "2025-02-20T20:10:12Z",
+                "channelId": "UCZiYbVptd3PVPf4f6eR6UaQ",
+                "title": "JOGO COMPLETO: ROMA X PORTO | PLAYOFFS DAS OITAVAS DE FINAL | UEFA EUROPA LEAGUE",
+                "description": "Acompanhe a partida de volta entre Roma x Porto, pelos playoffs que ir\u00e3o definir os classificados para as oitavas de final da Uefa Europa League, aqui na Caz\u00e9TV!\n\n#EuropaLeagueNaCaz\u00e9TV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2QViuZXQbgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2QViuZXQbgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2QViuZXQbgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2QViuZXQbgw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2QViuZXQbgw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Caz\u00e9TV",
+                "tags": [
+                    "Caz\u00e9TV",
+                    "Caz\u00e9 TV",
+                    "Casimiro ao vivo",
+                    "Casimiro",
+                    "Caz\u00e9TV ao vivo",
+                    "Caz\u00e9 ao vivo",
+                    "cazetv",
+                    "casimiro jogos",
+                    "caze tv ao vivo",
+                    "melhores momentos",
+                    "jogo ao vivo",
+                    "assistir futebol",
+                    "europa league",
+                    "uefa europa league",
+                    "europa league cazetv",
+                    "assistir europa league",
+                    "jogo roma",
+                    "roma ao vivo",
+                    "roma europa",
+                    "roma cazeetv",
+                    "assistir roma",
+                    "roma porto",
+                    "porto roma",
+                    "jogo porto",
+                    "porto ao vivo",
+                    "porto cazetv",
+                    "porto europa",
+                    "assistir porto",
+                    "assistir europa leaguee",
+                    "europa league ao vivo"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "JOGO COMPLETO: ROMA X PORTO | PLAYOFFS DAS OITAVAS DE FINAL | UEFA EUROPA LEAGUE",
+                    "description": "Acompanhe a partida de volta entre Roma x Porto, pelos playoffs que ir\u00e3o definir os classificados para as oitavas de final da Uefa Europa League, aqui na Caz\u00e9TV!\n\n#EuropaLeagueNaCaz\u00e9TV"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "1133688",
+                "likeCount": "25930",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3wkfWCRNQSqPMkutds2I2UNuuBw",
+            "id": "5g2EOMiO2-k",
+            "snippet": {
+                "publishedAt": "2025-02-20T13:00:10Z",
+                "channelId": "UCV306eHqgo0LvBf3Mh36AHg",
+                "title": "NASCEU O NOSSO BEB\u00ca DRAG\u00c3O NO MINECRAFT #3.34",
+                "description": "\ud83d\udc49 NOVA COLE\u00c7\u00c3O: http://www.felipeneto.com.br\n\n\ud83d\udcda FA\u00c7A PARTE DO CLUBE DO LIVRO FN\nDescubra hist\u00f3rias incr\u00edveis e compartilhe sua paix\u00e3o pela leitura! Acesse agora: www.clubefn.com.br\n\n\ud83d\udcd6 MEU LIVRO EST\u00c1 ESPERANDO POR VOC\u00ca!\nConhe\u00e7a minha obra e mergulhe em uma leitura \u00fanica: https://amzn.to/3Bgy5qT\n\n\ud83d\udc49 Cole\u00e7\u00e3o Exclusiva de Volta da Saga: Garanta j\u00e1 sua camiseta e produtos com estampas exclusivas em http://www.felipeneto.com.br.\n\n\ud83d\udce2 N\u00e3o esque\u00e7a: Os epis\u00f3dios intermedi\u00e1rios est\u00e3o dispon\u00edveis para os membros Coruja de Ouro! Seja membro do canal e tenha acesso a conte\u00fados exclusivos\n\n\u2728 LEITURAS DO M\u00caS \u2013 ENTRE NESSA JORNADA LITER\u00c1RIA!\n\nFevereiro: A Cabe\u00e7a do Santo \u2013 Um conto repleto de mist\u00e9rios e magia no sert\u00e3o brasileiro. https://amzn.to/4gbYxAG\nJaneiro: Solit\u00e1ria \u2013 Uma hist\u00f3ria de elucida\u00e7\u00e3o e transforma\u00e7\u00e3o. https://amzn.to/3ZLTqBc\nDezembro: Ainda Estou Aqui \u2013 O livro que inspirou o filme. https://amzn.to/3V0Nl2m\nNovembro: Frankenstein \u2013 Um cl\u00e1ssico atemporal. https://amzn.to/3YuDSCh\nSetembro: Corpos Secos \u2013 Uma leitura impactante. https://amzn.to/4evAexh\nAgosto: Fahrenheit 451 \u2013 Um marco na fic\u00e7\u00e3o cient\u00edfica. https://amzn.to/3TzNR6n\n\n\ud83c\udfa5 DESCUBRA NOVOS MUNDOS!\nClique nos links e fa\u00e7a parte dessa experi\u00eancia liter\u00e1ria. Cada livro \u00e9 um portal para novas ideias e emo\u00e7\u00f5es!\n\nVENDA PORTUGAL - https://www.fnac.pt/Como-Enfrentar-o-Odio-Filipe-Neto/a11997541\n\n--\n\nSEJA CORUJA DE OURO - https://www.youtube.com/felipeneto/join\n\nComo ser Coruja de Ouro pelo pix ou boleto - https://x.com/felipeneto/status/1795115769589637123",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5g2EOMiO2-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5g2EOMiO2-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5g2EOMiO2-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5g2EOMiO2-k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5g2EOMiO2-k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Felipe Neto",
+                "tags": [
+                    "felipe neto",
+                    "irm\u00e3os neto"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NASCEU O NOSSO BEB\u00ca DRAG\u00c3O NO MINECRAFT #3.34",
+                    "description": "\ud83d\udc49 NOVA COLE\u00c7\u00c3O: http://www.felipeneto.com.br\n\n\ud83d\udcda FA\u00c7A PARTE DO CLUBE DO LIVRO FN\nDescubra hist\u00f3rias incr\u00edveis e compartilhe sua paix\u00e3o pela leitura! Acesse agora: www.clubefn.com.br\n\n\ud83d\udcd6 MEU LIVRO EST\u00c1 ESPERANDO POR VOC\u00ca!\nConhe\u00e7a minha obra e mergulhe em uma leitura \u00fanica: https://amzn.to/3Bgy5qT\n\n\ud83d\udc49 Cole\u00e7\u00e3o Exclusiva de Volta da Saga: Garanta j\u00e1 sua camiseta e produtos com estampas exclusivas em http://www.felipeneto.com.br.\n\n\ud83d\udce2 N\u00e3o esque\u00e7a: Os epis\u00f3dios intermedi\u00e1rios est\u00e3o dispon\u00edveis para os membros Coruja de Ouro! Seja membro do canal e tenha acesso a conte\u00fados exclusivos\n\n\u2728 LEITURAS DO M\u00caS \u2013 ENTRE NESSA JORNADA LITER\u00c1RIA!\n\nFevereiro: A Cabe\u00e7a do Santo \u2013 Um conto repleto de mist\u00e9rios e magia no sert\u00e3o brasileiro. https://amzn.to/4gbYxAG\nJaneiro: Solit\u00e1ria \u2013 Uma hist\u00f3ria de elucida\u00e7\u00e3o e transforma\u00e7\u00e3o. https://amzn.to/3ZLTqBc\nDezembro: Ainda Estou Aqui \u2013 O livro que inspirou o filme. https://amzn.to/3V0Nl2m\nNovembro: Frankenstein \u2013 Um cl\u00e1ssico atemporal. https://amzn.to/3YuDSCh\nSetembro: Corpos Secos \u2013 Uma leitura impactante. https://amzn.to/4evAexh\nAgosto: Fahrenheit 451 \u2013 Um marco na fic\u00e7\u00e3o cient\u00edfica. https://amzn.to/3TzNR6n\n\n\ud83c\udfa5 DESCUBRA NOVOS MUNDOS!\nClique nos links e fa\u00e7a parte dessa experi\u00eancia liter\u00e1ria. Cada livro \u00e9 um portal para novas ideias e emo\u00e7\u00f5es!\n\nVENDA PORTUGAL - https://www.fnac.pt/Como-Enfrentar-o-Odio-Filipe-Neto/a11997541\n\n--\n\nSEJA CORUJA DE OURO - https://www.youtube.com/felipeneto/join\n\nComo ser Coruja de Ouro pelo pix ou boleto - https://x.com/felipeneto/status/1795115769589637123"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "844530",
+                "likeCount": "76685",
+                "favoriteCount": "0",
+                "commentCount": "3678"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "q9WLiYn2NbKL3IE_PrNsmCJ7H-A",
+            "id": "fEKqKWGlqIs",
+            "snippet": {
+                "publishedAt": "2025-02-20T15:00:01Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) HOT TRAILER 'Born Fire'",
+                "description": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) HOT TRAILER 'Born Fire'\n\n\ud83d\udcc6 2025.03.14 1PM (KST) | 12AM (ET)\n\ud83d\udcbf Pre-save & Pre-order https://le-sserafim.lnk.to/HOT\n\nContent Production : Yurok Jang, Haerin An, Jiwon Choi, Seoyoon Lee\nStyle Directing : Yoon Cho, Soo Lee, Jay Kim\nBrand Experience Design : Yoovin Baek, Hyemin Yoo, Myungryol Shin  \nVisual Creative Coordinating : Yujoo Kim \n\nA&R : Kyu Kim, Jerry Kim, Ann Park, Jennie Lee\n\nFilm Director : Yunah Sheep @amoramorsheep\n\nExecutive Producer : Joo-hun Kim(liminal) @kimjuhne\nA.D : Heewon Park, Yaejun Choi, Heonryoung Yuk\nLine Producer : Hyounggeun Kang, Yuseok Joung\nP.A : Sunghyun Park, Seungjun Choi, Yejin Heo, Chanhyuk park, Taeyeon Kim, Seongil Jeong, Minseok Oh\n\nDirector of Photography : Jinhyuk Lee\nFocus Puller : Donghyeok Shin\n2nd AC : Gunwoo Jeong\nDIT : Minho Kim, Dongwon Choi\n3rd AC : Minseong Kim, Jooheui Kim\n\nGaffer : Joonghyuk Jung\nLighting Crew : Hyunsuk Kim, Minhyeok Baek, Taeyoung Kim, Bonhyeop Gu, Hwayong Chung, Byungjong Kim, Juhan Cho, Jiseok Lee\n\nKey Grip : Kiheon Choi\nGrip Assistant : Jiin Hwang, Beomki Park\n\nArt Director : Heeju Park(FOUR)\nArt Team Leader : Seoah Kim\nArt Team : Jongmin Kang, Yoon Jang, Junhyuk Kim, Hyensoo Jin \n\nSFX : Changi Min(SF)\n\nModel Agency(Men) : ESTEEM\nAgency Supervisor : Hyunsoo Kim\nModel : Dohwi Lee, Jaewoo Lee, Sunghyun Kim, Hongjin Choi\nModel Agency(Women) : GigantPR\nAgency Supervisor : Younghan Song\nModel : Haeun, Jakasoo, Kirin, Minni, Bora, Jinun, Sohyun\n\nConti : Youseung Park\n\nEdit : Yunah Sheep\nEdit Assistant : Heewon Park\n\nColorist : Changbeen Yu(THEPOSTLAB)\nDi Assistant : Seowoo Kang, Yereum Yang \n\n2D Cleaning : Kangho Jo\n\nVFX Supervisor : Soohwan Oh\n3D & VFX Artist : Jaeyoon Lee, Hansol Shin, Intae Jang, AQUON\nMatchmove : Wonho Jung\n\nEnding Title : Sh&Pr\n\nSOURCE MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by SOURCE MUSIC, Seoul, Korea.\n\nConnect with LE SSERAFIM:\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL X (TWITTER) https://x.com/le_sserafim\nOFFICIAL JAPAN X (TWITTER) https://x.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002\nOFFICIAL DOUYIN https://v.douyin.com/iJgLJpUp/\nOFFICIAL SOUNDCLOUD https://soundcloud.com/le_sserafim_official\n\n#LE_SSERAFIM #\ub974\uc138\ub77c\ud54c #LE_SSERAFIM_HOT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fEKqKWGlqIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fEKqKWGlqIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fEKqKWGlqIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fEKqKWGlqIs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fEKqKWGlqIs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE",
+                    "HYBE LABELS",
+                    "\ud558\uc774\ube0c",
+                    "\ud558\uc774\ube0c\ub808\uc774\ube14\uc988"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) HOT TRAILER 'Born Fire'",
+                    "description": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) HOT TRAILER 'Born Fire'\n\n\ud83d\udcc6 2025.03.14 1PM (KST) | 12AM (ET)\n\ud83d\udcbf Pre-save & Pre-order https://le-sserafim.lnk.to/HOT\n\nContent Production : Yurok Jang, Haerin An, Jiwon Choi, Seoyoon Lee\nStyle Directing : Yoon Cho, Soo Lee, Jay Kim\nBrand Experience Design : Yoovin Baek, Hyemin Yoo, Myungryol Shin  \nVisual Creative Coordinating : Yujoo Kim \n\nA&R : Kyu Kim, Jerry Kim, Ann Park, Jennie Lee\n\nFilm Director : Yunah Sheep @amoramorsheep\n\nExecutive Producer : Joo-hun Kim(liminal) @kimjuhne\nA.D : Heewon Park, Yaejun Choi, Heonryoung Yuk\nLine Producer : Hyounggeun Kang, Yuseok Joung\nP.A : Sunghyun Park, Seungjun Choi, Yejin Heo, Chanhyuk park, Taeyeon Kim, Seongil Jeong, Minseok Oh\n\nDirector of Photography : Jinhyuk Lee\nFocus Puller : Donghyeok Shin\n2nd AC : Gunwoo Jeong\nDIT : Minho Kim, Dongwon Choi\n3rd AC : Minseong Kim, Jooheui Kim\n\nGaffer : Joonghyuk Jung\nLighting Crew : Hyunsuk Kim, Minhyeok Baek, Taeyoung Kim, Bonhyeop Gu, Hwayong Chung, Byungjong Kim, Juhan Cho, Jiseok Lee\n\nKey Grip : Kiheon Choi\nGrip Assistant : Jiin Hwang, Beomki Park\n\nArt Director : Heeju Park(FOUR)\nArt Team Leader : Seoah Kim\nArt Team : Jongmin Kang, Yoon Jang, Junhyuk Kim, Hyensoo Jin \n\nSFX : Changi Min(SF)\n\nModel Agency(Men) : ESTEEM\nAgency Supervisor : Hyunsoo Kim\nModel : Dohwi Lee, Jaewoo Lee, Sunghyun Kim, Hongjin Choi\nModel Agency(Women) : GigantPR\nAgency Supervisor : Younghan Song\nModel : Haeun, Jakasoo, Kirin, Minni, Bora, Jinun, Sohyun\n\nConti : Youseung Park\n\nEdit : Yunah Sheep\nEdit Assistant : Heewon Park\n\nColorist : Changbeen Yu(THEPOSTLAB)\nDi Assistant : Seowoo Kang, Yereum Yang \n\n2D Cleaning : Kangho Jo\n\nVFX Supervisor : Soohwan Oh\n3D & VFX Artist : Jaeyoon Lee, Hansol Shin, Intae Jang, AQUON\nMatchmove : Wonho Jung\n\nEnding Title : Sh&Pr\n\nSOURCE MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by SOURCE MUSIC, Seoul, Korea.\n\nConnect with LE SSERAFIM:\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL X (TWITTER) https://x.com/le_sserafim\nOFFICIAL JAPAN X (TWITTER) https://x.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002\nOFFICIAL DOUYIN https://v.douyin.com/iJgLJpUp/\nOFFICIAL SOUNDCLOUD https://soundcloud.com/le_sserafim_official\n\n#LE_SSERAFIM #\ub974\uc138\ub77c\ud54c #LE_SSERAFIM_HOT"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "1346329",
+                "likeCount": "121286",
+                "favoriteCount": "0",
+                "commentCount": "6488"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uJFwtpXMDtsxxJjxdO4kAmN_JhI",
+            "id": "wt0nHpyDV40",
+            "snippet": {
+                "publishedAt": "2025-02-19T22:00:54Z",
+                "channelId": "UCuxfOdbKQy0tgGXcm9sjHiw",
+                "title": "Melhor Tech do Ano. (NA MINHA OPINI\u00c3O!)",
+                "description": "Este \u00e9 um v\u00eddeo sobre os melhores produtos de tecnologia de 2024.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wt0nHpyDV40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wt0nHpyDV40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wt0nHpyDV40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wt0nHpyDV40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wt0nHpyDV40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Coisa de Nerd",
+                "tags": [
+                    "leon",
+                    "coisadenerd",
+                    "coisa de nerd",
+                    "portugu\u00eas",
+                    "brasil",
+                    "pt-br",
+                    "br",
+                    "tecnologia",
+                    "2024",
+                    "melhor"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Melhor Tech do Ano. (NA MINHA OPINI\u00c3O!)",
+                    "description": "Este \u00e9 um v\u00eddeo sobre os melhores produtos de tecnologia de 2024."
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "284785",
+                "likeCount": "36609",
+                "favoriteCount": "0",
+                "commentCount": "556"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "awk0ARMd4ketZhfDBn4e32qVlEo",
+            "id": "QOClcX8DvzA",
+            "snippet": {
+                "publishedAt": "2025-02-19T23:16:12Z",
+                "channelId": "UCMLMnpzB7f06mq0Kx3oFzew",
+                "title": "Melanc\u00f3lico",
+                "description": "Deixa o like \ud83d\udc4d\nComente \ud83d\udce2\nInscreva-se \u270f\ufe0f\nAtiva o sininho \ud83d\udd14\n\nMinhas outras p\u00e1ginas nas redes:\ninstagram.com/fredcaldeira\ntwitter.com/fredcaldeira\n\nDesign feito por @footeudesign \ud83d\udc4f\ninstagram.com/footeudesign",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QOClcX8DvzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QOClcX8DvzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QOClcX8DvzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QOClcX8DvzA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QOClcX8DvzA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fred Caldeira",
+                "tags": [
+                    "Real Madrid",
+                    "Manchester City",
+                    "Mbapp\u00e9",
+                    "Bernab\u00e9u",
+                    "Guardiola",
+                    "Ancelotti",
+                    "Liga dos Campe\u00f5es"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Melanc\u00f3lico",
+                    "description": "Deixa o like \ud83d\udc4d\nComente \ud83d\udce2\nInscreva-se \u270f\ufe0f\nAtiva o sininho \ud83d\udd14\n\nMinhas outras p\u00e1ginas nas redes:\ninstagram.com/fredcaldeira\ntwitter.com/fredcaldeira\n\nDesign feito por @footeudesign \ud83d\udc4f\ninstagram.com/footeudesign"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "178166",
+                "likeCount": "22978",
+                "favoriteCount": "0",
+                "commentCount": "1527"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "flEadWaOoHBRcFtDd2-BJ6qBO9Q",
+            "id": "6-E0BDZsv2A",
+            "snippet": {
+                "publishedAt": "2025-02-19T22:00:02Z",
+                "channelId": "UCAu_v9w-BXFtg1NAnB-JgVg",
+                "title": "COMO FIZ A \"ESPADA MAIS PERIGOSA\" DO MINECRAFT - Minecraft Eternos",
+                "description": "\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\n#Filmora #videoeditor #videoeditingapp #editingtip#Filmoratutorial#gaming#epic moments\n\n\ud83c\udf1f Eternos \u00e9 uma s\u00e9rie de Minecraft Hardcore com mods aqui do canal, onde nosso objetivo \u00e9 completar 12 grandes miss\u00f5es. Essa s\u00e9rie acontece em 3 canais do Youtube.\n\n\ud83d\udd39Participantes\ud83d\udd39\n\ud83c\udf44@Apuhzeetus \n\u2601\ufe0f@Lggjotinha \n\ud83e\udd96@Dino_Dina \n\n\ud83d\udd39Meus Canais\ud83d\udd39\n\ud83d\udcfa Canal de S\u00e9ries de Minecraft: \n\ud83d\udd38https://www.youtube.com/@Apuhzeetus\n\n\ud83d\udcfa Canal de V\u00eddeos Di\u00e1rios: \n\ud83d\udd38https://www.youtube.com/@Apuuuh\n\n\ud83d\udd25 SEJA MEMBRO \ud83d\udd25\nhttps://www.youtube.com/channel/UCAu_v9w-BXFtg1NAnB-JgVg/join\n\n\ud83d\udc96\u200a Roupas do Canal: https://www.lolja.com.br/apuh\n\n\ud83c\udf10 Redes Sociais:\n\ud83d\udd14 Instagram: apuhzeetos\n\ud83d\udd14 Twitter: @Apuhzeetos\n\ud83d\udfe3 Lives: twitch.tv/apuhzeetos\n\n\ud83d\udce7 Email para contato: \n\u25fd apuh@pulliginfluencers.com.br\n\n\ud83e\uddfe Host: EnxadaHost (Cupom: Irmandade)\n\n\u2764\ufe0f Amo Voc\u00eas! Da Laique \u2764\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6-E0BDZsv2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6-E0BDZsv2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6-E0BDZsv2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6-E0BDZsv2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6-E0BDZsv2A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apuh",
+                "tags": [
+                    "minecraft",
+                    "apuh",
+                    "eternos",
+                    "hardcore",
+                    "ep3",
+                    "espada mais perigosa",
+                    "espada lendaria"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "COMO FIZ A \"ESPADA MAIS PERIGOSA\" DO MINECRAFT - Minecraft Eternos",
+                    "description": "\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\ud83d\udd25 Filmora: https://bit.ly/4b3AumK\n\n#Filmora #videoeditor #videoeditingapp #editingtip#Filmoratutorial#gaming#epic moments\n\n\ud83c\udf1f Eternos \u00e9 uma s\u00e9rie de Minecraft Hardcore com mods aqui do canal, onde nosso objetivo \u00e9 completar 12 grandes miss\u00f5es. Essa s\u00e9rie acontece em 3 canais do Youtube.\n\n\ud83d\udd39Participantes\ud83d\udd39\n\ud83c\udf44@Apuhzeetus \n\u2601\ufe0f@Lggjotinha \n\ud83e\udd96@Dino_Dina \n\n\ud83d\udd39Meus Canais\ud83d\udd39\n\ud83d\udcfa Canal de S\u00e9ries de Minecraft: \n\ud83d\udd38https://www.youtube.com/@Apuhzeetus\n\n\ud83d\udcfa Canal de V\u00eddeos Di\u00e1rios: \n\ud83d\udd38https://www.youtube.com/@Apuuuh\n\n\ud83d\udd25 SEJA MEMBRO \ud83d\udd25\nhttps://www.youtube.com/channel/UCAu_v9w-BXFtg1NAnB-JgVg/join\n\n\ud83d\udc96\u200a Roupas do Canal: https://www.lolja.com.br/apuh\n\n\ud83c\udf10 Redes Sociais:\n\ud83d\udd14 Instagram: apuhzeetos\n\ud83d\udd14 Twitter: @Apuhzeetos\n\ud83d\udfe3 Lives: twitch.tv/apuhzeetos\n\n\ud83d\udce7 Email para contato: \n\u25fd apuh@pulliginfluencers.com.br\n\n\ud83e\uddfe Host: EnxadaHost (Cupom: Irmandade)\n\n\u2764\ufe0f Amo Voc\u00eas! Da Laique \u2764\ufe0f"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "168755",
+                "likeCount": "20222",
+                "favoriteCount": "0",
+                "commentCount": "517"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "phml86KTZrwd_mOegBgtLbFyONA",
+            "id": "rwMYv-hh-4g",
+            "snippet": {
+                "publishedAt": "2025-02-19T20:55:26Z",
+                "channelId": "UCXmgYIS_LiPNLFOAGaYYibQ",
+                "title": "MINHA NAMORADA BRASILEIRA COMO EU CONHECI ELA \u2049\ufe0f [BRASIL\ud83c\udde7\ud83c\uddf7]",
+                "description": "MINHA NAMORADA BRASILEIRA COMO EU CONHECI ELA \u2049\ufe0f [BRASIL\ud83c\udde7\ud83c\uddf7]\n\nFOI UM ENORME PRAZER Reencontrar ELA E PODER APRESENTAR A VOC\u00caS MEUS AMIGOS\n\nReencontrar minha namorada brasileira foi uma mistura de alegria, al\u00edvio e emo\u00e7\u00e3o. O cora\u00e7\u00e3o disparou, o abra\u00e7o apertado disse tudo e, no fundo, senti que, finalmente, tudo estava no seu devido lugar.\n\n#Reencontro #Amor #ViagemDeS\u00e3oPauloABras\u00edlia #Emo\u00e7\u00e3o #NamoroADist\u00e2ncia #AmorVerdadeiro #Bras\u00edlia #S\u00e3oPaulo #JornadaDoAmor #Reuni\u00e3oDeCora\u00e7\u00f5es #MomentosEspeciais #Viagem #Relacionamento #Conex\u00e3o #AmorSemFronteiras",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwMYv-hh-4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwMYv-hh-4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwMYv-hh-4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rwMYv-hh-4g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rwMYv-hh-4g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Peda\u00e7o Africano\ud83c\uddf2\ud83c\uddff",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "MINHA NAMORADA BRASILEIRA COMO EU CONHECI ELA \u2049\ufe0f [BRASIL\ud83c\udde7\ud83c\uddf7]",
+                    "description": "MINHA NAMORADA BRASILEIRA COMO EU CONHECI ELA \u2049\ufe0f [BRASIL\ud83c\udde7\ud83c\uddf7]\n\nFOI UM ENORME PRAZER Reencontrar ELA E PODER APRESENTAR A VOC\u00caS MEUS AMIGOS\n\nReencontrar minha namorada brasileira foi uma mistura de alegria, al\u00edvio e emo\u00e7\u00e3o. O cora\u00e7\u00e3o disparou, o abra\u00e7o apertado disse tudo e, no fundo, senti que, finalmente, tudo estava no seu devido lugar.\n\n#Reencontro #Amor #ViagemDeS\u00e3oPauloABras\u00edlia #Emo\u00e7\u00e3o #NamoroADist\u00e2ncia #AmorVerdadeiro #Bras\u00edlia #S\u00e3oPaulo #JornadaDoAmor #Reuni\u00e3oDeCora\u00e7\u00f5es #MomentosEspeciais #Viagem #Relacionamento #Conex\u00e3o #AmorSemFronteiras"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "212528",
+                "likeCount": "27424",
+                "favoriteCount": "0",
+                "commentCount": "2829"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JBUvVojekUoRg9bTfIaAGx-njZc",
+            "id": "aLPwvqoiDSY",
+            "snippet": {
+                "publishedAt": "2025-02-19T21:04:24Z",
+                "channelId": "UC9eXFedzizQtlY5snZ-IFkg",
+                "title": "FIZEMOS UMA SURPRESA DE ANIVERS\u00c1RIO PRO NOAH | O LUCAS FICOU BRAVO",
+                "description": "Oiii meus amores, tudo bem com voc\u00eas?? \ud83d\ude0d\ud83d\ude0d\nSejam bem-vindos a mais um v\u00eddeo nesse canal. E no v\u00eddeo de hoje a gente preparou uma surpresa pro Nono. \nEspero que gostem, deixem seu like e n\u00e3o se esque\u00e7am de se inscrever no canal \u2764\ufe0f\u2764\ufe0f\n\nMe siga nas Redes Sociais:\n\u27a1\ufe0fINSTAGRAM: https://www.instagram.com/sunaikabruna/\n\u27a1\ufe0fTWITTER: https://twitter.com/sunaikaasouza\n\u27a1\ufe0fFACEBOOK: https://www.facebook.com/sunaikabrunaa\n\u27a1\ufe0fTIKTOK: https://www.tiktok.com/@sunaikasoouza",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aLPwvqoiDSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aLPwvqoiDSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aLPwvqoiDSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aLPwvqoiDSY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aLPwvqoiDSY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sunaika Bruna",
+                "tags": [
+                    "sunaika bruna",
+                    "sunaika souza",
+                    "bruna sunaika",
+                    "lucaslira",
+                    "lucas lira",
+                    "noah lira",
+                    "invento na hora"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "FIZEMOS UMA SURPRESA DE ANIVERS\u00c1RIO PRO NOAH | O LUCAS FICOU BRAVO",
+                    "description": "Oiii meus amores, tudo bem com voc\u00eas?? \ud83d\ude0d\ud83d\ude0d\nSejam bem-vindos a mais um v\u00eddeo nesse canal. E no v\u00eddeo de hoje a gente preparou uma surpresa pro Nono. \nEspero que gostem, deixem seu like e n\u00e3o se esque\u00e7am de se inscrever no canal \u2764\ufe0f\u2764\ufe0f\n\nMe siga nas Redes Sociais:\n\u27a1\ufe0fINSTAGRAM: https://www.instagram.com/sunaikabruna/\n\u27a1\ufe0fTWITTER: https://twitter.com/sunaikaasouza\n\u27a1\ufe0fFACEBOOK: https://www.facebook.com/sunaikabrunaa\n\u27a1\ufe0fTIKTOK: https://www.tiktok.com/@sunaikasoouza"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "137758",
+                "likeCount": "10458",
+                "favoriteCount": "0",
+                "commentCount": "388"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uM_SZr31yiQ6sQFS2vd6m92krmg",
+            "id": "AZRoisFdBqk",
+            "snippet": {
+                "publishedAt": "2025-02-19T22:06:07Z",
+                "channelId": "UCs-6sCz2LJm1PrWQN4ErsPw",
+                "title": "PSG HUMILHA O BREST, METE 10 X 0 NO AGREGADO E VAI PRAS OITAVAS DA CHAMPIONS | PSG 7 X 0 BREST",
+                "description": "QUE AULA DO PSG! Os comandados de Luis Enrique passaram por cima do Brest e avan\u00e7aram para as oitavas da Champions League! Veja os gols e melhores momentos de PSG 7 x 0 Brest pela Champions!\n\nOferecimento: #HOCH, #BNCH, #SBCH, #BCH, #CCH, #ICH\n\nAssista a todos os jogos ao vivo da Champions League s\u00f3 na Max, al\u00e9m de v\u00e1rios jogos EXCLUSIVOS do Campeonato Paulista!  https://bit.ly/48xBlJi\n\nAcesse o portal da TNT Sports: http://www.tntsports.com.br/\n\nCanais:\nDe Placa - http://bit.ly/2HxPlHl\nDe Sola - http://bit.ly/2k0Xg90\nEI Games - http://bit.ly/2ufcveA\nMFM - http://bit.ly/2KnSU6P\nCortes da TNT Sports - https://bit.ly/3hbxWHC\nCortes do Futebol Brasileiro - https://bit.ly/3aNJJwn\nTNT Sports Entrevista - https://bit.ly/3xdRJOE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AZRoisFdBqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AZRoisFdBqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AZRoisFdBqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AZRoisFdBqk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AZRoisFdBqk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TNT Sports Brasil",
+                "tags": [
+                    "esporte interativo",
+                    "tnt sports",
+                    "tnt sports brasil",
+                    "psg",
+                    "psg x brest",
+                    "psg 7 x 0 brest",
+                    "psg x brest gols",
+                    "psg x brest melhores momentos",
+                    "gols champions league",
+                    "melhores momentos champions league",
+                    "psg brest champions league",
+                    "tnt sports champions league",
+                    "gols do dia champions league"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PSG HUMILHA O BREST, METE 10 X 0 NO AGREGADO E VAI PRAS OITAVAS DA CHAMPIONS | PSG 7 X 0 BREST",
+                    "description": "QUE AULA DO PSG! Os comandados de Luis Enrique passaram por cima do Brest e avan\u00e7aram para as oitavas da Champions League! Veja os gols e melhores momentos de PSG 7 x 0 Brest pela Champions!\n\nOferecimento: #HOCH, #BNCH, #SBCH, #BCH, #CCH, #ICH\n\nAssista a todos os jogos ao vivo da Champions League s\u00f3 na Max, al\u00e9m de v\u00e1rios jogos EXCLUSIVOS do Campeonato Paulista!  https://bit.ly/48xBlJi\n\nAcesse o portal da TNT Sports: http://www.tntsports.com.br/\n\nCanais:\nDe Placa - http://bit.ly/2HxPlHl\nDe Sola - http://bit.ly/2k0Xg90\nEI Games - http://bit.ly/2ufcveA\nMFM - http://bit.ly/2KnSU6P\nCortes da TNT Sports - https://bit.ly/3hbxWHC\nCortes do Futebol Brasileiro - https://bit.ly/3aNJJwn\nTNT Sports Entrevista - https://bit.ly/3xdRJOE"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "1049117",
+                "likeCount": "29249",
+                "favoriteCount": "0",
+                "commentCount": "816"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xPHo_pUw2mqSs84JQUww4DIRLEE",
+            "id": "6jkIj8pjYQ0",
+            "snippet": {
+                "publishedAt": "2025-02-19T23:00:24Z",
+                "channelId": "UCCbD39MVnMsTLGxsHLnOKlg",
+                "title": "iPhone 16E: o que aconteceu aqui, Apple?!",
+                "description": "Suporte MagSafe: https://s.click.aliexpress.com/e/_opg3ZyW\n\nVeja a apresenta\u00e7\u00e3o do iPhone 16E: https://www.youtube.com/watch?v=mFuyX1XgJFg&t=296s&ab_channel=Apple\n\n00:00 - Lan\u00e7amento do iPhone 16e\n00:47 - Especifica\u00e7\u00f5es t\u00e9cnicas\n04:14 - Pre\u00e7os no lan\u00e7amento\n06:07 - iPhone 16e vs. iPhone 16\n10:50 - Mais detalhes t\u00e9cnicos\n16:34 - Considera\u00e7\u00f5es finais\n\n#iphone16e #iphone #apple",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6jkIj8pjYQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6jkIj8pjYQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6jkIj8pjYQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6jkIj8pjYQ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6jkIj8pjYQ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Loop Infinito",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt",
+                "localized": {
+                    "title": "iPhone 16E: o que aconteceu aqui, Apple?!",
+                    "description": "Suporte MagSafe: https://s.click.aliexpress.com/e/_opg3ZyW\n\nVeja a apresenta\u00e7\u00e3o do iPhone 16E: https://www.youtube.com/watch?v=mFuyX1XgJFg&t=296s&ab_channel=Apple\n\n00:00 - Lan\u00e7amento do iPhone 16e\n00:47 - Especifica\u00e7\u00f5es t\u00e9cnicas\n04:14 - Pre\u00e7os no lan\u00e7amento\n06:07 - iPhone 16e vs. iPhone 16\n10:50 - Mais detalhes t\u00e9cnicos\n16:34 - Considera\u00e7\u00f5es finais\n\n#iphone16e #iphone #apple"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "139522",
+                "likeCount": "10130",
+                "favoriteCount": "0",
+                "commentCount": "863"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "t1psuHLEAYCYUSSSNbb0FisTciM",
+            "id": "g_leqgHp8Jg",
+            "snippet": {
+                "publishedAt": "2025-02-19T22:56:22Z",
+                "channelId": "UCs-6sCz2LJm1PrWQN4ErsPw",
+                "title": "PSV MARCA NA PRORROGA\u00c7\u00c3O E SE GARANTE NAS OITAVAS DA CHAMPIONS AP\u00d3S JOGA\u00c7O! PSV 3X1 JUVENTUS",
+                "description": "Foi com MUITA emo\u00e7\u00e3o, mas o PSV est\u00e1 nas oitavas da Champions! Confira os melhores momentos do joga\u00e7o!\n\nOferecimento: #BNCH\n\nAssista a todos os jogos ao vivo da Champions League s\u00f3 na Max, al\u00e9m de v\u00e1rios jogos EXCLUSIVOS do Campeonato Paulista!  https://bit.ly/48xBlJi\n\nAcesse o portal da TNT Sports: http://www.tntsports.com.br/\n\nCanais:\nDe Placa - http://bit.ly/2HxPlHl\nDe Sola - http://bit.ly/2k0Xg90\nEI Games - http://bit.ly/2ufcveA\nMFM - http://bit.ly/2KnSU6P\nCortes da TNT Sports - https://bit.ly/3hbxWHC\nCortes do Futebol Brasileiro - https://bit.ly/3aNJJwn\nTNT Sports Entrevista - https://bit.ly/3xdRJOE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g_leqgHp8Jg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g_leqgHp8Jg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g_leqgHp8Jg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g_leqgHp8Jg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g_leqgHp8Jg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TNT Sports Brasil",
+                "tags": [
+                    "esporte interativo",
+                    "tnt sports",
+                    "tnt sports brasil",
+                    "PSV X juventus",
+                    "psv x juventus melhores momentos",
+                    "psv x juventus gols",
+                    "champions league melhores momentos",
+                    "liga dos campe\u00f5es gols",
+                    "champions lances",
+                    "gols da champions",
+                    "oitavas de final champions"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PSV MARCA NA PRORROGA\u00c7\u00c3O E SE GARANTE NAS OITAVAS DA CHAMPIONS AP\u00d3S JOGA\u00c7O! PSV 3X1 JUVENTUS",
+                    "description": "Foi com MUITA emo\u00e7\u00e3o, mas o PSV est\u00e1 nas oitavas da Champions! Confira os melhores momentos do joga\u00e7o!\n\nOferecimento: #BNCH\n\nAssista a todos os jogos ao vivo da Champions League s\u00f3 na Max, al\u00e9m de v\u00e1rios jogos EXCLUSIVOS do Campeonato Paulista!  https://bit.ly/48xBlJi\n\nAcesse o portal da TNT Sports: http://www.tntsports.com.br/\n\nCanais:\nDe Placa - http://bit.ly/2HxPlHl\nDe Sola - http://bit.ly/2k0Xg90\nEI Games - http://bit.ly/2ufcveA\nMFM - http://bit.ly/2KnSU6P\nCortes da TNT Sports - https://bit.ly/3hbxWHC\nCortes do Futebol Brasileiro - https://bit.ly/3aNJJwn\nTNT Sports Entrevista - https://bit.ly/3xdRJOE"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "535089",
+                "likeCount": "16858",
+                "favoriteCount": "0",
+                "commentCount": "411"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1sdnK2w2MXOljAP29R8dujgXAYk",
+            "id": "eRYvh8LVACY",
+            "snippet": {
+                "publishedAt": "2025-02-18T20:00:22Z",
+                "channelId": "UCfBw30ryGwSC-6YyTPseHPw",
+                "title": "PAU COMEU EM JOGO DO KLEBER GLADIADOR NA V\u00c1RZEA!",
+                "description": "Kleber Gladiador na final de v\u00e1rzea! Mostramos tudo! Um joga\u00e7o com muita confus\u00e3o e uma baita atua\u00e7\u00e3o do Gladiador. Gostou do v\u00eddeo? Deixa o like, se inscreve e comente muito!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eRYvh8LVACY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eRYvh8LVACY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eRYvh8LVACY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eRYvh8LVACY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eRYvh8LVACY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cartoloucos",
+                "tags": [
+                    "cartolouco",
+                    "cartoloucos",
+                    "lucas cartolouco",
+                    "futebol",
+                    "mundo futebol",
+                    "soccer",
+                    "gol",
+                    "gols",
+                    "placar",
+                    "ao vivo",
+                    "esportes",
+                    "trend",
+                    "desafio",
+                    "lucas strabko",
+                    "messi",
+                    "neymar",
+                    "cr7",
+                    "ronaldo",
+                    "cartola",
+                    "libertadores",
+                    "brasileirao",
+                    "final",
+                    "bola",
+                    "podcast",
+                    "podcast futebol",
+                    "influencer",
+                    "youtuber",
+                    "campeonato",
+                    "tudo sobre futebol",
+                    "melhor lance",
+                    "lances",
+                    "Kleber gladiador",
+                    "Gladiador",
+                    "Kleber",
+                    "Palmeiras Botafogo",
+                    "Palmeiras",
+                    "Cruzeiro",
+                    "Gr\u00eamio",
+                    "Neymar",
+                    "Neymar Santos",
+                    "V\u00e1rzea",
+                    "Caze tv",
+                    "Ao vivo",
+                    "Corinthians libertadores"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "PAU COMEU EM JOGO DO KLEBER GLADIADOR NA V\u00c1RZEA!",
+                    "description": "Kleber Gladiador na final de v\u00e1rzea! Mostramos tudo! Um joga\u00e7o com muita confus\u00e3o e uma baita atua\u00e7\u00e3o do Gladiador. Gostou do v\u00eddeo? Deixa o like, se inscreve e comente muito!"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "993843",
+                "likeCount": "32037",
+                "favoriteCount": "0",
+                "commentCount": "894"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YhznhQj3gGLsVC_qhtJH9rhYbdU",
+            "id": "3Oi6V6f9O5c",
+            "snippet": {
+                "publishedAt": "2025-02-20T00:30:39Z",
+                "channelId": "UCZiYbVptd3PVPf4f6eR6UaQ",
+                "title": "MELHORES MOMENTOS: S\u00c3O PAULO 1 X 2 PONTE PRETA | 11\u00aa RODADA | FASE DE GRUPOS | PAULIST\u00c3O 2025",
+                "description": "Na Caz\u00e9TV voc\u00ea acompanha tudo sobre o Paulist\u00e3o, Europa League, Conference League, Brasileir\u00e3o, NFL, Bundesliga, Ligue 1 e muito mais! N\u00e3o quer perder nada? Se inscreve a\u00ed po!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Oi6V6f9O5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Oi6V6f9O5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Oi6V6f9O5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Oi6V6f9O5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Oi6V6f9O5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Caz\u00e9TV",
+                "tags": [
+                    "Caz\u00e9TV",
+                    "Caz\u00e9 TV",
+                    "Casimiro ao vivo",
+                    "Casimiro",
+                    "Caz\u00e9TV ao vivo",
+                    "Caz\u00e9 ao vivo",
+                    "cazetv",
+                    "casimiro jogos",
+                    "caze tv ao vivo",
+                    "jogo ao vivo",
+                    "assistir futebol",
+                    "cazetv ao vivo",
+                    "copinha ao vivo",
+                    "jogo copinha",
+                    "assistir copinha",
+                    "copa sao paulo",
+                    "junior",
+                    "cazetv copinha",
+                    "copinha caz\u00e9tv"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "MELHORES MOMENTOS: S\u00c3O PAULO 1 X 2 PONTE PRETA | 11\u00aa RODADA | FASE DE GRUPOS | PAULIST\u00c3O 2025",
+                    "description": "Na Caz\u00e9TV voc\u00ea acompanha tudo sobre o Paulist\u00e3o, Europa League, Conference League, Brasileir\u00e3o, NFL, Bundesliga, Ligue 1 e muito mais! N\u00e3o quer perder nada? Se inscreve a\u00ed po!"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "412888",
+                "likeCount": "8107",
+                "favoriteCount": "0",
+                "commentCount": "783"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6640rNO43g4s3zb9jWcHMepi7eY",
+            "id": "tudvEpZtOvA",
+            "snippet": {
+                "publishedAt": "2025-02-20T00:52:52Z",
+                "channelId": "UCZiYbVptd3PVPf4f6eR6UaQ",
+                "title": "JOGO COMPLETO: S\u00c3O PAULO X PONTE PRETA | 11\u00aa RODADA | FASE DE GRUPOS | PAULIST\u00c3O 2025",
+                "description": "Assista, AO VIVO E COM IMAGENS, a partida entre S\u00e3o Paulo x Ponte Preta, v\u00e1lida pela d\u00e9cima primeira rodada da fase de grupos!\n\n#Paulist\u00e3oNaCaz\u00e9TV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tudvEpZtOvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tudvEpZtOvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tudvEpZtOvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tudvEpZtOvA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Caz\u00e9TV",
+                "tags": [
+                    "Caz\u00e9TV",
+                    "Caz\u00e9 TV",
+                    "Casimiro ao vivo",
+                    "Casimiro",
+                    "Caz\u00e9TV ao vivo",
+                    "Caz\u00e9 ao vivo",
+                    "cazetv",
+                    "casimiro jogos",
+                    "caze tv ao vivo",
+                    "copa do mundo",
+                    "melhores momentos",
+                    "jogo ao vivo",
+                    "assistir futebol",
+                    "sao paulo ponte preta",
+                    "jogo sao paulo",
+                    "jogo s\u00e3o paulo",
+                    "sao paulo",
+                    "spfc",
+                    "sao paulo ao vivo",
+                    "assistir sao paulo",
+                    "sao paulo ponte",
+                    "sao apulo paulistao",
+                    "sao paulo cazetv",
+                    "sao paulo casimiro",
+                    "jogo ponte",
+                    "ponte preta ao vivo",
+                    "assistir ponte preta"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "JOGO COMPLETO: S\u00c3O PAULO X PONTE PRETA | 11\u00aa RODADA | FASE DE GRUPOS | PAULIST\u00c3O 2025",
+                    "description": "Assista, AO VIVO E COM IMAGENS, a partida entre S\u00e3o Paulo x Ponte Preta, v\u00e1lida pela d\u00e9cima primeira rodada da fase de grupos!\n\n#Paulist\u00e3oNaCaz\u00e9TV"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "5642981",
+                "likeCount": "114938",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CBuTXUEou8yjJrHnmDzHgkdD9_8",
+            "id": "fKgkq4RpesY",
+            "snippet": {
+                "publishedAt": "2025-02-19T13:01:02Z",
+                "channelId": "UCfzgzFA3WhrkowZEWjQpWkA",
+                "title": "FINALMENTE O RENATO EST\u00c1 NAMORANDO\u2764\ufe0f ?esconderam isso de mim \ud83e\udd79",
+                "description": "Deixe seu like, compartilha, comente e se inscreva no canal",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fKgkq4RpesY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fKgkq4RpesY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fKgkq4RpesY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fKgkq4RpesY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fKgkq4RpesY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IRENE N\u00d3BREGA",
+                "tags": [
+                    "RENATO GARCIA",
+                    "RENAN FIORINI",
+                    "THIAGO REIS",
+                    "LEO DA HORNET",
+                    "BOQUINHA",
+                    "HUNTERS SQUAD",
+                    "GUI NOBRE",
+                    "CA\u00c7ADORES DE LENDAS",
+                    "LONDRINA",
+                    "MULHER",
+                    "FAMILIA",
+                    "AMIGOS",
+                    "FELICIDADE",
+                    "ENTRETENIMENTO",
+                    "COMEDIA",
+                    "VLOG",
+                    "FILHOS",
+                    "MOTO",
+                    "CARRO",
+                    "CULINARIA",
+                    "AVENTURA",
+                    "VIAGEM",
+                    "EMO\u00c7\u00c3O",
+                    "ALEGRIA",
+                    "ANIMAIS DE ESTIMA\u00c7\u00c3O",
+                    "PET",
+                    "TURISMO",
+                    "LAZER",
+                    "NATUREZA",
+                    "YOUTUBERS DE LONDRINA",
+                    "BELEZA",
+                    "MANS\u00c3O DE YOUTUBERS",
+                    "VIAGEM EM FAMILIA",
+                    "SUCESSO"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt",
+                "localized": {
+                    "title": "FINALMENTE O RENATO EST\u00c1 NAMORANDO\u2764\ufe0f ?esconderam isso de mim \ud83e\udd79",
+                    "description": "Deixe seu like, compartilha, comente e se inscreva no canal"
+                }
+            },
+            "statistics": {
+                "viewCount": "169718",
+                "likeCount": "13353",
+                "favoriteCount": "0",
+                "commentCount": "402"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Nbi0rsZ1ANEAe3fS1zMWCOt9V9I",
+            "id": "hXOGUOsTNlM",
+            "snippet": {
+                "publishedAt": "2025-02-19T15:00:56Z",
+                "channelId": "UCOOLLUHhjJ-I6dXTQ-5cq5g",
+                "title": "TREINADOR KAKA EXPLANA JORLAN, OMBRO MONTADO NO \u00d3LEO",
+                "description": "- Insider (cupom: JASON)\nhttps://creators.insiderstore.com.br/JASON\n-Loja Maromba (cupom10%: JASON)\nhttp://www.lojamaromba.com/\n- Oficial Farma (cupom 5%: JASON)\nhttp://www.oficialfarma.com.br\n-Growth Suplementos (cupom: JASON)\nhttp://www.gsuplementos.com.br\n-Alpha Co (cupom10%: JASON)\nhttps://www.usealphaco.com.br/\n-Mr Rice (cupom10%: JASON)\nhttps://mrrice.com.br/\n-Cimerian\nhttps://www.cimerian.com.br/\n-HORMONIOS OVERALL\nhttps://pay.hotmart.com/U37579512R?off=7bho79ii\n-Consultoria: consultoriajason@gmail.com\n-Instagram: http://instagram.com/jason_projetogiga\n-P\u00e1gina do Canal\nhttps://www.facebook.com/projetogiga",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hXOGUOsTNlM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hXOGUOsTNlM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hXOGUOsTNlM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hXOGUOsTNlM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hXOGUOsTNlM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jason Projeto Giga",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TREINADOR KAKA EXPLANA JORLAN, OMBRO MONTADO NO \u00d3LEO",
+                    "description": "- Insider (cupom: JASON)\nhttps://creators.insiderstore.com.br/JASON\n-Loja Maromba (cupom10%: JASON)\nhttp://www.lojamaromba.com/\n- Oficial Farma (cupom 5%: JASON)\nhttp://www.oficialfarma.com.br\n-Growth Suplementos (cupom: JASON)\nhttp://www.gsuplementos.com.br\n-Alpha Co (cupom10%: JASON)\nhttps://www.usealphaco.com.br/\n-Mr Rice (cupom10%: JASON)\nhttps://mrrice.com.br/\n-Cimerian\nhttps://www.cimerian.com.br/\n-HORMONIOS OVERALL\nhttps://pay.hotmart.com/U37579512R?off=7bho79ii\n-Consultoria: consultoriajason@gmail.com\n-Instagram: http://instagram.com/jason_projetogiga\n-P\u00e1gina do Canal\nhttps://www.facebook.com/projetogiga"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "159983",
+                "likeCount": "11228",
+                "favoriteCount": "0",
+                "commentCount": "886"
             }
         }
     ],
-    "nextPageToken": "CB4QAA",
+    "nextPageToken": "CDIQAA",
     "pageInfo": {
         "totalResults": 200,
-        "resultsPerPage": 30
+        "resultsPerPage": 50
     }
 }
