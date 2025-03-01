@@ -31,15 +31,16 @@ class YouTubeTrending:
         save_to_json(data: Dict[str, Any], filename: str = "trending_videos.json") -> None:
             Saves trending videos data to a JSON file.
     """
+
     def __init__(self, api_key: str, config_path: str, country_code: str):
         self.api_key = api_key
         self.country_code = country_code
         self.config = self.load_config(config_path)
-        self.metadata_loc = os.path.join('tube-virality', self.config.get("TRENDING_METADATA_LOC"))
+        base_dir = os.path.dirname(config_path)  # Get base directory from config location
+        self.metadata_loc = os.path.join(base_dir, self.config.get("TRENDING_METADATA_LOC"))
         self.youtube = build("youtube", "v3", developerKey=self.api_key)
 
-        if not os.path.isdir(self.metadata_loc):
-            os.makedirs(self.metadata_loc, exist_ok=True)
+        os.makedirs(self.metadata_loc, exist_ok=True)  # Ensure metadata directory exists
 
     def load_config(self, config_path: str) -> Dict[str, Any]:
         """Loads the configuration from a JSON file."""
@@ -63,7 +64,7 @@ class YouTubeTrending:
         filename = os.path.splitext(filename)[0] + f"_{self.country_code}" + date_str + os.path.splitext(filename)[1]
         filename = os.path.join(self.metadata_loc, filename)
 
-        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        os.makedirs(os.path.dirname(filename), exist_ok=True)  # Ensure directory exists
         with open(filename, mode="w") as json_file:
             json.dump(data, json_file, indent=4)
 

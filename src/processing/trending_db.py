@@ -9,13 +9,14 @@ class TrendingVideoProcessor:
     def __init__(self, config_path: str):
         self.config_path = config_path
         self.config = self.load_config()
-        self.metadata_dir = os.path.join('tube-virality', self.config.get("TRENDING_METADATA_LOC"))
-        self.output_dir = self.config.get("TRENDING_ODS_DIR")
+        base_dir = os.path.dirname(config_path)  # Get base directory from config location
+        self.metadata_dir = os.path.join(base_dir, self.config.get("TRENDING_METADATA_LOC"))
+        self.output_dir = os.path.join(base_dir, self.config.get("TRENDING_ODS_DIR"))
 
         if not os.path.isdir(self.metadata_dir):
             raise FileNotFoundError(f"Metadata directory '{self.metadata_dir}' does not exist")
 
-        os.makedirs(self.output_dir, exist_ok=True)
+        os.makedirs(self.output_dir, exist_ok=True)  # Ensure output directory exists
 
     def load_config(self):
         with open(self.config_path, "r", encoding="utf-8") as config_file:
@@ -63,7 +64,7 @@ class TrendingVideoProcessor:
                 self.extract_video_data(file_path, video_list)
 
         df = pd.DataFrame(video_list)
-        output_path = os.path.join("tube-virality", self.output_dir, "trending_videos.csv")
+        output_path = os.path.join(self.output_dir, "trending_videos.csv")
         df.to_csv(output_path, index=False)
 
         print(f"Trending videos merged file saved to {output_path}")
