@@ -24,7 +24,9 @@ class TrendingVideoProcessor:
     def extract_video_data(self, json_file: str, video_list: list):
         """Extracts video metadata from a JSON file and appends to video_list."""
         country_code = os.path.basename(json_file).split('_')[2]
-        
+        collection_date = os.path.basename(json_file).split('_')[3]
+        collection_date = f"{collection_date[:4]}-{collection_date[4:6]}-{collection_date[6:8]}"
+
         with open(json_file, "r", encoding="utf-8") as file:
             data = json.load(file)
 
@@ -35,6 +37,7 @@ class TrendingVideoProcessor:
             video_info = {
                 "id": item.get("id"),
                 "trending_position": position,
+                "collection_date": collection_date,
                 "publishedAt": snippet.get("publishedAt"),
                 "country_code": country_code,
                 "channelId": snippet.get("channelId"),
