@@ -6,7 +6,8 @@
 ## 🎯 YouTube Trending Video Analytics API  
 
 ### **Project Purpose**  
-The **YouTube Virality** project aims to **collect, analyze, and model YouTube trending video data** across multiple countries using the **YouTube API**. This project goes beyond simply analyzing existing APIs; we are **building a custom API** to retrieve metadata—including view counts, likes, and descriptions—from YouTube videos and channels.
+The **YouTube Virality** project focuses on collecting, analyzing, and modeling YouTube trending video data from multiple countries using the YouTube API. The goal is to utilize the API to gather data, including view counts, likes, and descriptions, and then apply data science techniques to assess the likelihood of a video going viral. 🎥
+
 
 ### **Key Objectives**  
 - ✅ **Collect trending videos** from various countries and store historical data.  
