@@ -80,11 +80,6 @@ Our dataset includes key **video metadata** and **engagement statistics**, such 
 5️⃣ **Model Development** – Train ML models for virality prediction.  
 6️⃣ **Evaluation & Interpretation** – Validate predictions and refine models.  
 
-🚀 **Next Steps**  
-🔹 Expand dataset with more countries and longer timeframes.  
-🔹 Test **deep learning** approaches for virality prediction.  
-🔹 Compare YouTube trends with TikTok & Instagram.  
-
 ---
 
 ## 💡 Technologies Utilized  
