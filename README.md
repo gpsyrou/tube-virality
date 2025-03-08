@@ -1,17 +1,18 @@
 # 🚀 Tube Virality Project  
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
 ![Go](https://img.shields.io/badge/-Golang-000?&logo=go)  
 
 ## 🎯 YouTube Trending Video Analytics API  
 
 ### **Project Purpose**  
-The **Tube Virality** project aims to **collect, analyze, and model YouTube trending video data** across multiple countries using the **YouTube API**. This project goes beyond simply analyzing existing APIs; instead, we are **building a custom API** that retrieves metadata, including view counts, likes, and descriptions, from YouTube videos and channels.  
+The **Tube Virality** project aims to **collect, analyze, and model YouTube trending video data** across multiple countries using the **YouTube API**. This project goes beyond simply analyzing existing APIs; we are **building a custom API** to retrieve metadata—including view counts, likes, and descriptions—from YouTube videos and channels.
 
 ### **Key Objectives**  
-✅ **Develop a custom API** to fetch YouTube video statistics.  
-✅ **Collect trending videos** from various countries and store historical data.  
-✅ **Analyze the collected data** to identify trends and patterns in virality.  
-✅ **Build predictive models** to estimate a video's potential to go viral.  
+- ✅ **Develop a custom API** to fetch YouTube video statistics.  
+- ✅ **Collect trending videos** from various countries and store historical data.  
+- ✅ **Analyze the collected data** to identify trends and patterns in virality.  
+- ✅ **Build predictive models** to estimate a video's potential to go viral.
 
 ---
 
@@ -22,7 +23,7 @@ The data is automatically collected using the **YouTube API** and stored in this
 
 ### **Collection Process**  
 1. **Fetching Trending Videos**  
-   - Using the YouTube API, we retrieve trending videos from multiple countries.  
+   - Using the YouTube API, trending videos from multiple countries are retrieved.  
    - The list of trending videos is stored and continuously updated.  
 
 2. **Daily Statistics Updates** (Automated via **GitHub Actions**)  
@@ -31,6 +32,13 @@ The data is automatically collected using the **YouTube API** and stored in this
    - The latest data is stored here:  
      🔗 [Video Statistics](https://github.com/gpsyrou/tube-virality/tree/main/assets/meta/video_stats)  
 
+```mermaid
+graph LR;
+    A[trending.py: Fetch Trending Videos] -->|Generates daily JSON files - one per country| B[trending_db.py: Aggregate Trending Data];
+    B -->|Merges all country JSONs into a unified CSV| C[video_stats.py: Extract & Fetch Video Stats];
+    C -->|Creates a daily JSON file with statistics for all videos| D[video_stats_db.py: Compile Video Stats History];
+    D -->|Combines all daily stats JSONs into a final dataset| E[Complete Merged Video Stats JSON];
+```
 ---
 
 ## 🔍 Understanding Video Virality  
