@@ -1,0 +1,55 @@
+name: Daily YouTube Data Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y libatlas-base-dev libopenblas-dev
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Upgrade pip and install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r src/requirements.txt
+
+      - name: Set API Key Environment Variable
+        run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
+
+      - name: Run trending.py (Fetch trending videos)
+        run: python src/collection/trending.py
+
+      - name: Run trending_db.py (Merge trending data into CSV)
+        run: python src/processing/trending_db.py
+
+      - name: Run video_stats.py (Fetch video statistics)
+        run: python src/collection/video_stats.py
+
+      - name: Run video_stats_db.py (Merge video statistics into CSV)
+        run: python src/processing/video_stats_db.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit JSON and CSV files
+        run: |
+          git add assets/meta/trending/*.json
+          git add assets/meta/video_stats/*.json
+          git add db/ods/*.csv
+          git commit -m "Automated data pipeline update [$(date)]" || echo "No changes to commit"
+          git push
