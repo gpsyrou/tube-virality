@@ -1,8 +1,8 @@
 name: Daily Video Statistics Collector
 
 on:
-  schedule:
-    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
+  #schedule:
+  #  - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
   workflow_dispatch:
 
 jobs:
