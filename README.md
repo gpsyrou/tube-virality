@@ -87,7 +87,6 @@ Our dataset includes key **video metadata** and **engagement statistics**, such 
 We've harnessed a blend of cutting-edge technologies to power the **Tube Virality** project:  
 
 🔹 **Python 3.9** – Data processing, analysis, and ML model training.  
-🔹 **SQL** – Storing structured video metadata for analysis.  
-🔹 **Go** – Enhancing API performance and concurrent processing.  
+🔹 **SQL** – Storing structured video metadata for analysis.
 
 ---
