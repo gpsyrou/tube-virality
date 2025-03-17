@@ -1,7 +1,7 @@
 {
     "TRENDING_METADATA_LOC": "assets/meta/trending",
     "TRENDING_ODS_DIR": "db/ods/",
-    "TRENDING_COUNTRY_CODES":  ["IN", "US", "GB", "DE", "FR", "BR", "CA", "PH", "KR", "GR", "ID", "MX", "JP", "VN", "TR", "IT"],
+    "TRENDING_COUNTRY_CODES":  ["IN", "US", "GB", "DE", "FR", "BR", "CA", "PH", "KR", "GR", "ID", "MX", "JP", "VN", "TR", "IT", "TH", "VN", "ES", "NG", "CL"],
 
     "VIDEO_STATS_METADATA_LOC": "assets/meta/video_stats",
     "VIDEO_STATS_ODS_DIR": "db/ods/"
