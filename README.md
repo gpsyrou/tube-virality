@@ -1,33 +1,36 @@
-# 🚀 Tube Virality Project  
+# 🚀 YouTube Trending Video Analytics and Virality Estimation 
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![YouTube API](https://img.shields.io/badge/-YouTube_API-FF0000?&logo=youtube&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions&logoColor=white)
 
-## 🎯 YouTube Trending Video Analytics API  
+## 🎯 YouTube Trending Video Analytics
 
 ### **Project Purpose**  
-The **YouTube Virality** project focuses on collecting, analyzing, and modeling YouTube trending video data from multiple countries using the YouTube API. The goal is to utilize the API to gather data, including view counts, likes, and descriptions, and then apply data science techniques to assess the likelihood of a video going viral. 🎥
+The **Tube Virality** project aims to **collect, analyze, and model YouTube trending video data** across multiple countries using the **YouTube API**. It aims to gather metrics like view counts, likes, and descriptions, then apply data science techniques to predict a video's likelihood of going viral.
 
 
 ### **Key Objectives**  
-- ✅ **Collect trending videos** from various countries and store historical data.  
-- ✅ **Develop a custom API** to fetch daily YouTube video statistics.  
-- ✅ **Analyze the collected data** to identify trends and patterns in virality.  
-- ✅ **Build predictive models** to estimate a video's potential to go viral.
+- ✅ **Collect Data via YouTube API**: Fetch trending videos and their statistics
+- ✅ **Build Historical Database**: Track daily metrics for trending videos across countries
+- ✅ **Identify Virality Patterns**: Analyze what characteristics correlate with viral success
+- ✅ **Develop Predictive Models**: Create ML models to estimate virality potential
+- ✅ **Provide Actionable Insights**: Help content creators understand virality factors
 
 ---
 
 ## 🛠️ How the Data is Collected  
 
-The data is automatically collected using the **YouTube API** and stored in this GitHub repository:  
+The data is automatically collected using the **YouTube API** and stored in this GitHub location:  
 🔗 [Trending Video Metadata](https://github.com/gpsyrou/tube-virality/tree/main/assets/meta/trending)  
 
-### **Collection Process**  
+### **Data Collection Process**  
 1. **Fetching Trending Videos**  
    - Using the YouTube API, trending videos from multiple countries are retrieved.  
-   - The list of trending videos is stored and continuously updated.  
+   - The list of trending videos is stored and continuously updated (_daily updates_).
 
 2. **Daily Statistics Updates** (Automated via **GitHub Actions**)  
-   - A scheduled **GitHub Actions** workflow updates video statistics (views, likes, comments, etc.).  
+   - A scheduled **GitHub Actions** workflow updates video statistics (views, likes, comments, video descrition, video privacy status, etc.).  
    - These updates provide **historical trends** for analysis.  
    - The latest data is stored here:  
      🔗 [Video Statistics](https://github.com/gpsyrou/tube-virality/tree/main/assets/meta/video_stats)  
@@ -41,19 +44,25 @@ graph TD;
 ```
 ---
 
-## 🔍 Understanding Video Virality  
+## 📈 Defining Video Virality  
 
-### **What Defines a Viral Video?**  
-A video's **virality** isn't simply measured by view count—it depends on engagement, growth rate, and audience reach. Here are key factors:  
-📌 **Engagement Rate** – Likes, comments, and shares relative to views.  
-📌 **Subscriber Growth** – New subscribers gained after the video is posted.  
-📌 **Rapid View Growth** – Views gained in the first 24-48 hours.  
-
-For instance:  
-- A YouTuber with **1M subscribers** getting **20M views** is expected.  
+Virality isn't simply measured by raw view count. Our analysis considers multiple factors, for example:
+- A YouTuber with **1M subscribers** getting **20M views** is - potentially- expected.  
 - A YouTuber with **10K subscribers** getting **2M views** is **extraordinary**.  
 
-Our models will classify videos as **"success" (viral)** or **"non-success"**, based on these metrics.
+Our models will classify videos as **"success" (viral)** or **"non-success"**, based on the metrics retrieved, but the success/non-success will be up to us to decide.
+
+
+
+### 🔎 **Key Virality Metrics**  
+
+| **Metric**            | **Description**                                             | **Importance** |
+|------------------------|------------------------------------------------------------|----------------|
+| **Engagement Rate**     | Likes, comments, and shares relative to views             | High           |
+| **Growth Velocity**     | How quickly a video gains views in the first hours/days   | Critical       |
+| **Audience Reach**      | Views relative to channel subscriber count                | High           |
+| **Subscriber Growth**   | New subscribers gained after video publication            | Medium         |
+| **Trending Duration**   | How long a video remains on trending lists                | Medium         |
 
 ---
 
@@ -82,11 +91,8 @@ Our dataset includes key **video metadata** and **engagement statistics**, such 
 
 ---
 
-## 💡 Technologies Utilized  
+## 🔨  Technologies Utilized  
 
 We've harnessed a blend of cutting-edge technologies to power the **Tube Virality** project:  
-
-🔹 **Python 3.9** – Data processing, analysis, and ML model training.  
-🔹 **SQL** – Storing structured video metadata for analysis.
-
----
+🔹 **Python 3.9** – Data processing, analysis, and ML model training. (currently)<br/>
+🔹 **SQL** – Storing structured video metadata for analysis. (future iteration)
