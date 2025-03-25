@@ -38,8 +38,8 @@ jobs:
       - name: Run video_stats.py (Fetch video statistics)
         run: python src/collection/video_stats.py
 
-      - name: Run video_stats_db.py (Merge video statistics into CSV)
-        run: python src/processing/video_stats_db.py
+     #- name: Run video_stats_db.py (Merge video statistics into CSV)
+     #  run: python src/processing/video_stats_db.py
 
       - name: Configure Git
         run: |
