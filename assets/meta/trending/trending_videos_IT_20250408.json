@@ -1,0 +1,3057 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9pam3T7eRlq4kuVtTOB9HrxoHmM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-Zg27_RS6sMIkGK0iG3GAs8O4oM",
+            "id": "Gr0Vbbd49s0",
+            "snippet": {
+                "publishedAt": "2025-04-07T17:00:17Z",
+                "channelId": "UCjMIGhRExEB-Q6ZyEr1gBeA",
+                "title": "in Corea del Nord non sei mai da solo... \ud83c\uddf0\ud83c\uddf5",
+                "description": "tranne quando vai in bagno, in quel caso aspettano fuori\ncomunque per internet in viaggio potete usare Saily, codice BALINI per il 15% di sconto sul primo acquisto! https://saily.com/balini \ud83d\udc48\n\nil tuo prossimo incredibile viaggio ti aspetta su:  https://www.sivola.it\n\n\ud83d\udc49 qui trovi il mio ultimo libro: https://amzn.to/3wh4SXW \ud83d\udc48\n\ud83d\udc49 qui il mio album di disegni da colorare: https://amzn.to/3CV4d4b \ud83d\udc48\n\nsupporta il canale tramite NordVPN: https://nordvpn.com/balini \ud83d\udc48\n\nvuoi sapere cosa utilizzo per fare i video e viaggiare?\n\ud83d\udcf1Telefono: https://amzn.to/4h9vmzT\n\ud83d\udcf7 Camera principale: https://amzn.to/3Ny7BmR\n\ud83d\udcf7 Camera secondaria (top): https://amzn.to/3Eq4UzS\n\ud83d\udcf7 Camera compatta: https://amzn.to/3L3lQjl\n\ud83d\udd0d Grandangolo: https://amzn.to/3E0TYJA\n\ud83d\udd0e Tele/tuttofare: https://amzn.to/3DXiJ9D\n\ud83d\udd0d altra lente tuttofare fantastica: https://amzn.to/3R6CT81\nAltra bella lente: https://amzn.to/3UndHIW\n\ud83c\udfc4\u200d\u2642\ufe0f Action Cam: https://amzn.to/3BJVscx\n\ud83c\udf0a Action Cam 360: https://amzn.to/4dRWnVV\n\ud83d\udef5 Altra altra Action Cam: https://amzn.to/3BObpyu\n\ud83d\ude81 Drone: https://amzn.to/3FHDnf9\n\ud83c\udfa4 Microfono Principale: https://amzn.to/3FPNCyl\n\ud83c\udf99 Altro Microfono: https://amzn.to/3UndVzM\n\nAltri accessori:\nscheda SD: https://amzn.to/3U70pAE\nmicro SD: https://amzn.to/3hcER79\nSSD esterno: https://amzn.to/3DDN3ow\nHard Disk esterno: https://amzn.to/3t16Eda\nCuffie pro: https://amzn.to/3sXdf8r\nAltre cuffie: https://amzn.to/3E0FTvL\nBorsone da viaggio: https://amzn.to/3Wtp18e\nZaino: https://amzn.to/3E0VN9o\nCavalletto: https://amzn.to/3ftPdPC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gr0Vbbd49s0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gr0Vbbd49s0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gr0Vbbd49s0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gr0Vbbd49s0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gr0Vbbd49s0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nicol\u00f2 Balini",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "in Corea del Nord non sei mai da solo... \ud83c\uddf0\ud83c\uddf5",
+                    "description": "tranne quando vai in bagno, in quel caso aspettano fuori\ncomunque per internet in viaggio potete usare Saily, codice BALINI per il 15% di sconto sul primo acquisto! https://saily.com/balini \ud83d\udc48\n\nil tuo prossimo incredibile viaggio ti aspetta su:  https://www.sivola.it\n\n\ud83d\udc49 qui trovi il mio ultimo libro: https://amzn.to/3wh4SXW \ud83d\udc48\n\ud83d\udc49 qui il mio album di disegni da colorare: https://amzn.to/3CV4d4b \ud83d\udc48\n\nsupporta il canale tramite NordVPN: https://nordvpn.com/balini \ud83d\udc48\n\nvuoi sapere cosa utilizzo per fare i video e viaggiare?\n\ud83d\udcf1Telefono: https://amzn.to/4h9vmzT\n\ud83d\udcf7 Camera principale: https://amzn.to/3Ny7BmR\n\ud83d\udcf7 Camera secondaria (top): https://amzn.to/3Eq4UzS\n\ud83d\udcf7 Camera compatta: https://amzn.to/3L3lQjl\n\ud83d\udd0d Grandangolo: https://amzn.to/3E0TYJA\n\ud83d\udd0e Tele/tuttofare: https://amzn.to/3DXiJ9D\n\ud83d\udd0d altra lente tuttofare fantastica: https://amzn.to/3R6CT81\nAltra bella lente: https://amzn.to/3UndHIW\n\ud83c\udfc4\u200d\u2642\ufe0f Action Cam: https://amzn.to/3BJVscx\n\ud83c\udf0a Action Cam 360: https://amzn.to/4dRWnVV\n\ud83d\udef5 Altra altra Action Cam: https://amzn.to/3BObpyu\n\ud83d\ude81 Drone: https://amzn.to/3FHDnf9\n\ud83c\udfa4 Microfono Principale: https://amzn.to/3FPNCyl\n\ud83c\udf99 Altro Microfono: https://amzn.to/3UndVzM\n\nAltri accessori:\nscheda SD: https://amzn.to/3U70pAE\nmicro SD: https://amzn.to/3hcER79\nSSD esterno: https://amzn.to/3DDN3ow\nHard Disk esterno: https://amzn.to/3t16Eda\nCuffie pro: https://amzn.to/3sXdf8r\nAltre cuffie: https://amzn.to/3E0FTvL\nBorsone da viaggio: https://amzn.to/3Wtp18e\nZaino: https://amzn.to/3E0VN9o\nCavalletto: https://amzn.to/3ftPdPC"
+                }
+            },
+            "statistics": {
+                "viewCount": "386856",
+                "likeCount": "30068",
+                "favoriteCount": "0",
+                "commentCount": "1109"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "69oHoYHnesL33PMPxVP7cx4R608",
+            "id": "5VRztlusBMs",
+            "snippet": {
+                "publishedAt": "2025-04-06T16:04:33Z",
+                "channelId": "UCfxOqclowu4c-hyJM90MrwA",
+                "title": "Paolo Bonolis e Raimondo Vianello.Radio Up&Down sabato alle 20 su Radio 24!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5VRztlusBMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5VRztlusBMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5VRztlusBMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5VRztlusBMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5VRztlusBMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "paoloruffini",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Paolo Bonolis e Raimondo Vianello.Radio Up&Down sabato alle 20 su Radio 24!",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "119730",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "L1Zyr_Nr0eMngloe-6f4MQ-vj6Y",
+            "id": "Wv0r-yyQXv4",
+            "snippet": {
+                "publishedAt": "2025-04-04T14:18:11Z",
+                "channelId": "UCUlp2N-l95H-8a3wHKswVXg",
+                "title": "NINNA ASMR \ud83c\udf08",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wv0r-yyQXv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wv0r-yyQXv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wv0r-yyQXv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wv0r-yyQXv4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wv0r-yyQXv4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ninna e Matti",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NINNA ASMR \ud83c\udf08",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "516606",
+                "likeCount": "9619",
+                "favoriteCount": "0",
+                "commentCount": "118"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NrtU0mNGXKqQgfX0G-rzel2781g",
+            "id": "DBc6TT0M-L0",
+            "snippet": {
+                "publishedAt": "2025-04-03T12:25:26Z",
+                "channelId": "UCiof9YSQHD2cawGJXZ8DyBA",
+                "title": "POLVERE Nascosta nel Tuo TELEFONO! Ecco Dove si Accumula",
+                "description": "\u00c8 bello e strano allo stesso tempo \ud83d\ude02\ud83d\ude44 #iphone #polvere #asmr #tecnologia \n\nPOLVERE Nascosta nel Tuo TELEFONO! Ecco Dove si Accumula",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DBc6TT0M-L0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DBc6TT0M-L0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DBc6TT0M-L0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DBc6TT0M-L0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DBc6TT0M-L0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GianpaoloGolden",
+                "tags": [
+                    "POLVERE",
+                    "Nascosta",
+                    "nel",
+                    "Tuo",
+                    "TELEFONO!",
+                    "Ecco",
+                    "Dove",
+                    "si",
+                    "Accumula",
+                    "POLVERE Nascosta nel Tuo TELEFONO! Ecco Dove si Accumula",
+                    "Gianpi",
+                    "Gianpy",
+                    "Gianpaolo",
+                    "Gold",
+                    "Gian Paolo",
+                    "Golden",
+                    "gianpi Golden",
+                    "gianpy Golden",
+                    "Gianpaolo gold",
+                    "Gianpaolo Golden",
+                    "gadget per smartphone",
+                    "come pulire smartphone",
+                    "come togliere la polvere dallo smartphone",
+                    "Telefono non carica",
+                    "Polvere presa di ricarica",
+                    "Problemi ricarica smartphone",
+                    "Polvere smartphone",
+                    "Smartphone non si ricarica",
+                    "Manutenzione telefono",
+                    "Pulizia telefono"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "POLVERE Nascosta nel Tuo TELEFONO! Ecco Dove si Accumula",
+                    "description": "\u00c8 bello e strano allo stesso tempo \ud83d\ude02\ud83d\ude44 #iphone #polvere #asmr #tecnologia \n\nPOLVERE Nascosta nel Tuo TELEFONO! Ecco Dove si Accumula"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "1446565",
+                "likeCount": "56690",
+                "favoriteCount": "0",
+                "commentCount": "99"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lGD2mikYbN0sVI-eupxVHymbp6E",
+            "id": "s20J1psPnzE",
+            "snippet": {
+                "publishedAt": "2025-04-07T21:57:11Z",
+                "channelId": "UCc951enPGj05EKW7WGE-pwA",
+                "title": "Kings League Lottomatica.sport Italy - MATCHDAY 9\ud83d\udc51",
+                "description": "Subscribe and don't miss out on anything:\nhttps://www.youtube.com/@KingsLeagueIT?sub_confirmation=1\n\nSegui i nostri social:\n\nTwitter: https://x.com/KingsLeague_IT\nInstagram: https://www.instagram.com/kingsleague_it\nTikTok: https://www.tiktok.com/@kingsleague_it\nTwitch: https://twitch.tv/kingsleague_it",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s20J1psPnzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s20J1psPnzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s20J1psPnzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s20J1psPnzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s20J1psPnzE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kings League Lottomatica_sport Italy",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "kings league",
+                    "goles kings league",
+                    "kingsleague",
+                    "futbol",
+                    "futbol 7",
+                    "pique",
+                    "gerard pique",
+                    "ibai",
+                    "ibai llanos",
+                    "thegrefg",
+                    "grefg",
+                    "kun",
+                    "kun aguero",
+                    "xbuyer",
+                    "xbuyer team",
+                    "buyer",
+                    "draft kings league",
+                    "djmario",
+                    "djmariio",
+                    "spursito",
+                    "casillas",
+                    "iker casillas",
+                    "analisis kings league",
+                    "joker",
+                    "el joker",
+                    "casillas kings league",
+                    "kings league jornada",
+                    "queens league",
+                    "queens",
+                    "queen's league",
+                    "oysho",
+                    "gemita",
+                    "paula gonu",
+                    "violeta",
+                    "mayichi",
+                    "espe",
+                    "morena beltran",
+                    "prince cup"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Kings League Lottomatica.sport Italy - MATCHDAY 9\ud83d\udc51",
+                    "description": "Subscribe and don't miss out on anything:\nhttps://www.youtube.com/@KingsLeagueIT?sub_confirmation=1\n\nSegui i nostri social:\n\nTwitter: https://x.com/KingsLeague_IT\nInstagram: https://www.instagram.com/kingsleague_it\nTikTok: https://www.tiktok.com/@kingsleague_it\nTwitch: https://twitch.tv/kingsleague_it"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "380399",
+                "likeCount": "5866",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AqTj3TDQ2BGMXxkK4n85xW5a25Q",
+            "id": "tWrJDWuUgD8",
+            "snippet": {
+                "publishedAt": "2025-04-02T03:10:07Z",
+                "channelId": "UCxAeHdLDAatFV_vt95MSO-g",
+                "title": "Rumour has it that the coin hasn't dropped to this day... #afl #cointoss",
+                "description": "For more footy highlights, stories, news and info, head to http://afl.com.au \n\nJoin the millions in our social community and get more footy in your feed:\nhttp://www.instagram.com/afl\nhttps://www.tiktok.com/@afl\nhttp://www.facebook.com/AFL\nhttp://www.twitter.com/AFL\n\nFind out how to watch AFL games here: http://bit.ly/3SyHQp0\n\n#AFL #footy #aussierules",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tWrJDWuUgD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tWrJDWuUgD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tWrJDWuUgD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tWrJDWuUgD8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tWrJDWuUgD8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AFL",
+                "tags": [
+                    "AFL",
+                    "australian football league",
+                    "afl.com.au",
+                    "footy",
+                    "football",
+                    "aussie rules",
+                    "2025"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "Rumour has it that the coin hasn't dropped to this day... #afl #cointoss",
+                    "description": "For more footy highlights, stories, news and info, head to http://afl.com.au \n\nJoin the millions in our social community and get more footy in your feed:\nhttp://www.instagram.com/afl\nhttps://www.tiktok.com/@afl\nhttp://www.facebook.com/AFL\nhttp://www.twitter.com/AFL\n\nFind out how to watch AFL games here: http://bit.ly/3SyHQp0\n\n#AFL #footy #aussierules"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "statistics": {
+                "viewCount": "5680800",
+                "likeCount": "188530",
+                "favoriteCount": "0",
+                "commentCount": "191"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EJEvesZl5o17SxFH5OPy8xbMFXA",
+            "id": "yV-NHnGqYQI",
+            "snippet": {
+                "publishedAt": "2025-04-05T15:53:55Z",
+                "channelId": "UCdzyKmdkWj98-WFVfNZr7Sg",
+                "title": "\u2705\ufe0f\u26bd\ufe0f Adani segna e si gasa come non mai! #shorts #calcio #adani",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yV-NHnGqYQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yV-NHnGqYQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yV-NHnGqYQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yV-NHnGqYQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yV-NHnGqYQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IL SALOTTO DEL WEB",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u2705\ufe0f\u26bd\ufe0f Adani segna e si gasa come non mai! #shorts #calcio #adani",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "151508",
+                "likeCount": "2490",
+                "favoriteCount": "0",
+                "commentCount": "155"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "F0XJRYX6_PWFdeuWbCQMLmH7IUY",
+            "id": "HkvLTldXXIk",
+            "snippet": {
+                "publishedAt": "2025-04-06T13:00:21Z",
+                "channelId": "UCfTn60uE6zz1ibgdphKiIzw",
+                "title": "CAMILLA vuole un CHUPA CHUPS per FAVORE #Shorts",
+                "description": "\u2605 ISCRIVITI AL CANALE \u25ba http://bit.ly/2BYhfvi\n\ud83d\udcd2 IL MIO LIBRO su AMAZON\u25ba https://amzn.to/3nMbBn1\n\ud83d\udc55 LE MIE MAGLIE \u25ba http://bit.ly/2H8Or6Y\n\n\u21aaSEGUIMI ANCHE SU...\n\u2b50\ufe0fINSTAGRAM (@martavitv) \u27a4 https://www.instagram.com/martavitv\n\u2b50\ufe0fFACEBOOK \u27a4 https://www.facebook.com/martavi.it\n\u2b50\ufe0fTIKTOK \u27a4 https://www.tiktok.com/@martavitv",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HkvLTldXXIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HkvLTldXXIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HkvLTldXXIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HkvLTldXXIk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HkvLTldXXIk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MartaVi",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CAMILLA vuole un CHUPA CHUPS per FAVORE #Shorts",
+                    "description": "\u2605 ISCRIVITI AL CANALE \u25ba http://bit.ly/2BYhfvi\n\ud83d\udcd2 IL MIO LIBRO su AMAZON\u25ba https://amzn.to/3nMbBn1\n\ud83d\udc55 LE MIE MAGLIE \u25ba http://bit.ly/2H8Or6Y\n\n\u21aaSEGUIMI ANCHE SU...\n\u2b50\ufe0fINSTAGRAM (@martavitv) \u27a4 https://www.instagram.com/martavitv\n\u2b50\ufe0fFACEBOOK \u27a4 https://www.facebook.com/martavi.it\n\u2b50\ufe0fTIKTOK \u27a4 https://www.tiktok.com/@martavitv"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "190791",
+                "likeCount": "3579",
+                "favoriteCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1rHD0ACmNKf-p3F6G59ajmNY0bo",
+            "id": "ARtjO4FngPc",
+            "snippet": {
+                "publishedAt": "2025-04-07T13:00:24Z",
+                "channelId": "UCxmX5krVXoNp2_lumQzbwxA",
+                "title": "SE VA VIRALE QUESTO CI SOTTERRIAMO! @be_aurora_ dovevo postarlo\u2764\ufe0f\ud83e\udd70",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ARtjO4FngPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ARtjO4FngPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ARtjO4FngPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ARtjO4FngPc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ARtjO4FngPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ludovica Frati",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SE VA VIRALE QUESTO CI SOTTERRIAMO! @be_aurora_ dovevo postarlo\u2764\ufe0f\ud83e\udd70",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "81875",
+                "likeCount": "4987",
+                "favoriteCount": "0",
+                "commentCount": "63"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DSU13LD2kfdE23xxOadGBAvNJdo",
+            "id": "qoS29UJQ4SY",
+            "snippet": {
+                "publishedAt": "2025-04-07T04:47:50Z",
+                "channelId": "UCc46uxgt6GIJxoBlb7i5UZQ",
+                "title": "finally guys ! #music #nevada #hairtok",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qoS29UJQ4SY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qoS29UJQ4SY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qoS29UJQ4SY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qoS29UJQ4SY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qoS29UJQ4SY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NEVADA",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "finally guys ! #music #nevada #hairtok",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "2192737",
+                "likeCount": "141797",
+                "favoriteCount": "0",
+                "commentCount": "3839"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WE_40x5CBbsXRNWxdjlZQL4Ozto",
+            "id": "pPURFXEMe0Y",
+            "snippet": {
+                "publishedAt": "2025-04-04T10:01:12Z",
+                "channelId": "UCSz1RpLRi0C1iBFhrh-WcIg",
+                "title": "sorry\ud83e\udd72 @andrey.grechka (fake bruises)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pPURFXEMe0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pPURFXEMe0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pPURFXEMe0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pPURFXEMe0Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pPURFXEMe0Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Karina ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "sorry\ud83e\udd72 @andrey.grechka (fake bruises)",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "24504965",
+                "likeCount": "446839",
+                "favoriteCount": "0",
+                "commentCount": "796"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "chMZTsdAiGDze2FIdFkdvXbXq44",
+            "id": "8M0H3ClZKyc",
+            "snippet": {
+                "publishedAt": "2025-04-07T17:00:07Z",
+                "channelId": "UCh6uYkXWWwSh7shkCAfj7FQ",
+                "title": "Il MISTERO delle AUTO ESC*RT: cosa si nasconde dietro il noleggio di lusso\u2026 - Giorno di Prova",
+                "description": "PARTITA IVA con Fiscozen: consulenza GRATIS e 50\u20ac di sconto \u23ed\ufe0f https://fiscozen.it/invitoGABRI50A\n\nLa mia immersione nel mondo delle SUPERCAR continua: tra Ferrari, Lamborghini, Aston Martin e test su strada, questa volta qualcosa cambia. \u00c8 arrivato il momento della scelta? \ud83c\udfce\n\nUn ringraziamento a https://www.budyluxuryrent.com/?fbclid=PAZXh0bgNhZW0CMTEAAadt63PWxuSpxKNKd0cYtcTYd-GxGdp5P_Il-GxMzsfNw6uKUaBPxIP4VMqjMQ_aem_Lbo9ZJBJPwIAWYPW6mOVew \n\n#gabrielevagnato \n\nINSTAGRAM : https://instagram.com/gabrielevagnato\nTIKTOK: @gabrielevagnato \nPer info pi\u00f9 serie puoi scrivere qui: gabriele@doom-entertainment.com\nSe vuoi segnalarmi una storia puoi scrivere qui: info@thevagnatos.it",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8M0H3ClZKyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8M0H3ClZKyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8M0H3ClZKyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8M0H3ClZKyc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8M0H3ClZKyc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gabriele Vagnato",
+                "tags": [
+                    "gabriele vagnato",
+                    "Vagnato",
+                    "Vagnato tiktok",
+                    "ale della giusta",
+                    "Vagnato 24 ore",
+                    "vignato",
+                    "giorno di prova",
+                    "ibiza vagnato",
+                    "24 ore da guardia del corpo",
+                    "un giorno con cruciani",
+                    "i soliti idioti vagnato",
+                    "pardo vagnato",
+                    "chef stellato",
+                    "gabriele vagnato tesori",
+                    "ballo debuttanti",
+                    "poliamorosi",
+                    "el matador",
+                    "vagnato corona",
+                    "corona",
+                    "vagnato matchmaker",
+                    "super car",
+                    "ferrari",
+                    "porsche",
+                    "lamborghini",
+                    "noleggio auto",
+                    "auto di lusso",
+                    "fast and furious",
+                    "super car vagnato",
+                    "vagnato ferrari",
+                    "24h con corona"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Il MISTERO delle AUTO ESC*RT: cosa si nasconde dietro il noleggio di lusso\u2026 - Giorno di Prova",
+                    "description": "PARTITA IVA con Fiscozen: consulenza GRATIS e 50\u20ac di sconto \u23ed\ufe0f https://fiscozen.it/invitoGABRI50A\n\nLa mia immersione nel mondo delle SUPERCAR continua: tra Ferrari, Lamborghini, Aston Martin e test su strada, questa volta qualcosa cambia. \u00c8 arrivato il momento della scelta? \ud83c\udfce\n\nUn ringraziamento a https://www.budyluxuryrent.com/?fbclid=PAZXh0bgNhZW0CMTEAAadt63PWxuSpxKNKd0cYtcTYd-GxGdp5P_Il-GxMzsfNw6uKUaBPxIP4VMqjMQ_aem_Lbo9ZJBJPwIAWYPW6mOVew \n\n#gabrielevagnato \n\nINSTAGRAM : https://instagram.com/gabrielevagnato\nTIKTOK: @gabrielevagnato \nPer info pi\u00f9 serie puoi scrivere qui: gabriele@doom-entertainment.com\nSe vuoi segnalarmi una storia puoi scrivere qui: info@thevagnatos.it"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "110423",
+                "likeCount": "6377",
+                "favoriteCount": "0",
+                "commentCount": "120"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IDry3uWdgFDWIAPj3LsUWM7Vf6U",
+            "id": "M842psgK5nc",
+            "snippet": {
+                "publishedAt": "2025-04-03T13:38:07Z",
+                "channelId": "UCzvNS7L5Lr4Em9fxlBRNQ-w",
+                "title": "Identical twin sisters couldn't be more different",
+                "description": "A slight personality clash \ud83d\ude05\n\nOne twin sister is gleefully playing in the mud, while the other sits next to mom clean as a whistle.\n\n#shorts #cutekids #twins #twinsister #playing #mud #feelgood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M842psgK5nc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M842psgK5nc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M842psgK5nc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M842psgK5nc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M842psgK5nc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Daily Mail Cute",
+                "tags": [
+                    "cute",
+                    "cute videos",
+                    "cute daily mail",
+                    "funny",
+                    "adorable",
+                    "good news",
+                    "happy",
+                    "feel good",
+                    "twin",
+                    "twins",
+                    "twin sisters",
+                    "playing in the mud",
+                    "cute kid",
+                    "cute kids"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Identical twin sisters couldn't be more different",
+                    "description": "A slight personality clash \ud83d\ude05\n\nOne twin sister is gleefully playing in the mud, while the other sits next to mom clean as a whistle.\n\n#shorts #cutekids #twins #twinsister #playing #mud #feelgood"
+                }
+            },
+            "statistics": {
+                "viewCount": "10269905",
+                "likeCount": "657371",
+                "favoriteCount": "0",
+                "commentCount": "5561"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yrSFToftzpSUe5StwNYOToP7RPU",
+            "id": "GUXi9wuYLkY",
+            "snippet": {
+                "publishedAt": "2025-04-05T08:30:07Z",
+                "channelId": "UCovvTRDnB3XraOrB9jiSB3A",
+                "title": "\u5929\u4f7f\u7684\u62a0\u7cd6\u997c\u788e\u4e86 #\u5c0f\u4e11 #\u5929\u4f7f #shorts",
+                "description": "\u6b22\u8fce\u6765\u5230\u3010\u597d\u4eba\u5c0f\u4e11\u3011\u9891\u9053\uff0c\u8fd9\u91cc\u662f\u597d\u4eba\u5c0f\u4e11\u7684\u89d2\u8272\u626e\u6f14\u3001\u4e8c\u6b21\u5143\u7f8e\u6f2b\u7684\u96c6\u7ed3\u5730\uff0c\u540c\u65f6\u4e5f\u662f\u6211\u8fd9\u4e2a\u81ea\u79f0\u201c\u597d\u4eba\u3001\u5c0f\u4e11\u3001\u8ff7\u4eba\u7684\u574f\u86cb\u201d\u5c55\u793a\u81ea\u6211\u98ce\u683c\u7684\u821e\u53f0\u3002\ud83c\udfad\ud83d\udee1\ufe0f\n\n\u5728\u8fd9\u4e2a\u9891\u9053\u91cc\uff0c\u4f60\u5c06\u770b\u5230\u4e0d\u4e00\u6837\u7684\u597d\u4eba\u5c0f\u4e11\u2014\u2014\u4e0d\u4ec5\u6709\u82f1\u96c4\u7684\u52c7\u6562\u548c\u6b63\u4e49\uff0c\u8fd8\u6709\u5c0f\u4e11\u7684\u5e7d\u9ed8\u4e0e\u673a\u667a\uff0c\u4ee5\u53ca\u90a3\u4e9b\u8ba9\u4eba\u610f\u60f3\u4e0d\u5230\u7684\u201c\u574f\u86cb\u201d\u9b45\u529b\u3002\u6211\u5c06\u901a\u8fc7\u5404\u79cd\u4e8c\u6b21\u5143\u548c\u7f8e\u6f2b\u98ce\u683c\u7684\u5185\u5bb9\uff0c\u5e26\u4f60\u8fdb\u5165\u4e00\u4e2a\u65e2\u719f\u6089\u53c8\u5168\u65b0\u7684\u8d85\u7ea7\u82f1\u96c4\u4e16\u754c\u3002\ud83c\udf1f\ud83c\udfa8\n\n\ud83d\udd14 \u5982\u679c\u4f60\u5bf9\u6211\u7684\u89c6\u9891\u611f\u5174\u8da3\uff0c\u5c31\u8bf7\u8ba2\u9605\u5e76\u70b9\u51fb\u5c0f\u94c3\u94db\u56fe\u6807\u3002\n\n\ud83d\udeab \u6211\u4eec\u627f\u8bfa\uff0c\u9891\u9053\u5185\u5bb9100%\u539f\u521b\uff0c\u4e25\u683c\u9075\u5b88\u5e73\u53f0\u89c4\u5219\uff0c\u5bf9\u4e8e\u4efb\u4f55\u76d7\u7248\u884c\u4e3a\uff0c\u6211\u4eec\u90fd\u5c06\u575a\u51b3\u91c7\u53d6\u63aa\u65bd\uff0c\u4fdd\u62a4\u7248\u6743\u4e0d\u53d7\u4fb5\u72af\uff01\n\u6211\u4eec\u7684\u89c6\u9891\u5236\u4f5c\u56e2\u961f\u4f1a\u7279\u522b\u5173\u6ce8\u513f\u7ae5\u7684\u5b89\u5168\u9700\u6c42\uff0c\u786e\u4fdd\u5185\u5bb9\u4e0d\u4f1a\u5bf9\u5176\u9020\u6210\u4efb\u4f55\u5371\u5bb3",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GUXi9wuYLkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GUXi9wuYLkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GUXi9wuYLkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GUXi9wuYLkY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GUXi9wuYLkY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u597d\u4eba\u5c0f\u4e11",
+                "tags": [
+                    "\u597d\u4eba\u5c0f\u4e11",
+                    "\u7f8e\u56fd\u961f\u957f",
+                    "\u89d2\u8272\u626e\u6f14",
+                    "\u4e8c\u6b21\u5143",
+                    "\u7f8e\u6f2b",
+                    "\u8ff7\u4eba\u574f\u86cb",
+                    "\u8d85\u7ea7\u82f1\u96c4",
+                    "\u641e\u7b11\u89c6\u9891",
+                    "\u6b63\u80fd\u91cf",
+                    "\u6f2b\u753b\u7231\u597d\u8005",
+                    "\u89d2\u8272\u89e3\u6790",
+                    "\u5e7d\u9ed8\u5267\u60c5",
+                    "\u521b\u610f\u6f14\u7ece",
+                    "\u5a31\u4e50\u9891\u9053",
+                    "\u6570\u5b57\u6f2b\u753b",
+                    "\u8d85\u7ea7\u82f1\u96c4\u6587\u5316",
+                    "\u6f2b\u753b\u89d2\u8272",
+                    "\u89d2\u8272\u9b45\u529b",
+                    "\u82f1\u96c4\u5192\u9669",
+                    "\u52a8\u753b\u5236\u4f5c",
+                    "\u89d2\u8272\u6df1\u5ea6\u63a2\u8ba8"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "zh",
+                "localized": {
+                    "title": "\u5929\u4f7f\u7684\u62a0\u7cd6\u997c\u788e\u4e86 #\u5c0f\u4e11 #\u5929\u4f7f #shorts",
+                    "description": "\u6b22\u8fce\u6765\u5230\u3010\u597d\u4eba\u5c0f\u4e11\u3011\u9891\u9053\uff0c\u8fd9\u91cc\u662f\u597d\u4eba\u5c0f\u4e11\u7684\u89d2\u8272\u626e\u6f14\u3001\u4e8c\u6b21\u5143\u7f8e\u6f2b\u7684\u96c6\u7ed3\u5730\uff0c\u540c\u65f6\u4e5f\u662f\u6211\u8fd9\u4e2a\u81ea\u79f0\u201c\u597d\u4eba\u3001\u5c0f\u4e11\u3001\u8ff7\u4eba\u7684\u574f\u86cb\u201d\u5c55\u793a\u81ea\u6211\u98ce\u683c\u7684\u821e\u53f0\u3002\ud83c\udfad\ud83d\udee1\ufe0f\n\n\u5728\u8fd9\u4e2a\u9891\u9053\u91cc\uff0c\u4f60\u5c06\u770b\u5230\u4e0d\u4e00\u6837\u7684\u597d\u4eba\u5c0f\u4e11\u2014\u2014\u4e0d\u4ec5\u6709\u82f1\u96c4\u7684\u52c7\u6562\u548c\u6b63\u4e49\uff0c\u8fd8\u6709\u5c0f\u4e11\u7684\u5e7d\u9ed8\u4e0e\u673a\u667a\uff0c\u4ee5\u53ca\u90a3\u4e9b\u8ba9\u4eba\u610f\u60f3\u4e0d\u5230\u7684\u201c\u574f\u86cb\u201d\u9b45\u529b\u3002\u6211\u5c06\u901a\u8fc7\u5404\u79cd\u4e8c\u6b21\u5143\u548c\u7f8e\u6f2b\u98ce\u683c\u7684\u5185\u5bb9\uff0c\u5e26\u4f60\u8fdb\u5165\u4e00\u4e2a\u65e2\u719f\u6089\u53c8\u5168\u65b0\u7684\u8d85\u7ea7\u82f1\u96c4\u4e16\u754c\u3002\ud83c\udf1f\ud83c\udfa8\n\n\ud83d\udd14 \u5982\u679c\u4f60\u5bf9\u6211\u7684\u89c6\u9891\u611f\u5174\u8da3\uff0c\u5c31\u8bf7\u8ba2\u9605\u5e76\u70b9\u51fb\u5c0f\u94c3\u94db\u56fe\u6807\u3002\n\n\ud83d\udeab \u6211\u4eec\u627f\u8bfa\uff0c\u9891\u9053\u5185\u5bb9100%\u539f\u521b\uff0c\u4e25\u683c\u9075\u5b88\u5e73\u53f0\u89c4\u5219\uff0c\u5bf9\u4e8e\u4efb\u4f55\u76d7\u7248\u884c\u4e3a\uff0c\u6211\u4eec\u90fd\u5c06\u575a\u51b3\u91c7\u53d6\u63aa\u65bd\uff0c\u4fdd\u62a4\u7248\u6743\u4e0d\u53d7\u4fb5\u72af\uff01\n\u6211\u4eec\u7684\u89c6\u9891\u5236\u4f5c\u56e2\u961f\u4f1a\u7279\u522b\u5173\u6ce8\u513f\u7ae5\u7684\u5b89\u5168\u9700\u6c42\uff0c\u786e\u4fdd\u5185\u5bb9\u4e0d\u4f1a\u5bf9\u5176\u9020\u6210\u4efb\u4f55\u5371\u5bb3"
+                },
+                "defaultAudioLanguage": "zh"
+            },
+            "statistics": {
+                "viewCount": "22551083",
+                "likeCount": "347735",
+                "favoriteCount": "0",
+                "commentCount": "154"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kL6iUeh--HT4t_KMQOwfCao8MQI",
+            "id": "WvJXltnhk-Y",
+            "snippet": {
+                "publishedAt": "2025-04-06T10:50:46Z",
+                "channelId": "UCkUVogkdIBrfQ-yKKZNjXHQ",
+                "title": "AL RISTORANTE!\ud83e\udd26\u200d\u2642\ufe0f\ud83d\ude1c#congiuntiimperfetti #risate #family #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WvJXltnhk-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WvJXltnhk-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WvJXltnhk-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WvJXltnhk-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WvJXltnhk-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "congiuntiimperfetti",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "AL RISTORANTE!\ud83e\udd26\u200d\u2642\ufe0f\ud83d\ude1c#congiuntiimperfetti #risate #family #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "236680",
+                "likeCount": "5879",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tve_qbThReEs-uBR58e1ZSRfrcc",
+            "id": "-blMMP90BU0",
+            "snippet": {
+                "publishedAt": "2025-04-07T10:25:05Z",
+                "channelId": "UCeL55fy8Wqr4v-hx6b0baWA",
+                "title": "JUVENTINI COSTRETTO A TIFARE NAPOLI\u2026",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-blMMP90BU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-blMMP90BU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-blMMP90BU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-blMMP90BU0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-blMMP90BU0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Alessandro Vanoni",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "JUVENTINI COSTRETTO A TIFARE NAPOLI\u2026",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "43390",
+                "likeCount": "2612",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pQruafR1lFwJy1Ktx4l9KFGZIG8",
+            "id": "MAChkQUzWfA",
+            "snippet": {
+                "publishedAt": "2025-04-05T17:00:22Z",
+                "channelId": "UCPfFXhCgc6cciu3aYm-9AdA",
+                "title": "Travaglio sul palco del No alle Armi: \"Ecco tutte le balle che ci hanno raccontato sulla guerra\"",
+                "description": "\ud83d\udccc Abbonati al canale per i nostri contenuti esclusivi:\n\ud83d\udc49 https://www.youtube.com/channel/UCPfFXhCgc6cciu3aYm-9AdA/join\n\n\ud83d\udccc SCOPRI COME SOSTENERE IL NOSTRO GIORNALISMO \n\ud83d\udc49 https://shop.ilfattoquotidiano.it/abbonamenti/ \ud83d\udc48\n\nwww.ilfattoquotidiano.it",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MAChkQUzWfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MAChkQUzWfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MAChkQUzWfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MAChkQUzWfA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MAChkQUzWfA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Il Fatto Quotidiano",
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "Travaglio sul palco del No alle Armi: \"Ecco tutte le balle che ci hanno raccontato sulla guerra\"",
+                    "description": "\ud83d\udccc Abbonati al canale per i nostri contenuti esclusivi:\n\ud83d\udc49 https://www.youtube.com/channel/UCPfFXhCgc6cciu3aYm-9AdA/join\n\n\ud83d\udccc SCOPRI COME SOSTENERE IL NOSTRO GIORNALISMO \n\ud83d\udc49 https://shop.ilfattoquotidiano.it/abbonamenti/ \ud83d\udc48\n\nwww.ilfattoquotidiano.it"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "425577",
+                "likeCount": "20747",
+                "favoriteCount": "0",
+                "commentCount": "2510"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8Gep1Yf5XG-552d4UT1o5Ric4ZQ",
+            "id": "pmm-GWrQFx0",
+            "snippet": {
+                "publishedAt": "2025-04-06T18:57:23Z",
+                "channelId": "UCyagEfIN1okQ-s996XAqCFQ",
+                "title": "Can Tape Hold a Sumo Wrestler?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pmm-GWrQFx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pmm-GWrQFx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pmm-GWrQFx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pmm-GWrQFx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Zhong",
+                "tags": [
+                    "Zhong",
+                    "zhong",
+                    "zong"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Can Tape Hold a Sumo Wrestler?",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3704932",
+                "likeCount": "145444",
+                "favoriteCount": "0",
+                "commentCount": "366"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "guEh2a8MheCkjTejD15avqIW1Xo",
+            "id": "N8HGWYYg4zM",
+            "snippet": {
+                "publishedAt": "2025-04-04T12:00:02Z",
+                "channelId": "UC-RN-QrnVaYOCue3pVeRaxw",
+                "title": "Baby Gang - Rassi feat. ElGrandeToto (Official Video)",
+                "description": "Baby Gang - Rassi feat. @ElGrandeToto (Official Video)\nAscolta Rassi: https://wmi.lnk.to/rassi_\n\nSegui Baby Gang: \nInstagram | https://instagram.com/babygang_1\nTikTok | https://www.tiktok.com/@therealbabygang\nSpotify | https://spoti.fi/3zpEDiB\n\nA video by LegacyFilms\n\n#BabyGang #Rassi #ElGrandeToto",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N8HGWYYg4zM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N8HGWYYg4zM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N8HGWYYg4zM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N8HGWYYg4zM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N8HGWYYg4zM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Baby Gang",
+                "tags": [
+                    "baby gang",
+                    "babygang",
+                    "paranoia baby gang",
+                    "baby",
+                    "morad",
+                    "beby gang",
+                    "simba la rue",
+                    "baby gang 2024",
+                    "bebe gang",
+                    "baby gang baby",
+                    "baby gamg",
+                    "baby gabg",
+                    "baby gang freestyle",
+                    "freestyle",
+                    "mentalit\u00e9",
+                    "baby gang album",
+                    "baby gang innocente",
+                    "baby gang l'angelo del male",
+                    "Rassi",
+                    "baby gang Rassi",
+                    "baby gang feat. ElGrandeToto",
+                    "baby gang Rassi video",
+                    "Baby Gang - Rassi feat. ElGrandeToto (Official video)",
+                    "baby gang Rassi video ufficiale",
+                    "Rassi baby gang official video",
+                    "baby gang elgrandetoto"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Baby Gang - Rassi feat. ElGrandeToto (Official Video)",
+                    "description": "Baby Gang - Rassi feat. @ElGrandeToto (Official Video)\nAscolta Rassi: https://wmi.lnk.to/rassi_\n\nSegui Baby Gang: \nInstagram | https://instagram.com/babygang_1\nTikTok | https://www.tiktok.com/@therealbabygang\nSpotify | https://spoti.fi/3zpEDiB\n\nA video by LegacyFilms\n\n#BabyGang #Rassi #ElGrandeToto"
+                },
+                "defaultAudioLanguage": "ar"
+            },
+            "statistics": {
+                "viewCount": "2203310",
+                "likeCount": "119093",
+                "favoriteCount": "0",
+                "commentCount": "4176"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LBgGBikr3YQWtFTq82ft5kH5Ev8",
+            "id": "t-QgZm3izwE",
+            "snippet": {
+                "publishedAt": "2025-04-06T18:31:04Z",
+                "channelId": "UCLtf1GhnARGHtP5jWcEmHLQ",
+                "title": "Il gioco che classifica i tuoi amici! Social Ladder",
+                "description": "Scopri MyHeritage https://bit.ly/iNoobChannel e usa il nostro codice INOOB per un 10% di sconto \n#ad\n\nI nostri contatti: https://linktr.ee/inoobchannel\n\nOspiti:\n@leo \n@bertra \n\nIL NOSTRO GIOCO, Coco Rido, l'invasione del web: https://amzn.to/4iDzIze\n\nI giochi e la nostra attrezzatura: https://www.amazon.it/shop/inoobchannel\n\nMail Info & Business: inoob@arkadia.agency\n\n#iNoob",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t-QgZm3izwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t-QgZm3izwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t-QgZm3izwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t-QgZm3izwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t-QgZm3izwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "iNoobChannel",
+                "tags": [
+                    "inoob",
+                    "inoobchannel",
+                    "camper",
+                    "spawn"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "Il gioco che classifica i tuoi amici! Social Ladder",
+                    "description": "Scopri MyHeritage https://bit.ly/iNoobChannel e usa il nostro codice INOOB per un 10% di sconto \n#ad\n\nI nostri contatti: https://linktr.ee/inoobchannel\n\nOspiti:\n@leo \n@bertra \n\nIL NOSTRO GIOCO, Coco Rido, l'invasione del web: https://amzn.to/4iDzIze\n\nI giochi e la nostra attrezzatura: https://www.amazon.it/shop/inoobchannel\n\nMail Info & Business: inoob@arkadia.agency\n\n#iNoob"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "131065",
+                "likeCount": "15340",
+                "favoriteCount": "0",
+                "commentCount": "158"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wQeIgnZk2zaV0kcGNQeMxh1D9bQ",
+            "id": "WX-deqmmHss",
+            "snippet": {
+                "publishedAt": "2025-04-05T16:21:55Z",
+                "channelId": "UC2xBh2nwvOwBqnA1tEbPCZw",
+                "title": "\ud83d\udc9b",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WX-deqmmHss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WX-deqmmHss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WX-deqmmHss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WX-deqmmHss/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WX-deqmmHss/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yellow Dress Girl",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ud83d\udc9b",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "2884087",
+                "likeCount": "62405",
+                "favoriteCount": "0",
+                "commentCount": "684"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Z1j1h2kTQyQmjSsLS_pQpRkeJJA",
+            "id": "Rhf9b8TLgdU",
+            "snippet": {
+                "publishedAt": "2025-04-06T00:06:54Z",
+                "channelId": "UCyny-dfYPbE-CjAkzkZqF8A",
+                "title": "Big Brother VIP Albania 4 - Episodi 30, 5 Prill 2025",
+                "description": "Big Brother Albania VIP 4, nj\u00eb nd\u00ebr formatet m\u00eb te suksesshem te Reality Show, nje krijim i De Mol n\u00ebn pronesine e Banijay Rights, vjen ne sezonin e tij te kat\u00ebrt ne Shqip\u00ebri pas suksesit te meparshem, prodhuar nga Top Channel. Personazhe e karaktere te njohur e te dashur t\u00eb jetes sone jan\u00eb zgjedhur me shume kujdes ne baze t\u00eb profileve te tyre psikologjike e social-kulturore dhe do te jetojne se bashku ne nje shtepi per disa jave rresht. I gjithe votimi i personazheve vjen nga publiku dhe personazhi VIP me i admiruar fiton \u00e7mimin e madh.\n\nP\u00ebr m\u00eb shum\u00eb vizitoni: http://top-channel.tv/\n\nSubscribe to \"Top Channel\" on YouTube Channel for NEWS and TV \n\nShows HERE: http://bit.ly/2Y15KwK\nFor more content from click HERE: www.top-channel.tv\nLike Top Channel on Facebook HERE: http://bit.ly/2FglWTs\nFollow Top Channel on Instagram HERE: http://bit.ly/2uaYG2U\nFollow Top Channel on Twitter HERE: http://bit.ly/2TJndeH\n#BigBrotherVip4 #BBV4 #LIVE #TopChannel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rhf9b8TLgdU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rhf9b8TLgdU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rhf9b8TLgdU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rhf9b8TLgdU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rhf9b8TLgdU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Top Channel Albania",
+                "tags": [
+                    "top channel albania",
+                    "topchannelalbania",
+                    "top channel shqiperi",
+                    "top channel",
+                    "topchannelyoutube",
+                    "big brother vip",
+                    "big brother vip albania",
+                    "bbva",
+                    "big brother vip 4",
+                    "ledion lico",
+                    "live",
+                    "bbvlive",
+                    "bbva live",
+                    "bigu live",
+                    "big bradher live",
+                    "gjesti",
+                    "gerta",
+                    "zarfi i zi",
+                    "nominim",
+                    "egli",
+                    "rozana",
+                    "g bani",
+                    "episodi 18",
+                    "big brother live",
+                    "valixhja",
+                    "zarfi ikuq",
+                    "22 shkurt 2025",
+                    "pandora"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "sq",
+                "localized": {
+                    "title": "Big Brother VIP Albania 4 - Episodi 30, 5 Prill 2025",
+                    "description": "Big Brother Albania VIP 4, nj\u00eb nd\u00ebr formatet m\u00eb te suksesshem te Reality Show, nje krijim i De Mol n\u00ebn pronesine e Banijay Rights, vjen ne sezonin e tij te kat\u00ebrt ne Shqip\u00ebri pas suksesit te meparshem, prodhuar nga Top Channel. Personazhe e karaktere te njohur e te dashur t\u00eb jetes sone jan\u00eb zgjedhur me shume kujdes ne baze t\u00eb profileve te tyre psikologjike e social-kulturore dhe do te jetojne se bashku ne nje shtepi per disa jave rresht. I gjithe votimi i personazheve vjen nga publiku dhe personazhi VIP me i admiruar fiton \u00e7mimin e madh.\n\nP\u00ebr m\u00eb shum\u00eb vizitoni: http://top-channel.tv/\n\nSubscribe to \"Top Channel\" on YouTube Channel for NEWS and TV \n\nShows HERE: http://bit.ly/2Y15KwK\nFor more content from click HERE: www.top-channel.tv\nLike Top Channel on Facebook HERE: http://bit.ly/2FglWTs\nFollow Top Channel on Instagram HERE: http://bit.ly/2uaYG2U\nFollow Top Channel on Twitter HERE: http://bit.ly/2TJndeH\n#BigBrotherVip4 #BBV4 #LIVE #TopChannel"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "2418781",
+                "likeCount": "9550",
+                "favoriteCount": "0",
+                "commentCount": "755"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7G96DEDNItTALAg6TsLBfhbcR24",
+            "id": "o0Z59TGxS_o",
+            "snippet": {
+                "publishedAt": "2025-04-02T13:27:54Z",
+                "channelId": "UCNQAoLEv87L7NgUp4We3HIg",
+                "title": "Smart Sigma Kid #funny #sigma",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o0Z59TGxS_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o0Z59TGxS_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o0Z59TGxS_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o0Z59TGxS_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o0Z59TGxS_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CRAZY GREAPA",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Smart Sigma Kid #funny #sigma",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "80339877",
+                "likeCount": "1994631",
+                "favoriteCount": "0",
+                "commentCount": "3316"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sRdHmT-7gN600fL8RvLPCPXKICc",
+            "id": "aJQgNzNdZVU",
+            "snippet": {
+                "publishedAt": "2025-04-07T14:39:02Z",
+                "channelId": "UC77eM4Z9DYud52PexHhdBSA",
+                "title": "Che dolci che sono assieme\ud83e\udd79\u2764\ufe0f @FamigliaDLS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aJQgNzNdZVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aJQgNzNdZVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aJQgNzNdZVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aJQgNzNdZVU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aJQgNzNdZVU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "La famiglia Frappy",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Che dolci che sono assieme\ud83e\udd79\u2764\ufe0f @FamigliaDLS",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "240162",
+                "likeCount": "8569",
+                "favoriteCount": "0",
+                "commentCount": "71"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YDqWHBIy04fB1ZUtHlmRAW0yCLI",
+            "id": "TdkCG8aloTk",
+            "snippet": {
+                "publishedAt": "2025-04-05T12:00:39Z",
+                "channelId": "UCYr4pfDqgHGNmTRDIhNz2Vg",
+                "title": "Fai salire la Patata senza toccarla \ud83e\udd54",
+                "description": "ale si \u00e8 fregato da solo \n\n\u2b07 Seguici sui nostri canali \u2b07\n\n\ud83d\udcda IL QUADERNO DEI GIOCHI di  Ale e Pi\u00e8:  https://amzn.eu/d/h8YoqjD\n\u26ab\ufe0f TIKTOK : https://bit.ly/3zTJB6C\n\ud83d\udfe0 INSTAGRAM : https://bit.ly/35IXgj1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TdkCG8aloTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TdkCG8aloTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TdkCG8aloTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TdkCG8aloTk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TdkCG8aloTk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ale e Pi\u00e8 Official",
+                "tags": [
+                    "ale e pi\u00e8",
+                    "ale e pie",
+                    "tiktok",
+                    "patata",
+                    "fisica"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "Fai salire la Patata senza toccarla \ud83e\udd54",
+                    "description": "ale si \u00e8 fregato da solo \n\n\u2b07 Seguici sui nostri canali \u2b07\n\n\ud83d\udcda IL QUADERNO DEI GIOCHI di  Ale e Pi\u00e8:  https://amzn.eu/d/h8YoqjD\n\u26ab\ufe0f TIKTOK : https://bit.ly/3zTJB6C\n\ud83d\udfe0 INSTAGRAM : https://bit.ly/35IXgj1"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "435179",
+                "likeCount": "32733",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gzGFaVxzdSQ_Ik31jNTgQ1SclZE",
+            "id": "gdJOWDd-5Dk",
+            "snippet": {
+                "publishedAt": "2025-04-05T13:01:02Z",
+                "channelId": "UCxm5_Y8j9Bn7LxrSHMMJ0Pw",
+                "title": "1%\ud83e\udeabvs 100%\ud83d\udd0b",
+                "description": "\u041a\u0443\u043f\u0438\u0442\u044c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0435\u0440\u0447: https://clck.ru/3GTmd6\n\n\u041d\u043e\u0432\u044b\u0439 \u043a\u043b\u0438\u043f \u043d\u0430 8 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u043e\u0432 \u0423\u0416\u0415 \u0422\u0423\u0422 - https://youtu.be/3koIYtrzNCc\n\n\ud83d\ude02 \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c - https://t.me/arishnev24\n\ud83c\udf49 \u0420\u0435\u043a\u043b\u0430\u043c\u0430/\u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e -  arishnev.ads@gmail.com \n\n#\u0430\u0440\u0438\u0448\u043d\u0435\u0432",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gdJOWDd-5Dk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gdJOWDd-5Dk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gdJOWDd-5Dk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gdJOWDd-5Dk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gdJOWDd-5Dk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u0410\u0440\u0438\u0448\u043d\u0435\u0432",
+                "tags": [
+                    "\u0430\u0440\u0438\u0448\u043d\u0435\u0432",
+                    "\u0431\u0440\u0443\u043d\u043e",
+                    "\u0441\u0430\u0444\u0438\u043a",
+                    "\u043c\u0430\u0448\u0430",
+                    "\u043c\u0430\u0448\u0430 \u0430\u0440\u0438\u0448\u043d\u0435\u0432"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "1%\ud83e\udeabvs 100%\ud83d\udd0b",
+                    "description": "\u041a\u0443\u043f\u0438\u0442\u044c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0435\u0440\u0447: https://clck.ru/3GTmd6\n\n\u041d\u043e\u0432\u044b\u0439 \u043a\u043b\u0438\u043f \u043d\u0430 8 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u043e\u0432 \u0423\u0416\u0415 \u0422\u0423\u0422 - https://youtu.be/3koIYtrzNCc\n\n\ud83d\ude02 \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c - https://t.me/arishnev24\n\ud83c\udf49 \u0420\u0435\u043a\u043b\u0430\u043c\u0430/\u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e -  arishnev.ads@gmail.com \n\n#\u0430\u0440\u0438\u0448\u043d\u0435\u0432"
+                },
+                "defaultAudioLanguage": "ru"
+            },
+            "statistics": {
+                "viewCount": "1947404",
+                "likeCount": "98480",
+                "favoriteCount": "0",
+                "commentCount": "306"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2IjwZvwv70U6Wo96vkVOkkGsmTA",
+            "id": "ni3t6zIpgVc",
+            "snippet": {
+                "publishedAt": "2025-04-06T11:30:35Z",
+                "channelId": "UCAJ0wDDV8L1EU4uieil8Unw",
+                "title": "CAMBIO CASA: IL MIO TRASLOCO \ud83d\udce6",
+                "description": "Clicca il link https://bit.ly/DENIS40  o usa il mio codice DENIS40  per ricevere 40% di sconto sulla prima box + 25% sulle successive 3 \ud83d\udce6\n\nCarrelli XSTO: \nTel. 0444 205705 \ninfo@xstoitalia.it\nhttps://www.xstoitalia.it\n\nInflead: https://www.inflead.com/it\n\n\u25ba La mia attrezzatura \u2192 http://bit.ly/sinnamazing\n\n\u25ba Collaborazioni \u2192 info@sinnaggagghiri.com \n\n\u25ba Secondo canale \u2192 http://bit.ly/denisyoutube\n\n\u25ba Carta d\u2019identit\u00e0\n\u2022 Nome : Denis Tarantello\n\u2022 Nato a : Vicenza, 25 Aprile 1996\n\u2022 Residenza : Vicenza\n\u2022 Professione : Libero Professionista\n\u2022 Statura : 190\n\nIn collaborazione con Hellofresh.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ni3t6zIpgVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ni3t6zIpgVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ni3t6zIpgVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ni3t6zIpgVc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ni3t6zIpgVc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Denis Tarantello",
+                "tags": [
+                    "trasloco",
+                    "casa nuova"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CAMBIO CASA: IL MIO TRASLOCO \ud83d\udce6",
+                    "description": "Clicca il link https://bit.ly/DENIS40  o usa il mio codice DENIS40  per ricevere 40% di sconto sulla prima box + 25% sulle successive 3 \ud83d\udce6\n\nCarrelli XSTO: \nTel. 0444 205705 \ninfo@xstoitalia.it\nhttps://www.xstoitalia.it\n\nInflead: https://www.inflead.com/it\n\n\u25ba La mia attrezzatura \u2192 http://bit.ly/sinnamazing\n\n\u25ba Collaborazioni \u2192 info@sinnaggagghiri.com \n\n\u25ba Secondo canale \u2192 http://bit.ly/denisyoutube\n\n\u25ba Carta d\u2019identit\u00e0\n\u2022 Nome : Denis Tarantello\n\u2022 Nato a : Vicenza, 25 Aprile 1996\n\u2022 Residenza : Vicenza\n\u2022 Professione : Libero Professionista\n\u2022 Statura : 190\n\nIn collaborazione con Hellofresh."
+                }
+            },
+            "statistics": {
+                "viewCount": "174607",
+                "likeCount": "15628",
+                "favoriteCount": "0",
+                "commentCount": "300"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "W9Dr1VMQrbv_sTd3K5czkNRmNuE",
+            "id": "mcEVoxU6dq4",
+            "snippet": {
+                "publishedAt": "2025-04-03T12:12:42Z",
+                "channelId": "UCGt8TCsiAmzcNY5vDcLBk_w",
+                "title": "@IlMilaneseImbruttito",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mcEVoxU6dq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mcEVoxU6dq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mcEVoxU6dq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mcEVoxU6dq4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mcEVoxU6dq4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MARYNA",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "@IlMilaneseImbruttito",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "399404",
+                "likeCount": "20765",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Si6Ts1rjDvUX39Xg6yCNMxX6_-I",
+            "id": "_L083YTQUQ4",
+            "snippet": {
+                "publishedAt": "2025-04-01T15:49:21Z",
+                "channelId": "UCKEiTu4t6o2Y9hnqOS-GUgw",
+                "title": "Estamos un poco resfriados\ud83d\ude02",
+                "description": "Estamos un poco resfriados\ud83d\ude02",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_L083YTQUQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_L083YTQUQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_L083YTQUQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_L083YTQUQ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_L083YTQUQ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Chuster",
+                "tags": [
+                    "Filtro",
+                    "Filtros",
+                    "Llorar",
+                    "TikTok",
+                    "Viral",
+                    "Reto",
+                    "Challenge",
+                    "Shorts",
+                    "Amigos",
+                    "Bromas"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Estamos un poco resfriados\ud83d\ude02",
+                    "description": "Estamos un poco resfriados\ud83d\ude02"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "5204243",
+                "likeCount": "88456",
+                "favoriteCount": "0",
+                "commentCount": "278"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "K0h_Vc3MuwVrVN3g87U0v3HF0Dg",
+            "id": "uSw0hTrRKyM",
+            "snippet": {
+                "publishedAt": "2025-04-02T00:17:00Z",
+                "channelId": "UCQBzn-XGeA4sq9kB8Gl8iHg",
+                "title": "Family members SHARING \ud83c\udf6b #VictoriaPfeifer #shorts",
+                "description": "With help from @victorbae",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uSw0hTrRKyM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uSw0hTrRKyM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uSw0hTrRKyM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uSw0hTrRKyM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uSw0hTrRKyM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Victoria Pfeifer",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Family members SHARING \ud83c\udf6b #VictoriaPfeifer #shorts",
+                    "description": "With help from @victorbae"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "36002878",
+                "likeCount": "1201183",
+                "favoriteCount": "0",
+                "commentCount": "1743"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "glMYM1xAAZTt51F-Wma_mVna8Jc",
+            "id": "NCGZYQLMsvs",
+            "snippet": {
+                "publishedAt": "2025-04-03T00:59:06Z",
+                "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+                "title": "MILAN-INTER 1-1 | HIGHLIGHTS | SEMIFINALE | Coppa Italia Frecciarossa 2024/25",
+                "description": "Ancora tutto da giocare nella semifinale di ritorno; il vantaggio di Abraham viene annullato dal pareggio di Calhanoglu, che riporta in equilibrio il punteggio e rimanda la resa dei conti alla partita di ritorno | Coppa Italia Frecciarossa 2024/25\n\n#Highlights #MilanInter #CoppaItaliaFrecciarossa #HighlightsSerieA\n\nThis is the official channel for the Serie A, providing all the latest highlights, interviews, news and features to keep you up to date with all things Italian football.\nSubscribe to the channel here! https://bit.ly/SERIEA_YT\n \nFind out more about the Serie A at: http://www.legaseriea.it/en/ \n\nQuesto \u00e8 il canale ufficiale della Serie A, dove potrai avere accesso ai momenti salienti, alle interviste, alle notizie e alle funzionalit\u00e0 del momento per rimanere aggiornato sulle ultime novit\u00e0 del campionato.\nIscriviti qui al canale! https://bit.ly/SERIEA_YT\n\nPer maggiori informazioni sulla Serie A: http://www.legaseriea.it/it",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCGZYQLMsvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCGZYQLMsvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCGZYQLMsvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NCGZYQLMsvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NCGZYQLMsvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Serie A",
+                "tags": [
+                    "Serie A",
+                    "Dybala",
+                    "highlights",
+                    "Juventus",
+                    "AC Milan",
+                    "Inter Milan",
+                    "Napoli",
+                    "Roma",
+                    "goals",
+                    "full highlights",
+                    "watch",
+                    "partita",
+                    "migliori gol",
+                    "gol del mese",
+                    "calcio",
+                    "Italia",
+                    "lukaku",
+                    "Lazio",
+                    "highlights serie a",
+                    "highlights inter",
+                    "highlights juventus",
+                    "highlights milan",
+                    "highlights juve",
+                    "highlights roma",
+                    "lautaro",
+                    "lautaro martinez",
+                    "inter",
+                    "juventus",
+                    "juve",
+                    "liga italiana",
+                    "liga italia",
+                    "lega italiana",
+                    "lega italia",
+                    "milan-inter 1-1",
+                    "milan-inter higlhights",
+                    "abraham",
+                    "calhanoglu"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MILAN-INTER 1-1 | HIGHLIGHTS | SEMIFINALE | Coppa Italia Frecciarossa 2024/25",
+                    "description": "Ancora tutto da giocare nella semifinale di ritorno; il vantaggio di Abraham viene annullato dal pareggio di Calhanoglu, che riporta in equilibrio il punteggio e rimanda la resa dei conti alla partita di ritorno | Coppa Italia Frecciarossa 2024/25\n\n#Highlights #MilanInter #CoppaItaliaFrecciarossa #HighlightsSerieA\n\nThis is the official channel for the Serie A, providing all the latest highlights, interviews, news and features to keep you up to date with all things Italian football.\nSubscribe to the channel here! https://bit.ly/SERIEA_YT\n \nFind out more about the Serie A at: http://www.legaseriea.it/en/ \n\nQuesto \u00e8 il canale ufficiale della Serie A, dove potrai avere accesso ai momenti salienti, alle interviste, alle notizie e alle funzionalit\u00e0 del momento per rimanere aggiornato sulle ultime novit\u00e0 del campionato.\nIscriviti qui al canale! https://bit.ly/SERIEA_YT\n\nPer maggiori informazioni sulla Serie A: http://www.legaseriea.it/it"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "613175",
+                "likeCount": "6909",
+                "favoriteCount": "0",
+                "commentCount": "483"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "u0q6K52dySj-E_K4HBZR9aaxwgU",
+            "id": "4k2wdqbmiVU",
+            "snippet": {
+                "publishedAt": "2025-04-03T22:00:04Z",
+                "channelId": "UC_n1-vrXvWShS0FvG4blJuA",
+                "title": "Elodie - Mi Ami Mi Odi",
+                "description": "Ascolta ora \u201cMi Ami Mi Odi\u201d: https://island.lnk.to/MiAmiMiOdi \n\nMI AMI MI ODI, il nuovo album fuori il 2 maggio. Preordina ora: https://elodie.lnk.to/MIAMIMIODI \n\nThe Stadium Show, biglietti disponibili ora: http://bit.ly/TheStadiumShow25  \n\nScopri per primo le ultime news: https://www.elodieofficial.it\n \n\u25ba Segui Elodie\n \nhttps://www.instagram.com/elodie/\nhttps://www.tiktok.com/@elodie_official   \nhttps://www.facebook.com/elodiedipatrizi\nhttps://twitter.com/Elodiedipa\nhttps://spoti.fi/32EGmzE \n\n\n\u25ba Credits\n\nA Borotalco.tv Production\n\nDirected by: Attilio Cusani\nCreative Direction: Laccio\nManagement: Double Trouble Club\nConcept and Narrative Development: Laccioland Studio\nArt Direction: Matteo Bonacci for Laccioland Studio\nExecutive Producer: Matteo Stefani\nDop: Lorenzo Invernici\n1st AD: Matilde Composta\nProducer: Pier Francesco Cari \nProduction Supervisor: Andrea Vetralla\nProduction Coordinator: Fabiola Miccoli\n1st AC: Mattia Castiglia\nSteadicam Operator: Stefano Camaioni\nGaffer: Stefano Tonini\nElectrician: Marco De Luca\nSet designer: Andrea Sogliacchi\nScenography: Paola Spreafico\nChoreographer: Manuela Saccardi, Simone Rossari\nStylist Elodie: Giulia Cova\nAss. stylist Elodie: Simone Morelli, Caterina Piatti\nMake-up Artist Elodie: MrDaniel\nAss. Make-up Artist Elodie: Emanuele Fraboschi\nHair stylist Elodie: Andrea Soriga using @Lorealparisit\nAss. Hair stylist Elodie: Marzia Martis\nNail Artist: Letizia Scotelli\nStylist dancers: Anita Pompili\nAss. stylist dancers: Ester Di Lorenzo\nMake-up Artist & Hairstyling dancers: Emanuela Caricato\nAss. Make-up Artist & Hairstyling: Gaia Pensabene, Giuseppe Diguglielmo, Helena Collaviti\nDancers by Modulo Agency: Giulia Pelagatti, Franceska Nuredini, Anna Beat, Ginevra Festa, Mikaela Neaze Silva, Megan Ria, Martina Napoli, Camilla Esposito, Giada Lamantia, Lucie Capecchi, Marika Angelo, Rebecca Esposito, Sabrina d'Elia, Veronica Longhi\nRunner: Andrea Magni, Giorgia Bucci, Mirko Parrini, Lara Khanati, Vittoria Valletta, Simone Crippa\nPhotographer: Federico Terenzio\nBackstage: Martina Cavinato\nDIT: Giorgia Bartolotta\nEditor: Ilaria Fusco \nColorist: Giorgia Ripa\nPost Production Coordinator: Jacopo Tich\nAss. Post Production Coordinator: Giorgia Bartolotta\nAdmin: Agnese Incurvati, Caterina Brignoli\nThanks to: INNSCENA srl, Island Records Italia\n\n\n\u25ba Testo\n\nTi sento anche senza rumore\nBugie con un dolce sapore\nIn fondo a un milione di sere\n(Ti sento)\nSuonare, chiamare il mio nome\nSui tasti di un campionatore\nMa forse non voglio sapere\n(Adesso)\nSe in giro parlerai di me\nPoi di me\nPer farti notare solamente\nUomini parlano per me \nCome se mi leggessero la mente\nMa la mia vita non \u00e8 una premiere di Broadway\nTitoli che infamano per due soldi\nTu che riparo sei per me\nSotto la pioggia non mi dici niente\nNon capisco se\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia \nNon importava pi\u00f9 tanto \nSe poi a salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nCon te sono in paradiso\nMorendo per\u00f2 col sorriso\nLe braccia e le gambe leggere\n(In sogno)\nRagazze giocano con me in un hotel \nTutto molto divertente\nMa la mia vita non \u00e8 fatta per questa runway\nDici di me che faccio solo danni\nTu che riparo sei per me\nSe quando piove non ci sei \nPoi non capisco se \n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia\nNon importava pi\u00f9 tanto \nSe poi a salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia \nNon \u00e8 importante tanto se poi \nA salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nMusic video by Elodie performing Mi Ami Mi Odi.\u00a9 2025 Double Trouble Club Srl, under exclusive license to Universal Music Italia Srl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4k2wdqbmiVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4k2wdqbmiVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4k2wdqbmiVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4k2wdqbmiVU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4k2wdqbmiVU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ElodieVEVO",
+                "tags": [
+                    "Elodie",
+                    "Universal Music Italia srL.",
+                    "Pop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Elodie - Mi Ami Mi Odi",
+                    "description": "Ascolta ora \u201cMi Ami Mi Odi\u201d: https://island.lnk.to/MiAmiMiOdi \n\nMI AMI MI ODI, il nuovo album fuori il 2 maggio. Preordina ora: https://elodie.lnk.to/MIAMIMIODI \n\nThe Stadium Show, biglietti disponibili ora: http://bit.ly/TheStadiumShow25  \n\nScopri per primo le ultime news: https://www.elodieofficial.it\n \n\u25ba Segui Elodie\n \nhttps://www.instagram.com/elodie/\nhttps://www.tiktok.com/@elodie_official   \nhttps://www.facebook.com/elodiedipatrizi\nhttps://twitter.com/Elodiedipa\nhttps://spoti.fi/32EGmzE \n\n\n\u25ba Credits\n\nA Borotalco.tv Production\n\nDirected by: Attilio Cusani\nCreative Direction: Laccio\nManagement: Double Trouble Club\nConcept and Narrative Development: Laccioland Studio\nArt Direction: Matteo Bonacci for Laccioland Studio\nExecutive Producer: Matteo Stefani\nDop: Lorenzo Invernici\n1st AD: Matilde Composta\nProducer: Pier Francesco Cari \nProduction Supervisor: Andrea Vetralla\nProduction Coordinator: Fabiola Miccoli\n1st AC: Mattia Castiglia\nSteadicam Operator: Stefano Camaioni\nGaffer: Stefano Tonini\nElectrician: Marco De Luca\nSet designer: Andrea Sogliacchi\nScenography: Paola Spreafico\nChoreographer: Manuela Saccardi, Simone Rossari\nStylist Elodie: Giulia Cova\nAss. stylist Elodie: Simone Morelli, Caterina Piatti\nMake-up Artist Elodie: MrDaniel\nAss. Make-up Artist Elodie: Emanuele Fraboschi\nHair stylist Elodie: Andrea Soriga using @Lorealparisit\nAss. Hair stylist Elodie: Marzia Martis\nNail Artist: Letizia Scotelli\nStylist dancers: Anita Pompili\nAss. stylist dancers: Ester Di Lorenzo\nMake-up Artist & Hairstyling dancers: Emanuela Caricato\nAss. Make-up Artist & Hairstyling: Gaia Pensabene, Giuseppe Diguglielmo, Helena Collaviti\nDancers by Modulo Agency: Giulia Pelagatti, Franceska Nuredini, Anna Beat, Ginevra Festa, Mikaela Neaze Silva, Megan Ria, Martina Napoli, Camilla Esposito, Giada Lamantia, Lucie Capecchi, Marika Angelo, Rebecca Esposito, Sabrina d'Elia, Veronica Longhi\nRunner: Andrea Magni, Giorgia Bucci, Mirko Parrini, Lara Khanati, Vittoria Valletta, Simone Crippa\nPhotographer: Federico Terenzio\nBackstage: Martina Cavinato\nDIT: Giorgia Bartolotta\nEditor: Ilaria Fusco \nColorist: Giorgia Ripa\nPost Production Coordinator: Jacopo Tich\nAss. Post Production Coordinator: Giorgia Bartolotta\nAdmin: Agnese Incurvati, Caterina Brignoli\nThanks to: INNSCENA srl, Island Records Italia\n\n\n\u25ba Testo\n\nTi sento anche senza rumore\nBugie con un dolce sapore\nIn fondo a un milione di sere\n(Ti sento)\nSuonare, chiamare il mio nome\nSui tasti di un campionatore\nMa forse non voglio sapere\n(Adesso)\nSe in giro parlerai di me\nPoi di me\nPer farti notare solamente\nUomini parlano per me \nCome se mi leggessero la mente\nMa la mia vita non \u00e8 una premiere di Broadway\nTitoli che infamano per due soldi\nTu che riparo sei per me\nSotto la pioggia non mi dici niente\nNon capisco se\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia \nNon importava pi\u00f9 tanto \nSe poi a salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nCon te sono in paradiso\nMorendo per\u00f2 col sorriso\nLe braccia e le gambe leggere\n(In sogno)\nRagazze giocano con me in un hotel \nTutto molto divertente\nMa la mia vita non \u00e8 fatta per questa runway\nDici di me che faccio solo danni\nTu che riparo sei per me\nSe quando piove non ci sei \nPoi non capisco se \n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia\nNon importava pi\u00f9 tanto \nSe poi a salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nBaby move your body body\nMi ami o mi odi \nSpengo queste voci \nMentre faccio vogueing vogueing \nNei tuoi occhi fuochi vedo fuochi\n\nVolavo via \nSopra un cavallo bianco \nE tu no nella notte non c\u2019eri pi\u00f9\nMia solo mia \nNon \u00e8 importante tanto se poi \nA salvarmi non sarai tu\n\nMi ami mi odi \nMentre un\u2019altra notte brilla sul mio body body \nNei tuoi occhi fuochi vedo fuochi \n\nMusic video by Elodie performing Mi Ami Mi Odi.\u00a9 2025 Double Trouble Club Srl, under exclusive license to Universal Music Italia Srl"
+                }
+            },
+            "statistics": {
+                "viewCount": "389886",
+                "likeCount": "14997",
+                "favoriteCount": "0",
+                "commentCount": "3718"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KrQnf4WDdqbMcRG1SOAygA67I9M",
+            "id": "AejlcZ_5aOw",
+            "snippet": {
+                "publishedAt": "2025-04-06T08:00:13Z",
+                "channelId": "UCSz1RpLRi0C1iBFhrh-WcIg",
+                "title": "Sigma Girl Training \ud83d\udc80",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AejlcZ_5aOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AejlcZ_5aOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AejlcZ_5aOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AejlcZ_5aOw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AejlcZ_5aOw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Karina ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Sigma Girl Training \ud83d\udc80",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3044530",
+                "likeCount": "54155",
+                "favoriteCount": "0",
+                "commentCount": "187"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oR-OlWBfOwM2KCDwut0_Fhc481M",
+            "id": "zWfW5M9-WwA",
+            "snippet": {
+                "publishedAt": "2025-04-02T07:16:10Z",
+                "channelId": "UCblfuW_4rakIf2h6aqANefA",
+                "title": "No Room For Error \ud83e\udee3",
+                "description": "Downhill mountain bike riders at Red Bull Cerro Abajo showcase how tight the streets are that they have to cycle through: Rob Warner, Tomas Slavik, Pedro Burns, Thibault Laly, Adrien Loron & Lucas Borba",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zWfW5M9-WwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zWfW5M9-WwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zWfW5M9-WwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zWfW5M9-WwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zWfW5M9-WwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull",
+                "tags": [
+                    "red bull",
+                    "redbull",
+                    "action sports",
+                    "extreme sports",
+                    "sport videos",
+                    "action",
+                    "sport"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "No Room For Error \ud83e\udee3",
+                    "description": "Downhill mountain bike riders at Red Bull Cerro Abajo showcase how tight the streets are that they have to cycle through: Rob Warner, Tomas Slavik, Pedro Burns, Thibault Laly, Adrien Loron & Lucas Borba"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "30207581",
+                "likeCount": "1295877",
+                "favoriteCount": "0",
+                "commentCount": "1634"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s4Be-fzo344F-XZmwXwLM_LSOzE",
+            "id": "XkPL-HWZsU0",
+            "snippet": {
+                "publishedAt": "2025-04-03T14:08:41Z",
+                "channelId": "UCo12cddT8dHZNhAgpym7Kow",
+                "title": "SPEED CHALLENGE VS 3 POPULAR SUPER HEROES | WHO WINS?\ud83d\udca8\ud83d\ude31 #challenge #superhero #foryou #running",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XkPL-HWZsU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XkPL-HWZsU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XkPL-HWZsU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XkPL-HWZsU0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XkPL-HWZsU0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Maks Junior ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SPEED CHALLENGE VS 3 POPULAR SUPER HEROES | WHO WINS?\ud83d\udca8\ud83d\ude31 #challenge #superhero #foryou #running",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "10442290",
+                "likeCount": "178981",
+                "favoriteCount": "0",
+                "commentCount": "149"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4JQFBbxfJbSEj1jrz0b5UlE4qV0",
+            "id": "mszgPAop13E",
+            "snippet": {
+                "publishedAt": "2025-04-04T17:30:08Z",
+                "channelId": "UCoV3-0I1wLIZqJyxXPlqx8Q",
+                "title": "I ATE A BROCCOLI \ud83d\ude31 #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mszgPAop13E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mszgPAop13E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mszgPAop13E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mszgPAop13E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mszgPAop13E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Savage Vlogs",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I ATE A BROCCOLI \ud83d\ude31 #shorts",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "6463080",
+                "likeCount": "343720",
+                "favoriteCount": "0",
+                "commentCount": "212"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ecmJxv5mA4k784GWv0pWC2oLLOE",
+            "id": "5zvqb4HY1Jw",
+            "snippet": {
+                "publishedAt": "2025-04-04T10:10:29Z",
+                "channelId": "UCH-y44M0pvwaZx2rTq0rJoQ",
+                "title": "Il trucchetto della polizia scientifica",
+                "description": "E voi lo sapevate?\nRealizzato al Museo della Chimica di Torino",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5zvqb4HY1Jw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5zvqb4HY1Jw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5zvqb4HY1Jw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5zvqb4HY1Jw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5zvqb4HY1Jw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Barbascura X",
+                "tags": [
+                    "Barbascura",
+                    "Laboratorio",
+                    "esperimento",
+                    "polizia scientifica",
+                    "luminol",
+                    "lominolo",
+                    "macchie di",
+                    "macchie organiche",
+                    "tracce",
+                    "chimica",
+                    "esperimento chimico"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Il trucchetto della polizia scientifica",
+                    "description": "E voi lo sapevate?\nRealizzato al Museo della Chimica di Torino"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "180450",
+                "likeCount": "14413",
+                "favoriteCount": "0",
+                "commentCount": "287"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tknlFJiFX9RgF0c4j2OjghVucWY",
+            "id": "-sryGTugyT0",
+            "snippet": {
+                "publishedAt": "2025-04-06T09:25:35Z",
+                "channelId": "UCXFTM8nzwKcJ1wJsaVws8KQ",
+                "title": "PER FAVORE NON PANICARE...",
+                "description": "\u25cf\u2501\u2501\u2501\u24b9 \u24ba \u24c8 \u24b8 \u24c7 \u24be \u24cf \u24be \u24c4 \u24c3 \u24ba\u2501\u2501\u2501\u25cf\n\ud83d\udcd5 Acquista il mio Libro \"Otello e la magia dei videogiochi: https://amzn.to/420uqJe\n\ud83d\uded2 Per qualsiasi acquisto che fai su Amazon usa pure il mio referal Link per supportarmi! Grazie in anticipo\u2764\ufe0f: https://amzn.to/4gGEDie\n\u2705 Codice ERDTYT nello shop di Fortnite\n\ud83d\udcf8 Seguimi su Instagram \u279c  http://bit.ly/erdt_official\n\ud83d\udcf9 Seguimi su Tik Tok \u279c https://www.tiktok.com/@erdt_official?_t=8h8YudlGuRd&_r=1\n\u26a1 Per ABBONARTI al canale \u279c https://www.youtube.com/channel/UCXFTM8nzwKcJ1wJsaVws8KQ/join\n\nGrazie di tutto! \u2764\n\n#codiceERDTYT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-sryGTugyT0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-sryGTugyT0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-sryGTugyT0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-sryGTugyT0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-sryGTugyT0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Er DT",
+                "tags": [
+                    "Fortnite",
+                    "Gameplay",
+                    "ErDT",
+                    "Live",
+                    "Record",
+                    "kill",
+                    "Ninja",
+                    "ITA",
+                    "The",
+                    "Towers",
+                    "idolcidielisa",
+                    "canale ragazza erdt"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PER FAVORE NON PANICARE...",
+                    "description": "\u25cf\u2501\u2501\u2501\u24b9 \u24ba \u24c8 \u24b8 \u24c7 \u24be \u24cf \u24be \u24c4 \u24c3 \u24ba\u2501\u2501\u2501\u25cf\n\ud83d\udcd5 Acquista il mio Libro \"Otello e la magia dei videogiochi: https://amzn.to/420uqJe\n\ud83d\uded2 Per qualsiasi acquisto che fai su Amazon usa pure il mio referal Link per supportarmi! Grazie in anticipo\u2764\ufe0f: https://amzn.to/4gGEDie\n\u2705 Codice ERDTYT nello shop di Fortnite\n\ud83d\udcf8 Seguimi su Instagram \u279c  http://bit.ly/erdt_official\n\ud83d\udcf9 Seguimi su Tik Tok \u279c https://www.tiktok.com/@erdt_official?_t=8h8YudlGuRd&_r=1\n\u26a1 Per ABBONARTI al canale \u279c https://www.youtube.com/channel/UCXFTM8nzwKcJ1wJsaVws8KQ/join\n\nGrazie di tutto! \u2764\n\n#codiceERDTYT"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "93011",
+                "likeCount": "4885",
+                "favoriteCount": "0",
+                "commentCount": "16"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fWFaY_qOIyMSMR4CPwEH-FehJMk",
+            "id": "R9UDibFXEJA",
+            "snippet": {
+                "publishedAt": "2025-04-01T13:00:37Z",
+                "channelId": "UC1609SuKJy7fkv3kS8rzcvw",
+                "title": "\u0646\u0638\u0641 \u0623\u064a \u0634\u064a\u0621 \u0641\u064a \u062b\u0648\u0627\u0646\u064d \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u062d\u064a\u0644\u0629!",
+                "description": "\u062a\u0627\u0628\u0639\u0648\u0646\u0627 \u0639\u0644\u0649 \u0625\u0646\u0633\u062a\u063a\u0631\u0627\u0645: https://www.instagram.com/brave.gals\r\n\r\n#\u0633\u064a\u0627\u062d\u0629 #\u062d\u064a\u0644 #\u0627\u0639\u0645\u0627\u0644_\u064a\u062f\u0648\u064a\u0629 #\u0645\u0647\u0627\u0631\u0627\u062a #\u0628\u0642\u0627\u0621 #\u0647\u0648\u0627\u0621_\u0637\u0644\u0642 #\u062a\u062e\u064a\u064a\u0645  \r\n\u0633\u064a\u0627\u062d\u0629 \u062d\u064a\u0644 \u0627\u0639\u0645\u0627\u0644_\u064a\u062f\u0648\u064a\u0629 \u0645\u0647\u0627\u0631\u0627\u062a \u0628\u0642\u0627\u0621 \u0647\u0648\u0627\u0621_\u0637\u0644\u0642 \u062a\u062e\u064a\u064a\u0645\r\n\r\n\u0642\u062f \u064a\u062a\u0636\u0645\u0646 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u062a\u0627\u0644\u064a \u0646\u0634\u0627\u0637\u064b\u0627 \u064a\u062a\u0645 \u0623\u062f\u0627\u0624\u0647 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0645\u062b\u0644\u064a\u0646\u0627 \u0641\u064a \u0628\u064a\u0626\u0629 \u0645\u062d\u0643\u0648\u0645\u0629 - \u064a\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u0630\u0631 \u0648\u0627\u062a\u0628\u0627\u0639 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0637\u0627\u062a \u0625\u0630\u0627 \u0643\u0646\u062a\u0645 \u062a\u062e\u0637\u0637\u0648\u0646 \u0644\u062a\u0642\u0644\u064a\u062f \u0627\u0644\u0646\u0634\u0627\u0637.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R9UDibFXEJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R9UDibFXEJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R9UDibFXEJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R9UDibFXEJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R9UDibFXEJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u0641\u062a\u0627\u0629 \u062c\u0645\u064a\u0644\u0629 \u0641\u064a \u0627\u0644\u0628\u0631\u064a\u0629",
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u0646\u0638\u0641 \u0623\u064a \u0634\u064a\u0621 \u0641\u064a \u062b\u0648\u0627\u0646\u064d \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u062d\u064a\u0644\u0629!",
+                    "description": "\u062a\u0627\u0628\u0639\u0648\u0646\u0627 \u0639\u0644\u0649 \u0625\u0646\u0633\u062a\u063a\u0631\u0627\u0645: https://www.instagram.com/brave.gals\r\n\r\n#\u0633\u064a\u0627\u062d\u0629 #\u062d\u064a\u0644 #\u0627\u0639\u0645\u0627\u0644_\u064a\u062f\u0648\u064a\u0629 #\u0645\u0647\u0627\u0631\u0627\u062a #\u0628\u0642\u0627\u0621 #\u0647\u0648\u0627\u0621_\u0637\u0644\u0642 #\u062a\u062e\u064a\u064a\u0645  \r\n\u0633\u064a\u0627\u062d\u0629 \u062d\u064a\u0644 \u0627\u0639\u0645\u0627\u0644_\u064a\u062f\u0648\u064a\u0629 \u0645\u0647\u0627\u0631\u0627\u062a \u0628\u0642\u0627\u0621 \u0647\u0648\u0627\u0621_\u0637\u0644\u0642 \u062a\u062e\u064a\u064a\u0645\r\n\r\n\u0642\u062f \u064a\u062a\u0636\u0645\u0646 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u062a\u0627\u0644\u064a \u0646\u0634\u0627\u0637\u064b\u0627 \u064a\u062a\u0645 \u0623\u062f\u0627\u0624\u0647 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0645\u062b\u0644\u064a\u0646\u0627 \u0641\u064a \u0628\u064a\u0626\u0629 \u0645\u062d\u0643\u0648\u0645\u0629 - \u064a\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u0630\u0631 \u0648\u0627\u062a\u0628\u0627\u0639 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0637\u0627\u062a \u0625\u0630\u0627 \u0643\u0646\u062a\u0645 \u062a\u062e\u0637\u0637\u0648\u0646 \u0644\u062a\u0642\u0644\u064a\u062f \u0627\u0644\u0646\u0634\u0627\u0637."
+                }
+            },
+            "statistics": {
+                "viewCount": "6454106",
+                "likeCount": "48785",
+                "favoriteCount": "0",
+                "commentCount": "133"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CYRCZf2i9KBCplAb1Nk05388tlQ",
+            "id": "b92CvgEa6PQ",
+            "snippet": {
+                "publishedAt": "2025-03-31T12:53:53Z",
+                "channelId": "UCb9A6uotqUiuVCvVp4GMqOg",
+                "title": "This I gotta see!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b92CvgEa6PQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b92CvgEa6PQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b92CvgEa6PQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b92CvgEa6PQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b92CvgEa6PQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Justin Flom",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "This I gotta see!",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "29397554",
+                "likeCount": "945857",
+                "favoriteCount": "0",
+                "commentCount": "1806"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_4gOm6OkggvaT6Am6HcgfC2ZkLE",
+            "id": "y-gbAm7vWSU",
+            "snippet": {
+                "publishedAt": "2025-04-02T14:03:40Z",
+                "channelId": "UCNpoa7FC_9QLyDeFTytTrFg",
+                "title": "Trucco di magia con le monete: Impara a farlo!  #jacknobile #magia #tutorialmagia",
+                "description": "Trucco di magia con le monete: Impara a farlo!\n\n#jacknobile #magia #tutorialmagia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y-gbAm7vWSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y-gbAm7vWSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y-gbAm7vWSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y-gbAm7vWSU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y-gbAm7vWSU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jack Nobile",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Trucco di magia con le monete: Impara a farlo!  #jacknobile #magia #tutorialmagia",
+                    "description": "Trucco di magia con le monete: Impara a farlo!\n\n#jacknobile #magia #tutorialmagia"
+                }
+            },
+            "statistics": {
+                "viewCount": "380563",
+                "likeCount": "20081",
+                "favoriteCount": "0",
+                "commentCount": "50"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "T-sUFk1ToXFD5P2tNW0XFvNV3Mw",
+            "id": "WtP4KEokP4o",
+            "snippet": {
+                "publishedAt": "2025-04-01T17:03:37Z",
+                "channelId": "UCQFw803mpk_UHcgIdf1wcOA",
+                "title": "Can you relate?\ud83e\udd23\u200b\u2060@isabellaafro",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WtP4KEokP4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WtP4KEokP4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WtP4KEokP4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WtP4KEokP4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WtP4KEokP4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jaymondy",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Can you relate?\ud83e\udd23\u200b\u2060@isabellaafro",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "26026225",
+                "likeCount": "646745",
+                "favoriteCount": "0",
+                "commentCount": "1044"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dSdkQGbCI8DJ-H4O7GUm5u9wAWs",
+            "id": "Z93bWR7F9YQ",
+            "snippet": {
+                "publishedAt": "2025-04-04T16:10:51Z",
+                "channelId": "UCKX8qlNu2v4m0bCkhd7jicA",
+                "title": "#hairtheory",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z93bWR7F9YQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z93bWR7F9YQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z93bWR7F9YQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z93bWR7F9YQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z93bWR7F9YQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Haley Kalil",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "#hairtheory",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "5344682",
+                "likeCount": "369522",
+                "favoriteCount": "0",
+                "commentCount": "888"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0PBNkCGf-VZqYk5fLwg2lOrN51U",
+            "id": "gbI4bp2a_yk",
+            "snippet": {
+                "publishedAt": "2025-04-02T15:01:02Z",
+                "channelId": "UCHwpDpLoyJgtFXoAaaSut4Q",
+                "title": "Italians try GELATO HACK @chefkoudy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gbI4bp2a_yk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gbI4bp2a_yk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gbI4bp2a_yk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gbI4bp2a_yk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gbI4bp2a_yk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lionfield",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Italians try GELATO HACK @chefkoudy",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "45685078",
+                "likeCount": "1595994",
+                "favoriteCount": "0",
+                "commentCount": "4231"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tuHjER8MNaDWaiv9Kch6mTGdG-Q",
+            "id": "NEplvfJ_gR0",
+            "snippet": {
+                "publishedAt": "2025-04-05T12:00:29Z",
+                "channelId": "UCQQo9hHxHi8gzfFuJSn5-kg",
+                "title": "NOMI COSE CITT\u00c0 IMBARAZZANTE - Abbiamo dato il PEGGIO di NOI ! | Awed, Riccardo Dose e Dadda",
+                "description": "Anche in questo video di nome, cose e citt\u00e0 abbiamo dato il peggio di noi stessi e visti i precedenti episodi era difficile!\n\nACQUISTA I BIGLIETTI PER LA SECONDA STAGIONE 2024/2025 | NUOVE DATE DI ESPERIENZE D.M. DAL VIVO A TEATRO: https://linktr.ee/esperienzed.m.teatro\n\n\nInstagram Awed: https://www.instagram.com/awed__/\nPer info&commerciale: awed@doom-entertainment.com\n\nEditing video a cura di: https://www.instagram.com/rilievii/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NEplvfJ_gR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NEplvfJ_gR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NEplvfJ_gR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NEplvfJ_gR0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NEplvfJ_gR0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Awed \u2122",
+                "tags": [
+                    "nomi cose citt\u00e0",
+                    "awed",
+                    "dose",
+                    "dadda",
+                    "nomi cose citt\u00e0 imbarazzante",
+                    "riccardo dose",
+                    "esperienze dm",
+                    "nomi cose e citt\u00e0",
+                    "awed ricky dadda",
+                    "awed riccardo dose Daniel d'addetta",
+                    "awed challenge",
+                    "dose dadda awed challenge",
+                    "nomi cose e citt\u00e0 challenge",
+                    "awed nomi cose e citt\u00e0",
+                    "dose nomi cose e citt\u00e0",
+                    "nomi cose e citt\u00e0 sfida",
+                    "sfida nomi cose e citt\u00e0"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NOMI COSE CITT\u00c0 IMBARAZZANTE - Abbiamo dato il PEGGIO di NOI ! | Awed, Riccardo Dose e Dadda",
+                    "description": "Anche in questo video di nome, cose e citt\u00e0 abbiamo dato il peggio di noi stessi e visti i precedenti episodi era difficile!\n\nACQUISTA I BIGLIETTI PER LA SECONDA STAGIONE 2024/2025 | NUOVE DATE DI ESPERIENZE D.M. DAL VIVO A TEATRO: https://linktr.ee/esperienzed.m.teatro\n\n\nInstagram Awed: https://www.instagram.com/awed__/\nPer info&commerciale: awed@doom-entertainment.com\n\nEditing video a cura di: https://www.instagram.com/rilievii/"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "177725",
+                "likeCount": "16259",
+                "favoriteCount": "0",
+                "commentCount": "159"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7r-jV3BL5FioXHDBHVSwmiQppLI",
+            "id": "16QR8Mqfigo",
+            "snippet": {
+                "publishedAt": "2025-03-31T18:00:01Z",
+                "channelId": "UCP80oBy1GTL1Jizh6Ay8fbQ",
+                "title": "Ho battuto il Record di Tamberi!?",
+                "description": "Nello scorso video dai vostri commenti \u00e8 emerso questo.\nHo battuto il Record di Tamberi!?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/16QR8Mqfigo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/16QR8Mqfigo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/16QR8Mqfigo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/16QR8Mqfigo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/16QR8Mqfigo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Diego Crescenzi",
+                "tags": [
+                    "Diego",
+                    "Crescenzi",
+                    "bici",
+                    "bike",
+                    "trial",
+                    "Campione",
+                    "europeo",
+                    "Trials",
+                    "World",
+                    "Cup",
+                    "Italiano",
+                    "campionato",
+                    "italiano",
+                    "Italia",
+                    "Rieti",
+                    "Fabio",
+                    "impennata",
+                    "pazzo",
+                    "uci",
+                    "trials",
+                    "rieti",
+                    "coppa italia",
+                    "torquato testa",
+                    "ivop",
+                    "rieti bike park",
+                    "clean trials",
+                    "bici trial",
+                    "sport estremi",
+                    "sport pericolosi",
+                    "video Diego Crescenzi",
+                    "Ivop26",
+                    "dirt",
+                    "diego",
+                    "video diego",
+                    "crescenzi",
+                    "crescienzi",
+                    "crescenti",
+                    "toto",
+                    "testa",
+                    "torquato",
+                    "Ho battuto il Record di Tamberi!?",
+                    "battuto",
+                    "record",
+                    "temberi",
+                    "ho",
+                    "il",
+                    "salto",
+                    "alto",
+                    "da",
+                    "fermo",
+                    "in",
+                    "sanremo",
+                    "bmw",
+                    "gamberi",
+                    "gianmarco"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ho battuto il Record di Tamberi!?",
+                    "description": "Nello scorso video dai vostri commenti \u00e8 emerso questo.\nHo battuto il Record di Tamberi!?"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "1020602",
+                "favoriteCount": "0",
+                "commentCount": "71"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Sx8EVZ7JixxmQf3QUZAsfFmxENM",
+            "id": "4cFEo_7S0zE",
+            "snippet": {
+                "publishedAt": "2025-03-31T07:00:02Z",
+                "channelId": "UC2DjdunCHJh-0LIZBByldBg",
+                "title": "Line up properly [TRUONG BLACK]#Truongblack #kindness #respect #help #happy #humanity",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4cFEo_7S0zE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4cFEo_7S0zE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4cFEo_7S0zE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4cFEo_7S0zE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4cFEo_7S0zE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRUONG BLACK OFFICIAL",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Line up properly [TRUONG BLACK]#Truongblack #kindness #respect #help #happy #humanity",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "8038643",
+                "likeCount": "55111",
+                "favoriteCount": "0",
+                "commentCount": "95"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JlIVtDlH3lZfZOq-6zAGR7qTX4k",
+            "id": "cE2F0DQGlc0",
+            "snippet": {
+                "publishedAt": "2025-03-30T16:00:44Z",
+                "channelId": "UCzvNS7L5Lr4Em9fxlBRNQ-w",
+                "title": "Prepared father anticipates baby\u2019s next move",
+                "description": "Dad instincts: 10/10 \ud83c\udfc6\n\nPrepared father puts cot next to the couch in anticipation baby would roll off.\n\n#cute #shorts #baby #father #instincts #rolls #couch #funny",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cE2F0DQGlc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cE2F0DQGlc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cE2F0DQGlc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cE2F0DQGlc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cE2F0DQGlc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Daily Mail Cute",
+                "tags": [
+                    "cute",
+                    "cute videos",
+                    "cute daily mail",
+                    "funny",
+                    "adorable",
+                    "good news",
+                    "happy",
+                    "feel good",
+                    "short",
+                    "shorts",
+                    "short video",
+                    "daily mail shorts video",
+                    "daily mail shorts",
+                    "baby",
+                    "dad",
+                    "dad instincts",
+                    "baby rolls off couch"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Prepared father anticipates baby\u2019s next move",
+                    "description": "Dad instincts: 10/10 \ud83c\udfc6\n\nPrepared father puts cot next to the couch in anticipation baby would roll off.\n\n#cute #shorts #baby #father #instincts #rolls #couch #funny"
+                }
+            },
+            "statistics": {
+                "viewCount": "36401014",
+                "likeCount": "1863462",
+                "favoriteCount": "0",
+                "commentCount": "5374"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sXsDQ7Hsem9xZGEQ6E7S7iGe-SQ",
+            "id": "07HK758kLqM",
+            "snippet": {
+                "publishedAt": "2025-03-29T10:00:02Z",
+                "channelId": "UCuWfXBZhV8xXRR0icEdymvQ",
+                "title": "Solo un beb\u00e9 lindo \ud83d\udc7c\ud83c\udffb",
+                "description": "#shorts #youtubeshortvideo #5mcshorts #diy\r\nSuscr\u00edbete a IDEAS EN 5 MINUTOS SHORTS: https://clck.ru/awYJc\r\n\r\nEste video est\u00e1 hecho con fines de entretenimiento. No ofrecemos ninguna garant\u00eda sobre la integridad, seguridad y confiabilidad. Cualquier acci\u00f3n que tome sobre la informaci\u00f3n de este video es estrictamente bajo su propio riesgo, y no seremos responsables de ning\u00fan da\u00f1o o p\u00e9rdida. Es responsabilidad del espectador usar su juicio, cuidado y precauciones si se planea reproducir. El siguiente video puede presentar la actividad realizada por nuestros actores dentro de un ambiente controlado; use el juicio, el cuidado y la precauci\u00f3n si planea replicar. Todos los nombres de productos y empresas que se muestran en el video son marcas comerciales \u2122\ufe0f \ufe0f o marcas comerciales registradas \u00ae\ufe0f de sus respectivos propietarios. El uso de ellos no implica ninguna afiliaci\u00f3n o respaldo por parte de ellos.\r\n --------------------------------------------------\r\n --------------------------------------------------\r\n\r\nSuscr\u00edbete a Ideas en 5 minutos CHICAS: https://clck.ru/ayrFn\r\nSuscr\u00edbase a Ideas en 5 minutos JUEGOS: https://clck.ru/ayrpf\r\nSuscr\u00edbase a REPARACI\u00d3N EN 5 MINUTOS: https://clck.ru/aysML\r\nGENIAL de Youtube: https://clck.ru/ayt3b\r\n\r\n --------------------------------------------------\r\n --------------------------------------------------\r\nPara obtener m\u00e1s videos y art\u00edculos, visite: http://www.brightside.me\r\nM\u00fasica de Epidemic Sound: https://www.epidemicsound.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07HK758kLqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07HK758kLqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07HK758kLqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07HK758kLqM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07HK758kLqM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IDEAS EN 5 MINUTOS SHORTS",
+                "tags": [
+                    "5mcshorts",
+                    "belleza",
+                    "creaciones",
+                    "diy",
+                    "ideas en 5 minutos shorts",
+                    "manualidades",
+                    "maquillaje",
+                    "shorts",
+                    "trucos",
+                    "tutoriales",
+                    "youtubeshortvideo"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Solo un beb\u00e9 lindo \ud83d\udc7c\ud83c\udffb",
+                    "description": "#shorts #youtubeshortvideo #5mcshorts #diy\r\nSuscr\u00edbete a IDEAS EN 5 MINUTOS SHORTS: https://clck.ru/awYJc\r\n\r\nEste video est\u00e1 hecho con fines de entretenimiento. No ofrecemos ninguna garant\u00eda sobre la integridad, seguridad y confiabilidad. Cualquier acci\u00f3n que tome sobre la informaci\u00f3n de este video es estrictamente bajo su propio riesgo, y no seremos responsables de ning\u00fan da\u00f1o o p\u00e9rdida. Es responsabilidad del espectador usar su juicio, cuidado y precauciones si se planea reproducir. El siguiente video puede presentar la actividad realizada por nuestros actores dentro de un ambiente controlado; use el juicio, el cuidado y la precauci\u00f3n si planea replicar. Todos los nombres de productos y empresas que se muestran en el video son marcas comerciales \u2122\ufe0f \ufe0f o marcas comerciales registradas \u00ae\ufe0f de sus respectivos propietarios. El uso de ellos no implica ninguna afiliaci\u00f3n o respaldo por parte de ellos.\r\n --------------------------------------------------\r\n --------------------------------------------------\r\n\r\nSuscr\u00edbete a Ideas en 5 minutos CHICAS: https://clck.ru/ayrFn\r\nSuscr\u00edbase a Ideas en 5 minutos JUEGOS: https://clck.ru/ayrpf\r\nSuscr\u00edbase a REPARACI\u00d3N EN 5 MINUTOS: https://clck.ru/aysML\r\nGENIAL de Youtube: https://clck.ru/ayt3b\r\n\r\n --------------------------------------------------\r\n --------------------------------------------------\r\nPara obtener m\u00e1s videos y art\u00edculos, visite: http://www.brightside.me\r\nM\u00fasica de Epidemic Sound: https://www.epidemicsound.com/"
+                }
+            },
+            "statistics": {
+                "viewCount": "1772849",
+                "likeCount": "17653",
+                "favoriteCount": "0",
+                "commentCount": "78"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "I6GBievxrCgQ4jsy-r-RLZ4grtk",
+            "id": "zqIkv25gWkk",
+            "snippet": {
+                "publishedAt": "2025-04-04T12:31:00Z",
+                "channelId": "UCrN58pZRf6zBFGEj2m7Pruw",
+                "title": "Ecco COSA TI ACCADREBBE con un BUCO NERO nel PORTAFOGLIO! - Edonikko",
+                "description": "Ciao Frankie!\n\nLa domanda di oggi \u00e8 la seguente:\nCosa ti accadrebbe se avessi un BUCO NERO nel PORTAFOGLIO? \nLe opzioni sono varie e fidati...ti stupiranno!\ud83d\udca5\n\nTi \u00e8 piaciuto questo video? Ti consiglio allora di iscriverti al canale e di attivare la campanellina delle notifiche (oh quella fa magie, prova).\n\n\n\u25c6 Profilo INSTAGRAM: \nhttps://www.instagram.com/edonikko/\n\n\u25c6 Profilo sul sito VIOLA:\nhttps://www.twitch.tv/edonikko\n\n\u25c6 Profilo TIKTOK: https://vm.tiktok.com/ZMe6Mp2xJ/ \n\n#Shorts #edonikko",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zqIkv25gWkk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zqIkv25gWkk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zqIkv25gWkk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zqIkv25gWkk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zqIkv25gWkk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Edonikko",
+                "tags": [
+                    "ecco cosa ti accadrebbe se avessi un buco nero nel portafoglio",
+                    "buco nero nel portafoglio",
+                    "buco nero",
+                    "portafoglio",
+                    "buco nero monetina",
+                    "buco nero nelle tasche",
+                    "curiosit\u00e0",
+                    "cosa accadrebbe",
+                    "edonikko curiosit\u00e0",
+                    "edonikko",
+                    "YouTube shorts beta",
+                    "YouTube shorts",
+                    "shorts",
+                    "spazio"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ecco COSA TI ACCADREBBE con un BUCO NERO nel PORTAFOGLIO! - Edonikko",
+                    "description": "Ciao Frankie!\n\nLa domanda di oggi \u00e8 la seguente:\nCosa ti accadrebbe se avessi un BUCO NERO nel PORTAFOGLIO? \nLe opzioni sono varie e fidati...ti stupiranno!\ud83d\udca5\n\nTi \u00e8 piaciuto questo video? Ti consiglio allora di iscriverti al canale e di attivare la campanellina delle notifiche (oh quella fa magie, prova).\n\n\n\u25c6 Profilo INSTAGRAM: \nhttps://www.instagram.com/edonikko/\n\n\u25c6 Profilo sul sito VIOLA:\nhttps://www.twitch.tv/edonikko\n\n\u25c6 Profilo TIKTOK: https://vm.tiktok.com/ZMe6Mp2xJ/ \n\n#Shorts #edonikko"
+                },
+                "defaultAudioLanguage": "it"
+            },
+            "statistics": {
+                "viewCount": "140333",
+                "likeCount": "15691",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 94,
+        "resultsPerPage": 50
+    }
+}
