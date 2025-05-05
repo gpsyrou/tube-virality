@@ -1,0 +1,3114 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BdqbR0JzPGYEuuMCA9qYKroZAT4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jrcIYeuQ3u9SV6DpexD8rlSzKrg",
+            "id": "tMWf59wZ3Lw",
+            "snippet": {
+                "publishedAt": "2025-05-03T14:30:23Z",
+                "channelId": "UCFh9FMthzDBRprcAvlQE-rA",
+                "title": "PRAWIE SI\u0118 POK\u0141\u00d3CILI\u015aMY",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tMWf59wZ3Lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tMWf59wZ3Lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tMWf59wZ3Lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tMWf59wZ3Lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tMWf59wZ3Lw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pjoter",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PRAWIE SI\u0118 POK\u0141\u00d3CILI\u015aMY",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "723554",
+                "likeCount": "32571",
+                "favoriteCount": "0",
+                "commentCount": "63"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YzHzhlBfY89PhR18EQGBZ3XZKQg",
+            "id": "BOmTTKTQceM",
+            "snippet": {
+                "publishedAt": "2025-05-01T19:49:30Z",
+                "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+                "title": "CRAZIEST IMPOSSIBLE SHOT YET \ud83e\udd2f\ud83c\udfd2 @AlwaysHockey",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BOmTTKTQceM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BOmTTKTQceM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BOmTTKTQceM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BOmTTKTQceM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BOmTTKTQceM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dude Perfect",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CRAZIEST IMPOSSIBLE SHOT YET \ud83e\udd2f\ud83c\udfd2 @AlwaysHockey",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "57520038",
+                "likeCount": "2623089",
+                "favoriteCount": "0",
+                "commentCount": "2109"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iSNaX2oPcoA_Qhbc2HgNi7r64nI",
+            "id": "3FTv90bWZ2Y",
+            "snippet": {
+                "publishedAt": "2025-05-02T16:38:04Z",
+                "channelId": "UCDL4L6bGUbLtIF5MS4va4iw",
+                "title": "To chyba mia\u0142o wyj\u015b\u0107 troch\u0119 inaczej \ud83d\ude02",
+                "description": "Ale co si\u0119 dziwi\u0107, w ko\u0144cu banany to ostatnio jej ulubiony owoc \ud83d\ude02",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3FTv90bWZ2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3FTv90bWZ2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3FTv90bWZ2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3FTv90bWZ2Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3FTv90bWZ2Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Weronika i Max",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "To chyba mia\u0142o wyj\u015b\u0107 troch\u0119 inaczej \ud83d\ude02",
+                    "description": "Ale co si\u0119 dziwi\u0107, w ko\u0144cu banany to ostatnio jej ulubiony owoc \ud83d\ude02"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "334201",
+                "likeCount": "9028",
+                "favoriteCount": "0",
+                "commentCount": "66"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uiyx9XrHsY8jYB09Q8QA10r89Ts",
+            "id": "JpRI5AS8Txo",
+            "snippet": {
+                "publishedAt": "2025-05-02T11:58:57Z",
+                "channelId": "UCNRl8nOCoUvki2FNFxQZgEg",
+                "title": "THE BEST VERSION OF TIME STOP",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JpRI5AS8Txo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JpRI5AS8Txo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JpRI5AS8Txo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JpRI5AS8Txo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JpRI5AS8Txo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "dednahype",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THE BEST VERSION OF TIME STOP",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "26226568",
+                "likeCount": "494357",
+                "favoriteCount": "0",
+                "commentCount": "334"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8W35Rse1I2PJkmx_87CpLc7_STs",
+            "id": "5YiuoIVu7V4",
+            "snippet": {
+                "publishedAt": "2025-05-03T11:50:57Z",
+                "channelId": "UC_pkfygi0DKht_Cc0Ca42Fw",
+                "title": "\u26a1 Ty zrobisz 5 krok\u00f3w po p\u0142askim, on przebiegnie 15 metr\u00f3w wzwy\u017c!",
+                "description": "Ogl\u0105daj Eurosport w pakiecie \u201eKana\u0142y TV i Sport\u201d na platformie Max \u27a1\ufe0f https://bit.ly/Paris2024wMaxY\n\nObserwuj nas na: \n\ud83d\udc49 Facebook: https://www.facebook.com/EurosportPL/\n\ud83d\udc49 Instagram: https://www.instagram.com/eurosportpl/\n\ud83d\udc49 Twitter: https://twitter.com/Eurosport_PL\n\ud83d\udc49 TikTok: https://www.tiktok.com/@eurosportpl\n\ud83d\udc49 Spotify: https://open.spotify.com/show/1tdF5ZkR5FAcq0C66uneke",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5YiuoIVu7V4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5YiuoIVu7V4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5YiuoIVu7V4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5YiuoIVu7V4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5YiuoIVu7V4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Eurosport Polska",
+                "tags": [
+                    "Eurosport Polska",
+                    "sport",
+                    "nowy rekord \u015bwiata",
+                    "sam watson",
+                    "wspinaczka sportowa",
+                    "na czas",
+                    "na szybko\u015b\u0107"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u26a1 Ty zrobisz 5 krok\u00f3w po p\u0142askim, on przebiegnie 15 metr\u00f3w wzwy\u017c!",
+                    "description": "Ogl\u0105daj Eurosport w pakiecie \u201eKana\u0142y TV i Sport\u201d na platformie Max \u27a1\ufe0f https://bit.ly/Paris2024wMaxY\n\nObserwuj nas na: \n\ud83d\udc49 Facebook: https://www.facebook.com/EurosportPL/\n\ud83d\udc49 Instagram: https://www.instagram.com/eurosportpl/\n\ud83d\udc49 Twitter: https://twitter.com/Eurosport_PL\n\ud83d\udc49 TikTok: https://www.tiktok.com/@eurosportpl\n\ud83d\udc49 Spotify: https://open.spotify.com/show/1tdF5ZkR5FAcq0C66uneke"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "119942",
+                "likeCount": "1953",
+                "favoriteCount": "0",
+                "commentCount": "32"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Q7Q2f8hP0FMqXP8vHL3r6B5AHnA",
+            "id": "7NzX8Szd-Ag",
+            "snippet": {
+                "publishedAt": "2025-05-04T14:02:25Z",
+                "channelId": "UCrtZVvEXEYWO1J_nOzL3fiw",
+                "title": "SZKOLNA DYSKOTEKA",
+                "description": "Druga cz\u0119\u015b\u0107 ju\u017c nied\u0142ugo...\nZobacz jak Kacper ogl\u0105da ten odcinek: https://www.youtube.com/watch?v=EOizqvCqjgY \n\nW roli tajemniczego ch\u0142opaka: https://www.instagram.com/wygiczysty/\n\nProjekt Waksy wspiera Dooti Donuts: https://dootidonuts.pl/\n\n\u2605 \u2605 \u2605 \u2605 \u2605 \n\n\ud83d\udd14 SUBSKRYBUJ WAKSY!\u27a1 http://youtube.com/@WAKSYY?sub_confirmation=1 \n\ud83d\udcf8 INSTAGRAM\u27a1 http://instagram.com/na.waksy/\n\ud83d\udc4d FACEBOOK\u27a1 http://facebook.com/na.waksy\n\u2764\ufe0f TIKTOK\u27a1 http://tiktok.com/@na.waksy \n\ud83c\udfac NASZE SERIE\u27a1 http://youtube.com/@WAKSYY/playlists \n\ud83d\udd25 POLECAMY!\u27a1 http://youtube.com/playlist?list=PL2E2FIi8GHE0Gn0JFfo0InuvYNybZkTa0 \n\n\u2605 \u2605 \u2605 \u2605 \u2605 \n\nObserwuj Waksy: \n\u25baInstagram Hania: https://www.instagram.com/hania_kotula/ \n\u25baInstagram Kasia: https://www.instagram.com/katarzynaszewczyk_/ \n\u25baInstagram Kacper: https://www.instagram.com/efektmotvla/ \n\u25baInstagram Julia: https://www.instagram.com/juliazawadzka__/ \n\u25baInstagram Blecki: https://www.instagram.com/blecki_02/ \n\u25baInstagram Pjoter: https://www.instagram.com/_pjoterek/ \n\u25baInstagram Mateusz: https://www.instagram.com/mati_ruminski/ \n\u25baInstagram Paulina: https://www.instagram.com/paulinasobon/ \n\nRe\u017cyser/ producent: \n\u25baArek: https://www.instagram.com/arek_waksy/\n\nKonto oficjalne: \n\u25baWaksy: http://instagram.com/na.waksy/ \n\n------------------------------------- \nwsp\u00f3\u0142praca / biznes:\n\u2709 \u27a1 marta@teamrisen\n------------------------------------- \nkontakt z zespo\u0142em: \n\u2709 \u27a1 kontakt@waksy.pl \n------------------------------------- \n\n\u2b07\ufe0f ZOBACZ WI\u0118CEJ \u2b07\ufe0f \n\n\ud83d\udce1 NAJNOWSZE\u27a1 http://youtube.com/@WAKSYY/videos \n\ud83e\ude73 SHORTY\u27a1 http://youtube.com/@WaksyShorts/shorts \n\ud83d\udcfa WSZYSTKIE SERIE\u27a1 http://youtube.com/@WAKSYY/playlists \n\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2VMXr35AjkYwr9JPezvhcN\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2c18a3CIRxIVao87EOVbRu \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2K_pCwliGzchABEeLr07N9 \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE3e2U1qsrryWQgLuV9oJN1w \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE3gbzfQDIbHMnkakM3vhkOg \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1uW-5_oZ49CfCUycJ2TF9f \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1R_h6HwrshRmaxARvhHakj \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2Hujtp-PjpnFBMVAg8Y5Zm\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE0ELMNUHQWTqzZR5jO-qXC9\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2kvRKLhslqMkAtj5et-C3T\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2ZsWTAeFwBZdiJ2Cbtf1ap\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE09Gte3IzVFKEM9pxfMiup3\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1oTRKRp6OyEmWrz7TaY6Zb\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE16MhjBp1EDHg8RoNhVS_T7\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2u9YzrqA6eonM9GOhjqe-l\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2OUYmVpvNbmFJvUykhzO_W\n\n\u2702\ufe0f KULISY NAGRA\u0143 (making of)\u27a1 http://youtube.com/playlist?list=UULF-PuuhwfQSNRnG4DkxUPp1A\n\n* * * * * * * * * * * * * * * * * * * * * * * * * * \nCopyright \u00a9 Waksy. All rights reserved \n* * * * * * * * * * * * * * * * * * * * * * * * * * \n\nYouTube MCN support i ochrona kana\u0142u: \nVIDEO BROTHERS | http://videobrothers.tv \n\n\u274cPROSIMY NIE KOPIOWA\u0106 NA INNE KANA\u0141Y\u274c",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7NzX8Szd-Ag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7NzX8Szd-Ag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7NzX8Szd-Ag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7NzX8Szd-Ag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7NzX8Szd-Ag/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "WAKSY",
+                "tags": [
+                    "waksy",
+                    "waksy kana\u0142",
+                    "waksy oficjalny kana\u0142",
+                    "waksy szko\u0142a",
+                    "szko\u0142a waksy",
+                    "lekcja waksy",
+                    "w szkole",
+                    "lekcje",
+                    "lekcja",
+                    "na lekcji",
+                    "czego nie robi\u0107",
+                    "czego nie robi\u0107 w szkole",
+                    "nauczyciel",
+                    "nauczyciele",
+                    "ucze\u0144",
+                    "uczniowie",
+                    "uczennica",
+                    "wagary",
+                    "dyskoteka",
+                    "poca\u0142unek",
+                    "kasia kacper",
+                    "zwi\u0105zek",
+                    "czy s\u0105 razem",
+                    "geczu",
+                    "taniec",
+                    "kasia geczu",
+                    "impreza szkolna",
+                    "szkolna dyskoteka",
+                    "mati",
+                    "mati julia",
+                    "dyskoteka szkolna",
+                    "szkolna dyskoteka waksy",
+                    "waksy szkolna dyskoteka",
+                    "dyskoteka w szkole",
+                    "szko\u0142a dyskoteka",
+                    "dyskoteka szko\u0142a"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "SZKOLNA DYSKOTEKA",
+                    "description": "Druga cz\u0119\u015b\u0107 ju\u017c nied\u0142ugo...\nZobacz jak Kacper ogl\u0105da ten odcinek: https://www.youtube.com/watch?v=EOizqvCqjgY \n\nW roli tajemniczego ch\u0142opaka: https://www.instagram.com/wygiczysty/\n\nProjekt Waksy wspiera Dooti Donuts: https://dootidonuts.pl/\n\n\u2605 \u2605 \u2605 \u2605 \u2605 \n\n\ud83d\udd14 SUBSKRYBUJ WAKSY!\u27a1 http://youtube.com/@WAKSYY?sub_confirmation=1 \n\ud83d\udcf8 INSTAGRAM\u27a1 http://instagram.com/na.waksy/\n\ud83d\udc4d FACEBOOK\u27a1 http://facebook.com/na.waksy\n\u2764\ufe0f TIKTOK\u27a1 http://tiktok.com/@na.waksy \n\ud83c\udfac NASZE SERIE\u27a1 http://youtube.com/@WAKSYY/playlists \n\ud83d\udd25 POLECAMY!\u27a1 http://youtube.com/playlist?list=PL2E2FIi8GHE0Gn0JFfo0InuvYNybZkTa0 \n\n\u2605 \u2605 \u2605 \u2605 \u2605 \n\nObserwuj Waksy: \n\u25baInstagram Hania: https://www.instagram.com/hania_kotula/ \n\u25baInstagram Kasia: https://www.instagram.com/katarzynaszewczyk_/ \n\u25baInstagram Kacper: https://www.instagram.com/efektmotvla/ \n\u25baInstagram Julia: https://www.instagram.com/juliazawadzka__/ \n\u25baInstagram Blecki: https://www.instagram.com/blecki_02/ \n\u25baInstagram Pjoter: https://www.instagram.com/_pjoterek/ \n\u25baInstagram Mateusz: https://www.instagram.com/mati_ruminski/ \n\u25baInstagram Paulina: https://www.instagram.com/paulinasobon/ \n\nRe\u017cyser/ producent: \n\u25baArek: https://www.instagram.com/arek_waksy/\n\nKonto oficjalne: \n\u25baWaksy: http://instagram.com/na.waksy/ \n\n------------------------------------- \nwsp\u00f3\u0142praca / biznes:\n\u2709 \u27a1 marta@teamrisen\n------------------------------------- \nkontakt z zespo\u0142em: \n\u2709 \u27a1 kontakt@waksy.pl \n------------------------------------- \n\n\u2b07\ufe0f ZOBACZ WI\u0118CEJ \u2b07\ufe0f \n\n\ud83d\udce1 NAJNOWSZE\u27a1 http://youtube.com/@WAKSYY/videos \n\ud83e\ude73 SHORTY\u27a1 http://youtube.com/@WaksyShorts/shorts \n\ud83d\udcfa WSZYSTKIE SERIE\u27a1 http://youtube.com/@WAKSYY/playlists \n\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2VMXr35AjkYwr9JPezvhcN\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2c18a3CIRxIVao87EOVbRu \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2K_pCwliGzchABEeLr07N9 \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE3e2U1qsrryWQgLuV9oJN1w \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE3gbzfQDIbHMnkakM3vhkOg \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1uW-5_oZ49CfCUycJ2TF9f \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1R_h6HwrshRmaxARvhHakj \n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2Hujtp-PjpnFBMVAg8Y5Zm\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE0ELMNUHQWTqzZR5jO-qXC9\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2kvRKLhslqMkAtj5et-C3T\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2ZsWTAeFwBZdiJ2Cbtf1ap\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE09Gte3IzVFKEM9pxfMiup3\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE1oTRKRp6OyEmWrz7TaY6Zb\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE16MhjBp1EDHg8RoNhVS_T7\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2u9YzrqA6eonM9GOhjqe-l\n\u2b50http://youtube.com/playlist?list=PL2E2FIi8GHE2OUYmVpvNbmFJvUykhzO_W\n\n\u2702\ufe0f KULISY NAGRA\u0143 (making of)\u27a1 http://youtube.com/playlist?list=UULF-PuuhwfQSNRnG4DkxUPp1A\n\n* * * * * * * * * * * * * * * * * * * * * * * * * * \nCopyright \u00a9 Waksy. All rights reserved \n* * * * * * * * * * * * * * * * * * * * * * * * * * \n\nYouTube MCN support i ochrona kana\u0142u: \nVIDEO BROTHERS | http://videobrothers.tv \n\n\u274cPROSIMY NIE KOPIOWA\u0106 NA INNE KANA\u0141Y\u274c"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "244855",
+                "likeCount": "15895",
+                "favoriteCount": "0",
+                "commentCount": "1844"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9kQwjtkYQNcCxB0ra9jUiErjUog",
+            "id": "B0B_mQZfeiY",
+            "snippet": {
+                "publishedAt": "2025-04-30T20:28:42Z",
+                "channelId": "UC5ac4WujVLPUkfuKvTn1tkA",
+                "title": "Sentino - Casablanca (prod. Crackhouse)",
+                "description": "CASABLANCA - Sentino \npos\u0142uchaj w spotify: https://bnpglobal.lnk.to/casablanca\nlimitowane koszulki: https://kingsento.pl\n\nbeat: Crackhouse\nteledysk: Mysteryubtw\nmix / master: Sentino \nmanagement: Trueman",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B0B_mQZfeiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B0B_mQZfeiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B0B_mQZfeiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B0B_mQZfeiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B0B_mQZfeiY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SENTINO",
+                "tags": [
+                    "sentino",
+                    "casablanca",
+                    "viral",
+                    "tiktok",
+                    "trueman",
+                    "alvarez",
+                    "tatua\u017cyk",
+                    "nienagrywajdotego",
+                    "gmll",
+                    "gm2l",
+                    "diho",
+                    "wiecznie",
+                    "vitayi"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "Sentino - Casablanca (prod. Crackhouse)",
+                    "description": "CASABLANCA - Sentino \npos\u0142uchaj w spotify: https://bnpglobal.lnk.to/casablanca\nlimitowane koszulki: https://kingsento.pl\n\nbeat: Crackhouse\nteledysk: Mysteryubtw\nmix / master: Sentino \nmanagement: Trueman"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "765897",
+                "likeCount": "37935",
+                "favoriteCount": "0",
+                "commentCount": "3163"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fB34GvZvkMAqVje2wIk8b-VAErY",
+            "id": "gixFRigqyP8",
+            "snippet": {
+                "publishedAt": "2025-05-03T09:52:00Z",
+                "channelId": "UCC957FjOFGwQgIpzwTUz7NQ",
+                "title": "VLOG : \u015aWI\u0118TA WIELKANOCNE W DUBAJU!\ud83d\udc30| Andziak",
+                "description": "SUBSKRYBUJ, a  nie ominiesz \u017cadnego odcinka!\n\nLink do kosmetyk\u00f3w: \nhttps://twinklecandle.com/kosmetyki-naturalne\n\nMOJA W\u0141ASNA MARKA \u015aWIEC \u2665TWINKLE CANDLE\u2665\nhttps://twinklecandle.com\n\nFB: https://www.facebook.com/pages/Andzia...\n\nInstagram Andziaks :\nhttp://instagram.com/andziaks\n\n*business enquiries - andziaks.management@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gixFRigqyP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gixFRigqyP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gixFRigqyP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gixFRigqyP8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gixFRigqyP8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andziaks",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "VLOG : \u015aWI\u0118TA WIELKANOCNE W DUBAJU!\ud83d\udc30| Andziak",
+                    "description": "SUBSKRYBUJ, a  nie ominiesz \u017cadnego odcinka!\n\nLink do kosmetyk\u00f3w: \nhttps://twinklecandle.com/kosmetyki-naturalne\n\nMOJA W\u0141ASNA MARKA \u015aWIEC \u2665TWINKLE CANDLE\u2665\nhttps://twinklecandle.com\n\nFB: https://www.facebook.com/pages/Andzia...\n\nInstagram Andziaks :\nhttp://instagram.com/andziaks\n\n*business enquiries - andziaks.management@gmail.com"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "310709",
+                "likeCount": "9312",
+                "favoriteCount": "0",
+                "commentCount": "468"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NnnHUFods3u0OKo2Zud9T6QfE94",
+            "id": "vlPDhY7wXaU",
+            "snippet": {
+                "publishedAt": "2025-05-02T12:59:15Z",
+                "channelId": "UCNRl8nOCoUvki2FNFxQZgEg",
+                "title": "wow",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vlPDhY7wXaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vlPDhY7wXaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vlPDhY7wXaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vlPDhY7wXaU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vlPDhY7wXaU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "dednahype",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "wow",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "32438404",
+                "likeCount": "387759",
+                "favoriteCount": "0",
+                "commentCount": "255"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "326c9WjNKiuPh_nuqTzm5jyK86s",
+            "id": "7KA-ODJ40BI",
+            "snippet": {
+                "publishedAt": "2025-05-01T12:15:00Z",
+                "channelId": "UCAhQHwhb7nb14Cn_mIkq2hg",
+                "title": "DIY hot tub made from a plastic cube! \ud83d\udd25",
+                "description": "#transformation #diy #handmade #recycle #recycled #crafts #diyprojects #design \nWe advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. \r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. \r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. \r\n\r\n------------------------------------------------------------------------------------ \r\n\r\n\u25b6\ufe0f TheSoul Music: https://www.music.thesoul-publishing.com \r\n\u25c9 Our Spotify: https://sptfy.com/TheSoulMusic \r\n\u25c9 TikTok: https://www.tiktok.com/@thesoul.music \r\n\u25c9 YouTube:    / @thesoulsound  \r\n\r\n\u25c9 5-Minute Crafts:    / @5minutecraftsyoutube   \r\n\u25c9 5-Minute Crafts DIY: \u200b    / @5minutecraftsdiy   \r\n\u25c9 5-Minute Crafts PLAY: \u200b   / @5minutecraftsplay   \r\n\r\n\u25c9 Music by Epidemic Sound: https://www.epidemicsound.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7KA-ODJ40BI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7KA-ODJ40BI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7KA-ODJ40BI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7KA-ODJ40BI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7KA-ODJ40BI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Handmade Heroes",
+                "tags": [
+                    "5-minute crafts",
+                    "5mincraft",
+                    "best shorts",
+                    "challenge",
+                    "craft",
+                    "crafts",
+                    "diy",
+                    "diy ideas",
+                    "do it yourself",
+                    "hack",
+                    "hacks",
+                    "handmade",
+                    "handmade heroes",
+                    "hero",
+                    "heroes",
+                    "house",
+                    "how to",
+                    "life hack",
+                    "life hacks",
+                    "lifehack",
+                    "lifehacks",
+                    "metal",
+                    "recycle",
+                    "shorts",
+                    "wood",
+                    "wood mood",
+                    "wooden",
+                    "woodmood"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "DIY hot tub made from a plastic cube! \ud83d\udd25",
+                    "description": "#transformation #diy #handmade #recycle #recycled #crafts #diyprojects #design \nWe advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. \r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. \r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. \r\n\r\n------------------------------------------------------------------------------------ \r\n\r\n\u25b6\ufe0f TheSoul Music: https://www.music.thesoul-publishing.com \r\n\u25c9 Our Spotify: https://sptfy.com/TheSoulMusic \r\n\u25c9 TikTok: https://www.tiktok.com/@thesoul.music \r\n\u25c9 YouTube:    / @thesoulsound  \r\n\r\n\u25c9 5-Minute Crafts:    / @5minutecraftsyoutube   \r\n\u25c9 5-Minute Crafts DIY: \u200b    / @5minutecraftsdiy   \r\n\u25c9 5-Minute Crafts PLAY: \u200b   / @5minutecraftsplay   \r\n\r\n\u25c9 Music by Epidemic Sound: https://www.epidemicsound.com/"
+                }
+            },
+            "statistics": {
+                "viewCount": "1289542",
+                "likeCount": "18376",
+                "favoriteCount": "0",
+                "commentCount": "157"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "L0EhjS4V8ZpXYwNl4QOnAMPcYqo",
+            "id": "joX0XsyjEIU",
+            "snippet": {
+                "publishedAt": "2025-05-02T16:48:01Z",
+                "channelId": "UCYFKMKQwYNun2wNj458kREQ",
+                "title": "How do joker make green#Harley Quinn #joker",
+                "description": "We hope you have a good time with our videos, and you are welcome to subscribe to our channel\uff01\uff01\nOur video production team pays special attention to the safety needs of children to ensure that the content does not cause any harm to them",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/joX0XsyjEIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/joX0XsyjEIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/joX0XsyjEIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/joX0XsyjEIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/joX0XsyjEIU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Harley Quinn with the Joker",
+                "tags": [
+                    "#Harley Quinn",
+                    "#joker"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How do joker make green#Harley Quinn #joker",
+                    "description": "We hope you have a good time with our videos, and you are welcome to subscribe to our channel\uff01\uff01\nOur video production team pays special attention to the safety needs of children to ensure that the content does not cause any harm to them"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "18927147",
+                "likeCount": "440543",
+                "favoriteCount": "0",
+                "commentCount": "206"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5TAcPZiNdTzeXn5mAXbxLvoItro",
+            "id": "objda9jnkgA",
+            "snippet": {
+                "publishedAt": "2025-05-01T07:01:01Z",
+                "channelId": "UC5NEWyJDtr8vtzJWT6SXK4Q",
+                "title": "Couples of the year\ud83e\udee1\ud83d\ude02",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/objda9jnkgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/objda9jnkgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/objda9jnkgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/objda9jnkgA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/objda9jnkgA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Eternal Love",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Couples of the year\ud83e\udee1\ud83d\ude02",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "13758697",
+                "likeCount": "142821",
+                "favoriteCount": "0",
+                "commentCount": "79"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Jz1QFyIDZAFtX9Cde4KyUthAMTQ",
+            "id": "QAwfhE2dj7s",
+            "snippet": {
+                "publishedAt": "2025-05-04T09:54:21Z",
+                "channelId": "UCh4mBJvwd7VJtdqzqBz_TpQ",
+                "title": "KA\u017bDY ZNA KOGO\u015a TAKIEGO \ud83d\ude02",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QAwfhE2dj7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QAwfhE2dj7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QAwfhE2dj7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QAwfhE2dj7s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QAwfhE2dj7s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "blecki",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "KA\u017bDY ZNA KOGO\u015a TAKIEGO \ud83d\ude02",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "295452",
+                "likeCount": "9534",
+                "favoriteCount": "0",
+                "commentCount": "71"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hjKFcPzNQA5yJ36bO-6dibtTsTc",
+            "id": "tNVvOsz-yPk",
+            "snippet": {
+                "publishedAt": "2025-04-30T17:50:21Z",
+                "channelId": "UCgoKH0e1n5II305aJamUnWA",
+                "title": "Strawberry jam \ud83c\udf53#abirzkitchen #strawberry",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tNVvOsz-yPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tNVvOsz-yPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tNVvOsz-yPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tNVvOsz-yPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tNVvOsz-yPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Abirz Kitchen",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Strawberry jam \ud83c\udf53#abirzkitchen #strawberry",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ar"
+            },
+            "statistics": {
+                "viewCount": "19786789",
+                "likeCount": "477931",
+                "favoriteCount": "0",
+                "commentCount": "1965"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_3QiQZzJV-E6YGhw73OgYLsOge0",
+            "id": "B9kb9hbh77g",
+            "snippet": {
+                "publishedAt": "2025-05-03T09:34:16Z",
+                "channelId": "UC6HKWohA11bBbyob7ieP-0g",
+                "title": "\u0418\u0422\u0410\u041b\u042c\u042f\u041d\u0421\u041a\u0418\u0415 \u041c\u0415\u041c\u042b \u0412\u0415\u0417\u0414\u0415\ud83d\ude31\u041a\u0412\u0418\u041d\u041a\u0410 \u0412 \u0428\u041e\u041a\u0415\ud83d\ude33 #\u0440\u043e\u0431\u043b\u043e\u043a\u0441 #\u0438\u0433\u0440\u044b #\u0441\u043c\u0435\u0448\u043d\u043e\u0435 #\u043a\u0432\u0438\u043d\u043a\u0430",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B9kb9hbh77g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B9kb9hbh77g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B9kb9hbh77g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B9kb9hbh77g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B9kb9hbh77g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "i_roblox_queen",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u0418\u0422\u0410\u041b\u042c\u042f\u041d\u0421\u041a\u0418\u0415 \u041c\u0415\u041c\u042b \u0412\u0415\u0417\u0414\u0415\ud83d\ude31\u041a\u0412\u0418\u041d\u041a\u0410 \u0412 \u0428\u041e\u041a\u0415\ud83d\ude33 #\u0440\u043e\u0431\u043b\u043e\u043a\u0441 #\u0438\u0433\u0440\u044b #\u0441\u043c\u0435\u0448\u043d\u043e\u0435 #\u043a\u0432\u0438\u043d\u043a\u0430",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "12213640",
+                "likeCount": "168219",
+                "favoriteCount": "0",
+                "commentCount": "673"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GkfUGeIMvQq2Ypnxy9beJVqxlIM",
+            "id": "Bbu3nqcUG2Q",
+            "snippet": {
+                "publishedAt": "2025-04-29T07:00:20Z",
+                "channelId": "UCcAoZZkCKvoqSJmVbRaSsDg",
+                "title": "\u041a\u0430\u043a \u0441\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u0444\u043e\u043a\u0443\u0441\u043d\u0438\u043a\u0438 \ud83d\ude02 #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bbu3nqcUG2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bbu3nqcUG2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bbu3nqcUG2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bbu3nqcUG2Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bbu3nqcUG2Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u0420\u043e\u043c\u0430\u043d Magic",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u041a\u0430\u043a \u0441\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u0444\u043e\u043a\u0443\u0441\u043d\u0438\u043a\u0438 \ud83d\ude02 #shorts",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "4063836",
+                "likeCount": "150733",
+                "favoriteCount": "0",
+                "commentCount": "219"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "g77hFPD_XxZUfQ2qUY3zQRAcLAI",
+            "id": "28gytyHDThM",
+            "snippet": {
+                "publishedAt": "2025-04-28T15:45:00Z",
+                "channelId": "UC6brmnd_Y_VCuOijHZ7WBsQ",
+                "title": "20 vs 30 | DOW\u00d3D \ud83e\udeaa",
+                "description": "SUBSKRYBUJ \u2705\nWsp\u00f3\u0142praca \ud83e\udd1d jan@easylemon.pl\nInstagram \ud83e\udd1d @czarek_\nTikTok \ud83e\udd1d @czarekjozwik",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/28gytyHDThM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/28gytyHDThM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/28gytyHDThM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/28gytyHDThM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/28gytyHDThM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Czarek J\u00f3\u017awik",
+                "tags": [
+                    "czarek j\u00f3\u017awik",
+                    "czarek",
+                    "j\u00f3\u017awik",
+                    "abstra",
+                    "abstrachuje"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "20 vs 30 | DOW\u00d3D \ud83e\udeaa",
+                    "description": "SUBSKRYBUJ \u2705\nWsp\u00f3\u0142praca \ud83e\udd1d jan@easylemon.pl\nInstagram \ud83e\udd1d @czarek_\nTikTok \ud83e\udd1d @czarekjozwik"
+                }
+            },
+            "statistics": {
+                "viewCount": "536370",
+                "likeCount": "24225",
+                "favoriteCount": "0",
+                "commentCount": "55"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kyWO_6ikfG_BORzfTl33BzNo_p0",
+            "id": "DWsuyMDxqjQ",
+            "snippet": {
+                "publishedAt": "2025-05-02T20:00:06Z",
+                "channelId": "UCX-xHRN9CnoXto5gcPskANA",
+                "title": "This Is the Life of Ukrainian Soldiers on the Frontline #warinukraine",
+                "description": "#united24media #united24 #united24fightforfreedom #united24reports\n\n\ud83c\uddfa\ud83c\udde6 Firsthand news from the epicenter of global events\n\n\ud83d\udc4b Like our content? Become our sponsor and get even more: https://www.youtube.com/channel/UCX-xHRN9CnoXto5gcPskANA/join\n\u2757\ufe0fNews & Analysis: https://united24media.com/\n\ud83d\udc4b News on Ukraine and Ukrainian perspective on global security https://www.youtube.com/@United24News \n\ud83d\udcaa When fighting for freedom, every penny counts. Donate to support Ukraine now on https://u24.gov.ua/uk \n\n\u2709\ufe0f For collaborations, ideas & questions: welcome@u24.media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DWsuyMDxqjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DWsuyMDxqjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DWsuyMDxqjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DWsuyMDxqjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DWsuyMDxqjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "UNITED24",
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "This Is the Life of Ukrainian Soldiers on the Frontline #warinukraine",
+                    "description": "#united24media #united24 #united24fightforfreedom #united24reports\n\n\ud83c\uddfa\ud83c\udde6 Firsthand news from the epicenter of global events\n\n\ud83d\udc4b Like our content? Become our sponsor and get even more: https://www.youtube.com/channel/UCX-xHRN9CnoXto5gcPskANA/join\n\u2757\ufe0fNews & Analysis: https://united24media.com/\n\ud83d\udc4b News on Ukraine and Ukrainian perspective on global security https://www.youtube.com/@United24News \n\ud83d\udcaa When fighting for freedom, every penny counts. Donate to support Ukraine now on https://u24.gov.ua/uk \n\n\u2709\ufe0f For collaborations, ideas & questions: welcome@u24.media"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "1462455",
+                "likeCount": "47466",
+                "favoriteCount": "0",
+                "commentCount": "1860"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mY1oAY1XbRiL6qECrY3Ay_2uSOg",
+            "id": "8swDFMt-x9Y",
+            "snippet": {
+                "publishedAt": "2025-05-01T07:42:09Z",
+                "channelId": "UCQK_cRi7J_9j5AqOqsGm3qA",
+                "title": "\ud83d\udcaa Who's been playing minecraft?\ud83d\udfe9Guess 3 \u2b1b\ufe0f #shorts #challenge",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8swDFMt-x9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8swDFMt-x9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8swDFMt-x9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8swDFMt-x9Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8swDFMt-x9Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALEX KING",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ud83d\udcaa Who's been playing minecraft?\ud83d\udfe9Guess 3 \u2b1b\ufe0f #shorts #challenge",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "10577646",
+                "likeCount": "109335",
+                "favoriteCount": "0",
+                "commentCount": "64"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vK52K9H6ax00BaeX_Z3oKNPi4UM",
+            "id": "MlB-g4Ckf5I",
+            "snippet": {
+                "publishedAt": "2025-05-02T17:04:34Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "this old laptop is still insane",
+                "description": "This 8-year-old Acer laptop is one of the wildest builds we\u2019ve ever seen... Dual power supplies, a missing trackpad, and a body so huge it basically comes with its own suitcase. Was it overkill? Absolutely. Was it awesome? Also yes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MlB-g4Ckf5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MlB-g4Ckf5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MlB-g4Ckf5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MlB-g4Ckf5I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MlB-g4Ckf5I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "this old laptop is still insane",
+                    "description": "This 8-year-old Acer laptop is one of the wildest builds we\u2019ve ever seen... Dual power supplies, a missing trackpad, and a body so huge it basically comes with its own suitcase. Was it overkill? Absolutely. Was it awesome? Also yes."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7374139",
+                "likeCount": "402975",
+                "favoriteCount": "0",
+                "commentCount": "2996"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oxyE398D5xuZaIAWJMcrYs5Qw54",
+            "id": "t3kQrGs2w6E",
+            "snippet": {
+                "publishedAt": "2025-04-29T15:00:29Z",
+                "channelId": "UCWTA5Yd0rAkQt5-9etIFoBA",
+                "title": "Titan - G\u0142\u0119boka Analiza (cz.2)",
+                "description": "Anatomia katastrofy \u0142odzi podwodnej Oceangate Titan. Cz\u0119\u015b\u0107 druga. Monta\u017c cz\u0119\u015bci fina\u0142owej w toku.\nLetyshops - https://letyshops.onelink.me/HKO3/ld708f5j\nM\u00f3j instagram - https://www.instagram.com/darekhoffmann\nFanpage - https://www.facebook.com/SciFunPL/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t3kQrGs2w6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t3kQrGs2w6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t3kQrGs2w6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t3kQrGs2w6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t3kQrGs2w6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SciFun",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Titan - G\u0142\u0119boka Analiza (cz.2)",
+                    "description": "Anatomia katastrofy \u0142odzi podwodnej Oceangate Titan. Cz\u0119\u015b\u0107 druga. Monta\u017c cz\u0119\u015bci fina\u0142owej w toku.\nLetyshops - https://letyshops.onelink.me/HKO3/ld708f5j\nM\u00f3j instagram - https://www.instagram.com/darekhoffmann\nFanpage - https://www.facebook.com/SciFunPL/"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "971016",
+                "likeCount": "57679",
+                "favoriteCount": "0",
+                "commentCount": "5109"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "o0VxfYlSmapIBbwjzvj5FcfzzEQ",
+            "id": "HGE-V39XvwA",
+            "snippet": {
+                "publishedAt": "2025-04-29T12:00:32Z",
+                "channelId": "UCWJNF5h3No52WmZuspDrG8A",
+                "title": "TALENT MATEMATYCZNY | Mam Talent! #shorts",
+                "description": "Jak Wam si\u0119 podoba\u0142o? \u270d\ud83d\udc47\n\u2b50 https://youtu.be/MNaTNPoygog\n\u2b50 https://youtu.be/JSGHdriiaPk\n\u2b50 Wi\u0119cej o naszych programach: https://tvn.pl/?utm_source=youtube\n\u2b50 Subskrybuj kana\u0142 TVN Talent Show: http://www.youtube.com/channel/UCWJNF5h3No52WmZuspDrG8A?sub_confirmation=1\n\u2b50 MAM TALENT! W MAX \u2b50\nhttps://www.max.com/pl/pl/shows/mam-talent/1c39e740-cca7-4239-a1d3-120fb6d7f047\n\u2b50 MAM TALENT! W PLAYERZE \u2b50\nhttps://player.pl/programy-online/mam-talent-odcinki,50\n#tvn #tvntalentshow #playerpl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HGE-V39XvwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HGE-V39XvwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HGE-V39XvwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HGE-V39XvwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HGE-V39XvwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TVN Talent Show",
+                "tags": [
+                    "talent show",
+                    "hobby",
+                    "mam talent",
+                    "tvn talent show",
+                    "nowa edycja mam talent",
+                    "agnieszka Chyli\u0144ska mam talent",
+                    "marcin prokop mam talent",
+                    "julia wieniawa mam talent",
+                    "agnieszka chyli\u0144ska mam talent",
+                    "jan pirowski mam talent",
+                    "agnieszka wo\u017aniak starak mam talent",
+                    "mam talent 16",
+                    "julia wieniawa",
+                    "agnieszka Chyli\u0144ska",
+                    "marcin prokop",
+                    "polski zwi\u0105zek sumo mam talent",
+                    "szok",
+                    "zaskoczenie",
+                    "zachwyt",
+                    "show",
+                    "Dark Dance Studio mam talent",
+                    "Dark Dance Studio",
+                    "taniec"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TALENT MATEMATYCZNY | Mam Talent! #shorts",
+                    "description": "Jak Wam si\u0119 podoba\u0142o? \u270d\ud83d\udc47\n\u2b50 https://youtu.be/MNaTNPoygog\n\u2b50 https://youtu.be/JSGHdriiaPk\n\u2b50 Wi\u0119cej o naszych programach: https://tvn.pl/?utm_source=youtube\n\u2b50 Subskrybuj kana\u0142 TVN Talent Show: http://www.youtube.com/channel/UCWJNF5h3No52WmZuspDrG8A?sub_confirmation=1\n\u2b50 MAM TALENT! W MAX \u2b50\nhttps://www.max.com/pl/pl/shows/mam-talent/1c39e740-cca7-4239-a1d3-120fb6d7f047\n\u2b50 MAM TALENT! W PLAYERZE \u2b50\nhttps://player.pl/programy-online/mam-talent-odcinki,50\n#tvn #tvntalentshow #playerpl"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "512465",
+                "likeCount": "18440",
+                "favoriteCount": "0",
+                "commentCount": "235"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6XGGAMlsTOKmywrToWmQpRsGeCA",
+            "id": "uW7ANn6Cg3Y",
+            "snippet": {
+                "publishedAt": "2025-05-01T10:01:23Z",
+                "channelId": "UC9uDXcns3RK1Wzs-y3sqWPQ",
+                "title": "ESKA Hity na Czasie - Maj 2025 \u2013 oficjalny mix Radia ESKA",
+                "description": "\ud83c\udfa7 Dzi\u0119kujemy za s\u0142uchanie naszego mixu! \n\n\ud83d\udce2 Zapraszamy na nasz drugi kana\u0142!\n\nPrzedstawiamy nasz\u0105 now\u0105 seri\u0119 \"Eska Reakcje\", w kt\u00f3rej seniorzy, millenialsi i przedstawiciele Gen Z reaguj\u0105 na najwi\u0119ksze hity muzyczne! Zobaczcie, jak r\u00f3\u017cne pokolenia odbieraj\u0105 kultowe utwory. Do\u0142\u0105czcie do nas i nie przegapcie \u017cadnego odcinka!\n\n\ud83d\udc49 https://www.youtube.com/playlist?list=PL0czqsXxOwbk4jrodNiBBLtxhYeFeiKV5\n\nhttps://tinyurl.com/ESKAHityNaCzasieSubskrybuj\n\nSprawd\u017a te\u017c:\nhttps://www.youtube.com/c/EskaTvOfficial\nhttp://www.eska.pl/\nhttps://www.facebook.com/radioeska/\n\n#ESKA #HityNaCzasie #EskaHityNaCzasie2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uW7ANn6Cg3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uW7ANn6Cg3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uW7ANn6Cg3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uW7ANn6Cg3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uW7ANn6Cg3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ESKA Hity Na Czasie",
+                "tags": [
+                    "ESKA 2025",
+                    "ESKA",
+                    "hity na czasie",
+                    "radio ESKA",
+                    "hity 2025",
+                    "hity ESKA 2025",
+                    "ESKA hity 2025",
+                    "ESKA hity na czasie",
+                    "sk\u0142adanka ESKA hity na czasie",
+                    "ESKA Hity na Czasie 2025",
+                    "oficjalny miks ESKA",
+                    "ESKA Hity na Czasie maj 2025",
+                    "oficjalny mix Radia ESKA",
+                    "eska maj 2025",
+                    "eska hity 2025",
+                    "eska hity maj 2025",
+                    "hity na czasie 2025",
+                    "hity na czasie maj 2025",
+                    "hity eska maj 2025",
+                    "maj 2025 eska",
+                    "muzyczne hity",
+                    "eska 2025 gor\u0105ca 20",
+                    "eska 2025 maj",
+                    "eska hity"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ESKA Hity na Czasie - Maj 2025 \u2013 oficjalny mix Radia ESKA",
+                    "description": "\ud83c\udfa7 Dzi\u0119kujemy za s\u0142uchanie naszego mixu! \n\n\ud83d\udce2 Zapraszamy na nasz drugi kana\u0142!\n\nPrzedstawiamy nasz\u0105 now\u0105 seri\u0119 \"Eska Reakcje\", w kt\u00f3rej seniorzy, millenialsi i przedstawiciele Gen Z reaguj\u0105 na najwi\u0119ksze hity muzyczne! Zobaczcie, jak r\u00f3\u017cne pokolenia odbieraj\u0105 kultowe utwory. Do\u0142\u0105czcie do nas i nie przegapcie \u017cadnego odcinka!\n\n\ud83d\udc49 https://www.youtube.com/playlist?list=PL0czqsXxOwbk4jrodNiBBLtxhYeFeiKV5\n\nhttps://tinyurl.com/ESKAHityNaCzasieSubskrybuj\n\nSprawd\u017a te\u017c:\nhttps://www.youtube.com/c/EskaTvOfficial\nhttp://www.eska.pl/\nhttps://www.facebook.com/radioeska/\n\n#ESKA #HityNaCzasie #EskaHityNaCzasie2025"
+                }
+            },
+            "statistics": {
+                "viewCount": "252438",
+                "likeCount": "1187",
+                "favoriteCount": "0",
+                "commentCount": "544"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iwfgfPgW8Fe29A2iwXD2BR6oLNo",
+            "id": "-nfmANS_AmM",
+            "snippet": {
+                "publishedAt": "2025-04-27T19:00:00Z",
+                "channelId": "UCpEWtVQH4THp087jmpmD03Q",
+                "title": "Revitalize Your OLD Treasures into NEW Wonders! \u267b\ufe0f",
+                "description": "Get ready to unleash your creativity and give old stuff a brand new life! In this video, we'll show you how to breathe new life into old, discarded items and turn them into unique, functional, and beautiful pieces that you'll love. From upcycling old furniture to repurposing vintage accessories, we'll share our top tips and tricks to help you reduce waste and get creative. So, if you're looking for inspiration to give your old stuff a fresh new look, you're in the right place!\r\n\r\nretro decor, thrift, sustainability, DIY, nostalgia, retro, vintage, vintage style, craft ideas, 80s style, environmentalism, repurpose, green living, 90s style, recycle, antique, upcycle\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\r\n\r\nThe following video might feature activity performed by our actors within controlled environment - please use judgment, care, and precaution if you plan to replicate.\r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-nfmANS_AmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-nfmANS_AmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-nfmANS_AmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-nfmANS_AmM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-nfmANS_AmM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brave Gals",
+                "tags": [
+                    "crafts",
+                    "diy",
+                    "diy projects",
+                    "hacks",
+                    "home",
+                    "how to",
+                    "idea",
+                    "innovative solutions",
+                    "life hacks",
+                    "off grid",
+                    "problem solving",
+                    "productivity tips",
+                    "quick fixes",
+                    "recycle",
+                    "renovation",
+                    "repair",
+                    "reuse",
+                    "short",
+                    "shorts",
+                    "smart living",
+                    "smart solutions",
+                    "smart technology",
+                    "tech tips",
+                    "tips",
+                    "tricks",
+                    "tutorial"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Revitalize Your OLD Treasures into NEW Wonders! \u267b\ufe0f",
+                    "description": "Get ready to unleash your creativity and give old stuff a brand new life! In this video, we'll show you how to breathe new life into old, discarded items and turn them into unique, functional, and beautiful pieces that you'll love. From upcycling old furniture to repurposing vintage accessories, we'll share our top tips and tricks to help you reduce waste and get creative. So, if you're looking for inspiration to give your old stuff a fresh new look, you're in the right place!\r\n\r\nretro decor, thrift, sustainability, DIY, nostalgia, retro, vintage, vintage style, craft ideas, 80s style, environmentalism, repurpose, green living, 90s style, recycle, antique, upcycle\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\r\n\r\nThe following video might feature activity performed by our actors within controlled environment - please use judgment, care, and precaution if you plan to replicate.\r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+                }
+            },
+            "statistics": {
+                "viewCount": "7293976",
+                "likeCount": "99628",
+                "favoriteCount": "0",
+                "commentCount": "698"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "H_Fd8IG2XDdOCX53N3n-863X8eQ",
+            "id": "4DkOI02uFuA",
+            "snippet": {
+                "publishedAt": "2025-04-25T14:00:07Z",
+                "channelId": "UCv_fwQqff6zEFDxfJh_03fg",
+                "title": "Mariusz Pudzianowski tests his reflexes \ud83d\udc40 #mma #ksw105 #sports #ksw #pudzian #pudzianowski",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4DkOI02uFuA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4DkOI02uFuA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4DkOI02uFuA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4DkOI02uFuA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4DkOI02uFuA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KSW",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "Mariusz Pudzianowski tests his reflexes \ud83d\udc40 #mma #ksw105 #sports #ksw #pudzian #pudzianowski",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "1517070",
+                "likeCount": "27886",
+                "favoriteCount": "0",
+                "commentCount": "992"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fGoWUN95BhTlR4VTP5W4XvokGHY",
+            "id": "-ANcPipsRrw",
+            "snippet": {
+                "publishedAt": "2025-04-29T14:27:22Z",
+                "channelId": "UCfQmIDmbuUdmtlizUeKgkoA",
+                "title": "Otwieramy MA\u0141E S\u0141ODKIE DZIADY \ud83c\udf38 Sylvanian Families Booming Baby",
+                "description": "Razem z Werka Aferka i Muffinaart robimy opening nowych wiosennych saszetek niespodzianek Sylvanian Families Booming Baby \ud83c\udf38",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ANcPipsRrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ANcPipsRrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ANcPipsRrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-ANcPipsRrw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-ANcPipsRrw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "miss Aga",
+                "tags": [
+                    "sylvanian families",
+                    "sylvanian families unboxing",
+                    "sylvanian families blooming baby",
+                    "miss aga",
+                    "werka aferka",
+                    "muffinka",
+                    "muffinaart",
+                    "otwieramy",
+                    "wiosna",
+                    "saszetki niespodzianki",
+                    "banda banan",
+                    "unboxing",
+                    "sylvanian family"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "Otwieramy MA\u0141E S\u0141ODKIE DZIADY \ud83c\udf38 Sylvanian Families Booming Baby",
+                    "description": "Razem z Werka Aferka i Muffinaart robimy opening nowych wiosennych saszetek niespodzianek Sylvanian Families Booming Baby \ud83c\udf38"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "324425",
+                "likeCount": "11441",
+                "favoriteCount": "0",
+                "commentCount": "733"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "t_l19zSFPyLQ6k4ffoLlCBRy_DE",
+            "id": "ZS888FJJD_U",
+            "snippet": {
+                "publishedAt": "2025-04-27T11:45:23Z",
+                "channelId": "UCalwFtq-BVcszKLZ5k2vbLw",
+                "title": "KOUNDE, KOUNDE, KOUNDE! SZPAKOWSKI KOMENTUJE GOLA NA 3:2 #SHORTS",
+                "description": "Jules Kounde i jego zwyci\u0119ski gol w meczu Barcelona - Real Madryt (3:2). Komentuje Dariusz Szpakowski.\n\nPOBIERZ NASZ\u0104 APLIKACJ\u0118 MOBILN\u0104 \ud83d\udcf2\n\ud83d\udc49 APP STORE: https://apple.co/3wvJAVu\n\ud83d\udc49 GOOGLE PLAY: https://bit.ly/3wu4h3Z\n\ud83d\udc49 HUAWEI APPGALERY:  https://bit.ly/39n68zA\n\n\ud83d\udc49 SUBSKRYBUJ NASZ KANA\u0141: https://www.youtube.com/user/sporttvppl?sub_confirmation=1\n\n\n\n\ud83d\udc49 OGL\u0104DAJ TRANSMISJE SPORTOWE ON-LINE: https://sport.tvp.pl/\n\ud83d\udc49 ODWIED\u0179 NASZ FANPAGE: https://www.facebook.com/tvpsport/\n\ud83d\udc49 ZAOBSERWUJ NAS NA INSTAGRAMIE: https://www.instagram.com/tvpsport/\n\ud83d\udc49 \u015aLED\u0179 PROFIL NA TWITTERZE: https://twitter.com/sport_tvppl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZS888FJJD_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZS888FJJD_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZS888FJJD_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZS888FJJD_U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZS888FJJD_U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TVP Sport ",
+                "tags": [
+                    "TVP Sport",
+                    "Barcelona",
+                    "Barcelona Real",
+                    "Barcelona Real 3 2",
+                    "Barcelona Real Kounde",
+                    "Kounde",
+                    "Jules kounde",
+                    "Kounde gol",
+                    "Barcelona Kounde",
+                    "Puchar Kr\u00f3la",
+                    "Puchar Kr\u00f3la tvp sport",
+                    "tvp sport Puchar Kr\u00f3la",
+                    "pi\u0142ka no\u017cna",
+                    "futbol"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "KOUNDE, KOUNDE, KOUNDE! SZPAKOWSKI KOMENTUJE GOLA NA 3:2 #SHORTS",
+                    "description": "Jules Kounde i jego zwyci\u0119ski gol w meczu Barcelona - Real Madryt (3:2). Komentuje Dariusz Szpakowski.\n\nPOBIERZ NASZ\u0104 APLIKACJ\u0118 MOBILN\u0104 \ud83d\udcf2\n\ud83d\udc49 APP STORE: https://apple.co/3wvJAVu\n\ud83d\udc49 GOOGLE PLAY: https://bit.ly/3wu4h3Z\n\ud83d\udc49 HUAWEI APPGALERY:  https://bit.ly/39n68zA\n\n\ud83d\udc49 SUBSKRYBUJ NASZ KANA\u0141: https://www.youtube.com/user/sporttvppl?sub_confirmation=1\n\n\n\n\ud83d\udc49 OGL\u0104DAJ TRANSMISJE SPORTOWE ON-LINE: https://sport.tvp.pl/\n\ud83d\udc49 ODWIED\u0179 NASZ FANPAGE: https://www.facebook.com/tvpsport/\n\ud83d\udc49 ZAOBSERWUJ NAS NA INSTAGRAMIE: https://www.instagram.com/tvpsport/\n\ud83d\udc49 \u015aLED\u0179 PROFIL NA TWITTERZE: https://twitter.com/sport_tvppl"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "630693",
+                "likeCount": "15555",
+                "favoriteCount": "0",
+                "commentCount": "420"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9KTub7OLz4oOrIgZjYUX9JCNF5E",
+            "id": "mCITGran3vY",
+            "snippet": {
+                "publishedAt": "2025-05-01T12:04:43Z",
+                "channelId": "UCh4mBJvwd7VJtdqzqBz_TpQ",
+                "title": "Ju\u017c SI\u0118 NIE KUMPLUJEMY\ud83d\ude21\ud83d\ude2d (ON nic O MNIE nie wie)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mCITGran3vY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mCITGran3vY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mCITGran3vY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mCITGran3vY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mCITGran3vY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "blecki",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ju\u017c SI\u0118 NIE KUMPLUJEMY\ud83d\ude21\ud83d\ude2d (ON nic O MNIE nie wie)",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "544101",
+                "likeCount": "18258",
+                "favoriteCount": "0",
+                "commentCount": "73"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9B1okI5Nf0l5QIWDBefwBC3QLYQ",
+            "id": "_Muvh0Ls45A",
+            "snippet": {
+                "publishedAt": "2025-04-30T15:31:52Z",
+                "channelId": "UCH-syFvxNpUB13Qve4-4liA",
+                "title": "10 dni w INDIACH SKO\u0143CZY\u0141O SI\u0118\u00a0FATALNIE",
+                "description": "Partnerem odcinka jest Nutribullet Flip, kt\u00f3ry zgarn\u0105\u0107 mo\u017cecie z kodem WOJTEK20 - https://bit.ly/434lW3D",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Muvh0Ls45A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Muvh0Ls45A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Muvh0Ls45A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Muvh0Ls45A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Muvh0Ls45A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ojwojtek",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "10 dni w INDIACH SKO\u0143CZY\u0141O SI\u0118\u00a0FATALNIE",
+                    "description": "Partnerem odcinka jest Nutribullet Flip, kt\u00f3ry zgarn\u0105\u0107 mo\u017cecie z kodem WOJTEK20 - https://bit.ly/434lW3D"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "371889",
+                "likeCount": "14932",
+                "favoriteCount": "0",
+                "commentCount": "351"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xEXc6-9v5hXnRwAmzXiEoqrtlxI",
+            "id": "Iuhkg4LYD2Q",
+            "snippet": {
+                "publishedAt": "2025-04-26T15:00:34Z",
+                "channelId": "UCk452F_ypT9Q8b1S38-Ok8A",
+                "title": "Einfach WAHNSINN! \ud83e\udd2f #shorts",
+                "description": "#shortsviral #shortsfeed #shortsvideo \n_____________________\nDie komplette Sport-Action LIVE und auf Abruf: https://www.discoveryplus.com/de/\n_____________________\nHier findet ihr uns auch:\n\nInstagram: https://www.instagram.com/eurosportde/\nFacebook: https://www.facebook.com/EurosportDE\nTikTok: https://www.tiktok.com/@eurosportde\nOder auf unserer Homepage: https://www.eurosport.de/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iuhkg4LYD2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iuhkg4LYD2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iuhkg4LYD2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Iuhkg4LYD2Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Iuhkg4LYD2Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Eurosport Deutschland",
+                "tags": [
+                    "Eurosport",
+                    "Sport",
+                    "Eurosport deutschland",
+                    "Highlights",
+                    "Eurosport Germany",
+                    "Eurosport DE",
+                    "teqball",
+                    "football",
+                    "fu\u00dfball",
+                    "fussball",
+                    "viral"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "Einfach WAHNSINN! \ud83e\udd2f #shorts",
+                    "description": "#shortsviral #shortsfeed #shortsvideo \n_____________________\nDie komplette Sport-Action LIVE und auf Abruf: https://www.discoveryplus.com/de/\n_____________________\nHier findet ihr uns auch:\n\nInstagram: https://www.instagram.com/eurosportde/\nFacebook: https://www.facebook.com/EurosportDE\nTikTok: https://www.tiktok.com/@eurosportde\nOder auf unserer Homepage: https://www.eurosport.de/"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "statistics": {
+                "viewCount": "15892318",
+                "likeCount": "525689",
+                "favoriteCount": "0",
+                "commentCount": "5924"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "u3J6tt4y475n85ew970Z9kgXw5Q",
+            "id": "lJC_tyd-UXQ",
+            "snippet": {
+                "publishedAt": "2025-04-26T19:07:42Z",
+                "channelId": "UCZO4mYFvdbnIrJYJU2l8cuA",
+                "title": "czy STARBUCKS zapisze Imiona z Bajek? \ud83d\udc40\ud83e\udd2f #viral",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lJC_tyd-UXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lJC_tyd-UXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lJC_tyd-UXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lJC_tyd-UXQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lJC_tyd-UXQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "marceli",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "czy STARBUCKS zapisze Imiona z Bajek? \ud83d\udc40\ud83e\udd2f #viral",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "839732",
+                "likeCount": "35289",
+                "favoriteCount": "0",
+                "commentCount": "155"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "P_6KAIT_8b_COxNrGcTb59t2l6w",
+            "id": "RNJegyGxwFA",
+            "snippet": {
+                "publishedAt": "2025-04-29T20:21:41Z",
+                "channelId": "UClhEl4bMD8_escGCCTmRAYg",
+                "title": "PREZYDENCKIE ZERO #12: AWANTURA W TVP (NAGRANIE KOM\u00d3RK\u0104), KULISY DEBATY SUPER EXPRESSU",
+                "description": "Audycja przeznaczona dla os\u00f3b powy\u017cej 16. roku \u017cycia.\nNiespodziewanych emocji dostarczy\u0142o spotkanie przedstawicieli sztab\u00f3w kandydat\u00f3w w wyborach prezydenckich z kierownictwem TVP w likwidacji. Ko\u015bci\u0105 niezgody okaza\u0142a si\u0119\u00a0wytypowana na prowadz\u0105c\u0105\u00a0debat\u0119\u00a0Dorota Wysocka-Schnepf, kt\u00f3rej niemal wszyscy uczestnicy zarzucili brak obiektywizmu. Jak sko\u0144czy\u0142a si\u0119\u00a0awantura na Woronicza? Zobaczcie nagranie Krzysztofa Jakuba Stanowskiego. W materiale r\u00f3wnie\u017c\u00a0debata w Super Expressie zza kulis oraz relacja ze spotkania z wys\u0142anniczkami\u00a0OBWE.\n\n\ud83c\udfac Wszystkie odcinki: https://www.youtube.com/playlist?list=PLvLrA9jH7wQi2QDAf1jpAWqXYxD1KG_h5\n\nWpadnij tutaj:\n\ud83d\udd34 Kana\u0142 Zero Extra: https://www.youtube.com/channel/UCNbQpy2EqkiK0AUdyyr35vA\n\ud83d\udd34 Instagram: https://www.instagram.com/oficjalnezero/\n\ud83d\udd34 Facebook: https://www.facebook.com/oficjalnezeroo\n\ud83d\udd34 Grupa Facebook: https://www.facebook.com/groups/sekcjazero/?ref=share_group_link\n\ud83d\udd34 TikTok: https://www.tiktok.com/@oficjalnezero\n\ud83d\udd34 Twitter: https://twitter.com/oficjalnezero\n\n\ud83d\udce9 biznes@kanalzero.pl\n\nMATERIA\u0141 KOMITETU WYBORCZEGO KANDYDATA NA PREZYDENTA RP KRZYSZTOFA JAKUBA STANOWSKIEGO\n\n#kana\u0142zero #stanowski #polityka #debata #superexpress #polskapolityka #mentzen #ho\u0142ownia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RNJegyGxwFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RNJegyGxwFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RNJegyGxwFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RNJegyGxwFA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RNJegyGxwFA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kana\u0142 Zero",
+                "tags": [
+                    "Stanowski",
+                    "Krzysztof Stanowski",
+                    "kana\u0142 zero",
+                    "kanal zero",
+                    "stanowski kana\u0142",
+                    "Krzysztof stanowski kana\u0142 zero",
+                    "stanowski kana\u0142 zero",
+                    "kana\u0142",
+                    "zero",
+                    "stanowski",
+                    "debata",
+                    "debata superexpress",
+                    "stanowski debata",
+                    "debata stanowski",
+                    "s\u0142awomir mentzen",
+                    "mentzen",
+                    "ho\u0142ownia",
+                    "szymon ho\u0142ownia",
+                    "kana\u0142 zero debata",
+                    "nawrocki",
+                    "karol nawrocki",
+                    "rafa\u0142 trzaskowski",
+                    "magdalena biejat",
+                    "polityka",
+                    "polska polityka",
+                    "kana\u0142 zero polityka",
+                    "kana\u0142 zero trzaskowksi",
+                    "kana\u0142 zero nawrocki",
+                    "kana\u0142 zero mentzen",
+                    "grzegorz braun",
+                    "braun"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "PREZYDENCKIE ZERO #12: AWANTURA W TVP (NAGRANIE KOM\u00d3RK\u0104), KULISY DEBATY SUPER EXPRESSU",
+                    "description": "Audycja przeznaczona dla os\u00f3b powy\u017cej 16. roku \u017cycia.\nNiespodziewanych emocji dostarczy\u0142o spotkanie przedstawicieli sztab\u00f3w kandydat\u00f3w w wyborach prezydenckich z kierownictwem TVP w likwidacji. Ko\u015bci\u0105 niezgody okaza\u0142a si\u0119\u00a0wytypowana na prowadz\u0105c\u0105\u00a0debat\u0119\u00a0Dorota Wysocka-Schnepf, kt\u00f3rej niemal wszyscy uczestnicy zarzucili brak obiektywizmu. Jak sko\u0144czy\u0142a si\u0119\u00a0awantura na Woronicza? Zobaczcie nagranie Krzysztofa Jakuba Stanowskiego. W materiale r\u00f3wnie\u017c\u00a0debata w Super Expressie zza kulis oraz relacja ze spotkania z wys\u0142anniczkami\u00a0OBWE.\n\n\ud83c\udfac Wszystkie odcinki: https://www.youtube.com/playlist?list=PLvLrA9jH7wQi2QDAf1jpAWqXYxD1KG_h5\n\nWpadnij tutaj:\n\ud83d\udd34 Kana\u0142 Zero Extra: https://www.youtube.com/channel/UCNbQpy2EqkiK0AUdyyr35vA\n\ud83d\udd34 Instagram: https://www.instagram.com/oficjalnezero/\n\ud83d\udd34 Facebook: https://www.facebook.com/oficjalnezeroo\n\ud83d\udd34 Grupa Facebook: https://www.facebook.com/groups/sekcjazero/?ref=share_group_link\n\ud83d\udd34 TikTok: https://www.tiktok.com/@oficjalnezero\n\ud83d\udd34 Twitter: https://twitter.com/oficjalnezero\n\n\ud83d\udce9 biznes@kanalzero.pl\n\nMATERIA\u0141 KOMITETU WYBORCZEGO KANDYDATA NA PREZYDENTA RP KRZYSZTOFA JAKUBA STANOWSKIEGO\n\n#kana\u0142zero #stanowski #polityka #debata #superexpress #polskapolityka #mentzen #ho\u0142ownia"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "1665192",
+                "likeCount": "78070",
+                "favoriteCount": "0",
+                "commentCount": "9690"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1iCxWp6XsNjhEwmq2zvOoOuYF14",
+            "id": "4SWyjQjIw1Q",
+            "snippet": {
+                "publishedAt": "2025-04-27T13:00:13Z",
+                "channelId": "UC1Fc8RIaSgmsLmmUKwHECvA",
+                "title": "WIELKI CHOWANY BUNGEE",
+                "description": "\u2666 ZOSTAW SUBA I \u0141APK\u0118 W G\u00d3R\u0118, ABY BY\u0106 NA BIE\u017b\u0104CO\n\nINSTAGRAM \u25ba \nBANDURA: https://www.instagram.com/bandura_cartel/\nDZINOLD: https://www.instagram.com/mrdzinold/\nMERGHANI: https://www.instagram.com/xmerghani/\nTUSZOL: https://www.instagram.com/tuszol/\nGUMIS: https://www.instagram.com/gumisig/\nULFIK: https://www.instagram.com/trapulfik/\nWRONEK: https://www.instagram.com/1wron3k/\nAMAR: https://www.instagram.com/amar_8yg/\nMAJSZI: https://www.instagram.com/dmajszi/\nMORK: https://www.instagram.com/morkiemann/\n\nTWITCH \u25ba \nBANDURA: https://www.twitch.tv/banduracartel\nDZINOLD: https://www.twitch.tv/mrdzinold\nMERGHANI: https://www.twitch.tv/xmerghani\nTUSZOL: https://www.twitch.tv/tuszol\nGUMIS: https://www.twitch.tv/xgumis\nULFIK: https://www.twitch.tv/trapulfik\nWRONEK: https://www.twitch.tv/1wron3k\nAMAR: https://www.twitch.tv/amar8ygg\nMAJSZI: https://www.twitch.tv/dmajszi\nMORK: https://www.twitch.tv/mork\n\nWSP\u00d3\u0141PRACA: biznes@bungee.gg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4SWyjQjIw1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4SWyjQjIw1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4SWyjQjIw1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4SWyjQjIw1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4SWyjQjIw1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bungee",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WIELKI CHOWANY BUNGEE",
+                    "description": "\u2666 ZOSTAW SUBA I \u0141APK\u0118 W G\u00d3R\u0118, ABY BY\u0106 NA BIE\u017b\u0104CO\n\nINSTAGRAM \u25ba \nBANDURA: https://www.instagram.com/bandura_cartel/\nDZINOLD: https://www.instagram.com/mrdzinold/\nMERGHANI: https://www.instagram.com/xmerghani/\nTUSZOL: https://www.instagram.com/tuszol/\nGUMIS: https://www.instagram.com/gumisig/\nULFIK: https://www.instagram.com/trapulfik/\nWRONEK: https://www.instagram.com/1wron3k/\nAMAR: https://www.instagram.com/amar_8yg/\nMAJSZI: https://www.instagram.com/dmajszi/\nMORK: https://www.instagram.com/morkiemann/\n\nTWITCH \u25ba \nBANDURA: https://www.twitch.tv/banduracartel\nDZINOLD: https://www.twitch.tv/mrdzinold\nMERGHANI: https://www.twitch.tv/xmerghani\nTUSZOL: https://www.twitch.tv/tuszol\nGUMIS: https://www.twitch.tv/xgumis\nULFIK: https://www.twitch.tv/trapulfik\nWRONEK: https://www.twitch.tv/1wron3k\nAMAR: https://www.twitch.tv/amar8ygg\nMAJSZI: https://www.twitch.tv/dmajszi\nMORK: https://www.twitch.tv/mork\n\nWSP\u00d3\u0141PRACA: biznes@bungee.gg"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "1298436",
+                "likeCount": "77614",
+                "favoriteCount": "0",
+                "commentCount": "1888"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pIm4DOERRwW7kkgzZMzNteN_gMg",
+            "id": "iJYTAQQCQm8",
+            "snippet": {
+                "publishedAt": "2025-04-30T21:13:56Z",
+                "channelId": "UCTVB8m2FcbwBsi6DHsGSuVw",
+                "title": "ABSOLUTNE KINO! GOL PO 30 SEKUNDACH I NIESAMOWITE ZWROTY AKCJI! BARCELONA - INTER, SKR\u00d3T MECZU",
+                "description": "REKLAMA: Zarejestruj si\u0119 na Superbet z kodem C34 i odbierz do 3754 PLN na start!  https://superbet.pl/lp/superelevator-wo-canal-plus\n\nXTB | Wybierz IKE najlepsze dla Twojej emerytury! https://link-pso.xtb.com/pso/EY8Zp | Oferowane instrumenty finansowe s\u0105 ryzykowne. Inwestuj odpowiedzialnie.\n\n\ud83d\udc49 Superbet jest laureatem nagr\u00f3d Najlepszy Bukmacher (w plebiscytach: Zagranie 2023, iGaming Polska 2023 oraz Legalni Bukmacherzy 2023) i Najlepsza Aplikacja bukmacherska (plebiscyty: iGaming Polska 2023 oraz Legalni Bukmacherzy 2023).\n\nSuperbet posiada zezwolenie na urz\u0105dzanie zak\u0142ad\u00f3w. Hazard wi\u0105\u017ce si\u0119 z ryzykiem, a udzia\u0142 w nielegalnych grach mo\u017ce by\u0107 karalny. 18+\n\n#fcbarcelona #inter #uefachampionsleague",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iJYTAQQCQm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iJYTAQQCQm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iJYTAQQCQm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iJYTAQQCQm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iJYTAQQCQm8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CANAL+ SPORT",
+                "tags": [
+                    "canal+",
+                    "canalplusonline",
+                    "canal plus sport",
+                    "canal+ sport",
+                    "pi\u0142ka no\u017cna",
+                    "futbol",
+                    "cana\u0142 plus sport",
+                    "champions league",
+                    "liga mistrz\u00f3w skr\u00f3ty",
+                    "champions league skr\u00f3ty",
+                    "barcelona inter skr\u00f3t meczu",
+                    "barcelona inter highlights",
+                    "barcelona inter 3:3 skr\u00f3t",
+                    "barcelona 3:3 inter highlights",
+                    "szcz\u0119sny inter",
+                    "lewandowski inter",
+                    "lamine yamal inter",
+                    "raphinha inter",
+                    "denzel dumfries barcelona",
+                    "p\u00f3\u0142fina\u0142 ligi mistrz\u00f3w",
+                    "liga mistrz\u00f3w highlights",
+                    "hansi flick",
+                    "marcus thuram",
+                    "raphinha",
+                    "barca inter 3:3"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ABSOLUTNE KINO! GOL PO 30 SEKUNDACH I NIESAMOWITE ZWROTY AKCJI! BARCELONA - INTER, SKR\u00d3T MECZU",
+                    "description": "REKLAMA: Zarejestruj si\u0119 na Superbet z kodem C34 i odbierz do 3754 PLN na start!  https://superbet.pl/lp/superelevator-wo-canal-plus\n\nXTB | Wybierz IKE najlepsze dla Twojej emerytury! https://link-pso.xtb.com/pso/EY8Zp | Oferowane instrumenty finansowe s\u0105 ryzykowne. Inwestuj odpowiedzialnie.\n\n\ud83d\udc49 Superbet jest laureatem nagr\u00f3d Najlepszy Bukmacher (w plebiscytach: Zagranie 2023, iGaming Polska 2023 oraz Legalni Bukmacherzy 2023) i Najlepsza Aplikacja bukmacherska (plebiscyty: iGaming Polska 2023 oraz Legalni Bukmacherzy 2023).\n\nSuperbet posiada zezwolenie na urz\u0105dzanie zak\u0142ad\u00f3w. Hazard wi\u0105\u017ce si\u0119 z ryzykiem, a udzia\u0142 w nielegalnych grach mo\u017ce by\u0107 karalny. 18+\n\n#fcbarcelona #inter #uefachampionsleague"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "786269",
+                "likeCount": "15459",
+                "favoriteCount": "0",
+                "commentCount": "1263"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1UXV8n2sGp8tuqr0QsP9XYpEmNw",
+            "id": "3IVDHT8OvCI",
+            "snippet": {
+                "publishedAt": "2025-05-01T13:33:19Z",
+                "channelId": "UCveJnHQxFeC9fN-_1r6C3SQ",
+                "title": "CO TO ZA D\u0179WI\u0118KI?!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3IVDHT8OvCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3IVDHT8OvCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3IVDHT8OvCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3IVDHT8OvCI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3IVDHT8OvCI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Doro",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CO TO ZA D\u0179WI\u0118KI?!",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "253225",
+                "favoriteCount": "0",
+                "commentCount": "55"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dg7xc9Q6fNdeBb-ROb7sQVqoy0k",
+            "id": "ruluXW9L8Rk",
+            "snippet": {
+                "publishedAt": "2025-04-27T15:14:27Z",
+                "channelId": "UCF7NsKMoA6tOP62oCh805-A",
+                "title": "\ud83e\udda0Minecraft Run Challenge\ud83d\udfe9 | Great Pig\ud83d\udc37 vs Zombie\ud83e\udddf\u200d\u2642\ufe0f vs Steve\ud83e\udd37\u200d\u2642\ufe0f vs \u2753\u2b1b\ufe0f | Who's last?\ud83d\udc40",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ruluXW9L8Rk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ruluXW9L8Rk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ruluXW9L8Rk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ruluXW9L8Rk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ruluXW9L8Rk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RezoHulk",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\ud83e\udda0Minecraft Run Challenge\ud83d\udfe9 | Great Pig\ud83d\udc37 vs Zombie\ud83e\udddf\u200d\u2642\ufe0f vs Steve\ud83e\udd37\u200d\u2642\ufe0f vs \u2753\u2b1b\ufe0f | Who's last?\ud83d\udc40",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "25967264",
+                "likeCount": "390760",
+                "favoriteCount": "0",
+                "commentCount": "449"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-uyxB_OxIq1Bu07Hj8Opm0-Xrn0",
+            "id": "c5Y85Cy54h8",
+            "snippet": {
+                "publishedAt": "2025-04-26T01:00:42Z",
+                "channelId": "UCy_WCbqwp5ZZ4zNwAyMChiA",
+                "title": "\ud83e\udd1dTeamwork In Theory\ud83d\udca5 Vs Teamwork In Real Life\ud83d\udc80 \ud83c\udfaf",
+                "description": "SUBSCRIBE & ADOPT A KATANA WITH THE LINK IN BIO!! \n\nIf you love katana unboxing, then you'll love this. See the Katanas slice in action as satisfying as ASMR! These aren't rusted katanas! Sword-making, blacksmithing, knife making, and katana making are Mini Katana's passions! If you love anime like One Piece, Naruto, Demon Slayer, Attack on Titan, Miira No Kaikata, Mugen Train, Jujutsu Kaisen, sword art online abridged, slice of life anime, chainsaw man vs katana, afro samurai and are excited about the Swordsmith arc, you're gonna love our ninja weapons! Mini Katana is the founding titan of katana making, knife making, and the mini katana keychain. Learn how to draw a katana and how to make kunai like Naruto. We are the last samurai. We love Japanese anime, Japanese history, Japanese lofi, Japanese movies, and Japanese songs. Subscribe to watch mini katana unboxing, how to make a katana with cardboard and with paper, and more!  The Mini Katana Store is committed to high quality carbon steel blades and giving you slice of life looks as we try not to laugh challenge. Trust, Mini Katana knows how to make kunai and how to make a sword!\n\n--OUR SOCIALS--\nINSTAGRAM \u25ba https://www.instagram.com/minikatanastore\nTWITTER \u25ba https://twitter.com/minikatanastore\nTIKTOK \u25ba https://www.tiktok.com/@mini.katana\nDISCORD \u25ba http://discord.gg/minikatana\n\nFor questions, email us at hello@minikatana.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c5Y85Cy54h8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c5Y85Cy54h8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c5Y85Cy54h8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c5Y85Cy54h8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c5Y85Cy54h8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mini Katana",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\ud83e\udd1dTeamwork In Theory\ud83d\udca5 Vs Teamwork In Real Life\ud83d\udc80 \ud83c\udfaf",
+                    "description": "SUBSCRIBE & ADOPT A KATANA WITH THE LINK IN BIO!! \n\nIf you love katana unboxing, then you'll love this. See the Katanas slice in action as satisfying as ASMR! These aren't rusted katanas! Sword-making, blacksmithing, knife making, and katana making are Mini Katana's passions! If you love anime like One Piece, Naruto, Demon Slayer, Attack on Titan, Miira No Kaikata, Mugen Train, Jujutsu Kaisen, sword art online abridged, slice of life anime, chainsaw man vs katana, afro samurai and are excited about the Swordsmith arc, you're gonna love our ninja weapons! Mini Katana is the founding titan of katana making, knife making, and the mini katana keychain. Learn how to draw a katana and how to make kunai like Naruto. We are the last samurai. We love Japanese anime, Japanese history, Japanese lofi, Japanese movies, and Japanese songs. Subscribe to watch mini katana unboxing, how to make a katana with cardboard and with paper, and more!  The Mini Katana Store is committed to high quality carbon steel blades and giving you slice of life looks as we try not to laugh challenge. Trust, Mini Katana knows how to make kunai and how to make a sword!\n\n--OUR SOCIALS--\nINSTAGRAM \u25ba https://www.instagram.com/minikatanastore\nTWITTER \u25ba https://twitter.com/minikatanastore\nTIKTOK \u25ba https://www.tiktok.com/@mini.katana\nDISCORD \u25ba http://discord.gg/minikatana\n\nFor questions, email us at hello@minikatana.com"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "51427781",
+                "likeCount": "852678",
+                "favoriteCount": "0",
+                "commentCount": "1143"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RVjceOAKNB-CYhYW6doJB8ISdR4",
+            "id": "sJkrsFt47O4",
+            "snippet": {
+                "publishedAt": "2025-04-28T03:09:23Z",
+                "channelId": "UCUfP26mozkiTLZj5eBpFPeQ",
+                "title": "the silence was LOUD",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sJkrsFt47O4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sJkrsFt47O4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sJkrsFt47O4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sJkrsFt47O4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sJkrsFt47O4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tik Cover",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "the silence was LOUD",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "15705062",
+                "likeCount": "506663",
+                "favoriteCount": "0",
+                "commentCount": "3528"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s_jN3Q6CpmgA3eODT6kbzFpQU_0",
+            "id": "AAcLJSstNao",
+            "snippet": {
+                "publishedAt": "2025-04-24T22:12:48Z",
+                "channelId": "UCDcVU9pGEDwDjIXOrdiENkw",
+                "title": "Julia Wieniawa - Od nowa (visualizer)",
+                "description": "\ud83c\udfa7Pos\u0142uchaj w streamingach\ud83c\udfa7 : https://e-muzyka.link/JuliaWieniawaOdnowa\n\ud83c\udfa7Kup merch: https://juliawieniawa.store\n\nJulia Wieniawa - \u201cOd Nowa\u201d \n\n\nMuzyka: Julia Wieniawa, LEEO, Jeremi Sikorski, Monika Wydrzy\u0144ska\nTekst: Julia Wieniawa, Jeremi Sikorski \nProdukcja: WOLF HOUSE\nMix/master: Maurycy \u017b\u00f3\u0142ta\u0144ski  \n\nWydawca: WIENIAWA RECORDS \nmanagement: Marta Wieniawa\n\nFotograf: Dorota Szulc @szulcworks\nGaffer & asystent fotografa: Bartek Sucho\u0144 @bartek_rouky\n2 Asystent fotografa: Arek Pola\u0144ski\nStudio & o\u015bwietlenie: Studio T\u0119cza \nDigital: Studio Daylight\nDOP: Jakub B\u0142\u0119dowski @arszenik\nRe\u017cyseria: Julia Wieniawa, Dorota Szulc\n\n#JuliaWieniawa #OdNowa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AAcLJSstNao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AAcLJSstNao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AAcLJSstNao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AAcLJSstNao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AAcLJSstNao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Julia Wieniawa",
+                "tags": [
+                    "Julia Wieniawa",
+                    "Od nowa",
+                    "Julia Wieniawa Od nowa",
+                    "teledysk Od nowa",
+                    "Julia Wieniawa nowa piosenka",
+                    "Julia Wieniawa teledysk",
+                    "Julia Wieniawa 2025",
+                    "Julia Wieniawa premiera",
+                    "Julia Wieniawa TikTok",
+                    "Julia Wieniawa Instagram",
+                    "Julia Wieniawa aktorka",
+                    "Julia Wieniawa wokalistka",
+                    "Kocham",
+                    "Sob\u0105 Tak",
+                    "Nad Morze",
+                    "Pop\u0142yniemy",
+                    "Nic Nie Zmieni?",
+                    "Oszalej\u0119",
+                    "Nie musz\u0119",
+                    "Zabierz t\u0119 mi\u0142o\u015b\u0107",
+                    "Rozkosz",
+                    "Milczysz",
+                    "Julia Wieniawa koncert",
+                    "Julia Wieniawa wywiad",
+                    "Julia Wieniawa live",
+                    "Julia Wieniawa backstage"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Julia Wieniawa - Od nowa (visualizer)",
+                    "description": "\ud83c\udfa7Pos\u0142uchaj w streamingach\ud83c\udfa7 : https://e-muzyka.link/JuliaWieniawaOdnowa\n\ud83c\udfa7Kup merch: https://juliawieniawa.store\n\nJulia Wieniawa - \u201cOd Nowa\u201d \n\n\nMuzyka: Julia Wieniawa, LEEO, Jeremi Sikorski, Monika Wydrzy\u0144ska\nTekst: Julia Wieniawa, Jeremi Sikorski \nProdukcja: WOLF HOUSE\nMix/master: Maurycy \u017b\u00f3\u0142ta\u0144ski  \n\nWydawca: WIENIAWA RECORDS \nmanagement: Marta Wieniawa\n\nFotograf: Dorota Szulc @szulcworks\nGaffer & asystent fotografa: Bartek Sucho\u0144 @bartek_rouky\n2 Asystent fotografa: Arek Pola\u0144ski\nStudio & o\u015bwietlenie: Studio T\u0119cza \nDigital: Studio Daylight\nDOP: Jakub B\u0142\u0119dowski @arszenik\nRe\u017cyseria: Julia Wieniawa, Dorota Szulc\n\n#JuliaWieniawa #OdNowa"
+                }
+            },
+            "statistics": {
+                "viewCount": "1596026",
+                "likeCount": "19485",
+                "favoriteCount": "0",
+                "commentCount": "596"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fa4-wEEYiRG7n4AdzbAF3ETroAY",
+            "id": "uoNr-izIr0o",
+            "snippet": {
+                "publishedAt": "2025-04-28T20:12:24Z",
+                "channelId": "UCU8ueU3NrJdum0m94TJSdkw",
+                "title": "Skandaliczne s\u0142owa podczas debaty. Wszystkie wypowiedzi Grzegorza Brauna | Gazeta.pl",
+                "description": "28 kwietnia odby\u0142a si\u0119 debata prezydencka Super Expressu. Po raz pierwszy na debacie obecni byli wszyscy kandydaci w wyborach prezydenckich. Uwag\u0119 i sprzeciw wielu kandydat\u00f3w wzbudzi\u0142y wypowiedzi Grzegorza Brauna. Kandydat Konfederacji Korony Polskiej u\u017cywa\u0142 mocnych s\u0142\u00f3w, kt\u00f3re cz\u0119sto spotyka\u0142y si\u0119 z krytyk\u0105. Magdalena Biejat wypowiedzi Brauna nazwa\u0142a \"antysemityzmem\". Rafa\u0142 Trzaskowski stwierdzi\u0142, \u017ce dla polityk\u00f3w takich jak Braun \"nie powinno by\u0107 miejsca w polityce\". \nPrezentujemy wszystkie wypowiedzi Grzegorza Brauna podczas debaty prezydenckiej Super Expressu.\n#debata #wybory #braun #debatasuperexpress\n\ud83d\udd34Wi\u0119cej na: http://Gazeta.pl\n\ud83d\udd34FB: http://facebook.com/gazetapl\n\ud83d\udd34IG: http://instagram.com/gazetapl\n\ud83d\udd34TikTok: http://tiktok.com/@gazeta_pl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uoNr-izIr0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uoNr-izIr0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uoNr-izIr0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uoNr-izIr0o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uoNr-izIr0o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gazeta.pl",
+                "tags": [
+                    "news",
+                    "wiadomo\u015bci",
+                    "informacje",
+                    "gazeta",
+                    "gazetapl",
+                    "wyborcza",
+                    "debata super express",
+                    "debata super expressu",
+                    "braun debata",
+                    "grzegorz braun",
+                    "braun o \u017cydach",
+                    "biejat braun",
+                    "braun trzaskowski",
+                    "braun kontra trzaskowski",
+                    "debata prezydencka",
+                    "debata",
+                    "wybory",
+                    "wybory prezydenckie",
+                    "wszystkie wypowiedzi brauna",
+                    "wypowiedzi brauna"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Skandaliczne s\u0142owa podczas debaty. Wszystkie wypowiedzi Grzegorza Brauna | Gazeta.pl",
+                    "description": "28 kwietnia odby\u0142a si\u0119 debata prezydencka Super Expressu. Po raz pierwszy na debacie obecni byli wszyscy kandydaci w wyborach prezydenckich. Uwag\u0119 i sprzeciw wielu kandydat\u00f3w wzbudzi\u0142y wypowiedzi Grzegorza Brauna. Kandydat Konfederacji Korony Polskiej u\u017cywa\u0142 mocnych s\u0142\u00f3w, kt\u00f3re cz\u0119sto spotyka\u0142y si\u0119 z krytyk\u0105. Magdalena Biejat wypowiedzi Brauna nazwa\u0142a \"antysemityzmem\". Rafa\u0142 Trzaskowski stwierdzi\u0142, \u017ce dla polityk\u00f3w takich jak Braun \"nie powinno by\u0107 miejsca w polityce\". \nPrezentujemy wszystkie wypowiedzi Grzegorza Brauna podczas debaty prezydenckiej Super Expressu.\n#debata #wybory #braun #debatasuperexpress\n\ud83d\udd34Wi\u0119cej na: http://Gazeta.pl\n\ud83d\udd34FB: http://facebook.com/gazetapl\n\ud83d\udd34IG: http://instagram.com/gazetapl\n\ud83d\udd34TikTok: http://tiktok.com/@gazeta_pl"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "551204",
+                "likeCount": "15629",
+                "favoriteCount": "0",
+                "commentCount": "9362"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kwOAreHfCvvMcKq5F9QyxpfTjdY",
+            "id": "fZW-5R7nUmk",
+            "snippet": {
+                "publishedAt": "2025-04-26T12:33:37Z",
+                "channelId": "UCNFT_eq_QCApMEwCACHto9Q",
+                "title": "Pranking my friend \ud83d\udc80",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fZW-5R7nUmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fZW-5R7nUmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fZW-5R7nUmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fZW-5R7nUmk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fZW-5R7nUmk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Speed McQueen ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "Pranking my friend \ud83d\udc80",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "statistics": {
+                "viewCount": "20697690",
+                "likeCount": "1178040",
+                "favoriteCount": "0",
+                "commentCount": "4505"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LyRJR1BN-a9x2Xl3Z9YTYbTRsD0",
+            "id": "yhbGCg8Oq-w",
+            "snippet": {
+                "publishedAt": "2025-04-26T04:01:08Z",
+                "channelId": "UC9yZkmteI0_1cprtkSar45A",
+                "title": "Be sure to remember this trick. How to make a vacuum cleaner attachment for hard to reach places",
+                "description": "Be sure to remember this trick. How to make a vacuum cleaner attachment for hard to reach places. Helpful lifehacks for home. Useful diy idea\n\n#shorts #diy #tips #tricks #howto #handmade #craft",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yhbGCg8Oq-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yhbGCg8Oq-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yhbGCg8Oq-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yhbGCg8Oq-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yhbGCg8Oq-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tips Workshop",
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Be sure to remember this trick. How to make a vacuum cleaner attachment for hard to reach places",
+                    "description": "Be sure to remember this trick. How to make a vacuum cleaner attachment for hard to reach places. Helpful lifehacks for home. Useful diy idea\n\n#shorts #diy #tips #tricks #howto #handmade #craft"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "35674658",
+                "likeCount": "443622",
+                "favoriteCount": "0",
+                "commentCount": "535"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "x1PopwJHoKnbez_2EaecxhKPOXs",
+            "id": "AtaGspLbs6M",
+            "snippet": {
+                "publishedAt": "2025-04-24T12:30:07Z",
+                "channelId": "UCalZDLHUJpNk65HKF4V00LQ",
+                "title": "Sobel \"CHA CHA\"",
+                "description": "Pos\u0142uchaj w cyfrze: https://sobel.lnk.to/CHACHA\nZam\u00f3w album \"NAPISZ JAK B\u0118DZIESZ\": https://napiszjakbedziesz.pl\n\nInstagram: https://instagram.com/szymonsobel\nFacebook: https://facebook.com/simonsobelofficial\n\nS\u0142owa: Sobel\nMuzyka: SHDOW, francis\nRealizacja wokali: Sobel, Adam Kubera\nMix: ENZU, Sobel\nMaster: ENZU\n\nRe\u017cyser: Ernest Lorek\n1AD: Martyna Byczkowska\nCreative Director: Sobel, Martyna Byczkowska\nDOP: Igor Po\u0142aniewicz (@igor_polaniewicz_dop) \n\nExecutive Producer: Micha\u0142 Majewski (@shootman), Marysia Surzycka (@surzycka) | SHOOTME\nProducentka: Magdalena Potocka-Zwo\u017ana (@maaagdalenazw) | SHOOTME\nKierowniczka Produkcji: Emilia Mitka (@mimimitka) SHOOTME\nKoordynatorka Produkcji: Natala Piekut (@natalapiekut_) | SHOOTME\n\n1st AD: Ernest Lorek \n1AC: Tomasz Czerwi\u0144ski \n2AC: Piotr Bo\u017cyczko \nGaffer: Patryk Zadro\u017cny\nO\u015bwietlacze: Mateusz Dybiec, Szymon Gronau, Mariusz Szcz\u0119sny, Bartek Baran\nOperator Konsoli: Oskar Sawicki\nGrip: Patryk \u015awirski\nSteadicam: Nikita Creagh\nAsystent Steadicamu: Filip Wyszy\u0144ski\nD\u017awi\u0119k na planie: Micha\u0142 Wawro\nDy\u017cur: Hubert Bia\u0142ek | Dardzin Dy\u017cur\n\nChoreografia: Aneta Jankowska \nMake up: Zuzanna Chmielewska \nHair stylist: GABA HAIR\nStyl: Sobel, Linda Goli\u0144ska\nStylizacje Martyna Byczkowska: Dominik Szatkowski\nMake up i hair na planie: Koleta Gabrysiak\n\nOffline/Online/VFX: Micha\u0142 Soja\nKolorkorekcja: Szymon Kraszewski\nStudio Postprodukcyjne: MI\u0141O\n\nCast: Sobel, Martyna Byczkowska, Kuba \u017b\u0105d\u0142o, Zuzanna Fortuna, Mateusz \u201cPablo\u201d Szumski, Szymon Detko, Zuzanna Chmielewska, Magdalena Potocka-Zwo\u017ana, Natalia Piekut \n\nSprz\u0119t Kamerowy: ATM System, Panavision\nSprz\u0119t o\u015bwietleniowy: Heliograf\n\n#sobel #napiszjakbedziesz #chacha",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AtaGspLbs6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AtaGspLbs6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AtaGspLbs6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AtaGspLbs6M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AtaGspLbs6M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sobel",
+                "tags": [
+                    "cha cha",
+                    "sobel",
+                    "bandyta",
+                    "impreza",
+                    "fio\u0142kowe pole",
+                    "piosenki",
+                    "sanah",
+                    "sobel wygladasz tak pieknie",
+                    "sobel impreza",
+                    "sobel bandyta",
+                    "wygladasz tak pieknie",
+                    "sobel sanah",
+                    "kinol",
+                    "drobna zabawa",
+                    "czesc jak sie masz",
+                    "biznes",
+                    "alien",
+                    "daj mi znac",
+                    "presja",
+                    "bandyta sobel",
+                    "dziary na p\u00f3\u0142 ryja",
+                    "mata",
+                    "oki",
+                    "otsochodzi",
+                    "young igi",
+                    "oio",
+                    "quequality",
+                    "quebonafide",
+                    "patologiczny zew",
+                    "pull up",
+                    "sobel pull up",
+                    "p\u0142apka na motyle",
+                    "kontrast",
+                    "smolasty",
+                    "guzior",
+                    "gibbs",
+                    "mr. polska",
+                    "white 2115",
+                    "bedoes",
+                    "malik montana",
+                    "kizo",
+                    "bia\u0142as",
+                    "\u017cabson"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "Sobel \"CHA CHA\"",
+                    "description": "Pos\u0142uchaj w cyfrze: https://sobel.lnk.to/CHACHA\nZam\u00f3w album \"NAPISZ JAK B\u0118DZIESZ\": https://napiszjakbedziesz.pl\n\nInstagram: https://instagram.com/szymonsobel\nFacebook: https://facebook.com/simonsobelofficial\n\nS\u0142owa: Sobel\nMuzyka: SHDOW, francis\nRealizacja wokali: Sobel, Adam Kubera\nMix: ENZU, Sobel\nMaster: ENZU\n\nRe\u017cyser: Ernest Lorek\n1AD: Martyna Byczkowska\nCreative Director: Sobel, Martyna Byczkowska\nDOP: Igor Po\u0142aniewicz (@igor_polaniewicz_dop) \n\nExecutive Producer: Micha\u0142 Majewski (@shootman), Marysia Surzycka (@surzycka) | SHOOTME\nProducentka: Magdalena Potocka-Zwo\u017ana (@maaagdalenazw) | SHOOTME\nKierowniczka Produkcji: Emilia Mitka (@mimimitka) SHOOTME\nKoordynatorka Produkcji: Natala Piekut (@natalapiekut_) | SHOOTME\n\n1st AD: Ernest Lorek \n1AC: Tomasz Czerwi\u0144ski \n2AC: Piotr Bo\u017cyczko \nGaffer: Patryk Zadro\u017cny\nO\u015bwietlacze: Mateusz Dybiec, Szymon Gronau, Mariusz Szcz\u0119sny, Bartek Baran\nOperator Konsoli: Oskar Sawicki\nGrip: Patryk \u015awirski\nSteadicam: Nikita Creagh\nAsystent Steadicamu: Filip Wyszy\u0144ski\nD\u017awi\u0119k na planie: Micha\u0142 Wawro\nDy\u017cur: Hubert Bia\u0142ek | Dardzin Dy\u017cur\n\nChoreografia: Aneta Jankowska \nMake up: Zuzanna Chmielewska \nHair stylist: GABA HAIR\nStyl: Sobel, Linda Goli\u0144ska\nStylizacje Martyna Byczkowska: Dominik Szatkowski\nMake up i hair na planie: Koleta Gabrysiak\n\nOffline/Online/VFX: Micha\u0142 Soja\nKolorkorekcja: Szymon Kraszewski\nStudio Postprodukcyjne: MI\u0141O\n\nCast: Sobel, Martyna Byczkowska, Kuba \u017b\u0105d\u0142o, Zuzanna Fortuna, Mateusz \u201cPablo\u201d Szumski, Szymon Detko, Zuzanna Chmielewska, Magdalena Potocka-Zwo\u017ana, Natalia Piekut \n\nSprz\u0119t Kamerowy: ATM System, Panavision\nSprz\u0119t o\u015bwietleniowy: Heliograf\n\n#sobel #napiszjakbedziesz #chacha"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "1291641",
+                "likeCount": "21150",
+                "favoriteCount": "0",
+                "commentCount": "336"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oZD-4OaZQVXWdHNtQqSebja5n3Y",
+            "id": "snvSrRxxZKY",
+            "snippet": {
+                "publishedAt": "2025-04-28T10:09:53Z",
+                "channelId": "UCrJWZ7alH95D8Rd0gyYaugQ",
+                "title": "EDDIE HALL PRZEPRASZA PUDZIANA ZA NIELEGALNE CIOSY",
+                "description": "\u2764\ufe0f\ud83d\udd14 SUBSKRYBUJ kana\u0142 Interia Sport: https://bit.ly/SUBSKRYBUJ-InteriaSport\n\n\u2b07\ufe0f OGL\u0104DAJ w INTERII SPORT skr\u00f3ty najpopularniejszych rozgrywek \u2b07\ufe0f\n\ud83c\udf1fLIGA MISTRZ\u00d3W: https://sport.interia.pl/liga-mistrzow-skroty\n\ud83c\uddee\ud83c\uddf9SERIE A: https://sport.interia.pl/serie-a-skroty\n\ud83c\uddeb\ud83c\uddf7LIGUE 1: https://sport.interia.pl/ligue-1-skroty\n\ud83c\udfd0PlusLiga: https://sport.interia.pl/siatkowka\n\ud83c\udf0dEl. M\u015a 2022: https://sport.interia.pl/raporty/raport-eliminacje-ms-2022/wideo\n\n\ud83d\udcf0WEJD\u0179 NA https://sport.interia.pl/ po wi\u0119cej news\u00f3w i ciekawych artyku\u0142\u00f3w.\n\nOBSERWUJ nas i b\u0105d\u017a na bie\u017c\u0105co:\n\ud83d\udc26TWITTER: https://twitter.com/SportINTERIA\n\ud83e\udd33INSTAGRAM: https://www.instagram.com/sportinteria/\n\ud83d\udcd8FACEBOOK: https://www.facebook.com/interiasport",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/snvSrRxxZKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/snvSrRxxZKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/snvSrRxxZKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/snvSrRxxZKY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/snvSrRxxZKY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Interia Sport",
+                "tags": [
+                    "sport",
+                    "interia",
+                    "eDDIE HALL",
+                    "PUDZIAN",
+                    "PUDZIANOWSKI",
+                    "WALKA",
+                    "MMA",
+                    "FIGHT",
+                    "NOKAUT",
+                    "KNOCKOUT"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "EDDIE HALL PRZEPRASZA PUDZIANA ZA NIELEGALNE CIOSY",
+                    "description": "\u2764\ufe0f\ud83d\udd14 SUBSKRYBUJ kana\u0142 Interia Sport: https://bit.ly/SUBSKRYBUJ-InteriaSport\n\n\u2b07\ufe0f OGL\u0104DAJ w INTERII SPORT skr\u00f3ty najpopularniejszych rozgrywek \u2b07\ufe0f\n\ud83c\udf1fLIGA MISTRZ\u00d3W: https://sport.interia.pl/liga-mistrzow-skroty\n\ud83c\uddee\ud83c\uddf9SERIE A: https://sport.interia.pl/serie-a-skroty\n\ud83c\uddeb\ud83c\uddf7LIGUE 1: https://sport.interia.pl/ligue-1-skroty\n\ud83c\udfd0PlusLiga: https://sport.interia.pl/siatkowka\n\ud83c\udf0dEl. M\u015a 2022: https://sport.interia.pl/raporty/raport-eliminacje-ms-2022/wideo\n\n\ud83d\udcf0WEJD\u0179 NA https://sport.interia.pl/ po wi\u0119cej news\u00f3w i ciekawych artyku\u0142\u00f3w.\n\nOBSERWUJ nas i b\u0105d\u017a na bie\u017c\u0105co:\n\ud83d\udc26TWITTER: https://twitter.com/SportINTERIA\n\ud83e\udd33INSTAGRAM: https://www.instagram.com/sportinteria/\n\ud83d\udcd8FACEBOOK: https://www.facebook.com/interiasport"
+                }
+            },
+            "statistics": {
+                "viewCount": "262374",
+                "likeCount": "7072",
+                "favoriteCount": "0",
+                "commentCount": "324"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "z3WBuOSMmiA3XkEC5GQhO9JhwPA",
+            "id": "1NrdVsmZBXQ",
+            "snippet": {
+                "publishedAt": "2025-04-05T16:22:00Z",
+                "channelId": "UCoRVnrDmJ1Ywt11YHxfAjSw",
+                "title": "I Tested The Sharpest Japanese Knife",
+                "description": "We Tested the World\u2019s Sharpest Knife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1NrdVsmZBXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1NrdVsmZBXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1NrdVsmZBXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1NrdVsmZBXQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1NrdVsmZBXQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Richey Family",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I Tested The Sharpest Japanese Knife",
+                    "description": "We Tested the World\u2019s Sharpest Knife"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "58358189",
+                "likeCount": "1500229",
+                "favoriteCount": "0",
+                "commentCount": "1924"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YLg-C96mg8_OA1uxtXjaETYlJTQ",
+            "id": "RQK1TiLyFQg",
+            "snippet": {
+                "publishedAt": "2025-04-28T18:30:36Z",
+                "channelId": "UCXNG9C7Kyusq5ir2XZ-qFdg",
+                "title": "MULTI ogl\u0105da CASTING DO TWOJE 5 MINUT 3!",
+                "description": "Young Multi ogl\u0105da CASTING DO TWOJE 5 MINUT 3!\nObejrzyj Orygina\u0142: https://www.youtube.com/watch?v=PjnJTb3wlrM\n\nTwoja przegl\u0105darka Ci\u0119 ogranicza. Przesi\u0105d\u017a si\u0119 na Oper\u0119 GX: \nhttps://operagx.gg/GXMulti11 [Reklama]\n\nTwitch: https://www.twitch.tv/youngmulti (poniedzia\u0142ek, wtorek, czwartek - 18:00)\n\nSOCIAL MEDIA & KONTAKT:\nBOOKING KONCERTOWY: youngmulti@big-idea.eu\nBIZNES: multi@stormmedia.gg\nTWITTER: https://twitter.com/young_multi\nTIKTOK: https://www.tiktok.com/@youngxmulti/\nINSTAGRAM: https://www.instagram.com/youngmulti/\nFB: https://www.facebook.com/YoungMulti/\nDISCORD: https://discord.gg/youngmulti\nSOUNDCLOUD: https://soundcloud.com/youngmulti\n\nJe\u015bli jeste\u015b w\u0142a\u015bcicielem tre\u015bci w tym filmie i chcia\u0142by\u015b, aby zosta\u0142y one usuni\u0119te - skontaktuj si\u0119 na biznes@yfl.pl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RQK1TiLyFQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RQK1TiLyFQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RQK1TiLyFQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RQK1TiLyFQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RQK1TiLyFQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YOUNG MULTI LIVE",
+                "tags": [
+                    "multi",
+                    "young multi",
+                    "shoty z live",
+                    "szoty",
+                    "funny moments",
+                    "twitch",
+                    "reakcja",
+                    "reaguje",
+                    "ogl\u0105da",
+                    "szczera opinia",
+                    "yfl",
+                    "yfl gaming",
+                    "among us",
+                    "among",
+                    "among us vr",
+                    "vr",
+                    "sus",
+                    "merghani",
+                    "xmerghani",
+                    "mrgh",
+                    "kaleson",
+                    "xkaleson",
+                    "miszel",
+                    "kasix",
+                    "medusa",
+                    "ortis",
+                    "anterias",
+                    "bonkol",
+                    "slayproxx",
+                    "slayprox",
+                    "aki",
+                    "xayoo",
+                    "xayoo industries",
+                    "lukisteve",
+                    "popo",
+                    "vysotzky",
+                    "njn",
+                    "bladii",
+                    "matiskater",
+                    "mati skater"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MULTI ogl\u0105da CASTING DO TWOJE 5 MINUT 3!",
+                    "description": "Young Multi ogl\u0105da CASTING DO TWOJE 5 MINUT 3!\nObejrzyj Orygina\u0142: https://www.youtube.com/watch?v=PjnJTb3wlrM\n\nTwoja przegl\u0105darka Ci\u0119 ogranicza. Przesi\u0105d\u017a si\u0119 na Oper\u0119 GX: \nhttps://operagx.gg/GXMulti11 [Reklama]\n\nTwitch: https://www.twitch.tv/youngmulti (poniedzia\u0142ek, wtorek, czwartek - 18:00)\n\nSOCIAL MEDIA & KONTAKT:\nBOOKING KONCERTOWY: youngmulti@big-idea.eu\nBIZNES: multi@stormmedia.gg\nTWITTER: https://twitter.com/young_multi\nTIKTOK: https://www.tiktok.com/@youngxmulti/\nINSTAGRAM: https://www.instagram.com/youngmulti/\nFB: https://www.facebook.com/YoungMulti/\nDISCORD: https://discord.gg/youngmulti\nSOUNDCLOUD: https://soundcloud.com/youngmulti\n\nJe\u015bli jeste\u015b w\u0142a\u015bcicielem tre\u015bci w tym filmie i chcia\u0142by\u015b, aby zosta\u0142y one usuni\u0119te - skontaktuj si\u0119 na biznes@yfl.pl"
+                }
+            },
+            "statistics": {
+                "viewCount": "395172",
+                "likeCount": "15986",
+                "favoriteCount": "0",
+                "commentCount": "229"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "C5BewpruJYkdV27WBtTjoJyzAKo",
+            "id": "sddPPwD-CE8",
+            "snippet": {
+                "publishedAt": "2025-04-27T14:31:08Z",
+                "channelId": "UCalwFtq-BVcszKLZ5k2vbLw",
+                "title": "SZCZ\u0118SNY O FRYZURZE LAMINE YAMALA #SHORTS",
+                "description": "Wojciech Szcz\u0119sny na temat fryzury klubowego kolegi z FC Barcelona, Lamine Yamala.\n\nPOBIERZ NASZ\u0104 APLIKACJ\u0118 MOBILN\u0104 \ud83d\udcf2\n\ud83d\udc49 APP STORE: https://apple.co/3wvJAVu\n\ud83d\udc49 GOOGLE PLAY: https://bit.ly/3wu4h3Z\n\ud83d\udc49 HUAWEI APPGALERY:  https://bit.ly/39n68zA\n\n\ud83d\udc49 SUBSKRYBUJ NASZ KANA\u0141: https://www.youtube.com/user/sporttvppl?sub_confirmation=1\n\n\n\n\ud83d\udc49 OGL\u0104DAJ TRANSMISJE SPORTOWE ON-LINE: https://sport.tvp.pl/\n\ud83d\udc49 ODWIED\u0179 NASZ FANPAGE: https://www.facebook.com/tvpsport/\n\ud83d\udc49 ZAOBSERWUJ NAS NA INSTAGRAMIE: https://www.instagram.com/tvpsport/\n\ud83d\udc49 \u015aLED\u0179 PROFIL NA TWITTERZE: https://twitter.com/sport_tvppl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sddPPwD-CE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sddPPwD-CE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sddPPwD-CE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sddPPwD-CE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sddPPwD-CE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TVP Sport ",
+                "tags": [
+                    "TVP Sport",
+                    "Szcz\u0119sny",
+                    "Wojciech Szcz\u0119sny",
+                    "Szcz\u0119sny Barcelona",
+                    "Barcelona Szcz\u0119sny",
+                    "Wojciech Szcz\u0119sny Barcelona",
+                    "Lamine Yamal",
+                    "Lamine Yamal fryzura",
+                    "szcz\u0119sny yamal",
+                    "yamal szcz\u0119sny",
+                    "barcelona real",
+                    "barcelona real 3 2",
+                    "barcelona real puchar kr\u00f3la"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SZCZ\u0118SNY O FRYZURZE LAMINE YAMALA #SHORTS",
+                    "description": "Wojciech Szcz\u0119sny na temat fryzury klubowego kolegi z FC Barcelona, Lamine Yamala.\n\nPOBIERZ NASZ\u0104 APLIKACJ\u0118 MOBILN\u0104 \ud83d\udcf2\n\ud83d\udc49 APP STORE: https://apple.co/3wvJAVu\n\ud83d\udc49 GOOGLE PLAY: https://bit.ly/3wu4h3Z\n\ud83d\udc49 HUAWEI APPGALERY:  https://bit.ly/39n68zA\n\n\ud83d\udc49 SUBSKRYBUJ NASZ KANA\u0141: https://www.youtube.com/user/sporttvppl?sub_confirmation=1\n\n\n\n\ud83d\udc49 OGL\u0104DAJ TRANSMISJE SPORTOWE ON-LINE: https://sport.tvp.pl/\n\ud83d\udc49 ODWIED\u0179 NASZ FANPAGE: https://www.facebook.com/tvpsport/\n\ud83d\udc49 ZAOBSERWUJ NAS NA INSTAGRAMIE: https://www.instagram.com/tvpsport/\n\ud83d\udc49 \u015aLED\u0179 PROFIL NA TWITTERZE: https://twitter.com/sport_tvppl"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "563447",
+                "likeCount": "13622",
+                "favoriteCount": "0",
+                "commentCount": "108"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jAxfnX88TC9VSQ04F5_uqvNdE1M",
+            "id": "8r5qNtq6Pok",
+            "snippet": {
+                "publishedAt": "2025-04-26T13:00:15Z",
+                "channelId": "UCFS6DCM-Fse-4P3wtG9x-vQ",
+                "title": "Her Metro Pass Didn\u2019t Work\u2026 Then a Stranger Stepped Up to Help #shorts",
+                "description": "She was stuck, her metro pass just wouldn\u2019t work. No matter how many times she tried, the gate refused to open\u2014until a kind stranger noticed. He didn\u2019t just watch, he took action that changed her entire day. A small moment of human kindness in a busy world. This will restore your faith in humanity!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8r5qNtq6Pok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8r5qNtq6Pok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8r5qNtq6Pok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8r5qNtq6Pok/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8r5qNtq6Pok/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fabiosa Stories",
+                "tags": [
+                    "kids kindness",
+                    "karma",
+                    "heartwarming",
+                    "motivation",
+                    "emotional",
+                    "inspiring",
+                    "touching moment",
+                    "good people",
+                    "uplifting",
+                    "good deeds",
+                    "true heroes",
+                    "helping others",
+                    "random acts of kindness",
+                    "positivity",
+                    "justice",
+                    "caught on camera",
+                    "heartwarming kids",
+                    "emotional kids moments",
+                    "fabiosa",
+                    "fabiosa stories",
+                    "metro kindness",
+                    "stranger helps woman",
+                    "subway good deed",
+                    "faith in humanity",
+                    "true kindness moment",
+                    "unexpected help",
+                    "helping others in public",
+                    "act of kindness subway",
+                    "viral moment metro"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Her Metro Pass Didn\u2019t Work\u2026 Then a Stranger Stepped Up to Help #shorts",
+                    "description": "She was stuck, her metro pass just wouldn\u2019t work. No matter how many times she tried, the gate refused to open\u2014until a kind stranger noticed. He didn\u2019t just watch, he took action that changed her entire day. A small moment of human kindness in a busy world. This will restore your faith in humanity!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "14218626",
+                "likeCount": "192004",
+                "favoriteCount": "0",
+                "commentCount": "206"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1jxyZVB41B4s9_AudS0cPHiB5VQ",
+            "id": "chKFbdTQ2QE",
+            "snippet": {
+                "publishedAt": "2025-05-03T13:01:08Z",
+                "channelId": "UCwBtP6NDQtsP5YBa4vuZqHA",
+                "title": "WI\u0118KSZY CRINGE PRZECHODZI DALEJ XD (CASTINGI T5M3)",
+                "description": "KUP BILETY NA FESTIWAL EKIPY \u25ba https://ekipafestiwal.pl/#kup-bilet\n\n\u2666 INSTAGRAM FESTIWAL EKIPY \u25ba https://www.instagram.com/festiwal_ekipa/\n\n\u2666 INSTAGRAM \u25ba http://instagram.com/frizoluszek\n\n\u25baWPADAJ NA SKLEP EKIPY \u25ba\u25ba http://EKIPATONOSI.PL \n\n\u25baWSP\u00d3\u0141PRACA \u25ba\u25ba DOMINIK@DB4.PL\n\nPRODUKCJA\nDIRECT by EKIPA\n\nPRODUCENT \nKarol Wi\u015bniewski\n\nPRODUCENT WYKONAWCZY\nTomasz Kowalczyk\n\nASYSTENT PRODUCENTA\nKamila Terefenko\n\nJURY\nKarol Wi\u015bniewski\n\u0141ukasz Wojtyca\nNatalia Soko\u0142owska\nPola Sieczko\nDominik Kwolczak\nPatryk Luba\u015b\nPrzemys\u0142aw Lejowski\nKinga Bana\u015b\nPatryk Baran\n\nPROWADZ\u0104CY\nMicha\u0142 Popio\u0142ek\nMicha\u0142 Wermulka\nMaja Firek\nAleksander K\u0119pka\n\nKIEROWNIK PRODUKCJI\nSylwek Irzyk\nMateusz Gromysz\n\nOPERATORZY KAMERY\nMaciej Jurek \nDawid Szewczyk\nDawid Zadworny\nFilip Strzelec\nKrzysztof B\u0119benek\nJakub Norek\nKacper Norek\nMateusz Maci\u0105g\nMiko\u0142aj Szczepka\nRafa\u0142 Sioma\nBeniamin Je\u017c\nArkadiusz Wo\u0142ek\n\nD\u0179WI\u0118K\nAndrzej Rybak\nHubert Betlej\nKrzysztof Bularz\n\nPRODUCTION DESIGNER\nMateusz Gromysz\n\nIDENTYFIKACJA WIZUALNA\nDaniel Chmielarczyk\n\nMONTA\u017b\nAdam Sarnek\nMaciej Klacza\nKamil Antczak\nBeata Popko\n\nVFX\nMateusz Zaborski\nAmadeusz \u015al\u0119zak\n\nMINIATURKI\nFilip \u0141opatecki\n\nASYSTENCI PRODUKCJI\nAnna Stec\nWiktoria Biernacka\nKatarzyna W\u0105tor\nAleksandra Polnicka\nKarol Dziuba\nMarysia Gorzo\u0142ka\nVincent Denier\nBruno Warczyg\u0142owa\nMiko\u0142aj W\u0142och\n\nDATA WRANGLER\nBeata Popko\nKamil Antczak\nAdam Sarnek\n\nCONTENT SM\nAleksandra Rogali\u0144ska\nAleksandra \u0141ypik\n\nWSP\u00d3\u0141PRACA PRODUKCYJNA\nTomasz \u015aliwa\nBartek Przydatek\nAdam Korzekwa\nJanusz Kowalczyk\nMateusz Kowalski\n\nPartnerem g\u0142\u00f3wnym programu jest marka Koral\n\nDzi\u0119kujemy za mo\u017cliwo\u015b\u0107 realizacji zdj\u0119\u0107 w Zen Com Expo w Jasionce ko\u0142o Rzeszowa.\n\n\n\n\ud83c\udfb5 Music licensed from Lickd. The biggest mainstream and stock music platform for content creators.\nLook Alive (feat. Drake) by BlocBoy JB, https://lickd.lnk.to/Y2hJkxID License ID: kO2KrEZZNLb\nIf you want to use music from famous artists, try Lickd to get track credits and unlimited stock music: https://go.lickd.co/Referral-Offer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/chKFbdTQ2QE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/chKFbdTQ2QE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/chKFbdTQ2QE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/chKFbdTQ2QE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/chKFbdTQ2QE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Karol Friz Wi\u015bniewski",
+                "tags": [
+                    "friz",
+                    "frizoluszek",
+                    "Dom ekipy",
+                    "Wersow",
+                    "Ekipa",
+                    "Mieszkanie ekipy",
+                    "Friz chata",
+                    "Friz dom",
+                    "chata ekipy",
+                    "lody ekipy",
+                    "genzie",
+                    "hania",
+                    "mortalcio",
+                    "karotni",
+                    "przemek pro",
+                    "t5m",
+                    "t5m2",
+                    "twoje 5 minut"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pl",
+                "localized": {
+                    "title": "WI\u0118KSZY CRINGE PRZECHODZI DALEJ XD (CASTINGI T5M3)",
+                    "description": "KUP BILETY NA FESTIWAL EKIPY \u25ba https://ekipafestiwal.pl/#kup-bilet\n\n\u2666 INSTAGRAM FESTIWAL EKIPY \u25ba https://www.instagram.com/festiwal_ekipa/\n\n\u2666 INSTAGRAM \u25ba http://instagram.com/frizoluszek\n\n\u25baWPADAJ NA SKLEP EKIPY \u25ba\u25ba http://EKIPATONOSI.PL \n\n\u25baWSP\u00d3\u0141PRACA \u25ba\u25ba DOMINIK@DB4.PL\n\nPRODUKCJA\nDIRECT by EKIPA\n\nPRODUCENT \nKarol Wi\u015bniewski\n\nPRODUCENT WYKONAWCZY\nTomasz Kowalczyk\n\nASYSTENT PRODUCENTA\nKamila Terefenko\n\nJURY\nKarol Wi\u015bniewski\n\u0141ukasz Wojtyca\nNatalia Soko\u0142owska\nPola Sieczko\nDominik Kwolczak\nPatryk Luba\u015b\nPrzemys\u0142aw Lejowski\nKinga Bana\u015b\nPatryk Baran\n\nPROWADZ\u0104CY\nMicha\u0142 Popio\u0142ek\nMicha\u0142 Wermulka\nMaja Firek\nAleksander K\u0119pka\n\nKIEROWNIK PRODUKCJI\nSylwek Irzyk\nMateusz Gromysz\n\nOPERATORZY KAMERY\nMaciej Jurek \nDawid Szewczyk\nDawid Zadworny\nFilip Strzelec\nKrzysztof B\u0119benek\nJakub Norek\nKacper Norek\nMateusz Maci\u0105g\nMiko\u0142aj Szczepka\nRafa\u0142 Sioma\nBeniamin Je\u017c\nArkadiusz Wo\u0142ek\n\nD\u0179WI\u0118K\nAndrzej Rybak\nHubert Betlej\nKrzysztof Bularz\n\nPRODUCTION DESIGNER\nMateusz Gromysz\n\nIDENTYFIKACJA WIZUALNA\nDaniel Chmielarczyk\n\nMONTA\u017b\nAdam Sarnek\nMaciej Klacza\nKamil Antczak\nBeata Popko\n\nVFX\nMateusz Zaborski\nAmadeusz \u015al\u0119zak\n\nMINIATURKI\nFilip \u0141opatecki\n\nASYSTENCI PRODUKCJI\nAnna Stec\nWiktoria Biernacka\nKatarzyna W\u0105tor\nAleksandra Polnicka\nKarol Dziuba\nMarysia Gorzo\u0142ka\nVincent Denier\nBruno Warczyg\u0142owa\nMiko\u0142aj W\u0142och\n\nDATA WRANGLER\nBeata Popko\nKamil Antczak\nAdam Sarnek\n\nCONTENT SM\nAleksandra Rogali\u0144ska\nAleksandra \u0141ypik\n\nWSP\u00d3\u0141PRACA PRODUKCYJNA\nTomasz \u015aliwa\nBartek Przydatek\nAdam Korzekwa\nJanusz Kowalczyk\nMateusz Kowalski\n\nPartnerem g\u0142\u00f3wnym programu jest marka Koral\n\nDzi\u0119kujemy za mo\u017cliwo\u015b\u0107 realizacji zdj\u0119\u0107 w Zen Com Expo w Jasionce ko\u0142o Rzeszowa.\n\n\n\n\ud83c\udfb5 Music licensed from Lickd. The biggest mainstream and stock music platform for content creators.\nLook Alive (feat. Drake) by BlocBoy JB, https://lickd.lnk.to/Y2hJkxID License ID: kO2KrEZZNLb\nIf you want to use music from famous artists, try Lickd to get track credits and unlimited stock music: https://go.lickd.co/Referral-Offer"
+                },
+                "defaultAudioLanguage": "pl"
+            },
+            "statistics": {
+                "viewCount": "1001585",
+                "likeCount": "45859",
+                "favoriteCount": "0",
+                "commentCount": "1379"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "diP7To8a806avjb5OqaCvOi1SI4",
+            "id": "Q11i4mqfDSY",
+            "snippet": {
+                "publishedAt": "2025-04-25T16:35:02Z",
+                "channelId": "UCHwpDpLoyJgtFXoAaaSut4Q",
+                "title": "There are TOO MANY SLICES OF PIZZA",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q11i4mqfDSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q11i4mqfDSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q11i4mqfDSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q11i4mqfDSY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q11i4mqfDSY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lionfield",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "There are TOO MANY SLICES OF PIZZA",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "44256921",
+                "likeCount": "1592909",
+                "favoriteCount": "0",
+                "commentCount": "5165"
+            }
+        }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 87,
+        "resultsPerPage": 50
+    }
+}
