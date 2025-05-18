@@ -19,7 +19,7 @@ class YouTubeStatsCollector:
         self.api_key = api_key
         self.config = self.load_config(config_path)
         self.metadata_loc = self.config.get("VIDEO_STATS_METADATA_LOC")
-        self.trending_csv_path = os.path.join(self.config.get("TRENDING_ODS_DIR"), "trending_videos_2.csv")
+        self.trending_csv_path = os.path.join(self.config.get("TRENDING_ODS_DIR"), "trending_videos.csv")
         self.youtube = build("youtube", "v3", developerKey=api_key)
 
         os.makedirs(self.metadata_loc, exist_ok=True)

@@ -64,7 +64,7 @@ class TrendingVideoProcessor:
                 self.extract_video_data(file_path, video_list)
 
         df = pd.DataFrame(video_list)
-        output_path = os.path.join(self.output_dir, "trending_videos_2.csv")
+        output_path = os.path.join(self.output_dir, "trending_videos.csv")
         df.to_csv(output_path, index=False)
 
         print(f"Trending videos merged file saved to {output_path}")
