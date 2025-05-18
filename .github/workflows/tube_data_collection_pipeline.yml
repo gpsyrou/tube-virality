@@ -1,8 +1,8 @@
 name: Daily YouTube Data Pipeline
 
 on:
-  schedule:
-    - cron: '0 11 * * *'  # Runs daily at 11 AM UTC
+  #schedule:
+  #  - cron: '0 11 * * *'  # Runs daily at 11 AM UTC
   workflow_dispatch:
 
 jobs:
