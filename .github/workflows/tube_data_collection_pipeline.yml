@@ -1,8 +1,8 @@
 name: Daily YouTube Data Pipeline
 
 on:
-  #schedule:
-  #  - cron: '0 11 * * *'  # Runs daily at 11 AM UTC
+  schedule:
+    - cron: '0 11 * * *'  # Runs daily at 11 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -32,11 +32,11 @@ jobs:
       - name: Run trending.py (Fetch trending videos)
         run: python src/collection/trending.py
 
-      - name: Run trending_db.py (Merge trending data into CSV)
-        run: python src/processing/trending_db.py
+      #- name: Run trending_db.py (Merge trending data into CSV)
+      #  run: python src/processing/trending_db.py
 
-      - name: Run video_stats.py (Fetch video statistics)
-        run: python src/collection/video_stats.py
+      #- name: Run video_stats.py (Fetch video statistics)
+      #  run: python src/collection/video_stats.py
 
      #- name: Run video_stats_db.py (Merge video statistics into CSV)
      #  run: python src/processing/video_stats_db.py
