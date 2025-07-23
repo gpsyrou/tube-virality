@@ -1,0 +1,3188 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tFTIpdneShjAArzXiTS2-4nihkU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DqOwG-og9950J2ISbMkNNeB_-6g",
+            "id": "IKdSuJjhpnY",
+            "snippet": {
+                "publishedAt": "2025-07-22T15:12:22Z",
+                "channelId": "UCXoKUtG3j_khIU7_dh1W7IA",
+                "title": "BU ADAM HANG\u0130 TAKIMLI?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IKdSuJjhpnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IKdSuJjhpnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IKdSuJjhpnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IKdSuJjhpnY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IKdSuJjhpnY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emirivriv",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BU ADAM HANG\u0130 TAKIMLI?",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "749042",
+                "likeCount": "19359",
+                "favoriteCount": "0",
+                "commentCount": "200"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0Q22Sa72JHuwJSQtgrP_606s14Y",
+            "id": "MKHmNJ9BbYY",
+            "snippet": {
+                "publishedAt": "2025-07-22T14:15:40Z",
+                "channelId": "UCxwMixOGCeONIfcuIfT02sw",
+                "title": "MA\u00c7 \u0130ZLERKEN KADINLAR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MKHmNJ9BbYY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MKHmNJ9BbYY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MKHmNJ9BbYY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MKHmNJ9BbYY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MKHmNJ9BbYY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nevzat \u00d6zkur",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "MA\u00c7 \u0130ZLERKEN KADINLAR",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "486903",
+                "likeCount": "10493",
+                "favoriteCount": "0",
+                "commentCount": "726"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "E4lsZ9NBuppnVzZC2N1LMdAMpvQ",
+            "id": "9-8YXzNeqF8",
+            "snippet": {
+                "publishedAt": "2025-07-19T15:00:22Z",
+                "channelId": "UC1a2ZCw7tugRZYRMnecNj3A",
+                "title": "Guess The Player \u26bd\ufe0f\ud83d\udca6",
+                "description": "Michiel GOAT..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9-8YXzNeqF8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9-8YXzNeqF8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9-8YXzNeqF8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9-8YXzNeqF8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9-8YXzNeqF8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Celine Dept",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Guess The Player \u26bd\ufe0f\ud83d\udca6",
+                    "description": "Michiel GOAT.."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "34511393",
+                "likeCount": "645103",
+                "favoriteCount": "0",
+                "commentCount": "2065"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "et6ZU4jOyfA4r_o-1EGDTYnmFE8",
+            "id": "yWJZERWu19w",
+            "snippet": {
+                "publishedAt": "2025-07-22T12:01:49Z",
+                "channelId": "UCmfaFTxw9lZu_yxdqGcidsQ",
+                "title": "TESTO TAYLAN ile MOTOR YARI\u015eI - Kawasaki vs Hayabusa",
+                "description": "Herkese yepyeni videodan selam! Bug\u00fcn, evleri bas\u0131p zul\u00fcm da\u011f\u0131tan Testo Taylan kankimle motor yar\u0131\u015f\u0131 yapt\u0131k. Bomba muhabbetler d\u00f6nd\u00fc, umar\u0131m videoyu be\u011fenirsiniz, iyi seyirler;)\n\n\u0130nstagram \u25ba instagram.com/mertcanbaharr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yWJZERWu19w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yWJZERWu19w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yWJZERWu19w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yWJZERWu19w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yWJZERWu19w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mevtcan Bahav",
+                "tags": [
+                    "mertcan bahar",
+                    "mevtcan bahav",
+                    "e\u011flence",
+                    "testo taylan",
+                    "motor",
+                    "komik",
+                    "komedi",
+                    "\u015faka",
+                    "\u015fakalar",
+                    "youtuber",
+                    "fenomen",
+                    "haber",
+                    "g\u00fcndem",
+                    "challenge",
+                    "program",
+                    "yar\u0131\u015fma",
+                    "yar\u0131\u015f",
+                    "araba",
+                    "drift",
+                    "vlog",
+                    "1 g\u00fcn",
+                    "bir g\u00fcn",
+                    "magazin",
+                    "ekip",
+                    "meto",
+                    "meme",
+                    "edit",
+                    "t\u00fcrk\u00e7e",
+                    "yeni",
+                    "efsane",
+                    "ilgin\u00e7",
+                    "tuhaf",
+                    "\u00fcnl\u00fc"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TESTO TAYLAN ile MOTOR YARI\u015eI - Kawasaki vs Hayabusa",
+                    "description": "Herkese yepyeni videodan selam! Bug\u00fcn, evleri bas\u0131p zul\u00fcm da\u011f\u0131tan Testo Taylan kankimle motor yar\u0131\u015f\u0131 yapt\u0131k. Bomba muhabbetler d\u00f6nd\u00fc, umar\u0131m videoyu be\u011fenirsiniz, iyi seyirler;)\n\n\u0130nstagram \u25ba instagram.com/mertcanbaharr"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "828604",
+                "likeCount": "66182",
+                "favoriteCount": "0",
+                "commentCount": "2187"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tNbK6nNB7M-AnxVvJf63tl39O9Y",
+            "id": "Xmx_dqjKnQ4",
+            "snippet": {
+                "publishedAt": "2025-07-20T15:30:26Z",
+                "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+                "title": "Which Katana Is The Sharpest?",
+                "description": "Subscribe !\u2764\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xmx_dqjKnQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xmx_dqjKnQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xmx_dqjKnQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xmx_dqjKnQ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xmx_dqjKnQ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ben Azelart",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Which Katana Is The Sharpest?",
+                    "description": "Subscribe !\u2764\ufe0f"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "61029782",
+                "likeCount": "1925437",
+                "favoriteCount": "0",
+                "commentCount": "2634"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2NiJKgh8ScSX2kEsSt5_IQ6u-7E",
+            "id": "3fVoJlVLanU",
+            "snippet": {
+                "publishedAt": "2025-07-18T15:00:08Z",
+                "channelId": "UCerF0GMtr1-VktxV6tmAYzg",
+                "title": "UYKU A\u011eIZ BANDI DEN\u0130YORUM!!\ud83d\ude34 #emreuzunboy #shorts #funniest #challenge",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3fVoJlVLanU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3fVoJlVLanU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3fVoJlVLanU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3fVoJlVLanU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3fVoJlVLanU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emre Uzunboy",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UYKU A\u011eIZ BANDI DEN\u0130YORUM!!\ud83d\ude34 #emreuzunboy #shorts #funniest #challenge",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "3213431",
+                "likeCount": "61984",
+                "favoriteCount": "0",
+                "commentCount": "616"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RO-8LQqC9kWTQnODpVmPf5hzkxo",
+            "id": "rRpuMNPBz-M",
+            "snippet": {
+                "publishedAt": "2025-07-19T10:41:51Z",
+                "channelId": "UC0tZTW3_YwppaTkYIgJdhFA",
+                "title": "Mr Beast Odama Dald\u0131 #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rRpuMNPBz-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rRpuMNPBz-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rRpuMNPBz-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rRpuMNPBz-M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rRpuMNPBz-M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emir Orhan",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Mr Beast Odama Dald\u0131 #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1269838",
+                "likeCount": "31962",
+                "favoriteCount": "0",
+                "commentCount": "612"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "glQb34_odLBJNLTMpAn8fHh_G7Q",
+            "id": "8Djcq4pM-zY",
+            "snippet": {
+                "publishedAt": "2025-07-21T14:39:50Z",
+                "channelId": "UCPe9vNjHF1kEExT5kHwc7aw",
+                "title": "\ud83e\udd81 Torreira, Galatasaray formas\u0131yla birlikte oynad\u0131\u011f\u0131 baz\u0131 futbolcular\u0131 tek kelimeyle \u00f6zetliyor...",
+                "description": "\ud83e\udd81 Lucas Torreira, Galatasaray formas\u0131yla birlikte oynad\u0131\u011f\u0131 baz\u0131 futbolcular\u0131 tek kelimeyle \u00f6zetliyor... #shorts #galatasaray\n\nTrendyol S\u00fcper Lig, Premier Lig ve Ligue 1\u2019den en \u00f6zel i\u00e7erikler, g\u00fcncel \u00f6zet videolar ve \u00e7ok dahas\u0131 beIN SPORTS T\u00fcrkiye Youtube kanal\u0131nda!\n\nbeIN SPORTS'un en g\u00fcncel programlar\u0131n\u0131, spor dolu i\u00e7eriklerini takip etmek i\u00e7in kanala abone olmay\u0131 unutmay\u0131n: http://dgtrk.lu/1ebhi\n\nbeIN SPORTS Ar\u015fiv: http://dgtrk.lu/1evqg\n\nBizi sosyal medyada takip edin: \n\ud83d\udccc Facebook: https://www.facebook.com/beINSPORTSTR \n\ud83d\udccc X: https://x.com/beINSPORTS_TR\n\ud83d\udccc Instagram: https://www.instagram.com/beinsportstr/\n\ud83d\udccc TikTok: https://www.tiktok.com/@beinsportstr?lang=tr-TR",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Djcq4pM-zY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Djcq4pM-zY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Djcq4pM-zY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Djcq4pM-zY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Djcq4pM-zY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "beIN SPORTS T\u00fcrkiye",
+                "tags": [
+                    "beinsports",
+                    "beinsport",
+                    "beinsports canl\u0131",
+                    "beinsports ma\u00e7 \u00f6zeti",
+                    "ma\u00e7 \u00f6zeti",
+                    "galatasaray ma\u00e7 \u00f6zeti",
+                    "fenerbah\u00e7e ma\u00e7 \u00f6zeti",
+                    "trabzonspor ma\u00e7 \u00f6zeti",
+                    "be\u015fikta\u015f ma\u00e7 \u00f6zeti",
+                    "s\u00fcper lig",
+                    "s\u00fcper lig ma\u00e7 \u00f6zeti",
+                    "galatasaray",
+                    "fenerbah\u00e7e",
+                    "be\u015fikta\u015f",
+                    "trabzonspor",
+                    "lig tv",
+                    "beinsports canl\u0131 izle",
+                    "lig tv canl\u0131",
+                    "s\u00fcper lig \u00f6zetler",
+                    "s\u00fcper lig \u00f6zet",
+                    "\u00f6zet",
+                    "ma\u00e7 \u00f6zetleri",
+                    "\u00f6zet izle",
+                    "canl\u0131 \u00f6zet izle",
+                    "\u00f6zet izle s\u00fcper lig",
+                    "\u00f6zet izle t\u00fcrkiye ligi",
+                    "t\u00fcrkiye ligi \u00f6zet",
+                    "canl\u0131 \u00f6zet",
+                    "\u00f6zet pozisyonlar",
+                    "futbol"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "\ud83e\udd81 Torreira, Galatasaray formas\u0131yla birlikte oynad\u0131\u011f\u0131 baz\u0131 futbolcular\u0131 tek kelimeyle \u00f6zetliyor...",
+                    "description": "\ud83e\udd81 Lucas Torreira, Galatasaray formas\u0131yla birlikte oynad\u0131\u011f\u0131 baz\u0131 futbolcular\u0131 tek kelimeyle \u00f6zetliyor... #shorts #galatasaray\n\nTrendyol S\u00fcper Lig, Premier Lig ve Ligue 1\u2019den en \u00f6zel i\u00e7erikler, g\u00fcncel \u00f6zet videolar ve \u00e7ok dahas\u0131 beIN SPORTS T\u00fcrkiye Youtube kanal\u0131nda!\n\nbeIN SPORTS'un en g\u00fcncel programlar\u0131n\u0131, spor dolu i\u00e7eriklerini takip etmek i\u00e7in kanala abone olmay\u0131 unutmay\u0131n: http://dgtrk.lu/1ebhi\n\nbeIN SPORTS Ar\u015fiv: http://dgtrk.lu/1evqg\n\nBizi sosyal medyada takip edin: \n\ud83d\udccc Facebook: https://www.facebook.com/beINSPORTSTR \n\ud83d\udccc X: https://x.com/beINSPORTS_TR\n\ud83d\udccc Instagram: https://www.instagram.com/beinsportstr/\n\ud83d\udccc TikTok: https://www.tiktok.com/@beinsportstr?lang=tr-TR"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "332836",
+                "likeCount": "8691",
+                "favoriteCount": "0",
+                "commentCount": "63"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Mw5poscIwkUJAJV4qAAHxOq3QoI",
+            "id": "u_QPAzeRCww",
+            "snippet": {
+                "publishedAt": "2025-07-19T14:32:38Z",
+                "channelId": "UCHio_VgmlVkqf0yK-8I8YtQ",
+                "title": "Metal Kadar Sert Olan Yap\u0131\u015ft\u0131r\u0131c\u0131",
+                "description": "Metal Kadar Sert Olan Yap\u0131\u015ft\u0131r\u0131c\u0131",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u_QPAzeRCww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u_QPAzeRCww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u_QPAzeRCww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u_QPAzeRCww/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u_QPAzeRCww/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yaspe",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Metal Kadar Sert Olan Yap\u0131\u015ft\u0131r\u0131c\u0131",
+                    "description": "Metal Kadar Sert Olan Yap\u0131\u015ft\u0131r\u0131c\u0131"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1638152",
+                "likeCount": "38016",
+                "favoriteCount": "0",
+                "commentCount": "506"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HaaVFCqQIh58Mxwd1-YLC3gQvCU",
+            "id": "sMcXT7ZndvY",
+            "snippet": {
+                "publishedAt": "2025-07-22T15:30:38Z",
+                "channelId": "UCNkdDEu3joO7FkPk6MZArgQ",
+                "title": "Ulan Sana Nesi K\u00fcf\u00fcr Suratl\u0131 #shorts #bkm #h\u00fck\u00fcmetkad\u0131n #demetakba\u011f #sermiyanmidyat",
+                "description": "H\u00fck\u00fcmet Kad\u0131n filminden 7 y\u0131l \u00f6nce... Y\u0131l 1949.\n\nYasakl\u0131 y\u0131llar. Kitaplar, gazeteler, kelimeler h\u00fck\u00fcm giymi\u015f, h\u00fcrriyet dedikleri hep vaat. Tek umut, a\u00e7\u0131lan sand\u0131k say\u0131s\u0131 ve ge\u00e7erli oy say\u0131lar\u0131! G\u00fcneydo\u011fu'nun ilk belediye ba\u015fkan\u0131 Xate, hen\u00fcz kendisini bekleyen bu ba\u015fkanl\u0131k g\u00f6revinden habersiz, Midyat Belediye Ba\u015fkan\u0131 Aziz Veysel'in e\u015fi olarak ya\u015f\u0131yor.\n\nKasaban\u0131n iflah olmaz ba\u015fkan aday\u0131 Faruk hala g\u00f6zde bekar olarak hayat\u0131na devam ediyor! Xate, bir sabah Aziz Veysel'i ba\u015fkanl\u0131k g\u00f6revine u\u011furlarken k\u00f6t\u00fc bir s\u00fcrprizle kar\u015f\u0131la\u015f\u0131r. Bu s\u00fcrpriz, Xate ile Faruk'u yeniden kar\u015f\u0131 kar\u015f\u0131ya getirecektir. \u00dcstelik a\u011fz\u0131ndan yalan \u00e7\u0131kamayan Xate ile gelince kendine bile yalan s\u00f6yleyebilen Faruk meydanlarda, se\u00e7im vaatleri ile yar\u0131\u015facakt\u0131r! \n\nKasaban\u0131n g\u00fcndemine bomba gibi d\u00fc\u015fen \"erken se\u00e7im\" ile her \u015fey kar\u0131\u015f\u0131r, kahkaha zirve yapar!\n\n\u25ba BKM Kanal\u0131na Abone Olun: http://goo.gl/rq6Yql\n\u25ba G\u00fcld\u00fcr G\u00fcld\u00fcr Show Kanal\u0131na Abone Olun: https://goo.gl/v9le8I\n\u25ba \u00c7ok G\u00fczel Hareketler Kanal\u0131na Abone Ol: http://goo.gl/inzjIu\n\n#BKM #H\u00fck\u00fcmetKad\u0131n2 #DemetAkba\u011f #SermiyanMidyat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sMcXT7ZndvY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sMcXT7ZndvY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sMcXT7ZndvY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sMcXT7ZndvY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sMcXT7ZndvY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H\u00fck\u00fcmet Kad\u0131n",
+                "tags": [
+                    "h\u00fck\u00fcmet kad\u0131n",
+                    "hukumet kadin",
+                    "hukumet kadin izle",
+                    "h\u00fck\u00fcmet kad\u0131n full izle",
+                    "sermiyan midyat",
+                    "demet akba\u011f",
+                    "h\u00fck\u00fcmet kad\u0131n 2",
+                    "h\u00fck\u00fcmet kad\u0131n 2 izle",
+                    "h\u00fck\u00fcmet kad\u0131n demet akba\u011f",
+                    "h\u00fck\u00fcmet kad\u0131n en komik sahneleri",
+                    "h\u00fck\u00fcmet kad\u0131n sahneleri",
+                    "h\u00fck\u00fcmet kad\u0131n hd izle",
+                    "h\u00fck\u00fcmet kad\u0131n faruk",
+                    "bkm",
+                    "bkm filmleri",
+                    "bkm komedi filmleri",
+                    "komedi filmleri",
+                    "a\u015firet filmleri",
+                    "mardin filmleri",
+                    "mardin",
+                    "komedi",
+                    "full film",
+                    "komedi full film",
+                    "mizah",
+                    "sen tezek topluyordun"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ulan Sana Nesi K\u00fcf\u00fcr Suratl\u0131 #shorts #bkm #h\u00fck\u00fcmetkad\u0131n #demetakba\u011f #sermiyanmidyat",
+                    "description": "H\u00fck\u00fcmet Kad\u0131n filminden 7 y\u0131l \u00f6nce... Y\u0131l 1949.\n\nYasakl\u0131 y\u0131llar. Kitaplar, gazeteler, kelimeler h\u00fck\u00fcm giymi\u015f, h\u00fcrriyet dedikleri hep vaat. Tek umut, a\u00e7\u0131lan sand\u0131k say\u0131s\u0131 ve ge\u00e7erli oy say\u0131lar\u0131! G\u00fcneydo\u011fu'nun ilk belediye ba\u015fkan\u0131 Xate, hen\u00fcz kendisini bekleyen bu ba\u015fkanl\u0131k g\u00f6revinden habersiz, Midyat Belediye Ba\u015fkan\u0131 Aziz Veysel'in e\u015fi olarak ya\u015f\u0131yor.\n\nKasaban\u0131n iflah olmaz ba\u015fkan aday\u0131 Faruk hala g\u00f6zde bekar olarak hayat\u0131na devam ediyor! Xate, bir sabah Aziz Veysel'i ba\u015fkanl\u0131k g\u00f6revine u\u011furlarken k\u00f6t\u00fc bir s\u00fcrprizle kar\u015f\u0131la\u015f\u0131r. Bu s\u00fcrpriz, Xate ile Faruk'u yeniden kar\u015f\u0131 kar\u015f\u0131ya getirecektir. \u00dcstelik a\u011fz\u0131ndan yalan \u00e7\u0131kamayan Xate ile gelince kendine bile yalan s\u00f6yleyebilen Faruk meydanlarda, se\u00e7im vaatleri ile yar\u0131\u015facakt\u0131r! \n\nKasaban\u0131n g\u00fcndemine bomba gibi d\u00fc\u015fen \"erken se\u00e7im\" ile her \u015fey kar\u0131\u015f\u0131r, kahkaha zirve yapar!\n\n\u25ba BKM Kanal\u0131na Abone Olun: http://goo.gl/rq6Yql\n\u25ba G\u00fcld\u00fcr G\u00fcld\u00fcr Show Kanal\u0131na Abone Olun: https://goo.gl/v9le8I\n\u25ba \u00c7ok G\u00fczel Hareketler Kanal\u0131na Abone Ol: http://goo.gl/inzjIu\n\n#BKM #H\u00fck\u00fcmetKad\u0131n2 #DemetAkba\u011f #SermiyanMidyat"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "172378",
+                "likeCount": "7437",
+                "favoriteCount": "0",
+                "commentCount": "40"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LZmGBGw-0uR0qvNnnLlwdbJuwLk",
+            "id": "h5PtfauOIlE",
+            "snippet": {
+                "publishedAt": "2025-07-18T09:01:09Z",
+                "channelId": "UCnL4RETiFLvjMA3sE1twVxw",
+                "title": "Squid Game Dalgona\u2026 Hidden Under the Carpet?! \ud83d\ude31\ud83e\udd91\ud83c\udf6c",
+                "description": "Welcome to our Channel! Get ready for pranks, fun, sweets, challenges, and awesome tricks! Don\u2019t forget to like and subscribe for endless laughter and cool adventures! \ud83c\udf89\u2728\n#shortsvideo #shortsviral #shortsyoutube #funny #funnyvideo #funnyshorts #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h5PtfauOIlE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h5PtfauOIlE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h5PtfauOIlE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h5PtfauOIlE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h5PtfauOIlE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "VIBZEE",
+                "tags": [
+                    "shorts",
+                    "fun",
+                    "funny",
+                    "comedy video",
+                    "funny shorts",
+                    "funny videos",
+                    "food",
+                    "viral shorts",
+                    "viral videos",
+                    "youtube",
+                    "youtube shorts",
+                    "crazy",
+                    "diy",
+                    "diyfun",
+                    "diyideas",
+                    "diyproject",
+                    "doityourself",
+                    "dream",
+                    "dream or reality",
+                    "easydiy",
+                    "game",
+                    "hack",
+                    "hacks",
+                    "helpfultips",
+                    "is this real",
+                    "life",
+                    "life hack",
+                    "lifehacking",
+                    "lifehackmemes",
+                    "lifehacks",
+                    "love",
+                    "motivation",
+                    "prank",
+                    "real",
+                    "satisfying",
+                    "shorts compilationl",
+                    "social",
+                    "tik tok",
+                    "tik tok compilation",
+                    "tiktok",
+                    "tips",
+                    "trading",
+                    "trending shorts",
+                    "useful",
+                    "\u0448\u043e\u0440\u0442\u0441",
+                    "rich vs poor",
+                    "challenge",
+                    "challenges",
+                    "trending"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Squid Game Dalgona\u2026 Hidden Under the Carpet?! \ud83d\ude31\ud83e\udd91\ud83c\udf6c",
+                    "description": "Welcome to our Channel! Get ready for pranks, fun, sweets, challenges, and awesome tricks! Don\u2019t forget to like and subscribe for endless laughter and cool adventures! \ud83c\udf89\u2728\n#shortsvideo #shortsviral #shortsyoutube #funny #funnyvideo #funnyshorts #shorts"
+                }
+            },
+            "statistics": {
+                "viewCount": "50366440",
+                "likeCount": "605201",
+                "favoriteCount": "0",
+                "commentCount": "213"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "S9O2ixoBgpwndeE3jwf1k2OwAPI",
+            "id": "G6Fsyl3dp_c",
+            "snippet": {
+                "publishedAt": "2025-07-19T03:45:52Z",
+                "channelId": "UC4mTNFJV0zzPfaIbIB-7a2w",
+                "title": "\u9650\u91cf\u6b3e\u8863\u670d#\u8ff7\u60d1\u884c\u4e3a#\u641e\u7b11#funny #\u641e\u7b11 #shorts",
+                "description": "\u6bcf\u5929\u66f4\u65b0\u8ba9\u5927\u5bb6\u5f00\u5fc3\u7684\u89c6\u9891\n\u611f\u8c22\u89c2\u770b\nDaily videos to make everyone happy\nThanks for watching",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G6Fsyl3dp_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G6Fsyl3dp_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G6Fsyl3dp_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G6Fsyl3dp_c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G6Fsyl3dp_c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u7206\u7b11\u8da3\u5473\u541b",
+                "tags": [
+                    "\u641e\u7b11",
+                    "\u7206\u7b11",
+                    "\u7b11\u58f0",
+                    "\u6bb5\u5b50",
+                    "\u70ed\u95e8\u6bb5\u5b50",
+                    "\u641e\u7b11\u6bb5\u5b50",
+                    "\u641e\u7b11\u89c6\u9891",
+                    "\u5f00\u5fc3",
+                    "\u5fc3\u60c5\u597d",
+                    "\u54c8\u54c8\u5927\u7b11",
+                    "\u79bb\u8c31",
+                    "\u7537\u5973",
+                    "\u7231\u770b",
+                    "\u597d\u770b",
+                    "\u8212\u670d",
+                    "\u559c\u6b22",
+                    "\u6709\u610f\u601d",
+                    "\u7b11\u8072",
+                    "\u71b1\u9580\u6bb5\u5b50",
+                    "\u641e\u7b11\u8996\u983b",
+                    "\u958b\u5fc3",
+                    "\u96e2\u8b5c",
+                    "\u611b\u770b",
+                    "\u559c\u6b61",
+                    "Funny",
+                    "hilarious",
+                    "laugh",
+                    "laughter",
+                    "jokes",
+                    "popular jokes",
+                    "funny jokes",
+                    "funny videos",
+                    "happy",
+                    "in a good mood",
+                    "laughing",
+                    "outrageous",
+                    "men and women",
+                    "love to watch",
+                    "good-looking",
+                    "comfortable",
+                    "like",
+                    "interesting"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "zh-CN",
+                "localized": {
+                    "title": "\u9650\u91cf\u6b3e\u8863\u670d#\u8ff7\u60d1\u884c\u4e3a#\u641e\u7b11#funny #\u641e\u7b11 #shorts",
+                    "description": "\u6bcf\u5929\u66f4\u65b0\u8ba9\u5927\u5bb6\u5f00\u5fc3\u7684\u89c6\u9891\n\u611f\u8c22\u89c2\u770b\nDaily videos to make everyone happy\nThanks for watching"
+                },
+                "defaultAudioLanguage": "zh-CN"
+            },
+            "statistics": {
+                "viewCount": "21537905",
+                "likeCount": "215909",
+                "favoriteCount": "0",
+                "commentCount": "225"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XNz-2JfVF7LztZFMpveQjGTsLYM",
+            "id": "yR0o0FWRJ00",
+            "snippet": {
+                "publishedAt": "2025-07-19T15:15:05Z",
+                "channelId": "UCSHWWgz7EXJ2NpLo0jgubNQ",
+                "title": "Ramiz Karaeski'den Efsane Racon\ud83d\udd25 #ezel #ramizkaraeski #shorts #short",
+                "description": "#ezel #ramizday\u0131 #ramizkaraeski",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yR0o0FWRJ00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yR0o0FWRJ00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yR0o0FWRJ00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yR0o0FWRJ00/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yR0o0FWRJ00/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ramiz Karaeski",
+                "tags": [
+                    "ezel",
+                    "ezel ramiz day\u0131",
+                    "ramiz karaeski",
+                    "ramiz day\u0131",
+                    "ezel ramiz karaeski",
+                    "tuncel kurtiz",
+                    "ezel ramiz day\u0131 sahneleri",
+                    "ramiz karaeski sahneleri",
+                    "ramiz day\u0131 intikam",
+                    "ramiz karaeski racon",
+                    "ramiz day\u0131 s\u00f6zleri",
+                    "ramiz day\u0131 gen\u00e7li\u011fi",
+                    "ramiz day\u0131 racon",
+                    "ezel kumarhane soygunu",
+                    "ramiz day\u0131 raconu",
+                    "ramiz karaeski ezel",
+                    "ramiz day\u0131 racon edit",
+                    "racon edit",
+                    "selma hunel",
+                    "day\u0131",
+                    "day\u0131 2",
+                    "ramiz karaeski \u015fiir",
+                    "short",
+                    "shorts",
+                    "\u00f6ne \u00e7\u0131kar",
+                    "ke\u015ffet",
+                    "discovery",
+                    "trendler",
+                    "trend",
+                    "shorts feed",
+                    "feed",
+                    "reels"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Ramiz Karaeski'den Efsane Racon\ud83d\udd25 #ezel #ramizkaraeski #shorts #short",
+                    "description": "#ezel #ramizday\u0131 #ramizkaraeski"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "654725",
+                "likeCount": "18702",
+                "favoriteCount": "0",
+                "commentCount": "61"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VOPCBn1R6qmURs7osfm2r1HqffU",
+            "id": "pzBi1nwDn8U",
+            "snippet": {
+                "publishedAt": "2025-07-19T16:00:01Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "Survive 100 Days Trapped In A Private Jet, Keep It",
+                "description": "Spending that much time in a jet is crazy\n10 people will win $10,000 thanks to DoorDash. Enter promo code JET on any grocery, convenience or retail to get $10 off your order AND to enter for a chance to win $10K: https://bit.ly/44GtE3z\n#doordashpartner \n\nTo help offset the carbon emissions from the jet, we planted thousands of trees and are working with the Arbor Day Foundation to support certified carbon removal projects that restore forests and remove CO\u2082 from the atmosphere.\n\nDue to airport security, Dashers delivered this and all subsequent orders to a MrBeast crew member who then brought items to the pilot.\n\nWith DashPass, enjoy $0 delivery fees and lower service fees on eligible orders. Terms apply.\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------\nTerms & Conditions:\nNO PURCHASE NECESSARY. Purchase will not increase your chances of winning. Sweepstakes ends 11:59 PM PT on 07/27/25. Open to legal US residents, 18+, who have an active, valid DoorDash account. See Official Rules (https://bit.ly/4nYqvoO) for complete details on how to enter, eligibility requirements, free method of entry, odds of winning, prize description, and limitations. Void where prohibited. Sponsor: DoorDash, Inc.\n\nPromo offer valid through 11:59PM PT on 07/27/25 on orders placed at participating grocery, convenience, or retail merchants on the DoorDash app or website. Valid only in the United States. Valid only on orders with a minimum subtotal of $20, excluding fees and taxes. Maximum value of discount is $10. Discount applies to subtotal only; does not apply to fees, taxes, and gratuity. If the full $10 value is not used on a single order, the remaining value will be forfeited. Not valid for pickup. Limit one per person. Not valid for the purchase of alcohol. Fees, taxes, and gratuity still apply. Use promo code JET at checkout to redeem. See further terms and conditions at https://drd.sh/8ONpZP/.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pzBi1nwDn8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pzBi1nwDn8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pzBi1nwDn8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pzBi1nwDn8U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pzBi1nwDn8U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Survive 100 Days Trapped In A Private Jet, Keep It",
+                    "description": "Spending that much time in a jet is crazy\n10 people will win $10,000 thanks to DoorDash. Enter promo code JET on any grocery, convenience or retail to get $10 off your order AND to enter for a chance to win $10K: https://bit.ly/44GtE3z\n#doordashpartner \n\nTo help offset the carbon emissions from the jet, we planted thousands of trees and are working with the Arbor Day Foundation to support certified carbon removal projects that restore forests and remove CO\u2082 from the atmosphere.\n\nDue to airport security, Dashers delivered this and all subsequent orders to a MrBeast crew member who then brought items to the pilot.\n\nWith DashPass, enjoy $0 delivery fees and lower service fees on eligible orders. Terms apply.\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------\nTerms & Conditions:\nNO PURCHASE NECESSARY. Purchase will not increase your chances of winning. Sweepstakes ends 11:59 PM PT on 07/27/25. Open to legal US residents, 18+, who have an active, valid DoorDash account. See Official Rules (https://bit.ly/4nYqvoO) for complete details on how to enter, eligibility requirements, free method of entry, odds of winning, prize description, and limitations. Void where prohibited. Sponsor: DoorDash, Inc.\n\nPromo offer valid through 11:59PM PT on 07/27/25 on orders placed at participating grocery, convenience, or retail merchants on the DoorDash app or website. Valid only in the United States. Valid only on orders with a minimum subtotal of $20, excluding fees and taxes. Maximum value of discount is $10. Discount applies to subtotal only; does not apply to fees, taxes, and gratuity. If the full $10 value is not used on a single order, the remaining value will be forfeited. Not valid for pickup. Limit one per person. Not valid for the purchase of alcohol. Fees, taxes, and gratuity still apply. Use promo code JET at checkout to redeem. See further terms and conditions at https://drd.sh/8ONpZP/."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "96019877",
+                "likeCount": "2791531",
+                "favoriteCount": "0",
+                "commentCount": "36283"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SaPXgi8FfbnSoyQGi8-On_XTSu4",
+            "id": "QdaAORrFoUI",
+            "snippet": {
+                "publishedAt": "2025-07-20T22:08:42Z",
+                "channelId": "UCHowoDxzhyCPQBzhOpeP4-w",
+                "title": "Transfer Dosyas\u0131 I Ersin D\u00fczen, Ya\u011f\u0131z Sabuncuo\u011flu, Emre \u00d6zcan, U\u011fur Karakulluk\u00e7u",
+                "description": "\u00d6zel transfer haberleri, gelenler, gidenler ve yorumlar! Yeni sezon heyecan\u0131 Transfer Dosyas\u0131'nda.\n\nTransfer Dosyas\u0131, Bu ak\u015fam 23.00'te NOW\u2019da ve NOW Spor YouTube kanal\u0131nda. Anl\u0131k geli\u015fmeler NOW Spor sosyal medya hesaplar\u0131nda. \n\nErsin D\u00fczen \nYa\u011f\u0131z Sabuncuo\u011flu\nU\u011fur Karakulluk\u00e7u\nEmre \u00d6zcan\n\n#galatasaray #fenerbah\u00e7e #be\u015fikta\u015f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdaAORrFoUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdaAORrFoUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdaAORrFoUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QdaAORrFoUI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QdaAORrFoUI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NOW Spor",
+                "tags": [
+                    "ersin d\u00fczen",
+                    "ya\u011f\u0131z sabuncuo\u011flu",
+                    "u\u011fur karakulluk\u00e7u",
+                    "emre \u00f6zcan",
+                    "now",
+                    "nowspor",
+                    "futbol",
+                    "s\u00fcper lig",
+                    "premier lig",
+                    "\u015fampiyonlar ligi",
+                    "uefa",
+                    "fifa",
+                    "galatasaray",
+                    "fenerbah\u00e7e",
+                    "be\u015fikta\u015f",
+                    "trabzonspor",
+                    "futbol yorum",
+                    "futbol analiz"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Transfer Dosyas\u0131 I Ersin D\u00fczen, Ya\u011f\u0131z Sabuncuo\u011flu, Emre \u00d6zcan, U\u011fur Karakulluk\u00e7u",
+                    "description": "\u00d6zel transfer haberleri, gelenler, gidenler ve yorumlar! Yeni sezon heyecan\u0131 Transfer Dosyas\u0131'nda.\n\nTransfer Dosyas\u0131, Bu ak\u015fam 23.00'te NOW\u2019da ve NOW Spor YouTube kanal\u0131nda. Anl\u0131k geli\u015fmeler NOW Spor sosyal medya hesaplar\u0131nda. \n\nErsin D\u00fczen \nYa\u011f\u0131z Sabuncuo\u011flu\nU\u011fur Karakulluk\u00e7u\nEmre \u00d6zcan\n\n#galatasaray #fenerbah\u00e7e #be\u015fikta\u015f"
+                }
+            },
+            "statistics": {
+                "viewCount": "707841",
+                "likeCount": "48786",
+                "favoriteCount": "0",
+                "commentCount": "1623"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8oQeuDYz4SvK3GpuSgTog4wLWVg",
+            "id": "wPg1ctBpYG8",
+            "snippet": {
+                "publishedAt": "2025-07-18T19:28:13Z",
+                "channelId": "UC4lUXkAQjyzvcxbR4E3oGEg",
+                "title": "M\u00fcnir \u00d6zkul \u00d6\u011fretisi! Marifet \u00c7\u0131rakta!",
+                "description": "#ye\u015fil\u00e7am #m\u00fcnir\u00f6zkul",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wPg1ctBpYG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wPg1ctBpYG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wPg1ctBpYG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wPg1ctBpYG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wPg1ctBpYG8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "E\u011frisi Do\u011frusu",
+                "tags": [
+                    "m\u00fcnir \u00f6zkul",
+                    "M\u00fcnir \u00f6zkul adile na\u015fit",
+                    "Hababam s\u0131n\u0131f\u0131",
+                    "kel mahmut",
+                    "mahmut hoca",
+                    "Kemal sunal m\u00fcnir \u00f6zkul",
+                    "m\u00fcnir \u00f6zkul komik",
+                    "M\u00fcnir \u00f6zkul sahneleri",
+                    "Tiyatro",
+                    "ye\u015fil\u00e7am",
+                    "T\u00fcrk sinemas\u0131"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "M\u00fcnir \u00d6zkul \u00d6\u011fretisi! Marifet \u00c7\u0131rakta!",
+                    "description": "#ye\u015fil\u00e7am #m\u00fcnir\u00f6zkul"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "895085",
+                "likeCount": "20373",
+                "favoriteCount": "0",
+                "commentCount": "169"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s3W0I3gwhHIzwYOQZnKMuuDzzm4",
+            "id": "cbm-vJ7a894",
+            "snippet": {
+                "publishedAt": "2025-07-20T12:01:07Z",
+                "channelId": "UCvFudBDDILdDljN4VIZ4Msw",
+                "title": "Trafik magandalar\u0131na unutulmaz ders! \ud83d\udc4a\ud83c\udffb |\u00a0#trt1 #te\u015fkilat",
+                "description": "Trafik magandalar\u0131na unutulmaz ders! \ud83d\udc4a\ud83c\udffb #Te\u015fkilat\n\n------ \n\nTRT 1 Sosyal Medya Hesaplar\u0131:\nhttps://www.facebook.com/TRT1/\nhttps://twitter.com/trt1/\nhttps://www.instagram.com/trt1/\nhttps://www.youtube.com/TRT1/\nhttps://whatsapp.com/channel/0029Va3OOg5ATRSp9SV9nc0V",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cbm-vJ7a894/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cbm-vJ7a894/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cbm-vJ7a894/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cbm-vJ7a894/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cbm-vJ7a894/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRT 1",
+                "tags": [
+                    "trt1",
+                    "trt",
+                    "trt1dizileri",
+                    "te\u015fkilat",
+                    "hulki"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Trafik magandalar\u0131na unutulmaz ders! \ud83d\udc4a\ud83c\udffb |\u00a0#trt1 #te\u015fkilat",
+                    "description": "Trafik magandalar\u0131na unutulmaz ders! \ud83d\udc4a\ud83c\udffb #Te\u015fkilat\n\n------ \n\nTRT 1 Sosyal Medya Hesaplar\u0131:\nhttps://www.facebook.com/TRT1/\nhttps://twitter.com/trt1/\nhttps://www.instagram.com/trt1/\nhttps://www.youtube.com/TRT1/\nhttps://whatsapp.com/channel/0029Va3OOg5ATRSp9SV9nc0V"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "856249",
+                "likeCount": "38723",
+                "favoriteCount": "0",
+                "commentCount": "285"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0zGtXDZpQmDzlHqU8T3Rf_BbBZE",
+            "id": "HEm_tgKipQI",
+            "snippet": {
+                "publishedAt": "2025-07-18T15:30:07Z",
+                "channelId": "UCNkdDEu3joO7FkPk6MZArgQ",
+                "title": "On D\u00f6rd\u00fczd\u00fcr Bunlar #shorts #bkm #h\u00fck\u00fcmetkad\u0131n #demetakba\u011f #sermiyanmidyat",
+                "description": "H\u00fck\u00fcmet Kad\u0131n filminden 7 y\u0131l \u00f6nce... Y\u0131l 1949.\n\nYasakl\u0131 y\u0131llar. Kitaplar, gazeteler, kelimeler h\u00fck\u00fcm giymi\u015f, h\u00fcrriyet dedikleri hep vaat. Tek umut, a\u00e7\u0131lan sand\u0131k say\u0131s\u0131 ve ge\u00e7erli oy say\u0131lar\u0131! G\u00fcneydo\u011fu'nun ilk belediye ba\u015fkan\u0131 Xate, hen\u00fcz kendisini bekleyen bu ba\u015fkanl\u0131k g\u00f6revinden habersiz, Midyat Belediye Ba\u015fkan\u0131 Aziz Veysel'in e\u015fi olarak ya\u015f\u0131yor.\n\nKasaban\u0131n iflah olmaz ba\u015fkan aday\u0131 Faruk hala g\u00f6zde bekar olarak hayat\u0131na devam ediyor! Xate, bir sabah Aziz Veysel'i ba\u015fkanl\u0131k g\u00f6revine u\u011furlarken k\u00f6t\u00fc bir s\u00fcrprizle kar\u015f\u0131la\u015f\u0131r. Bu s\u00fcrpriz, Xate ile Faruk'u yeniden kar\u015f\u0131 kar\u015f\u0131ya getirecektir. \u00dcstelik a\u011fz\u0131ndan yalan \u00e7\u0131kamayan Xate ile gelince kendine bile yalan s\u00f6yleyebilen Faruk meydanlarda, se\u00e7im vaatleri ile yar\u0131\u015facakt\u0131r! \n\nKasaban\u0131n g\u00fcndemine bomba gibi d\u00fc\u015fen \"erken se\u00e7im\" ile her \u015fey kar\u0131\u015f\u0131r, kahkaha zirve yapar!\n\n\u25ba BKM Kanal\u0131na Abone Olun: http://goo.gl/rq6Yql\n\u25ba G\u00fcld\u00fcr G\u00fcld\u00fcr Show Kanal\u0131na Abone Olun: https://goo.gl/v9le8I\n\u25ba \u00c7ok G\u00fczel Hareketler Kanal\u0131na Abone Ol: http://goo.gl/inzjIu\n\n#BKM #H\u00fck\u00fcmetKad\u0131n2 #DemetAkba\u011f #SermiyanMidyat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HEm_tgKipQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HEm_tgKipQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HEm_tgKipQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HEm_tgKipQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HEm_tgKipQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H\u00fck\u00fcmet Kad\u0131n",
+                "tags": [
+                    "h\u00fck\u00fcmet kad\u0131n",
+                    "hukumet kadin",
+                    "hukumet kadin izle",
+                    "h\u00fck\u00fcmet kad\u0131n full izle",
+                    "sermiyan midyat",
+                    "demet akba\u011f",
+                    "h\u00fck\u00fcmet kad\u0131n 2",
+                    "h\u00fck\u00fcmet kad\u0131n 2 izle",
+                    "h\u00fck\u00fcmet kad\u0131n demet akba\u011f",
+                    "h\u00fck\u00fcmet kad\u0131n en komik sahneleri",
+                    "h\u00fck\u00fcmet kad\u0131n sahneleri",
+                    "h\u00fck\u00fcmet kad\u0131n hd izle",
+                    "h\u00fck\u00fcmet kad\u0131n faruk",
+                    "bkm",
+                    "bkm filmleri",
+                    "bkm komedi filmleri",
+                    "komedi filmleri",
+                    "a\u015firet filmleri",
+                    "mardin filmleri",
+                    "mardin",
+                    "komedi",
+                    "full film",
+                    "komedi full film",
+                    "mizah",
+                    "sen tezek topluyordun"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "On D\u00f6rd\u00fczd\u00fcr Bunlar #shorts #bkm #h\u00fck\u00fcmetkad\u0131n #demetakba\u011f #sermiyanmidyat",
+                    "description": "H\u00fck\u00fcmet Kad\u0131n filminden 7 y\u0131l \u00f6nce... Y\u0131l 1949.\n\nYasakl\u0131 y\u0131llar. Kitaplar, gazeteler, kelimeler h\u00fck\u00fcm giymi\u015f, h\u00fcrriyet dedikleri hep vaat. Tek umut, a\u00e7\u0131lan sand\u0131k say\u0131s\u0131 ve ge\u00e7erli oy say\u0131lar\u0131! G\u00fcneydo\u011fu'nun ilk belediye ba\u015fkan\u0131 Xate, hen\u00fcz kendisini bekleyen bu ba\u015fkanl\u0131k g\u00f6revinden habersiz, Midyat Belediye Ba\u015fkan\u0131 Aziz Veysel'in e\u015fi olarak ya\u015f\u0131yor.\n\nKasaban\u0131n iflah olmaz ba\u015fkan aday\u0131 Faruk hala g\u00f6zde bekar olarak hayat\u0131na devam ediyor! Xate, bir sabah Aziz Veysel'i ba\u015fkanl\u0131k g\u00f6revine u\u011furlarken k\u00f6t\u00fc bir s\u00fcrprizle kar\u015f\u0131la\u015f\u0131r. Bu s\u00fcrpriz, Xate ile Faruk'u yeniden kar\u015f\u0131 kar\u015f\u0131ya getirecektir. \u00dcstelik a\u011fz\u0131ndan yalan \u00e7\u0131kamayan Xate ile gelince kendine bile yalan s\u00f6yleyebilen Faruk meydanlarda, se\u00e7im vaatleri ile yar\u0131\u015facakt\u0131r! \n\nKasaban\u0131n g\u00fcndemine bomba gibi d\u00fc\u015fen \"erken se\u00e7im\" ile her \u015fey kar\u0131\u015f\u0131r, kahkaha zirve yapar!\n\n\u25ba BKM Kanal\u0131na Abone Olun: http://goo.gl/rq6Yql\n\u25ba G\u00fcld\u00fcr G\u00fcld\u00fcr Show Kanal\u0131na Abone Olun: https://goo.gl/v9le8I\n\u25ba \u00c7ok G\u00fczel Hareketler Kanal\u0131na Abone Ol: http://goo.gl/inzjIu\n\n#BKM #H\u00fck\u00fcmetKad\u0131n2 #DemetAkba\u011f #SermiyanMidyat"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "831160",
+                "likeCount": "28630",
+                "favoriteCount": "0",
+                "commentCount": "291"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rabyfD7Ts2qH5ZWD5Kd72U4OF38",
+            "id": "NWSzlJiySLs",
+            "snippet": {
+                "publishedAt": "2025-07-17T16:14:10Z",
+                "channelId": "UCqOwcxgDCjnHNgMt9A3Ua8w",
+                "title": "Bugatti\ud83d\udd25\ud83d\ude97 Rate our TAXI 1-10 \ud83d\ude08\ud83d\ude95",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NWSzlJiySLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NWSzlJiySLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NWSzlJiySLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NWSzlJiySLs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NWSzlJiySLs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Diana Belitskay",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Bugatti\ud83d\udd25\ud83d\ude97 Rate our TAXI 1-10 \ud83d\ude08\ud83d\ude95",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ar"
+            },
+            "statistics": {
+                "viewCount": "27473900",
+                "likeCount": "391808",
+                "favoriteCount": "0",
+                "commentCount": "772"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "y_nb9tFZ2Rsyz03Pjo9eXg-qM74",
+            "id": "pPDee_ZpipY",
+            "snippet": {
+                "publishedAt": "2025-07-20T20:41:56Z",
+                "channelId": "UCQpeujIamj2ZOKXZnrxTRhA",
+                "title": "\ud83d\udcfa GEN\u0130\u015e \u00d6ZET | Galatasaray 2-1 Admira Wacker",
+                "description": "Gollerimiz: Derrick K\u00f6hn (10') ve Arda \u00dcnyay (57')\n\nGalatasaray'\u0131n en \u00f6zel i\u00e7eriklerine eri\u015fmek i\u00e7in sen de KATIL! \ud83d\udc47\nhttps://www.youtube.com/channel/UCQpeujIamj2ZOKXZnrxTRhA/join\n\nGalatasaray\u2019\u0131 yak\u0131ndan takip etmek i\u00e7in hesab\u0131m\u0131za abone ol: http://bit.ly/GalatasaraySK\n\n25. \u015eampiyonluk kutlamalar\u0131m\u0131za dair her \u015fey: \nhttps://www.youtube.com/playlist?list=PL7kadCCzDqu24FUCCcTUUloBw0ZpIEYme\n\nDi\u011fer videolar\u0131m\u0131za da kolayca ula\u015fmak i\u00e7in \ud83d\udc47\n\nGalatasaray tarihinden unutulmaz goller: \nhttp://bit.ly/GununGolu\n\nGheorghe Hagi'nin Galatasaray'da Att\u0131\u011f\u0131 En G\u00fczel Goller:\nhttps://youtu.be/xhxkRpvGbSE\n\nGalatasaray - Arsenal UEFA Kupas\u0131 Final Ma\u00e7\u0131 geni\u015f \u00f6zet:\nhttps://youtu.be/hubxCx5NKxY\n\nUEFA Kupas\u0131 | Galatasaray'\u0131n 17 May\u0131s 2000 UEFA Kupas\u0131 \u00d6yk\u00fcs\u00fc:\nhttps://youtu.be/oKnKy8Gl1Fg\n\nUEFA Kupas\u0131 | 17 May\u0131s 2000 UEFA Kupas\u0131 Fatih Terim Soyunma Odas\u0131 Konu\u015fmas\u0131:\nhttps://youtu.be/9QOfjdHnN7A\n\nGalatasaray - Arsenal 17 May\u0131s 2000 UEFA Kupas\u0131 \u015eampiyonlu\u011fu Sonras\u0131 R\u00f6portajlar:\nhttps://youtu.be/Yb2njg2gs1w\n\nGalatasaray 17 May\u0131s 2000 Uefa Kupas\u0131 Belgeseli:\nhttps://youtu.be/O7pK_WtuQSg\n\nGalatasaray\u2019\u0131 sosyal medyadan da takip edin:\n\nGalatasaray Resmi Twitter hesab\u0131:\n\ud83d\udc49 https://twitter.com/GalatasaraySK\n\nGalatasaray Resmi Instagram hesab\u0131\n\ud83d\udc49 https://www.instagram.com/Galatasaray/\n\nGalatasaray Resmi TikTok Sayfas\u0131\n\ud83d\udc49 https://www.tiktok.com/Galatasaray\n\nGalatasaray Resmi Threads Sayfas\u0131\n\ud83d\udc49 https://www.threads.net/@galatasaray\n\nGalatasaray Resmi Facebook Sayfas\u0131\n\ud83d\udc49 https://www.facebook.com/Galatasaray\n\n\n\nT\u00fcrkiye\u2019nin en b\u00fcy\u00fck ve en de\u011ferli spor kul\u00fcb\u00fc Galatasaray\u2019\u0131n YouTube hesab\u0131na ho\u015f geldiniz. Antrenmanlar\u0131m\u0131zdan g\u00f6r\u00fcnt\u00fcler, sporcular\u0131m\u0131zla r\u00f6portajlar, \u00f6zel i\u00e7erikler ve daha fazlas\u0131 i\u00e7in abone olmay\u0131 unutmay\u0131n! \n\n**\n\nGalatasaray SK Resmi YouTube Sayfas\u0131d\u0131r\nThe Official YouTube Channel of Galatasaray \nhttps://www.galatasaray.org",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pPDee_ZpipY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pPDee_ZpipY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pPDee_ZpipY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pPDee_ZpipY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Galatasaray",
+                "tags": [
+                    "galatasaray",
+                    "gs",
+                    "galatasaray sk",
+                    "galatasaray 2020",
+                    "cimbom",
+                    "cimbombom",
+                    "galatasaray youtube",
+                    "galatasaray sk youtube",
+                    "galatasaray youtube kanal\u0131",
+                    "galatasaray youtube channel"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "\ud83d\udcfa GEN\u0130\u015e \u00d6ZET | Galatasaray 2-1 Admira Wacker",
+                    "description": "Gollerimiz: Derrick K\u00f6hn (10') ve Arda \u00dcnyay (57')\n\nGalatasaray'\u0131n en \u00f6zel i\u00e7eriklerine eri\u015fmek i\u00e7in sen de KATIL! \ud83d\udc47\nhttps://www.youtube.com/channel/UCQpeujIamj2ZOKXZnrxTRhA/join\n\nGalatasaray\u2019\u0131 yak\u0131ndan takip etmek i\u00e7in hesab\u0131m\u0131za abone ol: http://bit.ly/GalatasaraySK\n\n25. \u015eampiyonluk kutlamalar\u0131m\u0131za dair her \u015fey: \nhttps://www.youtube.com/playlist?list=PL7kadCCzDqu24FUCCcTUUloBw0ZpIEYme\n\nDi\u011fer videolar\u0131m\u0131za da kolayca ula\u015fmak i\u00e7in \ud83d\udc47\n\nGalatasaray tarihinden unutulmaz goller: \nhttp://bit.ly/GununGolu\n\nGheorghe Hagi'nin Galatasaray'da Att\u0131\u011f\u0131 En G\u00fczel Goller:\nhttps://youtu.be/xhxkRpvGbSE\n\nGalatasaray - Arsenal UEFA Kupas\u0131 Final Ma\u00e7\u0131 geni\u015f \u00f6zet:\nhttps://youtu.be/hubxCx5NKxY\n\nUEFA Kupas\u0131 | Galatasaray'\u0131n 17 May\u0131s 2000 UEFA Kupas\u0131 \u00d6yk\u00fcs\u00fc:\nhttps://youtu.be/oKnKy8Gl1Fg\n\nUEFA Kupas\u0131 | 17 May\u0131s 2000 UEFA Kupas\u0131 Fatih Terim Soyunma Odas\u0131 Konu\u015fmas\u0131:\nhttps://youtu.be/9QOfjdHnN7A\n\nGalatasaray - Arsenal 17 May\u0131s 2000 UEFA Kupas\u0131 \u015eampiyonlu\u011fu Sonras\u0131 R\u00f6portajlar:\nhttps://youtu.be/Yb2njg2gs1w\n\nGalatasaray 17 May\u0131s 2000 Uefa Kupas\u0131 Belgeseli:\nhttps://youtu.be/O7pK_WtuQSg\n\nGalatasaray\u2019\u0131 sosyal medyadan da takip edin:\n\nGalatasaray Resmi Twitter hesab\u0131:\n\ud83d\udc49 https://twitter.com/GalatasaraySK\n\nGalatasaray Resmi Instagram hesab\u0131\n\ud83d\udc49 https://www.instagram.com/Galatasaray/\n\nGalatasaray Resmi TikTok Sayfas\u0131\n\ud83d\udc49 https://www.tiktok.com/Galatasaray\n\nGalatasaray Resmi Threads Sayfas\u0131\n\ud83d\udc49 https://www.threads.net/@galatasaray\n\nGalatasaray Resmi Facebook Sayfas\u0131\n\ud83d\udc49 https://www.facebook.com/Galatasaray\n\n\n\nT\u00fcrkiye\u2019nin en b\u00fcy\u00fck ve en de\u011ferli spor kul\u00fcb\u00fc Galatasaray\u2019\u0131n YouTube hesab\u0131na ho\u015f geldiniz. Antrenmanlar\u0131m\u0131zdan g\u00f6r\u00fcnt\u00fcler, sporcular\u0131m\u0131zla r\u00f6portajlar, \u00f6zel i\u00e7erikler ve daha fazlas\u0131 i\u00e7in abone olmay\u0131 unutmay\u0131n! \n\n**\n\nGalatasaray SK Resmi YouTube Sayfas\u0131d\u0131r\nThe Official YouTube Channel of Galatasaray \nhttps://www.galatasaray.org"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "783600",
+                "likeCount": "9473",
+                "favoriteCount": "0",
+                "commentCount": "733"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cjpxdSzs8ANkgIPWb3_K-Nj_Q5s",
+            "id": "wqV2wAve5Tw",
+            "snippet": {
+                "publishedAt": "2025-07-19T15:05:09Z",
+                "channelId": "UCoRVnrDmJ1Ywt11YHxfAjSw",
+                "title": "Can My Sister Lisa Sneak On a Roller Coaster in High Platform Shoes? @TheLittleRicheys",
+                "description": "Can My Sister Lisa Sneak On a Roller Coaster in High Platform Shoes?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wqV2wAve5Tw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wqV2wAve5Tw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wqV2wAve5Tw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wqV2wAve5Tw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wqV2wAve5Tw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Richey Family",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Can My Sister Lisa Sneak On a Roller Coaster in High Platform Shoes? @TheLittleRicheys",
+                    "description": "Can My Sister Lisa Sneak On a Roller Coaster in High Platform Shoes?"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "57178193",
+                "likeCount": "842117",
+                "favoriteCount": "0",
+                "commentCount": "671"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_FMwptyq9SGmnJmc-QOp_RTjbj4",
+            "id": "22ph06do830",
+            "snippet": {
+                "publishedAt": "2025-07-18T17:21:09Z",
+                "channelId": "UCoWj9KzdFJn72NnVKScWfYg",
+                "title": "G\u00dcLERSEN KAYBEDERS\u0130N w/ Manifest, @m6nifestgirls,  @chabyhan , @whenselensu",
+                "description": "So\u011fuk Sava\u015f\u2019\u0131n bu haftaki b\u00f6l\u00fcm\u00fcnde ekibimiz Manifest grubunu a\u011f\u0131rl\u0131yor. A\u015f\u0131r\u0131 e\u011flenceli anlar ya\u015fad\u0131\u011f\u0131m\u0131z bu b\u00f6l\u00fcm\u00fc sizinle payla\u015fmaktan keyif duyuyoruz. Sizin favori \u015fakan\u0131z hangisiydi yorumlarda bulu\u015fal\u0131m! \u0130yi seyirler.\n\n\u015eaka de\u011fil! Hepsiburada'dan T\u00fcrkiye'de bir ilk, 81 ilde pazar g\u00fcn\u00fc teslimat. @hepsiburada #Hepsibu\nhttps://www.hepsiburada.com/dv/yaz-sezon-firsatlari?utm_source=soguksavas&utm_medium=sponsorluk&utm_campaign=hepsibu\n\n#i\u015fbirli\u011fi \n\nArt\u0131k kanala kat\u0131larak so\u011fuk sava\u015f ekibini destekleyebilir, \u015faka g\u00f6nderebilir, ileride gelecek kat\u0131la \u00f6zel i\u00e7eriklere ula\u015fabilirsin! \nhttps://www.youtube.com/channel/UCoWj9KzdFJn72NnVKScWfYg/join\n\nInstagram: https://instagram.com/soguksavasfalan?igshid=YzA2ZDJiZGQ=\nTwitter: https://twitter.com/soguksavasteam\nFacebook: https://www.facebook.com/soguksavasofficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/22ph06do830/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/22ph06do830/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/22ph06do830/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/22ph06do830/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/22ph06do830/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "So\u011fuk Sava\u015f",
+                "tags": [
+                    "educatedear",
+                    "z\u0131b\u0131n",
+                    "base 42",
+                    "g\u00fclersen kaybedersin",
+                    "base 42 g\u00fclersen kaybedersin",
+                    "post42",
+                    "post 42",
+                    "post42 oyun",
+                    "base 42 so\u011fuk sava\u015f",
+                    "so\u011fuk sava\u015f",
+                    "base 42 oyun",
+                    "Mina Solak \u015eaka",
+                    "Esin Bahat \u015eaka",
+                    "Lidya P\u0131nar \u015faka",
+                    "sueda uluca \u015faka",
+                    "Zeynep sude Oktay \u015faka",
+                    "Zoktay \u015faka",
+                    "Emine Hilal Yelek\u00e7i \u015faka",
+                    "Manifest so\u011fuk \u015faka",
+                    "Manifest komik",
+                    "Manifest once said",
+                    "Manifest komik anlar",
+                    "Manifest \u015faka"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "G\u00dcLERSEN KAYBEDERS\u0130N w/ Manifest, @m6nifestgirls,  @chabyhan , @whenselensu",
+                    "description": "So\u011fuk Sava\u015f\u2019\u0131n bu haftaki b\u00f6l\u00fcm\u00fcnde ekibimiz Manifest grubunu a\u011f\u0131rl\u0131yor. A\u015f\u0131r\u0131 e\u011flenceli anlar ya\u015fad\u0131\u011f\u0131m\u0131z bu b\u00f6l\u00fcm\u00fc sizinle payla\u015fmaktan keyif duyuyoruz. Sizin favori \u015fakan\u0131z hangisiydi yorumlarda bulu\u015fal\u0131m! \u0130yi seyirler.\n\n\u015eaka de\u011fil! Hepsiburada'dan T\u00fcrkiye'de bir ilk, 81 ilde pazar g\u00fcn\u00fc teslimat. @hepsiburada #Hepsibu\nhttps://www.hepsiburada.com/dv/yaz-sezon-firsatlari?utm_source=soguksavas&utm_medium=sponsorluk&utm_campaign=hepsibu\n\n#i\u015fbirli\u011fi \n\nArt\u0131k kanala kat\u0131larak so\u011fuk sava\u015f ekibini destekleyebilir, \u015faka g\u00f6nderebilir, ileride gelecek kat\u0131la \u00f6zel i\u00e7eriklere ula\u015fabilirsin! \nhttps://www.youtube.com/channel/UCoWj9KzdFJn72NnVKScWfYg/join\n\nInstagram: https://instagram.com/soguksavasfalan?igshid=YzA2ZDJiZGQ=\nTwitter: https://twitter.com/soguksavasteam\nFacebook: https://www.facebook.com/soguksavasofficial"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "868713",
+                "likeCount": "36360",
+                "favoriteCount": "0",
+                "commentCount": "3174"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tsdYMNvbC6hfKhfActcnjD88i08",
+            "id": "hRxVDjTYZCI",
+            "snippet": {
+                "publishedAt": "2025-07-17T16:29:35Z",
+                "channelId": "UCRoi8vJuJ2uLdxbohOkPz-w",
+                "title": "Anne ve baban\u0131n senin hakk\u0131nda bilmedikleri bir \u015fey s\u00f6yle, 1000 TL kazan!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRxVDjTYZCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRxVDjTYZCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRxVDjTYZCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hRxVDjTYZCI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hRxVDjTYZCI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Burak Akt\u00fcrk",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Anne ve baban\u0131n senin hakk\u0131nda bilmedikleri bir \u015fey s\u00f6yle, 1000 TL kazan!",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1608853",
+                "likeCount": "62600",
+                "favoriteCount": "0",
+                "commentCount": "388"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "C4kp_nhjG4D42PPBeUJDfYdGwVA",
+            "id": "f-MdidKxrAA",
+            "snippet": {
+                "publishedAt": "2025-07-18T14:52:58Z",
+                "channelId": "UCi4staQRxUT8y9W9k4lZ38w",
+                "title": "Kelebek olmasa bo\u011fuluyodum \ud83d\udc80\ud83d\udc80",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f-MdidKxrAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f-MdidKxrAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f-MdidKxrAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f-MdidKxrAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f-MdidKxrAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nisan Hakan",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Kelebek olmasa bo\u011fuluyodum \ud83d\udc80\ud83d\udc80",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "818440",
+                "likeCount": "27205",
+                "favoriteCount": "0",
+                "commentCount": "104"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dHZWjYzo-CDRJQQ3P0u6ULnMS4M",
+            "id": "R4RGtCqCzgE",
+            "snippet": {
+                "publishedAt": "2025-07-17T21:00:11Z",
+                "channelId": "UCOmJUZD4k7MOv-p4iuRa2-w",
+                "title": "Tan Ta\u015f\u00e7\u0131 - Soka\u011f\u0131ndan Ge\u00e7mezdim (Resmi M\u00fczik Videosu)",
+                "description": "'Sende De Benden Var'' isimli alb\u00fcm\u00fcm\u00fcn \u00fc\u00e7\u00fcnc\u00fc videosu ''Soka\u011f\u0131ndan Ge\u00e7mezdim'' yay\u0131nda. \n(C) 2025 TCTVL \n\nS\u00f6z & M\u00fczik: Tan Ta\u015f\u00e7\u0131\nD\u00fczenleme: Sezgin Gezgin\nY\u00f6netmen: \u0130zzet Ba\u015flak \nA&R: Onur \u00d6z\u0131\u015f\u0131k\n\nGitarlar Selahattin G\u00fczelel \nKemanlar New World Strings\nRitm sazlar Cengiz Erc\u00fcmer \nVokaller: Emre \u015een & Seda Eyl\u00fcl Tans\u0131k\nMiks & Mastering Candar K\u00f6ker\n\nOyuncular: Zeynep Alkan, Yusuf Ta\u015f\u00e7\u0131, G\u00fclden, Onur \u00d6z\u0131\u015f\u0131k, Ecmel Kayahan, G\u00f6khan Pehlivanl\u0131, Mert D\u00f6rter, Faruk \u00d6zen, Ahmet K\u00fc\u00e7\u00fckdo\u011fan\nDans\u00e7\u0131lar: Evrim \u00d6nc\u00fcl Ulu, Gamze Y\u0131ld\u0131r\u0131m\n\nTeoman, G\u00fclden, Funda Sanl\u0131man, Bayhan Prod\u00fcksiyon ve U\u011fur Bayhan'a Te\u015fekk\u00fcrlerimizle..\n\nSanat Y\u00f6netmeni: Faruk \u00d6zen\nSa\u00e7: Halil Ayd\u0131n \nG\u00f6rsel Efektler: Ahmet Melih \u00d6zk\u00f6k\nRenk: Mert Ayta\u015f & Ufuk Akta\u015f\nSanat Asistan\u0131: Muhammed Y\u0131ld\u0131z\nKamera ve I\u015f\u0131k Ekipmanlar\u0131: Kiral\u0131k Kamera 7/24\nSanat Malzemeleri - Plato Platonik\nKost\u00fcmler - Wonder Kost\u00fcm, ByRetro\nKlasik Ara\u00e7lar - Sercan Ko\u00e7, Saltu\u011f Ta\u015fl\u0131da\u011f \n\nS\u00fcperviz\u00f6r: Onur \u00d6z\u0131\u015f\u0131k & Ecmel Kayahan \n\u0130leti\u015fim: Zeynep Alt\u0131n\u00e7eki\u00e7, Refik Sar\u0131\u00f6z\nDijital: Aybars \u00d6zt\u00fcrk \nDa\u011f\u0131t\u0131m: OneRPM\n\n\nSpotify: https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D?si=vH9FYcaXROq8WtJn2m7t4A\nApple Music: https://music.apple.com/tr/artist/tan-ta%C5%9F%C3%A7%C4%B1/217219341\n\nAbone Olmak \u0130\u00e7in T\u0131kla: \n\nTan Ta\u015f\u00e7\u0131 - Sosyal Medya Hesaplar\u0131:\nhttps://www.twitter.com/tantasci\nhttps://www.tiktok.com/@tantasci\nhttps://www.instagram.com/tantasci\nhttps://www.facebook.com/tantascipage",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R4RGtCqCzgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R4RGtCqCzgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R4RGtCqCzgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R4RGtCqCzgE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R4RGtCqCzgE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tan Ta\u015f\u00e7\u0131",
+                "tags": [
+                    "Tan",
+                    "Tan Ta\u015f\u00e7\u0131",
+                    "T\u00fcrk\u00e7e Pop",
+                    "Pop",
+                    "Akustik T\u00fcrk\u00e7e",
+                    "Canl\u0131 M\u00fczik",
+                    "Turkish Pop",
+                    "Pop Music",
+                    "Yalan",
+                    "nas\u0131l sevece\u011fim",
+                    "evdey\u0131lba\u015f\u0131",
+                    "s\u00f6zm\u00fcziktanta\u015f\u00e7\u0131",
+                    "tan tasci",
+                    "tan m\u00fczik",
+                    "tan \u015fark\u0131lar\u0131",
+                    "tan ta\u015f\u00e7\u0131 \u015fark\u0131lar\u0131",
+                    "tan dinle",
+                    "tan ta\u015f\u00e7\u0131 dinle"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Tan Ta\u015f\u00e7\u0131 - Soka\u011f\u0131ndan Ge\u00e7mezdim (Resmi M\u00fczik Videosu)",
+                    "description": "'Sende De Benden Var'' isimli alb\u00fcm\u00fcm\u00fcn \u00fc\u00e7\u00fcnc\u00fc videosu ''Soka\u011f\u0131ndan Ge\u00e7mezdim'' yay\u0131nda. \n(C) 2025 TCTVL \n\nS\u00f6z & M\u00fczik: Tan Ta\u015f\u00e7\u0131\nD\u00fczenleme: Sezgin Gezgin\nY\u00f6netmen: \u0130zzet Ba\u015flak \nA&R: Onur \u00d6z\u0131\u015f\u0131k\n\nGitarlar Selahattin G\u00fczelel \nKemanlar New World Strings\nRitm sazlar Cengiz Erc\u00fcmer \nVokaller: Emre \u015een & Seda Eyl\u00fcl Tans\u0131k\nMiks & Mastering Candar K\u00f6ker\n\nOyuncular: Zeynep Alkan, Yusuf Ta\u015f\u00e7\u0131, G\u00fclden, Onur \u00d6z\u0131\u015f\u0131k, Ecmel Kayahan, G\u00f6khan Pehlivanl\u0131, Mert D\u00f6rter, Faruk \u00d6zen, Ahmet K\u00fc\u00e7\u00fckdo\u011fan\nDans\u00e7\u0131lar: Evrim \u00d6nc\u00fcl Ulu, Gamze Y\u0131ld\u0131r\u0131m\n\nTeoman, G\u00fclden, Funda Sanl\u0131man, Bayhan Prod\u00fcksiyon ve U\u011fur Bayhan'a Te\u015fekk\u00fcrlerimizle..\n\nSanat Y\u00f6netmeni: Faruk \u00d6zen\nSa\u00e7: Halil Ayd\u0131n \nG\u00f6rsel Efektler: Ahmet Melih \u00d6zk\u00f6k\nRenk: Mert Ayta\u015f & Ufuk Akta\u015f\nSanat Asistan\u0131: Muhammed Y\u0131ld\u0131z\nKamera ve I\u015f\u0131k Ekipmanlar\u0131: Kiral\u0131k Kamera 7/24\nSanat Malzemeleri - Plato Platonik\nKost\u00fcmler - Wonder Kost\u00fcm, ByRetro\nKlasik Ara\u00e7lar - Sercan Ko\u00e7, Saltu\u011f Ta\u015fl\u0131da\u011f \n\nS\u00fcperviz\u00f6r: Onur \u00d6z\u0131\u015f\u0131k & Ecmel Kayahan \n\u0130leti\u015fim: Zeynep Alt\u0131n\u00e7eki\u00e7, Refik Sar\u0131\u00f6z\nDijital: Aybars \u00d6zt\u00fcrk \nDa\u011f\u0131t\u0131m: OneRPM\n\n\nSpotify: https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D?si=vH9FYcaXROq8WtJn2m7t4A\nApple Music: https://music.apple.com/tr/artist/tan-ta%C5%9F%C3%A7%C4%B1/217219341\n\nAbone Olmak \u0130\u00e7in T\u0131kla: \n\nTan Ta\u015f\u00e7\u0131 - Sosyal Medya Hesaplar\u0131:\nhttps://www.twitter.com/tantasci\nhttps://www.tiktok.com/@tantasci\nhttps://www.instagram.com/tantasci\nhttps://www.facebook.com/tantascipage"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "2042286",
+                "likeCount": "26012",
+                "favoriteCount": "0",
+                "commentCount": "4534"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hTH17dhhLzow75uhyi9AA_pZI18",
+            "id": "E_s6YoYFLmc",
+            "snippet": {
+                "publishedAt": "2025-07-17T14:00:20Z",
+                "channelId": "UC2tsySbe9TNrI-xh2lximHA",
+                "title": "When the toilet occupied! \ud83d\udebd\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f",
+                "description": "When the toilet occupied! \ud83d\udebd\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E_s6YoYFLmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E_s6YoYFLmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E_s6YoYFLmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E_s6YoYFLmc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E_s6YoYFLmc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "A4",
+                "tags": [
+                    "a4",
+                    "Stokes",
+                    "Stokestwins",
+                    "sunset park",
+                    "stokes twins",
+                    "ethan bradberry",
+                    "moe bradberry",
+                    "Alex Stokes",
+                    "Alan Stokes",
+                    "Sam Dezz",
+                    "Andrew Davila",
+                    "Coby Persin",
+                    "Moe Adams",
+                    "Twins",
+                    "mrbeast",
+                    "pandaboi",
+                    "youtube recommended",
+                    "funny videos",
+                    "entertaining videos",
+                    "funny titkok videos",
+                    "youtube shorts",
+                    "shorts",
+                    "#shorts"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "When the toilet occupied! \ud83d\udebd\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f",
+                    "description": "When the toilet occupied! \ud83d\udebd\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "83145326",
+                "likeCount": "7009391",
+                "favoriteCount": "0",
+                "commentCount": "3167"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eU0RZ5odsUicoGJpbuShvS-h8xo",
+            "id": "YpLuVyulscs",
+            "snippet": {
+                "publishedAt": "2025-07-16T15:30:16Z",
+                "channelId": "UC82UK_P4DuDZ42Q0SHcey1w",
+                "title": "Ezel Yenilenmi\u015f B\u00f6l\u00fcmleriyle 1 A\u011fustos'ta Yay\u0131nda! #ezel #shorts #short",
+                "description": "\u27a1 https://youtu.be/NZ0BX3EVPIk\n\nT\u00fcrk televizyon tarihine ad\u0131n\u0131 alt\u0131n harflerle yazd\u0131ran Ezel efsanesi, yenilenmi\u015f 4K g\u00f6r\u00fcnt\u00fc kalitesi, 60 fps kare h\u0131z\u0131 ve ses optimizasyonuyla kar\u015f\u0131n\u0131zda! 1 A\u011fustos\u2019ta yay\u0131nlanacak olan ilk b\u00f6l\u00fcm i\u00e7in yerinizi al\u0131n. Herkes haz\u0131rsa ba\u015flayal\u0131m m\u0131?\n\n#ezel #\u00f6mer #ey\u015fan #cengiz #kerpetenali #ramizday\u0131",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YpLuVyulscs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YpLuVyulscs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YpLuVyulscs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YpLuVyulscs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YpLuVyulscs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ezel",
+                "tags": [
+                    "Ezel",
+                    "Ezel 1. B\u00f6l\u00fcm \u0130zle",
+                    "Ezel tam b\u00f6l\u00fcm",
+                    "ezel final sahnesi",
+                    "ezel ey\u015fan",
+                    "ezel aksiyon",
+                    "ezel ali day\u0131",
+                    "ezel b\u00f6l\u00fcmler",
+                    "ezel bayraktar",
+                    "ezel ramiz karaeski",
+                    "ezel ramiz day\u0131",
+                    "\u00e7ukur",
+                    "ramiz karaeski",
+                    "kerpeten ali",
+                    "Kenan \u0130mirzal\u0131o\u011flu",
+                    "kenan imirzal\u0131o\u011flu",
+                    "cansu dere",
+                    "ey\u015fan",
+                    "tuncel kurtiz",
+                    "ezel arabic",
+                    "haluk bilginer",
+                    "racon",
+                    "ramiz",
+                    "ezel dizisi izle",
+                    "racon sahneleri",
+                    "ey\u015fan sahneleri",
+                    "short",
+                    "shorts",
+                    "\u00f6ne \u00e7\u0131kar",
+                    "ke\u015ffet",
+                    "trendler",
+                    "trend",
+                    "shorts feed",
+                    "feed",
+                    "shorts series",
+                    "reels",
+                    "ramiz day\u0131",
+                    "ezel"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Ezel Yenilenmi\u015f B\u00f6l\u00fcmleriyle 1 A\u011fustos'ta Yay\u0131nda! #ezel #shorts #short",
+                    "description": "\u27a1 https://youtu.be/NZ0BX3EVPIk\n\nT\u00fcrk televizyon tarihine ad\u0131n\u0131 alt\u0131n harflerle yazd\u0131ran Ezel efsanesi, yenilenmi\u015f 4K g\u00f6r\u00fcnt\u00fc kalitesi, 60 fps kare h\u0131z\u0131 ve ses optimizasyonuyla kar\u015f\u0131n\u0131zda! 1 A\u011fustos\u2019ta yay\u0131nlanacak olan ilk b\u00f6l\u00fcm i\u00e7in yerinizi al\u0131n. Herkes haz\u0131rsa ba\u015flayal\u0131m m\u0131?\n\n#ezel #\u00f6mer #ey\u015fan #cengiz #kerpetenali #ramizday\u0131"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1622614",
+                "favoriteCount": "0",
+                "commentCount": "175"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "K0rnSILIJqMdDCjFrej99xNbMUc",
+            "id": "7ymg8cYt_6Y",
+            "snippet": {
+                "publishedAt": "2025-07-18T19:12:59Z",
+                "channelId": "UCSsRKCGdApKRg_ChJA9w8Zg",
+                "title": "b\u00f6yle g\u00fcnl\u00fck vloglar gelsin mi?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7ymg8cYt_6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7ymg8cYt_6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7ymg8cYt_6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7ymg8cYt_6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7ymg8cYt_6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Turk Sevdali",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "b\u00f6yle g\u00fcnl\u00fck vloglar gelsin mi?",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "819286",
+                "likeCount": "33539",
+                "favoriteCount": "0",
+                "commentCount": "706"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rI1qBAbMTlNqy3n23mecYTDj1Mc",
+            "id": "F51p2xBkYw0",
+            "snippet": {
+                "publishedAt": "2025-07-15T20:00:06Z",
+                "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
+                "title": "Don't Kick The Cake Football!",
+                "description": "Don't Kick The Cake Football!\n\nBucketsquad Apparel - https://bucketsquad.com/\n\nFollow me @Jesser on Instagram for new IG Reels or I\u2019ll dunk on you\n\n\u2605 Follow me on social media @Jesser \u2605\n\u25cfInstagram https://instagram.com/jesser\n\u25cfTwitter https://twitter.com/jesser\n\n#BucketSquad",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F51p2xBkYw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F51p2xBkYw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F51p2xBkYw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F51p2xBkYw0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F51p2xBkYw0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jesser",
+                "tags": [
+                    "jesser"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Don't Kick The Cake Football!",
+                    "description": "Don't Kick The Cake Football!\n\nBucketsquad Apparel - https://bucketsquad.com/\n\nFollow me @Jesser on Instagram for new IG Reels or I\u2019ll dunk on you\n\n\u2605 Follow me on social media @Jesser \u2605\n\u25cfInstagram https://instagram.com/jesser\n\u25cfTwitter https://twitter.com/jesser\n\n#BucketSquad"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "29507429",
+                "likeCount": "767362",
+                "favoriteCount": "0",
+                "commentCount": "840"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ze1XDwu8kpeeTxRNBTFWhHAt9zo",
+            "id": "cYXxqz1juDE",
+            "snippet": {
+                "publishedAt": "2025-07-18T15:30:31Z",
+                "channelId": "UCo6gCEE3HRIXR7ANtiumL0g",
+                "title": "SEVG\u0130L\u0130MLE \u015eEYTAN BEBE\u011e\u0130N ANNE-BABASI OLDUK !?  | Ahmet Can D\u00fcndar | Feride \u00d6zdin\u00e7",
+                "description": "Herkese selam ben Ahmet Can D\u00fcndar bug\u00fcn sevgilimle yani Feride \u00d6zdin\u00e7 ile beraber LANETL\u0130 BEBE\u011e\u0130N ANNE-BABASI OLDUK !? biz videoyu \u00e7ekerken hem e\u011flendik hem gerildik umar\u0131m siz de izlerken keyifli vakit ge\u00e7irirsiniz sizi seviyorum iyi seyirler :)\n\n-Di\u011fer Videolar\u0131m-\nKAT\u0130L NENE BEN\u0130 YAKALADI, \u0130LK DEFA GRANNY OYNADIM  : https://youtu.be/r3TSwDC2e0c TERKED\u0130LM\u0130\u015e C\u0130NL\u0130 K\u00d6YDE B\u0130R GECE !? \u0130BL\u0130S 2 : https://youtu.be/9mdbX9KtAfE\nYANLI\u015e KUTUYA G\u0130REN \u00d6L\u00dcR M\u0130NECRAFT : https://youtu.be/4LpJJ7fwle0\nC\u0130NL\u0130 TERKED\u0130LM\u0130\u015e EV 'DE B\u0130R GECE ! https://youtu.be/7E9VOvNgtV4\nKAT\u0130L OYUNCAKTAN KA\u00c7 OYUNCAK FABR\u0130KASI ? https://youtu.be/WX_FHMEF3kA\n\n- ahmetcandundar@welogsocial.com -",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cYXxqz1juDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cYXxqz1juDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cYXxqz1juDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cYXxqz1juDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cYXxqz1juDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ahmet Can D\u00fcndar 2",
+                "tags": [
+                    "ahmet feride oyun",
+                    "ahmet can d\u00fcndar",
+                    "ahmet can d\u00fcndar 2",
+                    "ahmet can d\u00fcndar korku oyunu",
+                    "ahmet feride korku oyunu",
+                    "lanetli bebek oyunu",
+                    "ahmet feride anne baba",
+                    "ahmet feride 24 saat anne baba olduk",
+                    "ahmet feride bebek bakma",
+                    "ahmet feride korku oyunu oynuyor",
+                    "korkun\u00e7 bebek oyunu",
+                    "baby in yellow",
+                    "baby in yellow oyunu",
+                    "ahmet feride bebek bakma oyunu",
+                    "bebek bakma oyunu",
+                    "baby in yellow ahmet can d\u00fcndar",
+                    "ahmet korku oyunu",
+                    "ahmet can d\u00fcndar oyun",
+                    "ahmet can d\u00fcndar oyun kanal\u0131"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SEVG\u0130L\u0130MLE \u015eEYTAN BEBE\u011e\u0130N ANNE-BABASI OLDUK !?  | Ahmet Can D\u00fcndar | Feride \u00d6zdin\u00e7",
+                    "description": "Herkese selam ben Ahmet Can D\u00fcndar bug\u00fcn sevgilimle yani Feride \u00d6zdin\u00e7 ile beraber LANETL\u0130 BEBE\u011e\u0130N ANNE-BABASI OLDUK !? biz videoyu \u00e7ekerken hem e\u011flendik hem gerildik umar\u0131m siz de izlerken keyifli vakit ge\u00e7irirsiniz sizi seviyorum iyi seyirler :)\n\n-Di\u011fer Videolar\u0131m-\nKAT\u0130L NENE BEN\u0130 YAKALADI, \u0130LK DEFA GRANNY OYNADIM  : https://youtu.be/r3TSwDC2e0c TERKED\u0130LM\u0130\u015e C\u0130NL\u0130 K\u00d6YDE B\u0130R GECE !? \u0130BL\u0130S 2 : https://youtu.be/9mdbX9KtAfE\nYANLI\u015e KUTUYA G\u0130REN \u00d6L\u00dcR M\u0130NECRAFT : https://youtu.be/4LpJJ7fwle0\nC\u0130NL\u0130 TERKED\u0130LM\u0130\u015e EV 'DE B\u0130R GECE ! https://youtu.be/7E9VOvNgtV4\nKAT\u0130L OYUNCAKTAN KA\u00c7 OYUNCAK FABR\u0130KASI ? https://youtu.be/WX_FHMEF3kA\n\n- ahmetcandundar@welogsocial.com -"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "928514",
+                "likeCount": "58848",
+                "favoriteCount": "0",
+                "commentCount": "4259"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BvLIN075_PaoX203Lj0-3ie4pbQ",
+            "id": "bl1qV561akI",
+            "snippet": {
+                "publishedAt": "2025-07-18T16:04:24Z",
+                "channelId": "UC4-bGrwiQOCVpvQwEGWaqGA",
+                "title": "Devasa Amerika Market\u00a0Turu",
+                "description": "Amerika'da Wallmart market turu yapt\u0131k ve san\u0131r\u0131m d\u00fcnyan\u0131n en ac\u0131 biberini yedim\u00a0iyi\u00a0seyirler\n\nDar\u00fc\u015f\u015fafaka Deprem \u00d6\u011frenci Destek Kampanyas\u0131 \ud83d\udc47\nhttp://bit.ly/3m5nxTZ\n\nileti\u015fim: noluyoya@temtalent.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bl1qV561akI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bl1qV561akI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bl1qV561akI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bl1qV561akI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bl1qV561akI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noluyo Ya \u00bf",
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Devasa Amerika Market\u00a0Turu",
+                    "description": "Amerika'da Wallmart market turu yapt\u0131k ve san\u0131r\u0131m d\u00fcnyan\u0131n en ac\u0131 biberini yedim\u00a0iyi\u00a0seyirler\n\nDar\u00fc\u015f\u015fafaka Deprem \u00d6\u011frenci Destek Kampanyas\u0131 \ud83d\udc47\nhttp://bit.ly/3m5nxTZ\n\nileti\u015fim: noluyoya@temtalent.com"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1111522",
+                "likeCount": "50802",
+                "favoriteCount": "0",
+                "commentCount": "1640"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8PDOi-OU6Jo19EAY_KOE2b0x9zM",
+            "id": "NCAnm66_REY",
+            "snippet": {
+                "publishedAt": "2025-07-16T08:35:36Z",
+                "channelId": "UCUcfej7lPDoeqTlferD2mcw",
+                "title": "Czn Burak Vs Speed T\u00fcrkiye I Am Your Abi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCAnm66_REY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCAnm66_REY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCAnm66_REY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NCAnm66_REY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NCAnm66_REY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Czn Burak",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Czn Burak Vs Speed T\u00fcrkiye I Am Your Abi",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1566014",
+                "likeCount": "39188",
+                "favoriteCount": "0",
+                "commentCount": "538"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UZwkD7Wi5xRMYMMiPKLa0HgGIgA",
+            "id": "Ijbegelg24w",
+            "snippet": {
+                "publishedAt": "2025-07-17T21:40:23Z",
+                "channelId": "UCPsMhcw7ZLRoEOnJleokzgQ",
+                "title": "CAJA MISTERIOSA DE MARIO !!",
+                "description": "Mis otras redes:\nTiktok: https://tiktok.com/@asbelnazar \nInstagram: http://instagram.com/asbelnazar\nTwitter: https://twitter.com/asbelnazar\nFacebook: https://www.facebook.com/soyasbelnazar\nContacto: a@asbelnazar.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ijbegelg24w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ijbegelg24w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ijbegelg24w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ijbegelg24w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ijbegelg24w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Asbel Nazar",
+                "tags": [
+                    "asbel",
+                    "alejo",
+                    "alejo igoa",
+                    "igoa",
+                    "malena",
+                    "payaso",
+                    "mu\u00f1eca",
+                    "24 horas",
+                    "challenge",
+                    "retos",
+                    "fede",
+                    "vecibanda",
+                    "vecinos",
+                    "vigevani"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CAJA MISTERIOSA DE MARIO !!",
+                    "description": "Mis otras redes:\nTiktok: https://tiktok.com/@asbelnazar \nInstagram: http://instagram.com/asbelnazar\nTwitter: https://twitter.com/asbelnazar\nFacebook: https://www.facebook.com/soyasbelnazar\nContacto: a@asbelnazar.com"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "5562268",
+                "likeCount": "193296",
+                "favoriteCount": "0",
+                "commentCount": "203"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0wwl3u-0k91qlYSznf7xibJz8h4",
+            "id": "fq1JQj-pHvU",
+            "snippet": {
+                "publishedAt": "2025-07-14T17:50:07Z",
+                "channelId": "UCXoKUtG3j_khIU7_dh1W7IA",
+                "title": "K\u00fc\u00e7\u00fck karde\u015fe sahip olmak @RoseHeus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fq1JQj-pHvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fq1JQj-pHvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fq1JQj-pHvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fq1JQj-pHvU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fq1JQj-pHvU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emirivriv",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "K\u00fc\u00e7\u00fck karde\u015fe sahip olmak @RoseHeus",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "3395772",
+                "likeCount": "87289",
+                "favoriteCount": "0",
+                "commentCount": "623"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wVBS3oXg6nJc_dH3IR4584yrYoA",
+            "id": "WlCWm7TCiXo",
+            "snippet": {
+                "publishedAt": "2025-07-17T15:01:03Z",
+                "channelId": "UCgSIDRAvqqZdvCqVMvPHAZw",
+                "title": "3D TIRNAK YAPTIRIYORUM\ud83d\udc85 #shorts #\u00f6z\u00fcmy\u0131ld\u0131zeli #beauty #t\u0131rnak #bak\u0131m #nailart #naildesign",
+                "description": "#reklam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WlCWm7TCiXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WlCWm7TCiXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WlCWm7TCiXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WlCWm7TCiXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WlCWm7TCiXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u00d6z\u00fcm Y\u0131ld\u0131zeli",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "3D TIRNAK YAPTIRIYORUM\ud83d\udc85 #shorts #\u00f6z\u00fcmy\u0131ld\u0131zeli #beauty #t\u0131rnak #bak\u0131m #nailart #naildesign",
+                    "description": "#reklam"
+                }
+            },
+            "statistics": {
+                "viewCount": "768125",
+                "likeCount": "24580",
+                "favoriteCount": "0",
+                "commentCount": "363"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UVyFNkGCZ-MSdTdvwmArykCBC5c",
+            "id": "a25xoyFn-wU",
+            "snippet": {
+                "publishedAt": "2025-07-17T14:00:00Z",
+                "channelId": "UCTpnOrDAyEUsCCfC0AE6zDw",
+                "title": "SQUID GAME FI\u0307NAL ELES\u0327TI\u0307RI\u0307SI\u0307",
+                "description": "Squid Game kesinlikle d\u00fcnyan\u0131n en fazla konu\u015ftu\u011fu dizilerden biri oldu, sadece konu\u015fulmad\u0131 oynand\u0131, ya\u015fand\u0131, bir \u00fclkenin milli de\u011feri oldu. Ve her \u015feyin oldu\u011fu gibi sonunda da finali. Ben de bu videoda dizinin final sezonunu, bir \u00fclke i\u00e7in olan de\u011ferini ve ayr\u0131nt\u0131lara girerek her zamanki gibi mant\u0131k hatalar\u0131n\u0131 anlatt\u0131m. \n\nDaha \u00f6nceki sezonlar i\u00e7in yapt\u0131\u011f\u0131m videolara da a\u015fa\u011f\u0131dan ula\u015fabilirsiniz:",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a25xoyFn-wU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a25xoyFn-wU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a25xoyFn-wU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a25xoyFn-wU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a25xoyFn-wU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Murat Soner",
+                "tags": [
+                    "squid game",
+                    "final",
+                    "3.sezon",
+                    "inceleme",
+                    "murat soner",
+                    "ele\u015ftiri",
+                    "yorum",
+                    "tepki"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SQUID GAME FI\u0307NAL ELES\u0327TI\u0307RI\u0307SI\u0307",
+                    "description": "Squid Game kesinlikle d\u00fcnyan\u0131n en fazla konu\u015ftu\u011fu dizilerden biri oldu, sadece konu\u015fulmad\u0131 oynand\u0131, ya\u015fand\u0131, bir \u00fclkenin milli de\u011feri oldu. Ve her \u015feyin oldu\u011fu gibi sonunda da finali. Ben de bu videoda dizinin final sezonunu, bir \u00fclke i\u00e7in olan de\u011ferini ve ayr\u0131nt\u0131lara girerek her zamanki gibi mant\u0131k hatalar\u0131n\u0131 anlatt\u0131m. \n\nDaha \u00f6nceki sezonlar i\u00e7in yapt\u0131\u011f\u0131m videolara da a\u015fa\u011f\u0131dan ula\u015fabilirsiniz:"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1113401",
+                "likeCount": "40091",
+                "favoriteCount": "0",
+                "commentCount": "2357"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "S9PepCVpbY12drEbgPWtRvQRMIA",
+            "id": "-DynIULnzW8",
+            "snippet": {
+                "publishedAt": "2025-07-15T07:00:00Z",
+                "channelId": "UCxN5YtNlPzfMNvJHgWImTUg",
+                "title": "Bugatti challenge gone wrong \ud83e\udd23\ud83e\udd23",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-DynIULnzW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-DynIULnzW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-DynIULnzW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-DynIULnzW8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-DynIULnzW8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hungry FAM",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bugatti challenge gone wrong \ud83e\udd23\ud83e\udd23",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "37255282",
+                "likeCount": "437049",
+                "favoriteCount": "0",
+                "commentCount": "1112"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OR4CbuNWDkX1pDaVBarUSdYE9v0",
+            "id": "SDbYcQae5Io",
+            "snippet": {
+                "publishedAt": "2025-07-16T14:23:09Z",
+                "channelId": "UCETD8D52LKnFoqZzjWuPzQg",
+                "title": "Babayla plaja gitmek",
+                "description": "Babayla plaja gitmek",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SDbYcQae5Io/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SDbYcQae5Io/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SDbYcQae5Io/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SDbYcQae5Io/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SDbYcQae5Io/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u0130lker G\u00fcm\u00fc\u015foluk",
+                "tags": [
+                    "\u0130lker g\u00fcm\u00fc\u015foluk",
+                    "ske\u00e7",
+                    "vine",
+                    "komedi",
+                    "komik video",
+                    "shorts",
+                    "babayla plaja gitmek",
+                    "halk plaj\u0131",
+                    "beach",
+                    "deniz",
+                    "tatil",
+                    "m\u0131s\u0131r",
+                    "babalar"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Babayla plaja gitmek",
+                    "description": "Babayla plaja gitmek"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "736873",
+                "likeCount": "28179",
+                "favoriteCount": "0",
+                "commentCount": "767"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aorRQKsfREQGzjDdOUGdejolTBY",
+            "id": "027kT1dl7cg",
+            "snippet": {
+                "publishedAt": "2025-07-13T13:30:00Z",
+                "channelId": "UCh_WD2DxGoskrwgC6bA4Irg",
+                "title": "cute couple \ud83d\ude2d\ud83e\udd23 #newmusic #music #funny #love #funnyvideo #prank",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/027kT1dl7cg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/027kT1dl7cg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/027kT1dl7cg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/027kT1dl7cg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/027kT1dl7cg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let's Romantic ",
+                "tags": [
+                    "shorts,romantic,romantic status,romantic hug shorts,viral shorts,short,trending shorts,romantic love,romantic couple,couple shorts,romantic hug video status,trending short,youtube shorts,tm romantic,viral short,romantic video,romantic love story,romantic videos,couples romantic,romantic love video,romantic hug status,#shorts,new romantic status video,tight hug romantic status,romantic cople golas,shorts video,romantic hug whatsapp status"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "cute couple \ud83d\ude2d\ud83e\udd23 #newmusic #music #funny #love #funnyvideo #prank",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "72238039",
+                "likeCount": "1643338",
+                "favoriteCount": "0",
+                "commentCount": "2151"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_JZn4R7VxZ6SIRhCv0fxkDbX6xE",
+            "id": "Pzl5NEan_Zs",
+            "snippet": {
+                "publishedAt": "2025-07-17T21:47:11Z",
+                "channelId": "UCgqlho3-8a6FmDqQm7Q6gJw",
+                "title": "MA\u00c7 \u00d6ZET\u0130: Fenerbah\u00e7e 2-1 Portimonense (Haz\u0131rl\u0131k Ma\u00e7\u0131)",
+                "description": "Yeni sezon haz\u0131rl\u0131klar\u0131na Portekiz'de devam eden Futbol A Tak\u0131m\u0131m\u0131z, kamptaki ilk haz\u0131rl\u0131k ma\u00e7\u0131nda kar\u015f\u0131la\u015ft\u0131\u011f\u0131 Portimonense\u2019yi Sebastian Szymanski\u2019nin golleriyle 2-1 ma\u011flup etti.\n\n\ud83d\udd35 Fenerbah\u00e7e YouTube #Kat\u0131l 'Lacivert' pakete hemen kat\u0131lmak i\u00e7in; \nhttps://www.youtube.com/channel/UCgqlho3-8a6FmDqQm7Q6gJw/join\n\n\ud83d\udd17 IOS, Android ve Web'ten Fenerbah\u00e7e YouTube Lacivert Paket \u00dcyeli\u011fi Nas\u0131l Al\u0131r\u0131m?\n\u26a0\ufe0f https://youtu.be/KWCmVIjlEyA\n\nFenerbah\u00e7e YouTube, Fenerbah\u00e7e YouTube Kat\u0131l ve FBTV YouTube kanallar\u0131na y\u00fcklenen videolar\u0131n herhangi bir YouTube kanal\u0131nda ve YouTube d\u0131\u015f\u0131nda farkl\u0131 mecralarda izinsiz kullan\u0131lmas\u0131 yasakt\u0131r. \u0130zinsiz kullan\u0131mlarda YouTube Content ID Telif Hakk\u0131 Koruma devreye girecektir.\n\nAbone olarak Fenerbah\u00e7emize destek olabilirsiniz.\n\u25bahttp://bit.ly/2HUdAT7\n\nFenerbah\u00e7e YouTube'da bulunan videolara ba\u015fl\u0131k, a\u00e7\u0131klama ve altyaz\u0131lara farkl\u0131 dillerde katk\u0131da bulunmak i\u00e7in \n\u25ba http://www.youtube.com/timedtext_cs_panel?c=UCgqlho3-8a6FmDqQm7Q6gJw&tab=2\n\n\u0130zlemeniz gereken e\u011flenceli son videolar\u0131m\u0131z!\n\n\ud83d\udd38 Jose Mourinho'dan Minik Taraftar\u0131m\u0131za B\u00fcy\u00fck Jest!\nhttps://youtu.be/H0aB_zLn5ic\n\ud83d\udd39 Sofyan Amrabat ile Antrenman Yolu \ud83e\udd29 #vlog\nhttps://youtu.be/iXixDyoVsY8\n\ud83d\udd38 Bizimkilerin Ayak Tenisi \u26bd\nhttps://youtu.be/o0CNI8QrQ6Y\n\ud83d\udd39 \u0130rfan Can E\u011fribayat ve Ailesinin #Fenerium ile Bir G\u00fcn\u00fc #vlog\nhttps://youtu.be/by5kRoHTuu8\n\ud83d\udd38 Allan Saint-Maximin'in Tak\u0131m\u0131 100% OVNI Akademi\nhttps://youtu.be/V2HiHIooB7g\n\ud83d\udd38 Bizimkilerin Adana Demirspor Deplasman Hikayesi \ud83e\udd19\u2708\ufe0f #vlog\nhttps://youtu.be/2NQZjfxkICg\n\n\u0130zlemeniz gereken video alb\u00fcmlerimiz!\n\n\ud83d\udd38 Fenerbah\u00e7e YouTube Originals \u25ba https://bit.ly/2T7e5By\n\ud83d\udd39 Kat\u0131l'a \u00d6zel \u25ba https://bit.ly/3x3ZAgj\n\ud83d\udd38 Challenge Videolar\u0131 \u25ba https://bit.ly/3vZ006l\n\ud83d\udd39 Bire Bir \u25ba https://bit.ly/3qup2cq\n\ud83d\udd38 Deplasman Hikayeleri \u25ba https://bit.ly/3xWkHBa\n\ud83d\udd39 \u0130\u00e7imizden Biri \u25ba https://bit.ly/3hbv9hH\n\ud83d\udd38 Ma\u00e7 \u00d6zetleri \u25ba https://bit.ly/3qx04Jw\n\nFenerbah\u00e7e Spor Kul\u00fcb\u00fc\u2019n\u00fcn YouTube sayfas\u0131na ho\u015f geldiniz. Faaliyet g\u00f6sterdi\u011fimiz t\u00fcm bran\u015flarda sizler i\u00e7in haz\u0131rlad\u0131\u011f\u0131m\u0131z videolar\u0131 kanal\u0131m\u0131zda bulabilirsiniz.  Siz de abone olarak Fenerbah\u00e7emize destek olabilirsiniz!\n\n**\n#Fenerbah\u00e7e SK Resmi YouTube Sayfas\u0131d\u0131r\nThe Official YouTube Channel of Fenerbahce SK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pzl5NEan_Zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pzl5NEan_Zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pzl5NEan_Zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pzl5NEan_Zs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pzl5NEan_Zs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fenerbah\u00e7e SK",
+                "tags": [
+                    "fenerbah\u00e7e",
+                    "fenerbah\u00e7e sk",
+                    "fenerbah\u00e7e youtube",
+                    "fenerbah\u00e7e kat\u0131l",
+                    "fenerbah\u00e7e youtube kat\u0131l",
+                    "fenerbah\u00e7e videolar\u0131",
+                    "fenerbah\u00e7e spor kul\u00fcb\u00fc",
+                    "fenerbah\u00e7e tv",
+                    "fb tv",
+                    "ali ko\u00e7",
+                    "fenerbah\u00e7e youtube kanal\u0131",
+                    "Fenerbah\u00e7e 2-1 Portimonense",
+                    "Haz\u0131rl\u0131k Ma\u00e7\u0131",
+                    "ma\u00e7 \u00f6zeti",
+                    "fenerbah\u00e7e ma\u00e7 \u00f6zeti",
+                    "fenerbah\u00e7e kamp",
+                    "portekiz kamp\u0131",
+                    "fenerbah\u00e7e mourinho",
+                    "fenerbah\u00e7e haz\u0131rl\u0131k ma\u00e7\u0131",
+                    "fenerbah\u00e7e ma\u00e7"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "MA\u00c7 \u00d6ZET\u0130: Fenerbah\u00e7e 2-1 Portimonense (Haz\u0131rl\u0131k Ma\u00e7\u0131)",
+                    "description": "Yeni sezon haz\u0131rl\u0131klar\u0131na Portekiz'de devam eden Futbol A Tak\u0131m\u0131m\u0131z, kamptaki ilk haz\u0131rl\u0131k ma\u00e7\u0131nda kar\u015f\u0131la\u015ft\u0131\u011f\u0131 Portimonense\u2019yi Sebastian Szymanski\u2019nin golleriyle 2-1 ma\u011flup etti.\n\n\ud83d\udd35 Fenerbah\u00e7e YouTube #Kat\u0131l 'Lacivert' pakete hemen kat\u0131lmak i\u00e7in; \nhttps://www.youtube.com/channel/UCgqlho3-8a6FmDqQm7Q6gJw/join\n\n\ud83d\udd17 IOS, Android ve Web'ten Fenerbah\u00e7e YouTube Lacivert Paket \u00dcyeli\u011fi Nas\u0131l Al\u0131r\u0131m?\n\u26a0\ufe0f https://youtu.be/KWCmVIjlEyA\n\nFenerbah\u00e7e YouTube, Fenerbah\u00e7e YouTube Kat\u0131l ve FBTV YouTube kanallar\u0131na y\u00fcklenen videolar\u0131n herhangi bir YouTube kanal\u0131nda ve YouTube d\u0131\u015f\u0131nda farkl\u0131 mecralarda izinsiz kullan\u0131lmas\u0131 yasakt\u0131r. \u0130zinsiz kullan\u0131mlarda YouTube Content ID Telif Hakk\u0131 Koruma devreye girecektir.\n\nAbone olarak Fenerbah\u00e7emize destek olabilirsiniz.\n\u25bahttp://bit.ly/2HUdAT7\n\nFenerbah\u00e7e YouTube'da bulunan videolara ba\u015fl\u0131k, a\u00e7\u0131klama ve altyaz\u0131lara farkl\u0131 dillerde katk\u0131da bulunmak i\u00e7in \n\u25ba http://www.youtube.com/timedtext_cs_panel?c=UCgqlho3-8a6FmDqQm7Q6gJw&tab=2\n\n\u0130zlemeniz gereken e\u011flenceli son videolar\u0131m\u0131z!\n\n\ud83d\udd38 Jose Mourinho'dan Minik Taraftar\u0131m\u0131za B\u00fcy\u00fck Jest!\nhttps://youtu.be/H0aB_zLn5ic\n\ud83d\udd39 Sofyan Amrabat ile Antrenman Yolu \ud83e\udd29 #vlog\nhttps://youtu.be/iXixDyoVsY8\n\ud83d\udd38 Bizimkilerin Ayak Tenisi \u26bd\nhttps://youtu.be/o0CNI8QrQ6Y\n\ud83d\udd39 \u0130rfan Can E\u011fribayat ve Ailesinin #Fenerium ile Bir G\u00fcn\u00fc #vlog\nhttps://youtu.be/by5kRoHTuu8\n\ud83d\udd38 Allan Saint-Maximin'in Tak\u0131m\u0131 100% OVNI Akademi\nhttps://youtu.be/V2HiHIooB7g\n\ud83d\udd38 Bizimkilerin Adana Demirspor Deplasman Hikayesi \ud83e\udd19\u2708\ufe0f #vlog\nhttps://youtu.be/2NQZjfxkICg\n\n\u0130zlemeniz gereken video alb\u00fcmlerimiz!\n\n\ud83d\udd38 Fenerbah\u00e7e YouTube Originals \u25ba https://bit.ly/2T7e5By\n\ud83d\udd39 Kat\u0131l'a \u00d6zel \u25ba https://bit.ly/3x3ZAgj\n\ud83d\udd38 Challenge Videolar\u0131 \u25ba https://bit.ly/3vZ006l\n\ud83d\udd39 Bire Bir \u25ba https://bit.ly/3qup2cq\n\ud83d\udd38 Deplasman Hikayeleri \u25ba https://bit.ly/3xWkHBa\n\ud83d\udd39 \u0130\u00e7imizden Biri \u25ba https://bit.ly/3hbv9hH\n\ud83d\udd38 Ma\u00e7 \u00d6zetleri \u25ba https://bit.ly/3qx04Jw\n\nFenerbah\u00e7e Spor Kul\u00fcb\u00fc\u2019n\u00fcn YouTube sayfas\u0131na ho\u015f geldiniz. Faaliyet g\u00f6sterdi\u011fimiz t\u00fcm bran\u015flarda sizler i\u00e7in haz\u0131rlad\u0131\u011f\u0131m\u0131z videolar\u0131 kanal\u0131m\u0131zda bulabilirsiniz.  Siz de abone olarak Fenerbah\u00e7emize destek olabilirsiniz!\n\n**\n#Fenerbah\u00e7e SK Resmi YouTube Sayfas\u0131d\u0131r\nThe Official YouTube Channel of Fenerbahce SK"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "450957",
+                "likeCount": "5472",
+                "favoriteCount": "0",
+                "commentCount": "552"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WrTvQyIXyZmoYTpjJ10hWhgvxeQ",
+            "id": "wmxGjig2DTQ",
+            "snippet": {
+                "publishedAt": "2025-07-18T14:01:35Z",
+                "channelId": "UCIXYyHANDvinQMIdauzSNJA",
+                "title": "EGE B\u00d6LGES\u0130N\u0130N EN D\u00dc\u015e\u00dcK PUANLI RESTORANTLARI! ft. @EmreUzunboy  @MuratKurtarann",
+                "description": "\"En d\u00fc\u015f\u00fck puanl\u0131 restorantlar\" serimizin yeni b\u00f6l\u00fcm\u00fcnde yorum ve puan ortalamas\u0131 olarak Ege B\u00f6lgesinin en d\u00fc\u015f\u00fck puanl\u0131 restorantlar\u0131n\u0131 gezmeye devam ediyoruz. Yorumlar ne kadar do\u011fru ne kadar yanl\u0131\u015f birlikte test ediyoruz. Videoyu be\u011fenmeyi ve yorum yazmay\u0131 unutmay\u0131n. \n\n\u015eimdiden\u00a0iyi\u00a0seyirler!\n\nTrendyol Plus\u2019ta 10 \u00fccretsiz kargo hakk\u0131, TOD, Exxen, Youtube gibi platformlarda hediye \u00fcyelikler, Trendyol Plus'a \u00f6zel fiyatlar ve daha bir\u00e7ok ayr\u0131cal\u0131k seni bekliyor. Hem de ilk aya \u00f6zel 75 TL yerine 55 TL\u2019ye!\nSen de ayr\u0131cal\u0131klarla dolu Trendyol Plus d\u00fcnyas\u0131na \u015fimdi kat\u0131l! \n#trendyol  #trendyolplus  #i\u015fbirli\u011fi \n\nhttps://ty.gl/orkunisitmak_trendyolplus_18072025\n\nTema vakf\u0131na siz de ba\u011f\u0131\u015f yapmak i\u00e7in;\n\nhttps://bit.ly/3TI6SU6\n\n\n\u0130leti\u015fim\nhttps://linktr.ee/orkunisitmak\n\nOrkun I\u015f\u0131tmak\nhttp://instagram.com/orkunisitmak\n\nReklam & \u0130\u015fbirlikleri:\norkunisitmak@orkdigital.com\n\nM\u00fczik Epidemicsound:\nhttp://bit.ly/42MT0uW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wmxGjig2DTQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wmxGjig2DTQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wmxGjig2DTQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wmxGjig2DTQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wmxGjig2DTQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Orkun I\u015f\u0131tmak",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "EGE B\u00d6LGES\u0130N\u0130N EN D\u00dc\u015e\u00dcK PUANLI RESTORANTLARI! ft. @EmreUzunboy  @MuratKurtarann",
+                    "description": "\"En d\u00fc\u015f\u00fck puanl\u0131 restorantlar\" serimizin yeni b\u00f6l\u00fcm\u00fcnde yorum ve puan ortalamas\u0131 olarak Ege B\u00f6lgesinin en d\u00fc\u015f\u00fck puanl\u0131 restorantlar\u0131n\u0131 gezmeye devam ediyoruz. Yorumlar ne kadar do\u011fru ne kadar yanl\u0131\u015f birlikte test ediyoruz. Videoyu be\u011fenmeyi ve yorum yazmay\u0131 unutmay\u0131n. \n\n\u015eimdiden\u00a0iyi\u00a0seyirler!\n\nTrendyol Plus\u2019ta 10 \u00fccretsiz kargo hakk\u0131, TOD, Exxen, Youtube gibi platformlarda hediye \u00fcyelikler, Trendyol Plus'a \u00f6zel fiyatlar ve daha bir\u00e7ok ayr\u0131cal\u0131k seni bekliyor. Hem de ilk aya \u00f6zel 75 TL yerine 55 TL\u2019ye!\nSen de ayr\u0131cal\u0131klarla dolu Trendyol Plus d\u00fcnyas\u0131na \u015fimdi kat\u0131l! \n#trendyol  #trendyolplus  #i\u015fbirli\u011fi \n\nhttps://ty.gl/orkunisitmak_trendyolplus_18072025\n\nTema vakf\u0131na siz de ba\u011f\u0131\u015f yapmak i\u00e7in;\n\nhttps://bit.ly/3TI6SU6\n\n\n\u0130leti\u015fim\nhttps://linktr.ee/orkunisitmak\n\nOrkun I\u015f\u0131tmak\nhttp://instagram.com/orkunisitmak\n\nReklam & \u0130\u015fbirlikleri:\norkunisitmak@orkdigital.com\n\nM\u00fczik Epidemicsound:\nhttp://bit.ly/42MT0uW"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "2668921",
+                "likeCount": "118071",
+                "favoriteCount": "0",
+                "commentCount": "4791"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DFnpmb8PqA_AOts0ZwARCQpt2AQ",
+            "id": "koMLPxLzInY",
+            "snippet": {
+                "publishedAt": "2025-07-16T12:01:26Z",
+                "channelId": "UCAQOf_uPOJ6rXO_k9RwfK3A",
+                "title": "Who can EAT IN CLASS the BEST \ud83d\udc51 ? || Squid Game",
+                "description": "Join the \u2728MOOCHIS MEMBERSHIP\u2728 to get access to perks:\nhttps://www.youtube.com/channel/UCAQOf_uPOJ6rXO_k9RwfK3A/join\n\nI\u2019m MiniMoochi! A tiny human in sunny Singapore having fun in this YouTube space! I make new videos every Sunday!\n\nI WELCOME A LITTLE HEALTHY STALKING:\n\u2606 Instagram - http://instagram.com/MoochiHehe\n\u2606 Tik Tok - https://www.tiktok.com/@moochihehe\n\u2606 Discord Server - https://discord.gg/pewxbDnnJh\n\u2606 Telegram Channel- https://t.me/moochihehe\nFor Collabs/Advertisements - contact@minimoochi.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/koMLPxLzInY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/koMLPxLzInY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/koMLPxLzInY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/koMLPxLzInY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/koMLPxLzInY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MiniMoochi",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "Who can EAT IN CLASS the BEST \ud83d\udc51 ? || Squid Game",
+                    "description": "Join the \u2728MOOCHIS MEMBERSHIP\u2728 to get access to perks:\nhttps://www.youtube.com/channel/UCAQOf_uPOJ6rXO_k9RwfK3A/join\n\nI\u2019m MiniMoochi! A tiny human in sunny Singapore having fun in this YouTube space! I make new videos every Sunday!\n\nI WELCOME A LITTLE HEALTHY STALKING:\n\u2606 Instagram - http://instagram.com/MoochiHehe\n\u2606 Tik Tok - https://www.tiktok.com/@moochihehe\n\u2606 Discord Server - https://discord.gg/pewxbDnnJh\n\u2606 Telegram Channel- https://t.me/moochihehe\nFor Collabs/Advertisements - contact@minimoochi.com"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "statistics": {
+                "viewCount": "18705653",
+                "likeCount": "193669",
+                "favoriteCount": "0",
+                "commentCount": "477"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JW8IWhtJ5gHvBVRyT1Vye-DFLH8",
+            "id": "_RCBdKbY2G0",
+            "snippet": {
+                "publishedAt": "2025-07-17T13:42:27Z",
+                "channelId": "UCZPVgnevTPCymfVfLX_QzAw",
+                "title": "LABUBU VS. LAFUFU \u00c7ANTA S\u00dcSLER\u0130M\u0130Z\u0130 KAR\u015eILA\u015eTIRDIK ucretsiz reklam w/ @Jeeyneep @MerveVeziro\u011flu",
+                "description": "Kendimiz ald\u0131k ama \u00fcr\u00fcn odakl\u0131 \u00e7ekti\u011fimizden reklam olarak belirttik",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_RCBdKbY2G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_RCBdKbY2G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_RCBdKbY2G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_RCBdKbY2G0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_RCBdKbY2G0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dr.Ayd\u0131n",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "LABUBU VS. LAFUFU \u00c7ANTA S\u00dcSLER\u0130M\u0130Z\u0130 KAR\u015eILA\u015eTIRDIK ucretsiz reklam w/ @Jeeyneep @MerveVeziro\u011flu",
+                    "description": "Kendimiz ald\u0131k ama \u00fcr\u00fcn odakl\u0131 \u00e7ekti\u011fimizden reklam olarak belirttik"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "1314599",
+                "likeCount": "18300",
+                "favoriteCount": "0",
+                "commentCount": "600"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TZOu0fX3JrkbciDAI6nf-gppIrs",
+            "id": "N--GT6XEjwA",
+            "snippet": {
+                "publishedAt": "2025-07-16T11:00:39Z",
+                "channelId": "UC2C8y0ijECkIAJzH_Yt9j9Q",
+                "title": "Which Song Helped Cappuccina and Tung Tung Tung Sahur Reach Rank 6974 Faster? (Feat. Squid Game 3)",
+                "description": "Which Song Helped Cappuccina and Tung Tung Tung Sahur Reach Rank 6974 Faster? (Feat. Squid Game 3) #sprunki #animation #shots #viral #meme #brainrot",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N--GT6XEjwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N--GT6XEjwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N--GT6XEjwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N--GT6XEjwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N--GT6XEjwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gummy Dora",
+                "tags": [
+                    "animation",
+                    "cartoon",
+                    "GUMMY DORA",
+                    "sprunki animation",
+                    "sprunki",
+                    "Incredibox Sprunki"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Which Song Helped Cappuccina and Tung Tung Tung Sahur Reach Rank 6974 Faster? (Feat. Squid Game 3)",
+                    "description": "Which Song Helped Cappuccina and Tung Tung Tung Sahur Reach Rank 6974 Faster? (Feat. Squid Game 3) #sprunki #animation #shots #viral #meme #brainrot"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "9390244",
+                "likeCount": "271893",
+                "favoriteCount": "0",
+                "commentCount": "410"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ONGVrXQci1p9OxUY0h2A7U-F3-U",
+            "id": "u8KhIqxG89w",
+            "snippet": {
+                "publishedAt": "2025-07-17T18:42:47Z",
+                "channelId": "UCK3mI2lsk3LSo8PBUc8JTSw",
+                "title": "Be\u015fikta\u015f 1 - 2 Petrzalka | Haz\u0131rl\u0131k Ma\u00e7\u0131",
+                "description": "\ud83d\udcfa HT Spor'u izleyebilece\u011finiz frekans ve platformlar! \ud83d\udcdc\n\ud83d\udce1 T\u00fcrksat 4A 11837 V 30000 2/3\n\ud83d\udd39 Digit\u00fcrk: 75. Kanal\n\ud83d\udd39 D-Smart: 79. Kanal\n\ud83d\udd39 Tivibu: 87. Kanal\n\ud83d\udd39 Kablo TV: 227. Kanal\n\ud83d\udd39 TV+ : 73. Kanal\n\nDi\u011fer videolar\u0131m\u0131z\u0131 izlemek i\u00e7in t\u0131klay\u0131n \ud83d\udc49 https://www.youtube.com/@htspor/videos?view=0&sort=dd&shelf_id=3\n\nHT Spor, yeni spor kanal\u0131 olarak 10 Eyl\u00fcl 2024\u2019te yay\u0131n hayat\u0131na ba\u015flad\u0131. Futbol, basketbol, voleybol gibi pop\u00fcler sporlar\u0131n yan\u0131 s\u0131ra, daha az takip edilen bran\u015flara da yer veren kanal, uzman yorumcular ve \u00f6zel i\u00e7eriklerle sporseverlere hitap ediyor. Spor g\u00fcndemini yakalamak ve en g\u00fcncel geli\u015fmeleri \u00f6\u011frenmek i\u00e7in bizi takip edin!\n\nBize ula\u015fmak i\u00e7in: \ud83d\udc47\nWeb Site: https://www.haberturk.com/spor\nX: https://twitter.com/HTSpor\nFacebook: https://www.facebook.com/htspor\nInstagram: https://www.instagram.com/htspor\nTikTok: https://www.tiktok.com/@htspor\n\n\ud83d\udca5Geli\u015fmelerden an\u0131nda haberdar olmak i\u00e7in abone olun \ud83d\udc49https://www.youtube.com/@htspor\n\n#HTSpor #Be\u015fikta\u015f #Haz\u0131rl\u0131kMa\u00e7\u0131",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u8KhIqxG89w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u8KhIqxG89w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u8KhIqxG89w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u8KhIqxG89w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u8KhIqxG89w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HT Spor",
+                "tags": [
+                    "futbol",
+                    "t\u00fcrkiye",
+                    "spor",
+                    "spor haberleri",
+                    "fenerbah\u00e7e",
+                    "be\u015fikta\u015f",
+                    "galatasaray",
+                    "trabzonspor",
+                    "g\u00fcn\u00fcn spor haberleri",
+                    "son dakika spor haberleri",
+                    "son dakika spor",
+                    "spor haberleri izle",
+                    "spor haberleri canl\u0131",
+                    "futbol haberleri",
+                    "ht spor",
+                    "ht spor programlar\u0131",
+                    "ht spor canl\u0131 yay\u0131n",
+                    "ht spor cem dizdar",
+                    "ht spor r\u0131dvan dilmen",
+                    "be\u015fikta\u015f haz\u0131rl\u0131k ma\u00e7\u0131 izle",
+                    "be\u015fikta\u015f ma\u00e7lar\u0131",
+                    "be\u015fikta\u015f Petrzalka izle",
+                    "Be\u015fikta\u015f - Petrzalka",
+                    "Petrzalka"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Be\u015fikta\u015f 1 - 2 Petrzalka | Haz\u0131rl\u0131k Ma\u00e7\u0131",
+                    "description": "\ud83d\udcfa HT Spor'u izleyebilece\u011finiz frekans ve platformlar! \ud83d\udcdc\n\ud83d\udce1 T\u00fcrksat 4A 11837 V 30000 2/3\n\ud83d\udd39 Digit\u00fcrk: 75. Kanal\n\ud83d\udd39 D-Smart: 79. Kanal\n\ud83d\udd39 Tivibu: 87. Kanal\n\ud83d\udd39 Kablo TV: 227. Kanal\n\ud83d\udd39 TV+ : 73. Kanal\n\nDi\u011fer videolar\u0131m\u0131z\u0131 izlemek i\u00e7in t\u0131klay\u0131n \ud83d\udc49 https://www.youtube.com/@htspor/videos?view=0&sort=dd&shelf_id=3\n\nHT Spor, yeni spor kanal\u0131 olarak 10 Eyl\u00fcl 2024\u2019te yay\u0131n hayat\u0131na ba\u015flad\u0131. Futbol, basketbol, voleybol gibi pop\u00fcler sporlar\u0131n yan\u0131 s\u0131ra, daha az takip edilen bran\u015flara da yer veren kanal, uzman yorumcular ve \u00f6zel i\u00e7eriklerle sporseverlere hitap ediyor. Spor g\u00fcndemini yakalamak ve en g\u00fcncel geli\u015fmeleri \u00f6\u011frenmek i\u00e7in bizi takip edin!\n\nBize ula\u015fmak i\u00e7in: \ud83d\udc47\nWeb Site: https://www.haberturk.com/spor\nX: https://twitter.com/HTSpor\nFacebook: https://www.facebook.com/htspor\nInstagram: https://www.instagram.com/htspor\nTikTok: https://www.tiktok.com/@htspor\n\n\ud83d\udca5Geli\u015fmelerden an\u0131nda haberdar olmak i\u00e7in abone olun \ud83d\udc49https://www.youtube.com/@htspor\n\n#HTSpor #Be\u015fikta\u015f #Haz\u0131rl\u0131kMa\u00e7\u0131"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "412084",
+                "likeCount": "3893",
+                "favoriteCount": "0",
+                "commentCount": "104"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TI9FEhkLtZa1xHjOp4cOIIYbsjk",
+            "id": "_ucNDdCJdz0",
+            "snippet": {
+                "publishedAt": "2025-07-11T17:03:31Z",
+                "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+                "title": "Which Shoes Will Protect Your Feet?",
+                "description": "subscribe!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ucNDdCJdz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ucNDdCJdz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ucNDdCJdz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_ucNDdCJdz0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_ucNDdCJdz0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ben Azelart",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Which Shoes Will Protect Your Feet?",
+                    "description": "subscribe!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "88053318",
+                "likeCount": "1892229",
+                "favoriteCount": "0",
+                "commentCount": "3044"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2JGQqiYj4M6_pPs9J20ITXIn0SA",
+            "id": "o7FfehapFhU",
+            "snippet": {
+                "publishedAt": "2025-07-17T15:30:34Z",
+                "channelId": "UC1a2ZCw7tugRZYRMnecNj3A",
+                "title": "Real or Fake?! \ud83e\udd14\u26bd\ufe0f #ronaldo",
+                "description": "Huh? @cristiano",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o7FfehapFhU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o7FfehapFhU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o7FfehapFhU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o7FfehapFhU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o7FfehapFhU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Celine Dept",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Real or Fake?! \ud83e\udd14\u26bd\ufe0f #ronaldo",
+                    "description": "Huh? @cristiano"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "35940286",
+                "likeCount": "477778",
+                "favoriteCount": "0",
+                "commentCount": "3020"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d7jm5lOlh9uWkFb-6t4ZohDiBc8",
+            "id": "XDU6ovlCIw8",
+            "snippet": {
+                "publishedAt": "2025-07-16T18:36:55Z",
+                "channelId": "UCK3mI2lsk3LSo8PBUc8JTSw",
+                "title": "Be\u015fikta\u015f 2 - 3 Wolfsberger | Haz\u0131rl\u0131k Ma\u00e7\u0131",
+                "description": "\ud83d\udcfa HT Spor'u izleyebilece\u011finiz frekans ve platformlar! \ud83d\udcdc\n\ud83d\udce1 T\u00fcrksat 4A 11837 V 30000 2/3\n\ud83d\udd39 Digit\u00fcrk: 75. Kanal\n\ud83d\udd39 D-Smart: 79. Kanal\n\ud83d\udd39 Tivibu: 87. Kanal\n\ud83d\udd39 Kablo TV: 227. Kanal\n\ud83d\udd39 TV+ : 73. Kanal\n\nDi\u011fer videolar\u0131m\u0131z\u0131 izlemek i\u00e7in t\u0131klay\u0131n \ud83d\udc49 https://www.youtube.com/@htspor/videos?view=0&sort=dd&shelf_id=3\n\nHT Spor, yeni spor kanal\u0131 olarak 10 Eyl\u00fcl 2024\u2019te yay\u0131n hayat\u0131na ba\u015flad\u0131. Futbol, basketbol, voleybol gibi pop\u00fcler sporlar\u0131n yan\u0131 s\u0131ra, daha az takip edilen bran\u015flara da yer veren kanal, uzman yorumcular ve \u00f6zel i\u00e7eriklerle sporseverlere hitap ediyor. Spor g\u00fcndemini yakalamak ve en g\u00fcncel geli\u015fmeleri \u00f6\u011frenmek i\u00e7in bizi takip edin!\n\nBize ula\u015fmak i\u00e7in: \ud83d\udc47\nWeb Site: https://www.haberturk.com/spor\nX: https://twitter.com/HTSpor\nFacebook: https://www.facebook.com/htspor\nInstagram: https://www.instagram.com/htspor\nTikTok: https://www.tiktok.com/@htspor\n\n\ud83d\udca5Geli\u015fmelerden an\u0131nda haberdar olmak i\u00e7in abone olun \ud83d\udc49https://www.youtube.com/@htspor\n\n#HTSpor #Be\u015fikta\u015f #Haz\u0131rl\u0131kMa\u00e7\u0131",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XDU6ovlCIw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XDU6ovlCIw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XDU6ovlCIw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XDU6ovlCIw8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XDU6ovlCIw8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HT Spor",
+                "tags": [
+                    "futbol",
+                    "t\u00fcrkiye",
+                    "spor",
+                    "spor haberleri",
+                    "fenerbah\u00e7e",
+                    "be\u015fikta\u015f",
+                    "galatasaray",
+                    "trabzonspor",
+                    "g\u00fcn\u00fcn spor haberleri",
+                    "son dakika spor haberleri",
+                    "son dakika spor",
+                    "spor haberleri izle",
+                    "spor haberleri canl\u0131",
+                    "futbol haberleri",
+                    "ht spor",
+                    "ht spor programlar\u0131",
+                    "ht spor canl\u0131 yay\u0131n",
+                    "ht spor cem dizdar",
+                    "ht spor r\u0131dvan dilmen",
+                    "be\u015fikta\u015f haz\u0131rl\u0131k ma\u00e7\u0131 izle",
+                    "be\u015fikta\u015f ma\u00e7lar\u0131",
+                    "be\u015fikta\u015f wolfsbergerma\u00e7\u0131 izle",
+                    "Be\u015fikta\u015f - Wolfsberger"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Be\u015fikta\u015f 2 - 3 Wolfsberger | Haz\u0131rl\u0131k Ma\u00e7\u0131",
+                    "description": "\ud83d\udcfa HT Spor'u izleyebilece\u011finiz frekans ve platformlar! \ud83d\udcdc\n\ud83d\udce1 T\u00fcrksat 4A 11837 V 30000 2/3\n\ud83d\udd39 Digit\u00fcrk: 75. Kanal\n\ud83d\udd39 D-Smart: 79. Kanal\n\ud83d\udd39 Tivibu: 87. Kanal\n\ud83d\udd39 Kablo TV: 227. Kanal\n\ud83d\udd39 TV+ : 73. Kanal\n\nDi\u011fer videolar\u0131m\u0131z\u0131 izlemek i\u00e7in t\u0131klay\u0131n \ud83d\udc49 https://www.youtube.com/@htspor/videos?view=0&sort=dd&shelf_id=3\n\nHT Spor, yeni spor kanal\u0131 olarak 10 Eyl\u00fcl 2024\u2019te yay\u0131n hayat\u0131na ba\u015flad\u0131. Futbol, basketbol, voleybol gibi pop\u00fcler sporlar\u0131n yan\u0131 s\u0131ra, daha az takip edilen bran\u015flara da yer veren kanal, uzman yorumcular ve \u00f6zel i\u00e7eriklerle sporseverlere hitap ediyor. Spor g\u00fcndemini yakalamak ve en g\u00fcncel geli\u015fmeleri \u00f6\u011frenmek i\u00e7in bizi takip edin!\n\nBize ula\u015fmak i\u00e7in: \ud83d\udc47\nWeb Site: https://www.haberturk.com/spor\nX: https://twitter.com/HTSpor\nFacebook: https://www.facebook.com/htspor\nInstagram: https://www.instagram.com/htspor\nTikTok: https://www.tiktok.com/@htspor\n\n\ud83d\udca5Geli\u015fmelerden an\u0131nda haberdar olmak i\u00e7in abone olun \ud83d\udc49https://www.youtube.com/@htspor\n\n#HTSpor #Be\u015fikta\u015f #Haz\u0131rl\u0131kMa\u00e7\u0131"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "598347",
+                "likeCount": "7161",
+                "favoriteCount": "0",
+                "commentCount": "122"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "y-RlFnlYaEmn0K9uX0FvNimwo9c",
+            "id": "b9fescmxIxA",
+            "snippet": {
+                "publishedAt": "2025-07-13T12:10:08Z",
+                "channelId": "UCdX5KXiCTPYWYZscfphgQ4g",
+                "title": "LABUBU unboxing #beatbox #tiktok",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b9fescmxIxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b9fescmxIxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b9fescmxIxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b9fescmxIxA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b9fescmxIxA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BeatboxJCOP",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "LABUBU unboxing #beatbox #tiktok",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "42756184",
+                "likeCount": "937612",
+                "favoriteCount": "0",
+                "commentCount": "6953"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Jnux_Lh54hntJ0cEKMjbSiYYaRo",
+            "id": "VybL4m2_bOw",
+            "snippet": {
+                "publishedAt": "2025-07-13T17:35:20Z",
+                "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+                "title": "irl stream in Turkey \ud83c\uddf9\ud83c\uddf7 42 million\u2026\u2026\u2026",
+                "description": "FOLLOW ME \ud83d\udc40  http://link.me/ishowspeed\nMERCH \ud83d\udc55 -  https://speed.store/\nMEMBERSHIPS \u2705  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@livespeedy7451?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@SpeedUniverse?si=XUMYeIWoUY4TIjFl",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VybL4m2_bOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VybL4m2_bOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VybL4m2_bOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VybL4m2_bOw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VybL4m2_bOw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IShowSpeed",
+                "tags": [
+                    "ishowspeed"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "irl stream in Turkey \ud83c\uddf9\ud83c\uddf7 42 million\u2026\u2026\u2026",
+                    "description": "FOLLOW ME \ud83d\udc40  http://link.me/ishowspeed\nMERCH \ud83d\udc55 -  https://speed.store/\nMEMBERSHIPS \u2705  - https://www.youtube.com/c/IShowSpeed/join\n\nfor donations tts/ Media Request here  \nhttps://streamlabs.com/ishowspeed/tip\n\nIG: https://www.instagram.com/ishowspeed?igsh=MXNveXVucWZyZGsyaA==\nX: https://x.com/ishowspeedsui?s=21\nSnap : https://snapchat.com/t/IeuoJ50Y\nDiscord: https://discord.gg/ishowspeed\n\nJOIN MY OTHER CHANNELS\nYT Live speedy: https://youtube.com/@livespeedy7451?si=Sd4QiWsrk-iGX7fL\nYT Speedy Boykins: https://youtube.com/@speedyboykins7869?si=0jMDTQQsEUJXsr32\nYT Speeduniverse : https://youtube.com/@SpeedUniverse?si=XUMYeIWoUY4TIjFl"
+                }
+            },
+            "statistics": {
+                "viewCount": "11628290",
+                "likeCount": "346728",
+                "favoriteCount": "0",
+                "commentCount": "12591"
+            }
+        }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 63,
+        "resultsPerPage": 50
+    }
+}
