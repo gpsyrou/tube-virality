@@ -1,0 +1,3336 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3zRZPAXesN7KHb7IK7byY1CZOYs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OhgauG3pJwa97Xz4tJ1r-KusXyo",
+            "id": "tpcdmKkKmb8",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:53:46Z",
+                "channelId": "UCi7yAfza-C6GKzh2EdeSAyg",
+                "title": "FANATISMO - Yasmin Sensa\u00e7\u00e3o",
+                "description": "M\u00fasica: Fanatismo\nArtista: Yasmin Sensa\u00e7\u00e3o\nComposer: Anselmo Ralph\n\nEle levanta e me diz: \nMeu amor, j\u00e1 vou\nE sem drama, eu pe\u00e7o um beijo \ne digo que t\u00e1 bom\nMas no fundo o meu cora\u00e7\u00e3o grita: \nFica aqui\nEu detesto quando ele sai de perto de mim\n\n\u00c9 que s\u00f3 ele traz brilho no meu olhar, \u00e9 que\n\u00c9 que s\u00f3 ele me d\u00e1 asas pra voar e quando\nEle est\u00e1 comigo, eu me sinto mais viva\nMas quando ele vai embora, a tristeza\n\nEu n\u00e3o sei se \u00e9 fanatismo\nMas eu quando estou longe de ti\nMe sinto como uma menina \nDesprotegida\nV\u00ea s\u00f3\n\nN\u00e3o sei se \u00e9 fanatismo\nBasta um segundo longe de ti\nSinto falta dos, dos teus carinhos, \ndos teus abra\u00e7os\nV\u00ea s\u00f3\n\n\u00c9 que s\u00f3 ele traz brilho no meu olhar, \u00e9 que\n\u00c9 que s\u00f3 ele me d\u00e1 asas pra voar e quando\nEle est\u00e1 comigo, eu me sinto mais viva\nMas quando, vem, vem\n\nEu n\u00e3o sei se \u00e9 fanatismo\nMas eu, quando estou longe de ti\nMe sinto como uma menina \nDesprotegida\n\nN\u00e3o sei se \u00e9 fanatismo\nBasta um segundo longe de ti\nSinto falta dos, dos teus carinhos, \ndos teus abra\u00e7os\nV\u00ea s\u00f3",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tpcdmKkKmb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tpcdmKkKmb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tpcdmKkKmb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tpcdmKkKmb8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tpcdmKkKmb8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STATUS FUNK",
+                "tags": [
+                    "status funk",
+                    "funk",
+                    "status",
+                    "mc ig",
+                    "ig",
+                    "sintonia dos fluxos",
+                    "top funk",
+                    "melhores funks",
+                    "Fanatismo",
+                    "yasmin sensacao",
+                    "yasmin sensa\u00e7\u00e3o eu acho que a gente se apaixonou",
+                    "yasmin sensacao fanatismo",
+                    "FANATISMO",
+                    "letra fanatismo"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "FANATISMO - Yasmin Sensa\u00e7\u00e3o",
+                    "description": "M\u00fasica: Fanatismo\nArtista: Yasmin Sensa\u00e7\u00e3o\nComposer: Anselmo Ralph\n\nEle levanta e me diz: \nMeu amor, j\u00e1 vou\nE sem drama, eu pe\u00e7o um beijo \ne digo que t\u00e1 bom\nMas no fundo o meu cora\u00e7\u00e3o grita: \nFica aqui\nEu detesto quando ele sai de perto de mim\n\n\u00c9 que s\u00f3 ele traz brilho no meu olhar, \u00e9 que\n\u00c9 que s\u00f3 ele me d\u00e1 asas pra voar e quando\nEle est\u00e1 comigo, eu me sinto mais viva\nMas quando ele vai embora, a tristeza\n\nEu n\u00e3o sei se \u00e9 fanatismo\nMas eu quando estou longe de ti\nMe sinto como uma menina \nDesprotegida\nV\u00ea s\u00f3\n\nN\u00e3o sei se \u00e9 fanatismo\nBasta um segundo longe de ti\nSinto falta dos, dos teus carinhos, \ndos teus abra\u00e7os\nV\u00ea s\u00f3\n\n\u00c9 que s\u00f3 ele traz brilho no meu olhar, \u00e9 que\n\u00c9 que s\u00f3 ele me d\u00e1 asas pra voar e quando\nEle est\u00e1 comigo, eu me sinto mais viva\nMas quando, vem, vem\n\nEu n\u00e3o sei se \u00e9 fanatismo\nMas eu, quando estou longe de ti\nMe sinto como uma menina \nDesprotegida\n\nN\u00e3o sei se \u00e9 fanatismo\nBasta um segundo longe de ti\nSinto falta dos, dos teus carinhos, \ndos teus abra\u00e7os\nV\u00ea s\u00f3"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "57362",
+                "likeCount": "334",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pZFYC0eR9sC2DgqzgIrzeoVLFGY",
+            "id": "wQHSX7x8Bm0",
+            "snippet": {
+                "publishedAt": "2025-12-24T14:00:03Z",
+                "channelId": "UCc1l5mTmAv2GC_PXrBpqyKQ",
+                "title": "Peaky Blinders: O Homem Imortal | Teaser oficial | Netflix",
+                "description": "O que ser\u00e1 que aconteceu com o famoso g\u00e2ngster Tommy Shelby? \"Peaky Blinders: O Homem Imortal\" estreia em 20 de mar\u00e7o de 2026 na Netflix.\n\nAssista na Netflix: https://www.netflix.com/title/81319485\n\nInscreva-se: https://bit.ly/31ynwtw\n\nSobre a Netflix:\nA Netflix \u00e9 um dos principais servi\u00e7os de entretenimento do mundo. S\u00e3o mais de 300 milh\u00f5es de assinaturas pagas em mais de 190 pa\u00edses com acesso a s\u00e9ries, filmes e jogos de diversos g\u00eaneros e idiomas. Assinantes podem assistir, pausar e voltar a assistir a um t\u00edtulo quantas vezes quiserem em qualquer lugar e alterar o plano a qualquer momento.\n\nPeaky Blinders: O Homem Imortal | Teaser oficial | Netflix\nhttps://www.youtube.com/@NetflixBrasil",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wQHSX7x8Bm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wQHSX7x8Bm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wQHSX7x8Bm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wQHSX7x8Bm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wQHSX7x8Bm0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Netflix Brasil",
+                "tags": [
+                    "Barry Keoghan",
+                    "Cillian Murphy",
+                    "Netflix",
+                    "Netflix 2026",
+                    "O Homem Imortal",
+                    "Packy Lee",
+                    "Peaky Blinders",
+                    "Rebecca Ferguson",
+                    "Sophie Rundle",
+                    "Stephen Graham",
+                    "Steven Knight",
+                    "Tim Roth",
+                    "Tom Harper",
+                    "conspira\u00e7\u00e3o",
+                    "drama",
+                    "filme",
+                    "lan\u00e7amento Netflix",
+                    "novidade Netflix",
+                    "teaser",
+                    "teasers Netflix",
+                    "tenso"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Peaky Blinders: O Homem Imortal | Teaser oficial | Netflix",
+                    "description": "O que ser\u00e1 que aconteceu com o famoso g\u00e2ngster Tommy Shelby? \"Peaky Blinders: O Homem Imortal\" estreia em 20 de mar\u00e7o de 2026 na Netflix.\n\nAssista na Netflix: https://www.netflix.com/title/81319485\n\nInscreva-se: https://bit.ly/31ynwtw\n\nSobre a Netflix:\nA Netflix \u00e9 um dos principais servi\u00e7os de entretenimento do mundo. S\u00e3o mais de 300 milh\u00f5es de assinaturas pagas em mais de 190 pa\u00edses com acesso a s\u00e9ries, filmes e jogos de diversos g\u00eaneros e idiomas. Assinantes podem assistir, pausar e voltar a assistir a um t\u00edtulo quantas vezes quiserem em qualquer lugar e alterar o plano a qualquer momento.\n\nPeaky Blinders: O Homem Imortal | Teaser oficial | Netflix\nhttps://www.youtube.com/@NetflixBrasil"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "155048",
+                "likeCount": "11634",
+                "favoriteCount": "0",
+                "commentCount": "476"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sSescXzoEWPufJ4pJqAcgEzukog",
+            "id": "Zw-rVPzXDpw",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:54:49Z",
+                "channelId": "UCIXguhHCl8eDTkXpEuiGPUA",
+                "title": "FIZERAM O POU 3D 13 ANOS DEPOIS!",
+                "description": "Quem diria que DO NADA, no final do final de 2025, depois de TREZE ANOS, lan\u00e7aram a vers\u00e3o 3D do Pou! CONFIRA E SARAIVA O LIKE!\n\u25cfNome do Jogo: Pou 3D\n======================\n\u25cfInstagram: julianoab\n\u25cfEmail de contato: jazzghost@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zw-rVPzXDpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zw-rVPzXDpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zw-rVPzXDpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zw-rVPzXDpw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zw-rVPzXDpw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazzghost",
+                "tags": [
+                    "jazzghost",
+                    "jazz",
+                    "pou",
+                    "pou 3d"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "FIZERAM O POU 3D 13 ANOS DEPOIS!",
+                    "description": "Quem diria que DO NADA, no final do final de 2025, depois de TREZE ANOS, lan\u00e7aram a vers\u00e3o 3D do Pou! CONFIRA E SARAIVA O LIKE!\n\u25cfNome do Jogo: Pou 3D\n======================\n\u25cfInstagram: julianoab\n\u25cfEmail de contato: jazzghost@gmail.com"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "1162130",
+                "likeCount": "70211",
+                "favoriteCount": "0",
+                "commentCount": "5415"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LzqGNJvDwfo7NNqZ56qkTkuCT0s",
+            "id": "LpWSp0oUBDQ",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:17:19Z",
+                "channelId": "UCaU2Wviuh2yuBPn65pZlIZg",
+                "title": "EU ME APAIXONEI - VITINHO IMPERADOR",
+                "description": "Bem-vindo ao canal oficial com os lan\u00e7amentos mais quentes do FUNK! Inscreva-se e fique por dentro das novidades. \n\nEU ME APAIXONEI - VITINHO IMPERADOR\nEU ME APAIXONEI - VITINHO IMPERADOR\nEU ME APAIXONEI - VITINHO IMPERADOR\n\nArtista(s): VITINHO IMPERADOR\nM\u00fasica: EU ME APAIXONEI \nProdu\u00e7\u00e3o: \nAno: 2025\n\nAMO FUNK / Love Funk \u00a9 2025\n\nCopyright \u00a9 2025 | 01 DO FUNK Love Funk \u00ae. Todos os direitos reservados.\n\n#Funk #Funk2025 #LoveFunk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LpWSp0oUBDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LpWSp0oUBDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LpWSp0oUBDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LpWSp0oUBDQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LpWSp0oUBDQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AMO FUNK",
+                "tags": [
+                    "love funk",
+                    "funk 2024",
+                    "funk lan\u00e7amento",
+                    "trap funk",
+                    "funk funk",
+                    "gr6 explode",
+                    "funk mix",
+                    "funk tik tok",
+                    "funk viral",
+                    "amo funk",
+                    "mc",
+                    "mc ryan sp",
+                    "mc paiva",
+                    "mc paulin da capital",
+                    "mc hariel",
+                    "mc lipi",
+                    "mc ig",
+                    "funk exclusivo",
+                    "funk vazado",
+                    "funk 2025",
+                    "funk 2025 lan\u00e7amento",
+                    "funk tik tok 2025",
+                    "EU ME APAIXONEI - VITINHO IMPERADOR",
+                    "eu me apaixonei",
+                    "me apaixonei",
+                    "vitinho imperador",
+                    "vitinho imperador me apaixonei",
+                    "vitinho imperador 2025"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "EU ME APAIXONEI - VITINHO IMPERADOR",
+                    "description": "Bem-vindo ao canal oficial com os lan\u00e7amentos mais quentes do FUNK! Inscreva-se e fique por dentro das novidades. \n\nEU ME APAIXONEI - VITINHO IMPERADOR\nEU ME APAIXONEI - VITINHO IMPERADOR\nEU ME APAIXONEI - VITINHO IMPERADOR\n\nArtista(s): VITINHO IMPERADOR\nM\u00fasica: EU ME APAIXONEI \nProdu\u00e7\u00e3o: \nAno: 2025\n\nAMO FUNK / Love Funk \u00a9 2025\n\nCopyright \u00a9 2025 | 01 DO FUNK Love Funk \u00ae. Todos os direitos reservados.\n\n#Funk #Funk2025 #LoveFunk"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "71220",
+                "likeCount": "360",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RGOUc_mjZoZrsue6sL5I609xhzA",
+            "id": "95SBXI0ijY0",
+            "snippet": {
+                "publishedAt": "2025-12-23T14:12:40Z",
+                "channelId": "UC5XG4yYM-_DQ-3HPRuam76Q",
+                "title": "Vingadores Doomsday | Teaser Trailer Oficial | Steve Rogers",
+                "description": "Vingadores Doomsday | Teaser Trailer Oficial | Steve Rogers\n\nAssista ao novo teaser trailer de 'Vingadores: Doutor Destino' - estreia em 17 de dezembro de 2026 nos cinemas! #VingadoresDoomsday #VingadoresDoutorDestino #Doomsday \n\nSomos o melhor destino para quem busca trailers assim que eles s\u00e3o lan\u00e7ados.\n\nSe voc\u00ea \u00e9 f\u00e3 de cinema como a gente, INSCREVA-SE e receba todas as novidades dos seus filmes favoritos!\n\n\u25ba Baixe nossos apps:\nAndroid: https://goo.gl/ZOknfm\niOS: https://goo.gl/hFbnMY\n\n\u25ba Compre ingressos para as melhores estreias: https://www.ingresso.com\n\n\u25ba Assine UOL e Ganhe R$ 20 Por M\u00eas Para Usar com cinema na Ingresso.com: https://bit.ly/3yX0hyd\n\n\u25ba Siga a Ingresso no INSTAGRAM: https://www.instagram.com/ingressocom/\n\n\u25ba Curta a Ingresso no FACEBOOK: https://www.facebook.com/ingressocom\n\n\u25ba Fique por dentro das novidades do universo do cinema no nosso canal no WHATSAPP: https://whatsapp.com/channel/0029Va58whvFCCoURznPIG0n",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/95SBXI0ijY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/95SBXI0ijY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/95SBXI0ijY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/95SBXI0ijY0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ingresso.com",
+                "tags": [
+                    "Lan\u00e7amentos;",
+                    "Filmes",
+                    "Cinema",
+                    "Estreias",
+                    "Trailers",
+                    "filme completo",
+                    "cr\u00edtica",
+                    "ingresso.com",
+                    "review",
+                    "an\u00e1lise",
+                    "cinema 2025",
+                    "fas de cinema",
+                    "ingressos de cinema",
+                    "desconto cinema",
+                    "conte\u00fado de cinema",
+                    "curiosidades"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt",
+                "localized": {
+                    "title": "Vingadores Doomsday | Teaser Trailer Oficial | Steve Rogers",
+                    "description": "Vingadores Doomsday | Teaser Trailer Oficial | Steve Rogers\n\nAssista ao novo teaser trailer de 'Vingadores: Doutor Destino' - estreia em 17 de dezembro de 2026 nos cinemas! #VingadoresDoomsday #VingadoresDoutorDestino #Doomsday \n\nSomos o melhor destino para quem busca trailers assim que eles s\u00e3o lan\u00e7ados.\n\nSe voc\u00ea \u00e9 f\u00e3 de cinema como a gente, INSCREVA-SE e receba todas as novidades dos seus filmes favoritos!\n\n\u25ba Baixe nossos apps:\nAndroid: https://goo.gl/ZOknfm\niOS: https://goo.gl/hFbnMY\n\n\u25ba Compre ingressos para as melhores estreias: https://www.ingresso.com\n\n\u25ba Assine UOL e Ganhe R$ 20 Por M\u00eas Para Usar com cinema na Ingresso.com: https://bit.ly/3yX0hyd\n\n\u25ba Siga a Ingresso no INSTAGRAM: https://www.instagram.com/ingressocom/\n\n\u25ba Curta a Ingresso no FACEBOOK: https://www.facebook.com/ingressocom\n\n\u25ba Fique por dentro das novidades do universo do cinema no nosso canal no WHATSAPP: https://whatsapp.com/channel/0029Va58whvFCCoURznPIG0n"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "334372",
+                "likeCount": "28992",
+                "favoriteCount": "0",
+                "commentCount": "1580"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0y7dCnBmmlS8LTWrVbTzXy_AFDI",
+            "id": "xgjNK0OtCjY",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:15:02Z",
+                "channelId": "UCR-Y4lWmrCYbr1XavmNMlvQ",
+                "title": "RECUPEREI 1 PET que FOI ROUBADO no BRAINROT\u2026 ISSO N\u00c3O ERA PRA ACONTECER \ud83d\ude31\ud83d\udd25",
+                "description": "Seja membro deste canal e ganhe benef\u00edcios:\nhttps://www.youtube.com/channel/UCR-Y4lWmrCYbr1XavmNMlvQ/join\n\n\u25baDiscord LCW \u279chttps://discord.gg/canalclashwar\n\u25baInstagram\u279chttps://instagram.com/luanclashwar\nContato Profissional: contato@clashwar.org (APENAS PARA EMPRESAS)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xgjNK0OtCjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xgjNK0OtCjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xgjNK0OtCjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xgjNK0OtCjY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xgjNK0OtCjY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canal Clash War",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "RECUPEREI 1 PET que FOI ROUBADO no BRAINROT\u2026 ISSO N\u00c3O ERA PRA ACONTECER \ud83d\ude31\ud83d\udd25",
+                    "description": "Seja membro deste canal e ganhe benef\u00edcios:\nhttps://www.youtube.com/channel/UCR-Y4lWmrCYbr1XavmNMlvQ/join\n\n\u25baDiscord LCW \u279chttps://discord.gg/canalclashwar\n\u25baInstagram\u279chttps://instagram.com/luanclashwar\nContato Profissional: contato@clashwar.org (APENAS PARA EMPRESAS)"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "337846",
+                "likeCount": "14581",
+                "favoriteCount": "0",
+                "commentCount": "4689"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XEWQiy6iZWLBnTLLhed-lIUA0_s",
+            "id": "r0Pje4WEB9I",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:01:47Z",
+                "channelId": "UCrCezq1_D4tIwD8HAjnCqOg",
+                "title": "REY VAQUEIRO NATAL 2025 - REPERT\u00d3RIO NOVO ( CD COMPLETO ) M\u00daSICAS NOVAS - 100% ATUALIZADO",
+                "description": "REY VAQUEIRO NATAL 2025 - REPERT\u00d3RIO NOVO ( CD COMPLETO ) M\u00daSICAS NOVAS - 100% ATUALIZADO\n#reyvaqueiro #forr\u00f3 #pared\u00e3o #vaquejada \n\nSe inscreva no nosso canal e ative as notifica\u00e7\u00f5es para n\u00e3o perder nenhuma novidade.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r0Pje4WEB9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r0Pje4WEB9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r0Pje4WEB9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r0Pje4WEB9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r0Pje4WEB9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "EXPLODE MUNDO DA FARRA",
+                "tags": [
+                    "rey vaqueiro",
+                    "rei vaqueiro",
+                    "esquenta do rey vaqueiro",
+                    "bar do rey vaqueiro",
+                    "rey vaqueiro 2024",
+                    "vaqueiro",
+                    "rey vaqueiro 2025",
+                    "rey vaqueiro 2025 cd",
+                    "rey vaqueiro cd 2025",
+                    "rey vaqueiro e dj ivis",
+                    "bar do rey vaqueiro 2024",
+                    "rey vaqueiro verao 2025",
+                    "rey vaqueiro 2025 ao vivo",
+                    "rey vaqueiro em fortaleza",
+                    "rey vaqueiro janeiro 2025",
+                    "rey vaqueiro e junior vianna",
+                    "rey vaqueiro 2025 atualizado",
+                    "rey vaqueiro repertorio novo",
+                    "rey vaqueiro e iguinho e lulinha",
+                    "vaqueiro ama",
+                    "vaqueira"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "REY VAQUEIRO NATAL 2025 - REPERT\u00d3RIO NOVO ( CD COMPLETO ) M\u00daSICAS NOVAS - 100% ATUALIZADO",
+                    "description": "REY VAQUEIRO NATAL 2025 - REPERT\u00d3RIO NOVO ( CD COMPLETO ) M\u00daSICAS NOVAS - 100% ATUALIZADO\n#reyvaqueiro #forr\u00f3 #pared\u00e3o #vaquejada \n\nSe inscreva no nosso canal e ative as notifica\u00e7\u00f5es para n\u00e3o perder nenhuma novidade."
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "71457",
+                "likeCount": "500",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8eyFO82U0qRssgGHwR_Ir7xo0xA",
+            "id": "9BSbahUWypw",
+            "snippet": {
+                "publishedAt": "2025-12-24T02:28:50Z",
+                "channelId": "UCi4J6akiNeIFNe-Ump3oKUA",
+                "title": "HISTORIADOR analisa o trailer de ODISSEIA, do Christopher Nolan",
+                "description": "NOSSO GRUPO DE CONTE\u00daDO EXCLUSIVO:\nhttps://apoia.se/operacaobarbarussa \n\nTodas as redes: @opbarbarussa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9BSbahUWypw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9BSbahUWypw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9BSbahUWypw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9BSbahUWypw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Opera\u00e7\u00e3o Barbarussa",
+                "tags": [
+                    "opbarbarussa",
+                    "historia",
+                    "BARBARUSSA",
+                    "efemeridesdodia",
+                    "hist",
+                    "hist\u00f3ria",
+                    "odisseia trailer",
+                    "odisseia trailer legendado",
+                    "odyssey",
+                    "odissey trailer",
+                    "odissey movie",
+                    "odisseia filme",
+                    "odisseia nolan",
+                    "odissey nolan",
+                    "christopher nolann",
+                    "HISTORIADOR analisa o trailer de ODISSEIA",
+                    "QUAIS OS ERROS HIST\u00d3RICOS NO TRAILER DE ODISSEIA",
+                    "gr\u00e9cia antiga",
+                    "deuses gregos",
+                    "odisseu",
+                    "historia e cinema",
+                    "react trailer",
+                    "react trailer odisseia",
+                    "odyssey trailer react"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "HISTORIADOR analisa o trailer de ODISSEIA, do Christopher Nolan",
+                    "description": "NOSSO GRUPO DE CONTE\u00daDO EXCLUSIVO:\nhttps://apoia.se/operacaobarbarussa \n\nTodas as redes: @opbarbarussa"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "56279",
+                "likeCount": "5089",
+                "favoriteCount": "0",
+                "commentCount": "381"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FnnaIsWHhrlf4gE_AlXBDdpSAOs",
+            "id": "PauogG-QeDw",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:37:55Z",
+                "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+                "title": "COBREI O CHEFE do MORRO \ud83d\ude31 GTA RP (Paulinho o LOKO)",
+                "description": "Meu Instagram: @paulinhooloko\n\nContato Empresarial: modderempresarial@outlook.com\n\nEditado por: @andersonmatsu55",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PauogG-QeDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PauogG-QeDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PauogG-QeDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PauogG-QeDw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PauogG-QeDw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PAULINHO O LOKO",
+                "tags": [
+                    "modder",
+                    "modder dois",
+                    "modder 2",
+                    "anti rp",
+                    "anti roleplay",
+                    "paulinho o loco",
+                    "paulinho o loko",
+                    "gta anti rp",
+                    "gta roleplay",
+                    "gta anti roleplay",
+                    "mother dois",
+                    "paulinho louco",
+                    "paulinho loco",
+                    "voz fina no jogo",
+                    "jogo que imita a vida real",
+                    "gta"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "COBREI O CHEFE do MORRO \ud83d\ude31 GTA RP (Paulinho o LOKO)",
+                    "description": "Meu Instagram: @paulinhooloko\n\nContato Empresarial: modderempresarial@outlook.com\n\nEditado por: @andersonmatsu55"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "275645",
+                "likeCount": "34525",
+                "favoriteCount": "0",
+                "commentCount": "851"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fPoLKa-ZC7WfVa3a8htuL1RRK_U",
+            "id": "76Bbop9kSew",
+            "snippet": {
+                "publishedAt": "2025-12-24T14:00:14Z",
+                "channelId": "UCVOvoHO0LmcEJy4G91AbAMw",
+                "title": "Dance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c",
+                "description": "Dance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c\nDance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c\n\n\n  #dancesesouber #dancesesoubertiktok2025 #tiktok2025  #dancesesoubertiktokatualizado  #dancesesoubertiktok #mashupviral\n#mashupviral #dancetiktok #tiktokmashup #tiktokviral #dancesesouber  #dancetiktok #dancesesoubertiktok2024 \n\nMinhas Redes Sociais:\nInstagram https://www.instagram.com/djdannyal/\nTikTok https://www.tiktok.com/@djdannyalbuquerque\n\nINSCREVA-SE PARA AJUDAR O CANAL\ud83d\udd14\nCOMPARTILHE ESTE V\u00cdDEO:  https://youtu.be/cNfHV321plw\nDEIXE SEU LIKE ^^ \n \n\n\n\n\nDance se souber Tik Tok 2025 Atualizado\nTags -m\u00fasica tik tok, tiktok 2025 atualizadas, m\u00fasica sem palavr\u00e3o, 2025 tiktok, m\u00fasica do tik tok 2025, 2025, m\u00fasica de 2025, dance se souber tiktok 2023, dance se souber sem palavr\u00e3o, dance se souber tiktok 2025 sem palavr\u00e3o, dance se souber tiktok 2025 atualizado novas, m\u00fasica 2024, doce souber, dance se souber tiktok 2025 novas, dance souber 2025, musicas, tiktok 2025 sem palavr\u00e3o, 2024 tiktok, se souber, musicas do tik tok 2025, m\u00fasica de tik tok 2025, dan\u00e7a bem, funk, m\u00fasica de tic tac, tik tok sem palavr\u00e3o, musicas 2025, a m\u00fasica, musica do tiktok 2025 tiktok mashup , dance se souber m\u00fasicas atualizadas, dance music , dance viral , mashup viral , dance se souber atualizadas 2025 , tente n\u00e3o dan\u00e7ar, tiktok viral video , tiktok laranja , tiktok mashup , dance funk tiktok mashup , dance se souber m\u00fasicas atualizadas, dance music , dance viral , mashup viral , dance se souber atualizadas 2025 , tente n\u00e3o dan\u00e7ar, tiktok viral video , tiktok laranja , tiktok mashup , dance funk tiktok mashup , tiktok laranja , tiktok mashup , dance funk, dance se souber 2025, dance se souber tiktok 2025 atualizado novas, dance se souber tiktok 2025 atualizado, dance se souber tiktok, dance se souber, dance se souber tiktok 2024, tente n\u00e3o dan\u00e7ar tiktok, tente n\u00e3o dan\u00e7ar, tente n\u00e3o dan\u00e7ar e nem cantar, tente n\u00e3o dan\u00e7ar tik tok 2024, tente n\u00e3o dan\u00e7ar 2025, tente n\u00e3o dan\u00e7ar tik tok atualizadas, tente n\u00e3o dan\u00e7ar m\u00fasica do tik tok, tente n\u00e3o dan\u00e7ar vers\u00e3o tiktok, tiktok mashup, tiktok mashup 2025, tiktok mashup brasil, tiktok mashup 2024 brasil, tiktok mashup oficial, mashup tiktok, mashup tiktok brasil, mashup tiktok 2024, mashup funk tiktok, mashup tik tok brasil, dance se souber tiktok 2024 novas, dance se souber tiktok 2024, tente n\u00e3o dan\u00e7ar 2024, tiktok 2025, as melhores do tiktok 2024, melhores tiktok 2022, tiktok mashup 2024, tiktok brasil mashup, as melhores do tiktok 2024, m\u00fasicas tiktok 2025, dance se souber 2025, mashup brasil tiktok, m\u00fasica de tik tok,m\u00fasica do tik tok,tik tok 2023,m\u00fasica tik tok,musicas do tik tok 2023 tiktok mashup,dance se souber m\u00fasicas atualizadas,dance music,dance viral,mashup viral,dance se souber atualizadas 2022,tente n\u00e3o dan\u00e7ar,tiktok viral video,tiktok laranja,tiktok mashup,dance funk tiktok mashup,dance funk,dance ce souber m\u00fasicas,Dance se souber~{Tik Tok},dance se souber tiktok brasileiro,dance se souber tiktok antigos,dancer se souber tiktok 2021,tik\n\ndance se souber 2025,\ndance se souber tiktok 2024 atualizado novas,\ndance se souber tiktok 2025 atualizado,\ndance se souber tiktok,\ndance se souber,\ndance se souber tiktok 2024,\ntente n\u00e3o dan\u00e7ar tiktok,\ntente n\u00e3o dan\u00e7ar,\ntente n\u00e3o dan\u00e7ar e nem cantar,\ntente n\u00e3o dan\u00e7ar tik tok 2024,\ntente n\u00e3o dan\u00e7ar 2024,\ntente n\u00e3o dan\u00e7ar tiktok atualizada,\ntiktok mashup 2024,\ntiktok mashup brasil,\nmashup tiktok brasil,\nmashup funk tiktok,\ndance se souber tiktok 2024 novas,\ntiktok 2024,\n\n#dancesesoubertiktok2025  \n#dancesesoubertiktok  \n#tiktok2026",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/76Bbop9kSew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/76Bbop9kSew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/76Bbop9kSew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/76Bbop9kSew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/76Bbop9kSew/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dj Danny Albuquerque",
+                "tags": [
+                    "dance se souber m\u00fasicas do tik tok",
+                    "dance se souber tiktok",
+                    "tiktok viral video",
+                    "dance se souber tiktok 2025",
+                    "tiktok 2025",
+                    "dance se souber",
+                    "m\u00fasica",
+                    "tik tok",
+                    "dance se souber tiktok 2024",
+                    "tiktok 2024",
+                    "dan\u00e7a se souber",
+                    "dance se souber 2025",
+                    "tiktok",
+                    "m\u00fasica do tik tok",
+                    "dan\u00e7a se souber 2025",
+                    "m\u00fasicas",
+                    "m\u00fasica de tik tok",
+                    "dance souber",
+                    "dan\u00e7a de souber",
+                    "tik tok 2025",
+                    "musicas do tik tok",
+                    "dan\u00e7a souber",
+                    "brazil tiktok",
+                    "dancinhas do tik tok",
+                    "m\u00fasica 2025",
+                    "m\u00fasica tiktok",
+                    "tiktok 2026"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Dance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c",
+                    "description": "Dance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c\nDance se souber~ {TikTok} 2025\ud83c\udfb6\ud83d\udc9c\n\n\n  #dancesesouber #dancesesoubertiktok2025 #tiktok2025  #dancesesoubertiktokatualizado  #dancesesoubertiktok #mashupviral\n#mashupviral #dancetiktok #tiktokmashup #tiktokviral #dancesesouber  #dancetiktok #dancesesoubertiktok2024 \n\nMinhas Redes Sociais:\nInstagram https://www.instagram.com/djdannyal/\nTikTok https://www.tiktok.com/@djdannyalbuquerque\n\nINSCREVA-SE PARA AJUDAR O CANAL\ud83d\udd14\nCOMPARTILHE ESTE V\u00cdDEO:  https://youtu.be/cNfHV321plw\nDEIXE SEU LIKE ^^ \n \n\n\n\n\nDance se souber Tik Tok 2025 Atualizado\nTags -m\u00fasica tik tok, tiktok 2025 atualizadas, m\u00fasica sem palavr\u00e3o, 2025 tiktok, m\u00fasica do tik tok 2025, 2025, m\u00fasica de 2025, dance se souber tiktok 2023, dance se souber sem palavr\u00e3o, dance se souber tiktok 2025 sem palavr\u00e3o, dance se souber tiktok 2025 atualizado novas, m\u00fasica 2024, doce souber, dance se souber tiktok 2025 novas, dance souber 2025, musicas, tiktok 2025 sem palavr\u00e3o, 2024 tiktok, se souber, musicas do tik tok 2025, m\u00fasica de tik tok 2025, dan\u00e7a bem, funk, m\u00fasica de tic tac, tik tok sem palavr\u00e3o, musicas 2025, a m\u00fasica, musica do tiktok 2025 tiktok mashup , dance se souber m\u00fasicas atualizadas, dance music , dance viral , mashup viral , dance se souber atualizadas 2025 , tente n\u00e3o dan\u00e7ar, tiktok viral video , tiktok laranja , tiktok mashup , dance funk tiktok mashup , dance se souber m\u00fasicas atualizadas, dance music , dance viral , mashup viral , dance se souber atualizadas 2025 , tente n\u00e3o dan\u00e7ar, tiktok viral video , tiktok laranja , tiktok mashup , dance funk tiktok mashup , tiktok laranja , tiktok mashup , dance funk, dance se souber 2025, dance se souber tiktok 2025 atualizado novas, dance se souber tiktok 2025 atualizado, dance se souber tiktok, dance se souber, dance se souber tiktok 2024, tente n\u00e3o dan\u00e7ar tiktok, tente n\u00e3o dan\u00e7ar, tente n\u00e3o dan\u00e7ar e nem cantar, tente n\u00e3o dan\u00e7ar tik tok 2024, tente n\u00e3o dan\u00e7ar 2025, tente n\u00e3o dan\u00e7ar tik tok atualizadas, tente n\u00e3o dan\u00e7ar m\u00fasica do tik tok, tente n\u00e3o dan\u00e7ar vers\u00e3o tiktok, tiktok mashup, tiktok mashup 2025, tiktok mashup brasil, tiktok mashup 2024 brasil, tiktok mashup oficial, mashup tiktok, mashup tiktok brasil, mashup tiktok 2024, mashup funk tiktok, mashup tik tok brasil, dance se souber tiktok 2024 novas, dance se souber tiktok 2024, tente n\u00e3o dan\u00e7ar 2024, tiktok 2025, as melhores do tiktok 2024, melhores tiktok 2022, tiktok mashup 2024, tiktok brasil mashup, as melhores do tiktok 2024, m\u00fasicas tiktok 2025, dance se souber 2025, mashup brasil tiktok, m\u00fasica de tik tok,m\u00fasica do tik tok,tik tok 2023,m\u00fasica tik tok,musicas do tik tok 2023 tiktok mashup,dance se souber m\u00fasicas atualizadas,dance music,dance viral,mashup viral,dance se souber atualizadas 2022,tente n\u00e3o dan\u00e7ar,tiktok viral video,tiktok laranja,tiktok mashup,dance funk tiktok mashup,dance funk,dance ce souber m\u00fasicas,Dance se souber~{Tik Tok},dance se souber tiktok brasileiro,dance se souber tiktok antigos,dancer se souber tiktok 2021,tik\n\ndance se souber 2025,\ndance se souber tiktok 2024 atualizado novas,\ndance se souber tiktok 2025 atualizado,\ndance se souber tiktok,\ndance se souber,\ndance se souber tiktok 2024,\ntente n\u00e3o dan\u00e7ar tiktok,\ntente n\u00e3o dan\u00e7ar,\ntente n\u00e3o dan\u00e7ar e nem cantar,\ntente n\u00e3o dan\u00e7ar tik tok 2024,\ntente n\u00e3o dan\u00e7ar 2024,\ntente n\u00e3o dan\u00e7ar tiktok atualizada,\ntiktok mashup 2024,\ntiktok mashup brasil,\nmashup tiktok brasil,\nmashup funk tiktok,\ndance se souber tiktok 2024 novas,\ntiktok 2024,\n\n#dancesesoubertiktok2025  \n#dancesesoubertiktok  \n#tiktok2026"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "259811",
+                "likeCount": "1753",
+                "favoriteCount": "0",
+                "commentCount": "57"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "J9XiCFci-_ALU0tcX8GAbZe_y1k",
+            "id": "mMJir3PWF3U",
+            "snippet": {
+                "publishedAt": "2025-12-23T14:46:53Z",
+                "channelId": "UCa2MXjBtWn91WPHWRBCLI6Q",
+                "title": "Avengers: Doomsday - \u201cThor odinson Will Return\u201d Trailer | Chris Hemsworth (Concept Version)",
+                "description": "\u2014 Attention Viewers \u26a0\ufe0f\n\u2014 This is a Fan-Made Concept Trailer for:\n\u2014 Avengers: Doomsday - Thor odinson Will Return\n\n\u2014 This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I\u2019ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support \u2014 now let\u2019s dive into a world shaped by creativity and craft. \ud83c\udfac\u2728\n\n\u2014 In this concept trailer for Avengers: Doomsday, the story reframes the coming conflict through the weight of legacy and responsibility rather than spectacle, centering on a world where familiar heroes are no longer driven by glory but by what they stand to lose. As the multiversal order begins to fracture under an unseen but deliberate hand, the Avengers are forced to confront a threat that challenges not only their strength, but their purpose. Thor\u2019s journey anchors the narrative, revealing a god who has fought for realms and crowns now facing a far more human fear: the need to protect a future embodied in a single child. Doctor Doom emerges not as a force of chaos, but as a calculated architect convinced the multiverse itself must be corrected, placing him on a collision course with heroes who now fight not as warriors, but as guardians. The trailer positions Doomsday as a reckoning, where duty, parenthood, and sacrifice redefine what it truly means to be an Avenger when the fate of existence demands more than victory\u2014it demands return.\n\n\u2014  Subscribe to Teaser Universe \ud83c\udfac\n\u2014  For inquiries: teaseruniverse@gmail.com \ud83d\udce9\n\n#doomsday #thor #avengers",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mMJir3PWF3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mMJir3PWF3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mMJir3PWF3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mMJir3PWF3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mMJir3PWF3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Teaser Universe",
+                "tags": [
+                    "avengers doomsday trailer",
+                    "doomsday thor teaser",
+                    "doomsday thor trailer",
+                    "doomsday thor",
+                    "doomsday thor scene",
+                    "avengers doomsday thor first look",
+                    "doomsday trailer",
+                    "doomsday trailer steve rogers",
+                    "doomsday trailer breakdown",
+                    "tobey maguire doomsday trailer"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Avengers: Doomsday - \u201cThor odinson Will Return\u201d Trailer | Chris Hemsworth (Concept Version)",
+                    "description": "\u2014 Attention Viewers \u26a0\ufe0f\n\u2014 This is a Fan-Made Concept Trailer for:\n\u2014 Avengers: Doomsday - Thor odinson Will Return\n\n\u2014 This video is a fan-made concept trailer, created solely for artistic and entertainment purposes.The goal behind this trailer is to showcase my creativity and storytelling skills through a concept trailer based on a unique and original idea. By combining various effects, sound design, and AI technologies, I\u2019ve crafted a cinematic experience that reimagines familiar worlds in bold and imaginative ways. This trailer is not official and is intended to entertain, inspire, and engage with the YouTube community. Thank you for your support \u2014 now let\u2019s dive into a world shaped by creativity and craft. \ud83c\udfac\u2728\n\n\u2014 In this concept trailer for Avengers: Doomsday, the story reframes the coming conflict through the weight of legacy and responsibility rather than spectacle, centering on a world where familiar heroes are no longer driven by glory but by what they stand to lose. As the multiversal order begins to fracture under an unseen but deliberate hand, the Avengers are forced to confront a threat that challenges not only their strength, but their purpose. Thor\u2019s journey anchors the narrative, revealing a god who has fought for realms and crowns now facing a far more human fear: the need to protect a future embodied in a single child. Doctor Doom emerges not as a force of chaos, but as a calculated architect convinced the multiverse itself must be corrected, placing him on a collision course with heroes who now fight not as warriors, but as guardians. The trailer positions Doomsday as a reckoning, where duty, parenthood, and sacrifice redefine what it truly means to be an Avenger when the fate of existence demands more than victory\u2014it demands return.\n\n\u2014  Subscribe to Teaser Universe \ud83c\udfac\n\u2014  For inquiries: teaseruniverse@gmail.com \ud83d\udce9\n\n#doomsday #thor #avengers"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "1625320",
+                "likeCount": "31633",
+                "favoriteCount": "0",
+                "commentCount": "785"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1zDjDkrUROnb8Trfc8Ym12nbt-A",
+            "id": "idaMP11nzlI",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:01:34Z",
+                "channelId": "UCrcBZDofBltcgGxphNia2tw",
+                "title": "Evolui na Civiliza\u00e7\u00e3o do Peso no Minecraft!",
+                "description": "\ud83d\udc99VEM CONHECER MEU NOVO SHOW!!\ud83d\udc99\nhttps://showturmadoproblems.com.br/\n\nServidor de discord:\nhttps://discord.gg/2jtYumJKuZ\n\nMinha Loja:\nhttps://www.curtaloja.com/marca/problems.html\n\nContato COMERCIAL:\ncomercial@agenciacurta.com\n\nSegue a turma no instagram:\n\nProblems\ud83d\udc99 https://www.instagram.com/problems_sr/\nMel \ud83d\udc9bhttps://www.instagram.com/kaikemel/\nKadu \ud83d\udc96 https://www.instagram.com/kadukon/\nStick \ud83d\udc9ahttps://www.instagram.com/guualfaro/\nZoom \ud83e\udde1 https://www.instagram.com/josedu4rd/\n\nENXADAHOST - Cupom: Problems\nATEN\u00c7\u00c3O: O conte\u00fado do v\u00eddeo \u00e9 100% family friendly, ou seja qualquer um pode assistir com toda a familia quando quiser!!\n\n#problems #minecraft",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/idaMP11nzlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/idaMP11nzlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/idaMP11nzlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/idaMP11nzlI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/idaMP11nzlI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ProbIems",
+                "tags": [
+                    "maniqueft",
+                    "lego",
+                    "problems",
+                    "probrems",
+                    "probres",
+                    "pobrems",
+                    "problemas",
+                    "problema",
+                    "pobrema",
+                    "mainequeft",
+                    "minecraft",
+                    "video do problema",
+                    "video do problems",
+                    "video do pobrems",
+                    "minecraft survival",
+                    "minecraft mitos",
+                    "minecraft fatos",
+                    "problems roblox",
+                    "roblox",
+                    "pobrems roblox",
+                    "pobris roblox",
+                    "pobrema roblox",
+                    "problema roblox"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Evolui na Civiliza\u00e7\u00e3o do Peso no Minecraft!",
+                    "description": "\ud83d\udc99VEM CONHECER MEU NOVO SHOW!!\ud83d\udc99\nhttps://showturmadoproblems.com.br/\n\nServidor de discord:\nhttps://discord.gg/2jtYumJKuZ\n\nMinha Loja:\nhttps://www.curtaloja.com/marca/problems.html\n\nContato COMERCIAL:\ncomercial@agenciacurta.com\n\nSegue a turma no instagram:\n\nProblems\ud83d\udc99 https://www.instagram.com/problems_sr/\nMel \ud83d\udc9bhttps://www.instagram.com/kaikemel/\nKadu \ud83d\udc96 https://www.instagram.com/kadukon/\nStick \ud83d\udc9ahttps://www.instagram.com/guualfaro/\nZoom \ud83e\udde1 https://www.instagram.com/josedu4rd/\n\nENXADAHOST - Cupom: Problems\nATEN\u00c7\u00c3O: O conte\u00fado do v\u00eddeo \u00e9 100% family friendly, ou seja qualquer um pode assistir com toda a familia quando quiser!!\n\n#problems #minecraft"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "483850",
+                "likeCount": "10977",
+                "favoriteCount": "0",
+                "commentCount": "681"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "94x_0MD5W-geGGBD01ekxiPV50Y",
+            "id": "HfcmedtWLoc",
+            "snippet": {
+                "publishedAt": "2025-12-23T21:15:01Z",
+                "channelId": "UC058Ca9WOCBwgLbwwCyb70w",
+                "title": "SENTA POCA TODA A PEKA DELA| MC MENO K, MC RYAN SP E MC JACAR\u00c9 (VERS\u00c3O ESTENDIDA )",
+                "description": "\ud83d\udcfd\ufe0f Assista agora mais um lan\u00e7amento exclusivo do canal 00 DA M\u00cdDIA!\n\n\ud83c\udfb6 Aproveite o conte\u00fado? Ent\u00e3o contribua com o crescimento do canal:\n\ud83d\udc4d Deixe seu like\n\ud83d\udcac Comente o que achou\n\ud83d\udd14 Inscreva-se e ative o sininho para receber todas as novidades em primeira m\u00e3o!\n\n\ud83d\udce2 Compartilhe com seus amigos.\n\nEste videofonograma \u00e9 um produto original e pr\u00f3prio da Gravadora e Editora. \nA c\u00f3pia dele ou o reenvio do mesmo resultar\u00e1 em grandes implica\u00e7\u00f5es ao seu canal do youtube ou at\u00e9 a exclus\u00e3o do mesmo.\n\n\nCopyright \u00a9 Love Funk direitos reservados \n\n#00damidia #lovefunk #bololorecords",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HfcmedtWLoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HfcmedtWLoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HfcmedtWLoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HfcmedtWLoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HfcmedtWLoc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "00 DA M\u00cdDIA ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "SENTA POCA TODA A PEKA DELA| MC MENO K, MC RYAN SP E MC JACAR\u00c9 (VERS\u00c3O ESTENDIDA )",
+                    "description": "\ud83d\udcfd\ufe0f Assista agora mais um lan\u00e7amento exclusivo do canal 00 DA M\u00cdDIA!\n\n\ud83c\udfb6 Aproveite o conte\u00fado? Ent\u00e3o contribua com o crescimento do canal:\n\ud83d\udc4d Deixe seu like\n\ud83d\udcac Comente o que achou\n\ud83d\udd14 Inscreva-se e ative o sininho para receber todas as novidades em primeira m\u00e3o!\n\n\ud83d\udce2 Compartilhe com seus amigos.\n\nEste videofonograma \u00e9 um produto original e pr\u00f3prio da Gravadora e Editora. \nA c\u00f3pia dele ou o reenvio do mesmo resultar\u00e1 em grandes implica\u00e7\u00f5es ao seu canal do youtube ou at\u00e9 a exclus\u00e3o do mesmo.\n\n\nCopyright \u00a9 Love Funk direitos reservados \n\n#00damidia #lovefunk #bololorecords"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "38323",
+                "likeCount": "147",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Qt4U-a8WrvVWj4tqZy-NNoEUc4E",
+            "id": "CzSW5HqCaNs",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:00:25Z",
+                "channelId": "UCDDi11mkTjjmn4QoQkeKYaQ",
+                "title": "ONE PIECE: Season 2 | Special Trailer | The Grand Line | Netflix",
+                "description": "ONE PIECE Sets Sail for Season 2 on March 10, 2026.\n\nSUBSCRIBE: https://bit.ly/SlisTeaser\n\nAbout SlisTeaser:\nSlisTeaser create trailer mashups\u2014also known as recut trailers\u2014by combining scenes from one or more movies to craft new, imaginative trailers.\nThese fan-made edits often reimagine a film\u2019s genre or storyline, offering a fresh perspective on familiar footage.\nDue to their transformative nature, these mashups are protected under Fair Use as parody, adding creative spin and anticipation for fans and upcoming releases.\n\nONE PIECE: Season 2 | Special Trailer | The Grand Line | Netflix\nhttps://www.youtube.com/channel/UCDDi11mkTjjmn4QoQkeKYaQ\n\nWhat is ONE PIECE Season 2 about?\nLuffy and the Straw Hats set sail for the extraordinary Grand Line \u2014 a legendary stretch of sea where danger and wonder await at every turn. As they journey  through this unpredictable realm in search of the world\u2019s greatest treasure, they\u2019ll encounter bizarre islands and a host of formidable new enemies.\n\nWho is joining the ONE PIECE Season 2 cast?\nI\u00f1aki Godoy (Monkey D. Luffy), Mackenyu (Roronoa Zoro), Emily Rudd (Nami), Jacob Romero Gibson (Usopp), Taz Skylar (Sanji), Mikaela Hoover (Tony Tony Chopper), Rigo Sanchez (Monkey D. Dragon), Yonda Thomas (Igaram), James Hiroyuki Liao (Ipponmatsu), Sophia Anne Caruso (Miss Goldenweek), Mark Penwill (Chess), Anton David Jeftha (K.M.), Charithra Chandran (Miss Wednesday), Sendhil Ramamurthy (Nefertari Cobra), Katey Sagal (Dr. Kureha), Mark Harelik (Dr. Hiriluk), Daniel Lasker (Mr. 9), Camrus Johnson (Mr. 5), Jazzara Jaslyn (Miss Valentine), David Dastmalchian (Mr. 3), Werner Coetser (Dorry), Brendan Murray (Brogy), Clive Russell (Crocus), Callum Kerr (Smoker), Julia Rehwald (Tashigi), Rob Colletti (Wapol), Ty Keogh (Dalton), Joe Manganiello (Mr. 0), Lera Abova (Miss All-Sunday)\n\n#onepiece #netflix #onepieceseason2",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CzSW5HqCaNs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CzSW5HqCaNs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CzSW5HqCaNs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CzSW5HqCaNs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CzSW5HqCaNs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SlisTeaser",
+                "tags": [
+                    "ONE PIECE",
+                    "ONE PIECE Netflix",
+                    "ONE PIECE Season 2",
+                    "ONE PIECE Season 2 Special Announcement",
+                    "ONE PIECE Season 2 Chopper",
+                    "ONE PIECE Season 2 First Look",
+                    "ONE PIECE Season 2 Sneak Peek",
+                    "ONE PIECE Season 2 Heading to the Grand Line",
+                    "ONE PIECE Season 2 Trailer",
+                    "ONE PIECE 2026",
+                    "ONE PIECE Into the Grand Line",
+                    "Luffy vs Smoker",
+                    "I\u00f1aki Godoy",
+                    "Mackenyu",
+                    "Emily Rudd",
+                    "Jacob Romero Gibson",
+                    "Taz Skylar",
+                    "Mikaela Hoover",
+                    "Lera Abova",
+                    "Joe Manganiello",
+                    "Callum Kerr",
+                    "Julia Rehwald"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ONE PIECE: Season 2 | Special Trailer | The Grand Line | Netflix",
+                    "description": "ONE PIECE Sets Sail for Season 2 on March 10, 2026.\n\nSUBSCRIBE: https://bit.ly/SlisTeaser\n\nAbout SlisTeaser:\nSlisTeaser create trailer mashups\u2014also known as recut trailers\u2014by combining scenes from one or more movies to craft new, imaginative trailers.\nThese fan-made edits often reimagine a film\u2019s genre or storyline, offering a fresh perspective on familiar footage.\nDue to their transformative nature, these mashups are protected under Fair Use as parody, adding creative spin and anticipation for fans and upcoming releases.\n\nONE PIECE: Season 2 | Special Trailer | The Grand Line | Netflix\nhttps://www.youtube.com/channel/UCDDi11mkTjjmn4QoQkeKYaQ\n\nWhat is ONE PIECE Season 2 about?\nLuffy and the Straw Hats set sail for the extraordinary Grand Line \u2014 a legendary stretch of sea where danger and wonder await at every turn. As they journey  through this unpredictable realm in search of the world\u2019s greatest treasure, they\u2019ll encounter bizarre islands and a host of formidable new enemies.\n\nWho is joining the ONE PIECE Season 2 cast?\nI\u00f1aki Godoy (Monkey D. Luffy), Mackenyu (Roronoa Zoro), Emily Rudd (Nami), Jacob Romero Gibson (Usopp), Taz Skylar (Sanji), Mikaela Hoover (Tony Tony Chopper), Rigo Sanchez (Monkey D. Dragon), Yonda Thomas (Igaram), James Hiroyuki Liao (Ipponmatsu), Sophia Anne Caruso (Miss Goldenweek), Mark Penwill (Chess), Anton David Jeftha (K.M.), Charithra Chandran (Miss Wednesday), Sendhil Ramamurthy (Nefertari Cobra), Katey Sagal (Dr. Kureha), Mark Harelik (Dr. Hiriluk), Daniel Lasker (Mr. 9), Camrus Johnson (Mr. 5), Jazzara Jaslyn (Miss Valentine), David Dastmalchian (Mr. 3), Werner Coetser (Dorry), Brendan Murray (Brogy), Clive Russell (Crocus), Callum Kerr (Smoker), Julia Rehwald (Tashigi), Rob Colletti (Wapol), Ty Keogh (Dalton), Joe Manganiello (Mr. 0), Lera Abova (Miss All-Sunday)\n\n#onepiece #netflix #onepieceseason2"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "85281",
+                "likeCount": "2811",
+                "favoriteCount": "0",
+                "commentCount": "123"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XemzddmuR0N6ToExHNcL6bXJVEs",
+            "id": "UMOpoLPKkiE",
+            "snippet": {
+                "publishedAt": "2025-12-24T21:59:25Z",
+                "channelId": "UCCeWpi_LTJfi_AbeS2OJ6OQ",
+                "title": "NOVA CLASSE ENGENHEIRO DE 1.000 DIAMANTES NO 99 NOITES NA FLORESTA \ud83d\udd28\ud83d\udc77",
+                "description": "#99noitesnafloresta #99noitesnaflorestaroblox #teodoro",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UMOpoLPKkiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UMOpoLPKkiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UMOpoLPKkiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UMOpoLPKkiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UMOpoLPKkiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEODORO",
+                "tags": [
+                    "99 noites na floresta",
+                    "base 99 noites na floresta",
+                    "99 noites na floresta roblox",
+                    "atualiza\u00e7\u00e3o 99 noites na floresta",
+                    "teodoro",
+                    "roblox",
+                    "99 noites na floresta v\u00eddeo",
+                    "zerando 99 noites na floresta",
+                    "final 99 noites na floresta",
+                    "99 dias no 99 noites na floresta",
+                    "jogos online",
+                    "v\u00eddeos de jogos",
+                    "atualiza\u00e7\u00e3o do 99 noites na floresta",
+                    "roblox 99 noites na floresta dicas",
+                    "jogos",
+                    "CLASSE ENGENHEIRO",
+                    "CLASSE ENGENHIERO 99 NOITES NA FLORESTA",
+                    "classe de 1.000 diamantes no 99 noites na floresta"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "NOVA CLASSE ENGENHEIRO DE 1.000 DIAMANTES NO 99 NOITES NA FLORESTA \ud83d\udd28\ud83d\udc77",
+                    "description": "#99noitesnafloresta #99noitesnaflorestaroblox #teodoro"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "166069",
+                "likeCount": "4848",
+                "favoriteCount": "0",
+                "commentCount": "1412"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fwyCXHIruJq1jzx1nrhSS5Qk_wk",
+            "id": "hN88Ea1qvM0",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:14:02Z",
+                "channelId": "UC9TzKX1x_05pzrR4_ptS1gA",
+                "title": "BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)",
+                "description": "BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\nBEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\nBEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\n\nArtista: MC Meno K, MC Ryan SP e MC Jacar\u00e9 \nM\u00fasica: BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ \nProdutor Musical: Japa NK e Davi DogDog\n\nCopyright \u00a9 Bololo Records. Todos os direitos reservados.\n\n#LOVEFUNK #AQUIEFUNK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hN88Ea1qvM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hN88Ea1qvM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hN88Ea1qvM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hN88Ea1qvM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hN88Ea1qvM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AQUI \u00c9 FUNK",
+                "tags": [
+                    "aqui e funk",
+                    "gr6 explode",
+                    "love funk",
+                    "funk",
+                    "funk 2025",
+                    "funk novo",
+                    "BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K",
+                    "MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)",
+                    "bebe eu n\u00e3o nego que voce me fez feliz",
+                    "mc meno k",
+                    "mc ryan sp",
+                    "mc jacar\u00e9"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)",
+                    "description": "BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\nBEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\nBEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ - MC Meno K, MC Ryan SP e MC Jacar\u00e9 (Japa NK e Davi DogDog)\n\nArtista: MC Meno K, MC Ryan SP e MC Jacar\u00e9 \nM\u00fasica: BEB\u00ca EU N\u00c3O NEGO QUE VOC\u00ca ME FEZ FELIZ \nProdutor Musical: Japa NK e Davi DogDog\n\nCopyright \u00a9 Bololo Records. Todos os direitos reservados.\n\n#LOVEFUNK #AQUIEFUNK"
+                },
+                "defaultAudioLanguage": "zxx"
+            },
+            "statistics": {
+                "viewCount": "39805",
+                "likeCount": "215",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IKrgK1EftHIfWh2J8fZywld8xvQ",
+            "id": "JeKJJNCw4UY",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:00:44Z",
+                "channelId": "UCIwspRtKNszHhIhl36gREjQ",
+                "title": "ESSE JOGO ME QUEBROU! - CULT OF THE CHILD EATER COM OS AMIGOS",
+                "description": "OS MAIORES DESCONTOS EST\u00c3O NO KABUM!:\nhttp://kb1.me/alanzokakabumyt\n\n\ud83d\udc9c LIVE: https://www.twitch.tv/alanzoka\n\ud83d\udcf7 Instagram: https://www.instagram.com/alanzoka/\n\ud83d\udce7 alanzoka@vandep.ag\n\ud83d\udc24 Twitter: https://twitter.com/alanzoka\n\n\n\n\n#Alanzoka",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JeKJJNCw4UY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JeKJJNCw4UY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JeKJJNCw4UY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JeKJJNCw4UY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JeKJJNCw4UY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "alanzoka",
+                "tags": [
+                    "alan",
+                    "electronic",
+                    "desire",
+                    "edge",
+                    "alanzoka",
+                    "video do alanzoka",
+                    "alanzoka da twitch",
+                    "videos com alanzoka",
+                    "alanzoka video",
+                    "alanzoka memes",
+                    "gameplay alanzoka",
+                    "lives do alanzoka",
+                    "lives",
+                    "alanzoka jogando",
+                    "cult of the child eater"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "ESSE JOGO ME QUEBROU! - CULT OF THE CHILD EATER COM OS AMIGOS",
+                    "description": "OS MAIORES DESCONTOS EST\u00c3O NO KABUM!:\nhttp://kb1.me/alanzokakabumyt\n\n\ud83d\udc9c LIVE: https://www.twitch.tv/alanzoka\n\ud83d\udcf7 Instagram: https://www.instagram.com/alanzoka/\n\ud83d\udce7 alanzoka@vandep.ag\n\ud83d\udc24 Twitter: https://twitter.com/alanzoka\n\n\n\n\n#Alanzoka"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "231017",
+                "likeCount": "21057",
+                "favoriteCount": "0",
+                "commentCount": "337"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "76E3vPTovVbbSl4o3gLwmfK_qjA",
+            "id": "FO-aj3gwn30",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:00:34Z",
+                "channelId": "UCPSqgKkz1wNzkFNXPTNJiKA",
+                "title": "Eduardinho Dos Teclados - Se Ela Dan\u00e7a Eu Dan\u00e7o",
+                "description": "Eduardinho Dos Teclados - Se Ela Dan\u00e7a Eu Dan\u00e7o\nProducer: AldGuit\n\n\ud83d\udcf2 Siga Eduardinho dos Teclados \n Instagram :    / eduardinhodosteclados",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FO-aj3gwn30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FO-aj3gwn30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FO-aj3gwn30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FO-aj3gwn30/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FO-aj3gwn30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Eduardinho dos Teclados Oficial",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Eduardinho Dos Teclados - Se Ela Dan\u00e7a Eu Dan\u00e7o",
+                    "description": "Eduardinho Dos Teclados - Se Ela Dan\u00e7a Eu Dan\u00e7o\nProducer: AldGuit\n\n\ud83d\udcf2 Siga Eduardinho dos Teclados \n Instagram :    / eduardinhodosteclados"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "43649",
+                "likeCount": "513",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZQ3WsoHzjLoi7Lp_tm6oZqxJW5E",
+            "id": "rJaBb6za9Ns",
+            "snippet": {
+                "publishedAt": "2025-12-24T20:00:46Z",
+                "channelId": "UCV3XpRxabX2UMbimv2k215Q",
+                "title": "dois abestado tentando viajar de carro sem saber dirigir",
+                "description": "\ud83d\udd25 Jogue War Thunder de GRA\u00c7A e ganhe b\u00f4nus incr\u00edveis! PC & Consoles \u2014 https://wtplay.link/kksaiko e WT Mobile \u2014 https://wtm.game/kksaikoo\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\njogo: Drive Beyond Horizons\nno v\u00eddeo: @Ycro @ykuuro \n\n00:00 intro\n01:13 WAR THUNDER\n03:24 dirigino",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rJaBb6za9Ns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rJaBb6za9Ns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rJaBb6za9Ns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rJaBb6za9Ns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rJaBb6za9Ns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "kksaiko",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "dois abestado tentando viajar de carro sem saber dirigir",
+                    "description": "\ud83d\udd25 Jogue War Thunder de GRA\u00c7A e ganhe b\u00f4nus incr\u00edveis! PC & Consoles \u2014 https://wtplay.link/kksaiko e WT Mobile \u2014 https://wtm.game/kksaikoo\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\njogo: Drive Beyond Horizons\nno v\u00eddeo: @Ycro @ykuuro \n\n00:00 intro\n01:13 WAR THUNDER\n03:24 dirigino"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "141623",
+                "likeCount": "19251",
+                "favoriteCount": "0",
+                "commentCount": "706"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fujGClLL_6EVSSBWb5FhpwsB59E",
+            "id": "6cUd8UQndB0",
+            "snippet": {
+                "publishedAt": "2025-12-23T11:00:22Z",
+                "channelId": "UCYEaIbW1lPFEqIIWhx3KbLw",
+                "title": "S\u00d3 PAGODE TOP 2025 - AS MELHORES DO PAGODE - FERRUGEM / DILSINHO / BELO / TIEE",
+                "description": "Prepare-se para curtir o melhor do pagode em 2025!\n\nEste v\u00eddeo re\u00fane as melhores e mais tocadas m\u00fasicas do pagode, com grandes nomes que marcaram e continuam marcando gera\u00e7\u00f5es: Ferrugem, Dilsinho, Belo e Tiee. \n\nUm repert\u00f3rio cheio de romantismo, sentimento e aquela vibe envolvente que s\u00f3 o pagode brasileiro tem \u2764\ufe0f\ud83c\udfb5\n\nCom letras que falam de amor, saudade, reconcilia\u00e7\u00e3o e paix\u00e3o, esta sele\u00e7\u00e3o \u00e9 perfeita para quem gosta de m\u00fasicas que tocam o cora\u00e7\u00e3o e acompanham momentos especiais. \n\nDo pagode rom\u00e2ntico ao mais animado, cada faixa traz emo\u00e7\u00e3o e conex\u00e3o com o p\u00fablico.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6cUd8UQndB0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6cUd8UQndB0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6cUd8UQndB0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6cUd8UQndB0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6cUd8UQndB0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ritmo musical",
+                "tags": [
+                    "pagode",
+                    "samba",
+                    "menos \u00e9 mais",
+                    "ao vivo",
+                    "tiee",
+                    "belo",
+                    "pagode top",
+                    "roda de samba",
+                    "playlist pagode",
+                    "samba do brazil",
+                    "turma do pagode",
+                    "musica ao vivo"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "S\u00d3 PAGODE TOP 2025 - AS MELHORES DO PAGODE - FERRUGEM / DILSINHO / BELO / TIEE",
+                    "description": "Prepare-se para curtir o melhor do pagode em 2025!\n\nEste v\u00eddeo re\u00fane as melhores e mais tocadas m\u00fasicas do pagode, com grandes nomes que marcaram e continuam marcando gera\u00e7\u00f5es: Ferrugem, Dilsinho, Belo e Tiee. \n\nUm repert\u00f3rio cheio de romantismo, sentimento e aquela vibe envolvente que s\u00f3 o pagode brasileiro tem \u2764\ufe0f\ud83c\udfb5\n\nCom letras que falam de amor, saudade, reconcilia\u00e7\u00e3o e paix\u00e3o, esta sele\u00e7\u00e3o \u00e9 perfeita para quem gosta de m\u00fasicas que tocam o cora\u00e7\u00e3o e acompanham momentos especiais. \n\nDo pagode rom\u00e2ntico ao mais animado, cada faixa traz emo\u00e7\u00e3o e conex\u00e3o com o p\u00fablico."
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "53555",
+                "likeCount": "208",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GBoR2sCwy6zkkTj0QGrQZ4JuX_o",
+            "id": "SeOCvvJp_Cs",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:00:24Z",
+                "channelId": "UCqRSlH24d49U9fQPlXCubDg",
+                "title": "CHAMEI UMA NOVA AMIGA NO 99 NOITES NA FLORESTA",
+                "description": "\ud83d\udd25Compre os produtos Lopers clicando aqui: https://lp.curtaloja.com/lopers\n\n\ud83e\udde1Grupo do Roblox: https://www.roblox.com/pt/communities/33136313/Fam-lia-Banan-ra-OFICIAL#!/store\n\n\ud83c\udf0ahttps://www.instagram.com/lopersofc/\n\n\ud83d\udd25Curso de Constru\u00e7\u00e3o: https://pay.kiwify.com.br/CJR9dIG\n\n\n\n\ud83d\udce7 Contato: comercial@agenciacurta.com\n\n#Lopers",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SeOCvvJp_Cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SeOCvvJp_Cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SeOCvvJp_Cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SeOCvvJp_Cs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SeOCvvJp_Cs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lopers ",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "CHAMEI UMA NOVA AMIGA NO 99 NOITES NA FLORESTA",
+                    "description": "\ud83d\udd25Compre os produtos Lopers clicando aqui: https://lp.curtaloja.com/lopers\n\n\ud83e\udde1Grupo do Roblox: https://www.roblox.com/pt/communities/33136313/Fam-lia-Banan-ra-OFICIAL#!/store\n\n\ud83c\udf0ahttps://www.instagram.com/lopersofc/\n\n\ud83d\udd25Curso de Constru\u00e7\u00e3o: https://pay.kiwify.com.br/CJR9dIG\n\n\n\n\ud83d\udce7 Contato: comercial@agenciacurta.com\n\n#Lopers"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "84683",
+                "likeCount": "2878",
+                "favoriteCount": "0",
+                "commentCount": "1212"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "96yX_gz1gYsOHUEaiNgkOG9c8m0",
+            "id": "_Dwj3ELBmPM",
+            "snippet": {
+                "publishedAt": "2025-12-24T21:00:43Z",
+                "channelId": "UCNe1TMjZxpk94dZNnrih02w",
+                "title": "TOQUEDEZ CD FIM DE ANO - REPERTORIO NOVO TOQUEDEZ MUSICAS NOVAS 2026",
+                "description": "\ud83d\udd25Adquira o melhor repert\u00f3rio de 2025 via Email - \ud83d\udcf2WhatsApp *(73) 982351737*   \n                           \n*Siga nossas redes sociais!!* \ud83d\ude1c\n\u274eInstagram: https://www.instagram.com/ygote_cds/\n\u274eSuaM\u00fasica: https://www.suamusica.com.br/Ygote13\n*Divulgue seu CD conosco* : Contato: (73) 982351737\n======================================================\nPARTICIPE DO GRUPO DE WHATSAPP \nClique no link: https://chat.whatsapp.com/DHAy6CjecUPKEI7QKN5rVv\nPARTICIPE DO GRUPO NO TELEGRAM\nClique no link: https://t.me/ygotecdsoficial\n======================================================",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Dwj3ELBmPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Dwj3ELBmPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Dwj3ELBmPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Dwj3ELBmPM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Dwj3ELBmPM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ygote CDs",
+                "tags": [
+                    "ARROCHA",
+                    "PAGODE",
+                    "PAGOD\u00c3O",
+                    "REGGAE",
+                    "ARROCHADEIRA",
+                    "FUNK",
+                    "BREGADEIRA",
+                    "BREGAFUNK",
+                    "SERTANEJO",
+                    "PISADINHA",
+                    "BREGA",
+                    "SERESTA",
+                    "FORR\u00d3",
+                    "AX\u00c9",
+                    "MUSICAS NOVAS",
+                    "AS MAIS TOCADAS",
+                    "VAQUEJADA",
+                    "SELE\u00c7\u00c3O ARROCHADEIRA",
+                    "SELE\u00c7\u00c3O ARROCHA",
+                    "SELE\u00c7\u00c3O BREGADEIRA",
+                    "MUSICAS NOVAS SAO JOAO",
+                    "CD ATUALIZADO",
+                    "VER\u00c3O",
+                    "CARNAVAL",
+                    "SAO JOAO",
+                    "FIM DE ANO",
+                    "MUSICAS 2025",
+                    "PAREDAO 2025",
+                    "VER\u00c3O 2025",
+                    "MUSICAS NOVAS 2025",
+                    "PABLO",
+                    "TOQUE DEZ",
+                    "NENHO",
+                    "UNHA PINTADA",
+                    "KAELZINHO",
+                    "NATANZINHO LIMA",
+                    "tiktok",
+                    "viral",
+                    "hits tiktok",
+                    "as top brasil",
+                    "lancamentos",
+                    "trend"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "TOQUEDEZ CD FIM DE ANO - REPERTORIO NOVO TOQUEDEZ MUSICAS NOVAS 2026",
+                    "description": "\ud83d\udd25Adquira o melhor repert\u00f3rio de 2025 via Email - \ud83d\udcf2WhatsApp *(73) 982351737*   \n                           \n*Siga nossas redes sociais!!* \ud83d\ude1c\n\u274eInstagram: https://www.instagram.com/ygote_cds/\n\u274eSuaM\u00fasica: https://www.suamusica.com.br/Ygote13\n*Divulgue seu CD conosco* : Contato: (73) 982351737\n======================================================\nPARTICIPE DO GRUPO DE WHATSAPP \nClique no link: https://chat.whatsapp.com/DHAy6CjecUPKEI7QKN5rVv\nPARTICIPE DO GRUPO NO TELEGRAM\nClique no link: https://t.me/ygotecdsoficial\n======================================================"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "25947",
+                "likeCount": "216",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "h4aHttBX34YfZgMZSKzwwQlZqH4",
+            "id": "XuM9OJIwhGA",
+            "snippet": {
+                "publishedAt": "2025-12-24T21:45:59Z",
+                "channelId": "UCvp2rct896qzl9qaG20mjNg",
+                "title": "O MEGALODON ENGOLIU O FRANKLIN NO GTA 5!",
+                "description": "Nesse v\u00eddeo do Costa o megalodon engoliu o Franklin no gta 5!\n\nInscreva-se e entre pra Torcida: https://www.youtube.com/GamerCosta\n   Deixe o LIKE!!! Ah n\u00e3o se esque\u00e7a de ativar o sininho\ud83d\udd14\n\nRedes Sociais:\nInstagram: https://www.instagram.com/gamercosta/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XuM9OJIwhGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XuM9OJIwhGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XuM9OJIwhGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XuM9OJIwhGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XuM9OJIwhGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GamerCosta",
+                "tags": [
+                    "Jogos",
+                    "Costa",
+                    "Gamercosta",
+                    "costa",
+                    "gamer",
+                    "gamercosta",
+                    "GTA",
+                    "Online",
+                    "Gta",
+                    "gta5",
+                    "GTA 5",
+                    "gta 5",
+                    "Costa gta 5",
+                    "Gamer Costa",
+                    "gamer costa",
+                    "gamercosta gta 5",
+                    "costa gamer",
+                    "costa gamer gta 5",
+                    "costa gta",
+                    "costa gta 5",
+                    "costa mod"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "O MEGALODON ENGOLIU O FRANKLIN NO GTA 5!",
+                    "description": "Nesse v\u00eddeo do Costa o megalodon engoliu o Franklin no gta 5!\n\nInscreva-se e entre pra Torcida: https://www.youtube.com/GamerCosta\n   Deixe o LIKE!!! Ah n\u00e3o se esque\u00e7a de ativar o sininho\ud83d\udd14\n\nRedes Sociais:\nInstagram: https://www.instagram.com/gamercosta/"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "56956",
+                "likeCount": "764",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2a-cqJXzKqPrpk-xZSSn6R767Sc",
+            "id": "cqEQ38klAOc",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:32:58Z",
+                "channelId": "UChFSlUTSJNQK3v79abpQP4w",
+                "title": "RESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)",
+                "description": "RESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\nRESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\nRESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\n\nArtista: - J. ESKINE\nT\u00edtulo: RESENHA DO ARROCHA\nProdu\u00e7\u00e3o Musical: \nLan\u00e7amento: 2025\n\nTodos os direitos reservados \u00a9 2025 FUNK DE BIGODE\u00ae Ltda. em colabora\u00e7\u00e3o com Love Funk.\n\n#LoveFunk #FunkDeBigode #Funk2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cqEQ38klAOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cqEQ38klAOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cqEQ38klAOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cqEQ38klAOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cqEQ38klAOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FUNK DE BIGODE",
+                "tags": [
+                    "FUNKFLIX",
+                    "FUNK",
+                    "MC",
+                    "FUNK 2024",
+                    "FUNK CONSCIENTE",
+                    "FUNK LAN\u00c7AMENTO",
+                    "SET FUNK",
+                    "PLAYLIST FUNK",
+                    "LOVE FUNK",
+                    "GR6 EXPLODE",
+                    "SET",
+                    "FUNK 2025",
+                    "FUNK 2025 LAN\u00c7AMENTO",
+                    "RESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)",
+                    "resenha do arrocha",
+                    "resenha arrocha",
+                    "j eskine",
+                    "j eskine resenha do arrocha",
+                    "j eskine 2025",
+                    "j eskine arrocha"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "RESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)",
+                    "description": "RESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\nRESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\nRESENHA DO ARROCHA - J. ESKINE (VIRAL TIK TOK)\n\nArtista: - J. ESKINE\nT\u00edtulo: RESENHA DO ARROCHA\nProdu\u00e7\u00e3o Musical: \nLan\u00e7amento: 2025\n\nTodos os direitos reservados \u00a9 2025 FUNK DE BIGODE\u00ae Ltda. em colabora\u00e7\u00e3o com Love Funk.\n\n#LoveFunk #FunkDeBigode #Funk2025"
+                }
+            },
+            "statistics": {
+                "viewCount": "43105",
+                "likeCount": "294",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "89IF55HOoXbTyUaAla_CxcZKmfE",
+            "id": "dmiab9mUc9Q",
+            "snippet": {
+                "publishedAt": "2025-12-24T20:00:40Z",
+                "channelId": "UCxu6ptkyCUoZj7rsrYYB0GA",
+                "title": "FOI UM GRANDE ERRO ALUGAR ESTA CASA! | Within of Static - Ashburg Rental",
+                "description": "\ud83d\udfe3\ud83d\udfe3LIVE TWITCH 19H\ud83d\udfe3\ud83d\udfe3\nLINK TWITCH:  https://www.twitch.tv/bisteconee\n\nCANAL PRINCIPAL   @bisteconeee  \nCANAL RP  @ShelbyRP  \nCANAL RESUMONE @resumoneoficial \n\nLink do DISCORD:\nhttps://discord.gg/bisteconee\n\nMe segue nas redes sociais:\nInstagram:\nhttps://www.instagram.com/bistecone_/\nTikTok:\nhttps://www.tiktok.com/@bistecone1?lang=pt-BR\n\nVIRE UM FANZONE:\nhttps://www.youtube.com/channel/UCxu6ptkyCUoZj7rsrYYB0GA/join",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dmiab9mUc9Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dmiab9mUc9Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dmiab9mUc9Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dmiab9mUc9Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dmiab9mUc9Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BisteconeLive",
+                "tags": [
+                    "BISTECONE voltou pro PRIME (supermarket simulator)",
+                    "supermarket",
+                    "supermarket simulador",
+                    "supermarket simulator",
+                    "bistecone",
+                    "bisteconne",
+                    "bisteconee",
+                    "bisteconeLIVE",
+                    "bisteca",
+                    "slurp br",
+                    "rages",
+                    "bistecone rages",
+                    "prime",
+                    "gta rp",
+                    "shelby",
+                    "thomas shelby",
+                    "bestecone",
+                    "super",
+                    "paulinho oloko",
+                    "bisticone",
+                    "bistecone voltou pro prime",
+                    "bistecone nao pode gritar",
+                    "bistecone com medo",
+                    "bistecone silent",
+                    "silent breath",
+                    "granny 5",
+                    "bistecone granny 5",
+                    "bistecone granny",
+                    "alanzoka granny",
+                    "jogo granny",
+                    "granny jogo terror"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "FOI UM GRANDE ERRO ALUGAR ESTA CASA! | Within of Static - Ashburg Rental",
+                    "description": "\ud83d\udfe3\ud83d\udfe3LIVE TWITCH 19H\ud83d\udfe3\ud83d\udfe3\nLINK TWITCH:  https://www.twitch.tv/bisteconee\n\nCANAL PRINCIPAL   @bisteconeee  \nCANAL RP  @ShelbyRP  \nCANAL RESUMONE @resumoneoficial \n\nLink do DISCORD:\nhttps://discord.gg/bisteconee\n\nMe segue nas redes sociais:\nInstagram:\nhttps://www.instagram.com/bistecone_/\nTikTok:\nhttps://www.tiktok.com/@bistecone1?lang=pt-BR\n\nVIRE UM FANZONE:\nhttps://www.youtube.com/channel/UCxu6ptkyCUoZj7rsrYYB0GA/join"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "78811",
+                "likeCount": "5482",
+                "favoriteCount": "0",
+                "commentCount": "298"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AxghYWwku45c8qLYTIVP7T125Qo",
+            "id": "UN9wR6yCkzc",
+            "snippet": {
+                "publishedAt": "2025-12-23T16:01:00Z",
+                "channelId": "UConu-bSPjOxSooGX0ZOpltg",
+                "title": "M\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025",
+                "description": "M\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nM\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nM\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nhttps://youtu.be/UN9wR6yCkzc\n-----------------------------------------------------------------------------------------\n\u2764 Obrigado por assistir o v\u00eddeo, n\u00e3o se esque\u00e7a de curtir, comentar, compartilhar e se inscrever no meu canal: https://www.youtube.com/@RioPagode-h7p\n\ud83d\udc49 Facebook: https://www.facebook.com/profile.php?id=61580619789410\n\ud83d\udc49 Spotify: https://open.spotify.com/playlist/0FpkES9K3uAFmZ8LnKRxy0\n\u2764 Se gostou do v\u00eddeo, curta e compartilhe para que o canal tenha motiva\u00e7\u00e3o de postar v\u00eddeos todos os dias para se desenvolver ainda mais!\n#Natal #M\u00fasicasDeNatal #NatalBrasileiro #Can\u00e7\u00f5esNatalinas #FelizNatal2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UN9wR6yCkzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UN9wR6yCkzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UN9wR6yCkzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UN9wR6yCkzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UN9wR6yCkzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rio Pagode",
+                "tags": [
+                    "pagode",
+                    "pagode as melhores",
+                    "samba e pagode"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "M\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025",
+                    "description": "M\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nM\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nM\u00fasicas de Natal Brasileiras \ud83c\udf84 Playlist Completa  Can\u00e7\u00f5es Natalinas em Portugu\u00eas 2025\nhttps://youtu.be/UN9wR6yCkzc\n-----------------------------------------------------------------------------------------\n\u2764 Obrigado por assistir o v\u00eddeo, n\u00e3o se esque\u00e7a de curtir, comentar, compartilhar e se inscrever no meu canal: https://www.youtube.com/@RioPagode-h7p\n\ud83d\udc49 Facebook: https://www.facebook.com/profile.php?id=61580619789410\n\ud83d\udc49 Spotify: https://open.spotify.com/playlist/0FpkES9K3uAFmZ8LnKRxy0\n\u2764 Se gostou do v\u00eddeo, curta e compartilhe para que o canal tenha motiva\u00e7\u00e3o de postar v\u00eddeos todos os dias para se desenvolver ainda mais!\n#Natal #M\u00fasicasDeNatal #NatalBrasileiro #Can\u00e7\u00f5esNatalinas #FelizNatal2025"
+                },
+                "defaultAudioLanguage": "pcm"
+            },
+            "statistics": {
+                "viewCount": "137422",
+                "likeCount": "998",
+                "favoriteCount": "0",
+                "commentCount": "34"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aGJ8tPJHV9VCsCsoleU8URJoTqw",
+            "id": "bbXIyF-Rafo",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:00:40Z",
+                "channelId": "UCABon3LeMfnU5ajXaOYC1oA",
+                "title": "PERTURBANDO A CASA DOS MORADORES NO NATAL EM BROOKHAVEN ",
+                "description": "Bem Vindos ao Canal da Amy Scarlet em Brookhaven.\nAqui voc\u00ea acompanha as aventuras da personagem Scarletina pela cidade de Brookhaven.\nOs personagens e hist\u00f3rias s\u00e3o fict\u00edcios e n\u00e3o adequados para crian\u00e7as.\n\nDeixa a curtida e se inscreve \u2764\n\nCanais Secund\u00e1rios da Amy:\n- AmyScarletona\n- \u2060AmyCraftando\n- \u2060Scarletinos\n\n#brookhaven #amyscarlet\u00a0#roblox\n\nSe inscreva no Canal.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bbXIyF-Rafo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bbXIyF-Rafo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bbXIyF-Rafo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bbXIyF-Rafo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bbXIyF-Rafo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Amy Scarlet",
+                "tags": [
+                    "amy scarlet",
+                    "gameplay",
+                    "roblox",
+                    "brookhaven"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "PERTURBANDO A CASA DOS MORADORES NO NATAL EM BROOKHAVEN ",
+                    "description": "Bem Vindos ao Canal da Amy Scarlet em Brookhaven.\nAqui voc\u00ea acompanha as aventuras da personagem Scarletina pela cidade de Brookhaven.\nOs personagens e hist\u00f3rias s\u00e3o fict\u00edcios e n\u00e3o adequados para crian\u00e7as.\n\nDeixa a curtida e se inscreve \u2764\n\nCanais Secund\u00e1rios da Amy:\n- AmyScarletona\n- \u2060AmyCraftando\n- \u2060Scarletinos\n\n#brookhaven #amyscarlet\u00a0#roblox\n\nSe inscreva no Canal."
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "49507",
+                "likeCount": "3062",
+                "favoriteCount": "0",
+                "commentCount": "575"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "STbqRDm0uORMETKaeLjTwNr6Quk",
+            "id": "iPtFo4sMQb8",
+            "snippet": {
+                "publishedAt": "2025-12-23T17:47:41Z",
+                "channelId": "UC9OJH9t7DyfTCvfBSOTlHtQ",
+                "title": "AMO MINHA FAVELA - MC MENO K & DJ JAPA NK",
+                "description": "Ou\u00e7a em todas as plataformas digitais:\n\nContato pra show: 11 - 98904-2209\n\nArtista: MC MENO K\nM\u00fasica: AMO MINHA FAVELA\nProdu\u00e7\u00e3o Musical: DJ Japa NK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iPtFo4sMQb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iPtFo4sMQb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iPtFo4sMQb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iPtFo4sMQb8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iPtFo4sMQb8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DJ Japa NK",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "AMO MINHA FAVELA - MC MENO K & DJ JAPA NK",
+                    "description": "Ou\u00e7a em todas as plataformas digitais:\n\nContato pra show: 11 - 98904-2209\n\nArtista: MC MENO K\nM\u00fasica: AMO MINHA FAVELA\nProdu\u00e7\u00e3o Musical: DJ Japa NK"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "348361",
+                "likeCount": "2878",
+                "favoriteCount": "0",
+                "commentCount": "45"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wcDft2igscUfWaVfwoD9DHgbmK0",
+            "id": "TFN5IDBweec",
+            "snippet": {
+                "publishedAt": "2025-12-24T23:21:17Z",
+                "channelId": "UCdK8veAN0I3-9gs2Xqa7v9A",
+                "title": "MADRUGADA NO QUIOSQUE MAIS BIZARRO DO ROBLOX",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TFN5IDBweec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TFN5IDBweec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TFN5IDBweec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TFN5IDBweec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TFN5IDBweec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Amy Scarletona",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "MADRUGADA NO QUIOSQUE MAIS BIZARRO DO ROBLOX",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "37115",
+                "likeCount": "2343",
+                "favoriteCount": "0",
+                "commentCount": "422"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Jkiqu-_-i1RHwjW3eUYzF4FzrQA",
+            "id": "a1ky2pEnBv4",
+            "snippet": {
+                "publishedAt": "2025-12-24T21:25:26Z",
+                "channelId": "UCxiHdOFRj1uT_vzZmdmNtXw",
+                "title": "AMO MINHA FAVELA - MC Meno K (DJ Japa NK)",
+                "description": "Visualizer oficial de \u201cAMO MINHA FAVELA\u201d de MC Meno K (DJ Japa NK).\n\nOu\u00e7a na sua plataforma digital favorita.\n\nBolol\u00f4 Records | 2025 \u00a9 Todos os Direitos Reservados.\n#BOLOLORECORDS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a1ky2pEnBv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a1ky2pEnBv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a1ky2pEnBv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a1ky2pEnBv4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bololo Records",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "AMO MINHA FAVELA - MC Meno K (DJ Japa NK)",
+                    "description": "Visualizer oficial de \u201cAMO MINHA FAVELA\u201d de MC Meno K (DJ Japa NK).\n\nOu\u00e7a na sua plataforma digital favorita.\n\nBolol\u00f4 Records | 2025 \u00a9 Todos os Direitos Reservados.\n#BOLOLORECORDS"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "16673",
+                "likeCount": "308",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NXfplMcVX9eyneecP-ENLQP5tZc",
+            "id": "yX3VgpJpPno",
+            "snippet": {
+                "publishedAt": "2025-12-24T19:08:37Z",
+                "channelId": "UC8cP4kV1GIbxRH-mlilSniQ",
+                "title": "Civiliza\u00e7\u00e3o das Muta\u00e7\u00f5es no Roube um Brainrot - Parte 3",
+                "description": "Discord: https://discord.gg/zF7xYUUnE9\n\nEmail Comercial: comercialproblemsraiz@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yX3VgpJpPno/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yX3VgpJpPno/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yX3VgpJpPno/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yX3VgpJpPno/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yX3VgpJpPno/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Problems Raiz ",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Civiliza\u00e7\u00e3o das Muta\u00e7\u00f5es no Roube um Brainrot - Parte 3",
+                    "description": "Discord: https://discord.gg/zF7xYUUnE9\n\nEmail Comercial: comercialproblemsraiz@gmail.com"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "105044",
+                "likeCount": "2536",
+                "favoriteCount": "0",
+                "commentCount": "150"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BRYGSCcIdQJSiGjIJBKSSQ8LByE",
+            "id": "O_Nm2Aj5Zio",
+            "snippet": {
+                "publishedAt": "2025-12-03T10:42:57Z",
+                "channelId": "UCovz10QQY6vb1jc-jHYhbIA",
+                "title": "Valeu Natalina",
+                "description": "Provided to YouTube by IIP-DDS\n\nValeu Natalina \u00b7 DJ Jack \u00b7 Douth!\n\nValeu Natalina\n\n\u2117 Deboxe\n\nReleased on: 2025-11-28\n\nCo Producer, Sampled Artist: DJ Jack\nProducer: Douth!\nLyricist: Joaquim Santana Neto\nComposer: Mariah Carey\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_Nm2Aj5Zio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_Nm2Aj5Zio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_Nm2Aj5Zio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O_Nm2Aj5Zio/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O_Nm2Aj5Zio/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DJ Jack - Topic",
+                "tags": [
+                    "DJ Jack",
+                    "Douth!",
+                    "Valeu Natalina"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Valeu Natalina",
+                    "description": "Provided to YouTube by IIP-DDS\n\nValeu Natalina \u00b7 DJ Jack \u00b7 Douth!\n\nValeu Natalina\n\n\u2117 Deboxe\n\nReleased on: 2025-11-28\n\nCo Producer, Sampled Artist: DJ Jack\nProducer: Douth!\nLyricist: Joaquim Santana Neto\nComposer: Mariah Carey\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "40448",
+                "likeCount": "430",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BkhYz93J003ptTyBiIDEP4LivHY",
+            "id": "viTnx4Cm-H4",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:00:54Z",
+                "channelId": "UCZ5EhVtjHsdha52CiOcFvvg",
+                "title": "LOKIS FEZ BARCO DE LETRAS | Roblox - Build A Boat For Treasure",
+                "description": "Hoje o Lokis fez um barco de letras.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/viTnx4Cm-H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/viTnx4Cm-H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/viTnx4Cm-H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/viTnx4Cm-H4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/viTnx4Cm-H4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lokis",
+                "tags": [
+                    "roblox",
+                    "lokis",
+                    "lokis roblox",
+                    "looks",
+                    "looks roblox",
+                    "loquinho roblox",
+                    "loquinho",
+                    "barco roblox",
+                    "lokis barco",
+                    "barco de letras"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "LOKIS FEZ BARCO DE LETRAS | Roblox - Build A Boat For Treasure",
+                    "description": "Hoje o Lokis fez um barco de letras."
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "36775",
+                "likeCount": "319",
+                "favoriteCount": "0",
+                "commentCount": "34"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MW5XF4LARsaa3FTJkNVpY7id7ec",
+            "id": "70JAKxob_qM",
+            "snippet": {
+                "publishedAt": "2025-12-23T20:52:06Z",
+                "channelId": "UCyiMmoG4es5_b0MX2-USUzA",
+                "title": "SIGILINHO - (LYRIC VIDEO OFICIAL) - CJNOBEAT, MC MORENA",
+                "description": "Provided to YouTube by cjnobeat\n\nSigilinho \u00b7 cjnobeat \u00b7 Mc Morena\n\n\u2117 cjnobeat\n\nProducer: cjnobeat\n\nComposer: Valquiria Rosa da Silveira\nComposer: Israel Pastana Costa\n\nLyricist: Valquiria Rosa da Silveira\n\nInstagram: @cjnobeatoficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/70JAKxob_qM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/70JAKxob_qM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/70JAKxob_qM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/70JAKxob_qM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/70JAKxob_qM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cjnobeat",
+                "tags": [
+                    "cjnobeat",
+                    "2021",
+                    "2022",
+                    "2023"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "SIGILINHO - (LYRIC VIDEO OFICIAL) - CJNOBEAT, MC MORENA",
+                    "description": "Provided to YouTube by cjnobeat\n\nSigilinho \u00b7 cjnobeat \u00b7 Mc Morena\n\n\u2117 cjnobeat\n\nProducer: cjnobeat\n\nComposer: Valquiria Rosa da Silveira\nComposer: Israel Pastana Costa\n\nLyricist: Valquiria Rosa da Silveira\n\nInstagram: @cjnobeatoficial"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "35850",
+                "likeCount": "593",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "24--y9W3yluxnQLlTe-C7BOBu8Y",
+            "id": "p6E2R015uJE",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:09:13Z",
+                "channelId": "UCf36H4Zhcv6k5R0C7hKZMxg",
+                "title": "EU FINGI SER SOLDADO e INVADI A BASE MILITAR! Brookhaven",
+                "description": "VIRA MEMBRO, EU TE ADICIONO NO ROBLOX \ud83d\udc9c\n\u2b50 SEJA MEMBRO:\nhttps://www.youtube.com/channel/UCf36H4Zhcv6k5R0C7hKZMxg/join\n\n\ud83d\udc9c Me segue ai!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contato Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para F\u00e3s\n\ud83d\udc8c WelixMensagens@gmail.com\n\n------------\nAurea Carmina de Kevin MacLeod \u00e9 licenciada de acordo com a licen\u00e7a Atribui\u00e7\u00e3o 4.0 da Creative Commons. https://creativecommons.org/licenses/by/4.0/\nFonte: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Roblox #RobloxBrasil #KingOfYouTube",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p6E2R015uJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p6E2R015uJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p6E2R015uJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p6E2R015uJE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p6E2R015uJE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "WELIX",
+                "tags": [
+                    "interesseiras no brookhaven",
+                    "brookhaven",
+                    "brookhaven rp",
+                    "testando se as pessoas sao interesseiras no brookhaven",
+                    "pessoas interesseiras no brookhaven",
+                    "roblox brookhaven",
+                    "premium no brookhaven",
+                    "teste social no brookhaven",
+                    "historinhas no brookhaven",
+                    "historinhas brookhaven",
+                    "atualizacao brookhaven",
+                    "interesseira brookhaven",
+                    "historinhas no brookhaven rp\ud83c\udfe1",
+                    "tipos de pessoas no broookhaven",
+                    "pet shop no brookhaven",
+                    "brookhaven premium",
+                    "premiun brookhaven",
+                    "premium gratis brookhaven"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "EU FINGI SER SOLDADO e INVADI A BASE MILITAR! Brookhaven",
+                    "description": "VIRA MEMBRO, EU TE ADICIONO NO ROBLOX \ud83d\udc9c\n\u2b50 SEJA MEMBRO:\nhttps://www.youtube.com/channel/UCf36H4Zhcv6k5R0C7hKZMxg/join\n\n\ud83d\udc9c Me segue ai!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contato Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para F\u00e3s\n\ud83d\udc8c WelixMensagens@gmail.com\n\n------------\nAurea Carmina de Kevin MacLeod \u00e9 licenciada de acordo com a licen\u00e7a Atribui\u00e7\u00e3o 4.0 da Creative Commons. https://creativecommons.org/licenses/by/4.0/\nFonte: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Roblox #RobloxBrasil #KingOfYouTube"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "86437",
+                "likeCount": "2059",
+                "favoriteCount": "0",
+                "commentCount": "265"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "351wfYZvWU53Ny0qoIzS3Bk_Bq0",
+            "id": "d-mOfXMG6PE",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:30:45Z",
+                "channelId": "UCHU6UglCUaFS5a-w85vUTiA",
+                "title": "POSSO AT\u00c9 N\u00c3O TE DAR FLORES - MC Ryan SP, MC Meno K e MC Jacar\u00e9 (V\u00eddeo Oficial)",
+                "description": "Inscreva-se no canal e receba os lan\u00e7amentos exclusivos em primeira m\u00e3o no link abaixo.\nhttps://www.youtube.com/@LFFUNK/?sub_confirmation=1\n\nDivulgue sua m\u00fasica conosco: contatolffunk@gmail.com\n\nRedes Sociais:\nInstagram: https://instagram.com/lf.funk\nTikTok: https://tiktok.com/@lf.funk\n\nCopyright \u00a9\ufe0f LF Funk / Love Funk \u00ae\ufe0f\nTodos os direitos reservados.\n\n#lffunk #funk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d-mOfXMG6PE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d-mOfXMG6PE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d-mOfXMG6PE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d-mOfXMG6PE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d-mOfXMG6PE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LF FUNK",
+                "tags": [
+                    "love funk",
+                    "mc paiva",
+                    "gabb mc",
+                    "mc lipi",
+                    "mc paulin da capital",
+                    "viral",
+                    "em alta",
+                    "funk tiktok",
+                    "hit tiktok",
+                    "gr6",
+                    "nova era",
+                    "sonar",
+                    "mc ryan sp",
+                    "mc hariel",
+                    "mc ig",
+                    "mc kevin",
+                    "funk pra",
+                    "dan\u00e7ar",
+                    "funk viral",
+                    "funk antigo",
+                    "funk 2025",
+                    "funk 2024",
+                    "viral tiktok",
+                    "challenge tiktok funk",
+                    "brazilian funk",
+                    "funky",
+                    "m\u00fasica de funk",
+                    "funk edit",
+                    "mix - funk",
+                    "funk lan\u00e7amento",
+                    "mc neg\u00e3o original",
+                    "mc luuky",
+                    "boladin 211",
+                    "mc cebezinho",
+                    "dj oreia",
+                    "a danada me ligando",
+                    "the box medley",
+                    "mc tuto",
+                    "mc kako"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "POSSO AT\u00c9 N\u00c3O TE DAR FLORES - MC Ryan SP, MC Meno K e MC Jacar\u00e9 (V\u00eddeo Oficial)",
+                    "description": "Inscreva-se no canal e receba os lan\u00e7amentos exclusivos em primeira m\u00e3o no link abaixo.\nhttps://www.youtube.com/@LFFUNK/?sub_confirmation=1\n\nDivulgue sua m\u00fasica conosco: contatolffunk@gmail.com\n\nRedes Sociais:\nInstagram: https://instagram.com/lf.funk\nTikTok: https://tiktok.com/@lf.funk\n\nCopyright \u00a9\ufe0f LF Funk / Love Funk \u00ae\ufe0f\nTodos os direitos reservados.\n\n#lffunk #funk"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "19560",
+                "likeCount": "76",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3r-OJ8SNNHOBToW02G8FFbnm5c8",
+            "id": "Zg3ciNwlR_g",
+            "snippet": {
+                "publishedAt": "2025-12-24T12:31:02Z",
+                "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+                "title": "ENCHI o MUNDO INTEIRO do meu AMIGO com COCA-COLA!",
+                "description": "\ud83d\udc9aCompre j\u00e1 os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: https://lp.curtaloja.com/cadres/\n----\nJ\u00e1 garantiu o seu \u00e1lbum de figurinhas? Corre pra completar, trocar com os amigos e entrar nessa aventura colecion\u00e1vel!\n---\n\ud83d\udd38Instagram: https://www.instagram.com/cadresss/\n\ud83d\udd39Twitter: https://twitter.com/Cadres19\n----\n\ud83d\udce9Contato comercial: comercial@agenciacurta.com\n\n#minecraft #publi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zg3ciNwlR_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zg3ciNwlR_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zg3ciNwlR_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zg3ciNwlR_g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zg3ciNwlR_g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cadres",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "ENCHI o MUNDO INTEIRO do meu AMIGO com COCA-COLA!",
+                    "description": "\ud83d\udc9aCompre j\u00e1 os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: https://lp.curtaloja.com/cadres/\n----\nJ\u00e1 garantiu o seu \u00e1lbum de figurinhas? Corre pra completar, trocar com os amigos e entrar nessa aventura colecion\u00e1vel!\n---\n\ud83d\udd38Instagram: https://www.instagram.com/cadresss/\n\ud83d\udd39Twitter: https://twitter.com/Cadres19\n----\n\ud83d\udce9Contato comercial: comercial@agenciacurta.com\n\n#minecraft #publi"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "224200",
+                "likeCount": "1736",
+                "favoriteCount": "0",
+                "commentCount": "68"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ytpfOAnMDG_ADcszmB8awcKBZwc",
+            "id": "32w-guYb4mg",
+            "snippet": {
+                "publishedAt": "2025-12-24T14:00:05Z",
+                "channelId": "UC-HZV4MWHP0RAi6igwxR9TQ",
+                "title": "SET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )",
+                "description": "#funk #funk2025 #lovefunk #setfunk \nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\n #setfunk2024 #setfunk #funk #funkconsciente #funk2024 #funk2025 #setfunk2025 #mctuto \n\nsset funk, set funk 2024, set funk 2025, set funk 2026, set de funk, set funk japa nk, set funks 2023, set funks 2024, set funk muita fe, set de funk], set funk 2024 mc ig, set funk sonhador, set funk dezembro, set baile funk, set funk 2024 - mc ig, set funk motivacao, set funk abencoado, set funk iluminado, set de funk 2025, set de funk 2024, set funk consciente, set funk dos sonhador, set funk sonhador 2024, set funk pros sonhador, set funk 2026 - mc meno k, set funk dezembro 2026, set funk 2024 - mc ryan sp - mc hariel,playlist funk 2024 - mc ryan sp,set funk 2024 mc ig,funk 2024 - mc ryan sp,funk 2024 - mc lipi,melhores funk 2024,funk,funk 2025,set funk 2025,funk consciente,mc tuto,tuto,mc kadu,kadu,pega nois n\u00e3o pega n\u00e3o,bem longe de magnata,ig, mc meno k\n\nSe inscreva no nosso canal e ative as notifica\u00e7\u00f5es para n\u00e3o perder nenhuma novidade.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/32w-guYb4mg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/32w-guYb4mg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/32w-guYb4mg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/32w-guYb4mg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/32w-guYb4mg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PLAY FUNK",
+                "tags": [
+                    "set funk",
+                    "set funk 2024",
+                    "set funk 2025",
+                    "set funk 2026",
+                    "set de funk",
+                    "set funk japa nk",
+                    "set funks 2023",
+                    "set funks 2024",
+                    "set funk muita fe",
+                    "set de funk]",
+                    "set funk 2024 mc ig",
+                    "set funk sonhador",
+                    "set funk dezembro",
+                    "set baile funk",
+                    "set funk 2024 - mc ig",
+                    "set funk motivacao",
+                    "set funk abencoado",
+                    "set funk iluminado",
+                    "set de funk 2025",
+                    "set de funk 2024",
+                    "set funk consciente",
+                    "set funk dos sonhador",
+                    "set funk pros sonhador",
+                    "set funk 2026 - mc meno k",
+                    "set funk dezembro 2026"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "SET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )",
+                    "description": "#funk #funk2025 #lovefunk #setfunk \nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\nSET NATAL 2025 - MC MENO K, MC RYAN SP, MC TUTO, JAPA NK (FUNK 2025 )\n #setfunk2024 #setfunk #funk #funkconsciente #funk2024 #funk2025 #setfunk2025 #mctuto \n\nsset funk, set funk 2024, set funk 2025, set funk 2026, set de funk, set funk japa nk, set funks 2023, set funks 2024, set funk muita fe, set de funk], set funk 2024 mc ig, set funk sonhador, set funk dezembro, set baile funk, set funk 2024 - mc ig, set funk motivacao, set funk abencoado, set funk iluminado, set de funk 2025, set de funk 2024, set funk consciente, set funk dos sonhador, set funk sonhador 2024, set funk pros sonhador, set funk 2026 - mc meno k, set funk dezembro 2026, set funk 2024 - mc ryan sp - mc hariel,playlist funk 2024 - mc ryan sp,set funk 2024 mc ig,funk 2024 - mc ryan sp,funk 2024 - mc lipi,melhores funk 2024,funk,funk 2025,set funk 2025,funk consciente,mc tuto,tuto,mc kadu,kadu,pega nois n\u00e3o pega n\u00e3o,bem longe de magnata,ig, mc meno k\n\nSe inscreva no nosso canal e ative as notifica\u00e7\u00f5es para n\u00e3o perder nenhuma novidade."
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "20737",
+                "likeCount": "172",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qTCowE_b7-iF3rXai3jF37OrNHI",
+            "id": "OOivthHKo3k",
+            "snippet": {
+                "publishedAt": "2025-12-24T14:33:37Z",
+                "channelId": "UC3nU0d4kEhtljMLh2entwrw",
+                "title": "ANA TOYS GAMES ESTA GR\u00c1VIDA NO NATAL EM BROOKHAVEN!",
+                "description": "ANA TOYS GAMES ESTA GR\u00c1VIDA NO NATAL EM BROOKHAVEN RP!\n\n#anatoysgames \n#brookhaven \n#brookhavenrp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OOivthHKo3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OOivthHKo3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OOivthHKo3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OOivthHKo3k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OOivthHKo3k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ana Toys games",
+                "tags": [
+                    "TRANSFORMEI A MANS\u00c3O EM UMA HAMBURGUERIA PROFISSIONAL!",
+                    "A BEB\u00ca RUMI FOI ESQUECIDA no NATAL *isso partiu o cora\u00e7\u00e3o \ud83d\udc94",
+                    "NOITE DO PIJAMA COM O DAVI *o que aconteceu?",
+                    "PASSAMOS A NOITE EM UM ACAMPAMENTO E O PIOR ACONTECEU!",
+                    "VIVENDO EM S\u00d3 UMA COR DURANTE 24 HORAS em BROOKHAVEN",
+                    "SOBREVIVI UM TSUNAMI NO BROOKHAVEN RP",
+                    "A TV FOI INVADIDA NO BROOKHAVEN..",
+                    "ENCONTREI O PAPAI NOEL NA MINHA CASA.. (Brookhaven)",
+                    "ENCONTREI A FAMILIA DA MINHOCA FAMINTA NA PRIS\u00c3O DO POLICIAL PEID\u00c3O BARRY no ROBLOX!",
+                    "ana"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "ANA TOYS GAMES ESTA GR\u00c1VIDA NO NATAL EM BROOKHAVEN!",
+                    "description": "ANA TOYS GAMES ESTA GR\u00c1VIDA NO NATAL EM BROOKHAVEN RP!\n\n#anatoysgames \n#brookhaven \n#brookhavenrp"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "62112",
+                "likeCount": "1331",
+                "favoriteCount": "0",
+                "commentCount": "158"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZzeYd7NMm-NB2Q8lFAptTk6cYiE",
+            "id": "BStigXPhZSo",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:00:07Z",
+                "channelId": "UCpxGEVSLGurgqXk8Hm7CGHg",
+                "title": "MC Meno K - TIME DE CHEFE (MC Luuky, Boladin 211, MC Bruno MS e Leonne) DJ Gbeats",
+                "description": "WALK RECORDS \u00ae\n\nArtistas: MC Luuky, MC Meno K, Boladin 211, Leonne e MC Bruno MS\nM\u00fasica: Time de Chefe\nProdu\u00e7\u00e3o: DJ Gbeats\n\nDiretor do videoclipe: GL (@gustavolimawalk)\n\nProduzido por Walk Records.\n\n2025\n\n#TimedeChefe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BStigXPhZSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BStigXPhZSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BStigXPhZSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BStigXPhZSo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BStigXPhZSo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walk Records",
+                "tags": [
+                    "MC Meno K",
+                    "MC Luuky",
+                    "Boladin 211",
+                    "MC Bruno MS",
+                    "Leonne",
+                    "Time de Chefe"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "MC Meno K - TIME DE CHEFE (MC Luuky, Boladin 211, MC Bruno MS e Leonne) DJ Gbeats",
+                    "description": "WALK RECORDS \u00ae\n\nArtistas: MC Luuky, MC Meno K, Boladin 211, Leonne e MC Bruno MS\nM\u00fasica: Time de Chefe\nProdu\u00e7\u00e3o: DJ Gbeats\n\nDiretor do videoclipe: GL (@gustavolimawalk)\n\nProduzido por Walk Records.\n\n2025\n\n#TimedeChefe"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "57978",
+                "likeCount": "1634",
+                "favoriteCount": "0",
+                "commentCount": "35"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "heGBmfKoCT8Y0dCYecHb_O6JehM",
+            "id": "8Z9yB2TNOrQ",
+            "snippet": {
+                "publishedAt": "2025-12-25T01:08:25Z",
+                "channelId": "UCp1SOOzhjLRrukzu5Q4JtfQ",
+                "title": "EVENTO DE ADM ABUSE DE NATAL \ud83c\udf85 NOVO BRAINROT LIMITADO - ROUBE UM BRAINROT AO VIVO #roblox #brainrot",
+                "description": "Meu Nick: @TeuxTvv\nMeus Servidores PRIVADOS: \nhttps://bloxcreator.com/TEUXROBUXYT\nMeu Grupo do Roblox: \nhttps://www.roblox.com/pt/groups/16481641/TRIP-D-LENDAS\n\n\ud83d\udcb2  Mande uma Mensagem na LIVE:  \nhttps://livepix.gg/eoteux\n\n\ud83c\udf1fBlox Vendas: CUPOM: TEUX (5% DESCONTO)\nhttps://beacons.ai/eoteuxx\n\n\ud83d\udd79 Roube um Brainrot Novo\nhttps://bloxcreator.com/TEUXROBUXYT\n\n\ud83e\udd29 Aprenda Ganhar ROBUX AQUI: \ud83d\udc47\ud83c\udffe\nhttps://bloxcreator.com/TEUXROBUXYT\n\nInstagram 1:\nhttps://www.instagram.com/eoteuxzin/\n\nInstagram 2:\nhttps://www.instagram.com/eusoualendatv/\n\n\ud83d\udc9a KICK:\nhttps://kick.com/eoteux\n\n\ud83d\udc51 Seja Membro: \n https://www.youtube.com/channel/UCp1SOOzhjLRrukzu5Q4JtfQ/join \n\n\ud83d\udcac Whats:\nhttps://whatsapp.com/channel/0029VayqNPWLY6d1ve8Gmz2d\n\n\ud83d\udea9Meu Discord: \n https://discord.com/invite/rWRsrwQWMu\n\n\ud83d\udd35 Email Para Contato: \nMateus.educarvalho@gmail.com\n\n\u2b50Todos os LINK's: \ud83d\udc47\ud83c\udffe\nhttps://beacons.ai/eoteuxx\n\n\n\n#roubeumbrainrot  #roblox  #eoteux #brainrot #live #livestream #aovivo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Z9yB2TNOrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Z9yB2TNOrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Z9yB2TNOrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Z9yB2TNOrQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Z9yB2TNOrQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u00c9oTeux",
+                "tags": [
+                    "roblox",
+                    "bloxfruits",
+                    "doando",
+                    "eoteux",
+                    "teux",
+                    "live de roblox",
+                    "eo teux",
+                    "eoteuxx",
+                    "eo teuxx",
+                    "alenda",
+                    "a lenda",
+                    "lenda",
+                    "eoteuxzin",
+                    "robux",
+                    "brainrot",
+                    "brain rot",
+                    "brainhot",
+                    "brain hot",
+                    "roube um brain hot",
+                    "roube um brainrot"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt",
+                "localized": {
+                    "title": "EVENTO DE ADM ABUSE DE NATAL \ud83c\udf85 NOVO BRAINROT LIMITADO - ROUBE UM BRAINROT AO VIVO #roblox #brainrot",
+                    "description": "Meu Nick: @TeuxTvv\nMeus Servidores PRIVADOS: \nhttps://bloxcreator.com/TEUXROBUXYT\nMeu Grupo do Roblox: \nhttps://www.roblox.com/pt/groups/16481641/TRIP-D-LENDAS\n\n\ud83d\udcb2  Mande uma Mensagem na LIVE:  \nhttps://livepix.gg/eoteux\n\n\ud83c\udf1fBlox Vendas: CUPOM: TEUX (5% DESCONTO)\nhttps://beacons.ai/eoteuxx\n\n\ud83d\udd79 Roube um Brainrot Novo\nhttps://bloxcreator.com/TEUXROBUXYT\n\n\ud83e\udd29 Aprenda Ganhar ROBUX AQUI: \ud83d\udc47\ud83c\udffe\nhttps://bloxcreator.com/TEUXROBUXYT\n\nInstagram 1:\nhttps://www.instagram.com/eoteuxzin/\n\nInstagram 2:\nhttps://www.instagram.com/eusoualendatv/\n\n\ud83d\udc9a KICK:\nhttps://kick.com/eoteux\n\n\ud83d\udc51 Seja Membro: \n https://www.youtube.com/channel/UCp1SOOzhjLRrukzu5Q4JtfQ/join \n\n\ud83d\udcac Whats:\nhttps://whatsapp.com/channel/0029VayqNPWLY6d1ve8Gmz2d\n\n\ud83d\udea9Meu Discord: \n https://discord.com/invite/rWRsrwQWMu\n\n\ud83d\udd35 Email Para Contato: \nMateus.educarvalho@gmail.com\n\n\u2b50Todos os LINK's: \ud83d\udc47\ud83c\udffe\nhttps://beacons.ai/eoteuxx\n\n\n\n#roubeumbrainrot  #roblox  #eoteux #brainrot #live #livestream #aovivo"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "148454",
+                "likeCount": "5451",
+                "favoriteCount": "0",
+                "commentCount": "94"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6244oCb28t7YlA-KOxDhk9frUSU",
+            "id": "vIC55lqFanU",
+            "snippet": {
+                "publishedAt": "2025-12-24T14:29:57Z",
+                "channelId": "UCV7p6rEOdqqXUribQyoI-lw",
+                "title": "Amo Minha Favela - Isso \u00e9 Deboxe Esquece - EletroFunk 2026 - MC Menor k (Dj Japa Nk) Remix ",
+                "description": "Inscreva-se no canal e ative o sino de notifica\u00e7\u00f5es para n\u00e3o perder nenhum lan\u00e7amento!\n\nAcompanhe nossas redes:\nhttps://www.instagram.com/centraldoeletrofunk\n\nCategoria: Musica Entretenimento | Todos os Direitos Reservados\n\n#Deboxe #Eletrofunk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vIC55lqFanU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vIC55lqFanU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vIC55lqFanU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vIC55lqFanU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vIC55lqFanU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Central Do Eletrofunk",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Amo Minha Favela - Isso \u00e9 Deboxe Esquece - EletroFunk 2026 - MC Menor k (Dj Japa Nk) Remix ",
+                    "description": "Inscreva-se no canal e ative o sino de notifica\u00e7\u00f5es para n\u00e3o perder nenhum lan\u00e7amento!\n\nAcompanhe nossas redes:\nhttps://www.instagram.com/centraldoeletrofunk\n\nCategoria: Musica Entretenimento | Todos os Direitos Reservados\n\n#Deboxe #Eletrofunk"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "32612",
+                "likeCount": "361",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gLMpK8dPpixwkTFa0zWrqlhNsv4",
+            "id": "oAKx16uHYV8",
+            "snippet": {
+                "publishedAt": "2025-12-24T22:00:54Z",
+                "channelId": "UCrkSOd8m17PJK5yQ6RoFa6A",
+                "title": "GASTEI R$1.000,00 PRA PEGAR O BALE RA\u00cdZ NO FC MOBILE! \ud83d\ude31\ud83d\udcb0",
+                "description": "Chegou meu presentinho de Natal! Comprei o melhor lateral esquerdo do jogo para o meu time! Bale \u00e9 a nova contrata\u00e7\u00e3o do Ferro Velho FC!\n\nRei dos Coins - https://www.reidoscoins.com.br/\nInstagram - https://www.instagram.com/rafaotv/\nTwitter - https://twitter.com/rafaotv\nTikTok - https://www.tiktok.com/@rafaotvoficial\n\nContato:  rafao@kr3w.gg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oAKx16uHYV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oAKx16uHYV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oAKx16uHYV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oAKx16uHYV8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oAKx16uHYV8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RAF\u00c3O",
+                "tags": [
+                    "fc mobile",
+                    "pack open",
+                    "rafao",
+                    "abri packs",
+                    "packs",
+                    "fifa",
+                    "fifa mobile",
+                    "ea fc",
+                    "fc 26",
+                    "abrindo packs",
+                    "rafao abre packs",
+                    "record breaker",
+                    "novo",
+                    "fifa points",
+                    "gratis",
+                    "como ganhar",
+                    "fc points gratis",
+                    "rafao fc mobile",
+                    "rafao tv",
+                    "melhor goleiro fc mobile",
+                    "bale",
+                    "bale 115",
+                    "bale 115 fc mobile"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "GASTEI R$1.000,00 PRA PEGAR O BALE RA\u00cdZ NO FC MOBILE! \ud83d\ude31\ud83d\udcb0",
+                    "description": "Chegou meu presentinho de Natal! Comprei o melhor lateral esquerdo do jogo para o meu time! Bale \u00e9 a nova contrata\u00e7\u00e3o do Ferro Velho FC!\n\nRei dos Coins - https://www.reidoscoins.com.br/\nInstagram - https://www.instagram.com/rafaotv/\nTwitter - https://twitter.com/rafaotv\nTikTok - https://www.tiktok.com/@rafaotvoficial\n\nContato:  rafao@kr3w.gg"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "48113",
+                "likeCount": "3991",
+                "favoriteCount": "0",
+                "commentCount": "203"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZeFXLJnPSrO5eQpI7ilGOYk5Wv4",
+            "id": "fAN_mZsUpog",
+            "snippet": {
+                "publishedAt": "2025-12-19T15:00:08Z",
+                "channelId": "UCHC1ICF-FjivUTVFBVjOSRw",
+                "title": "MULHER ROLEIRA - Marcynho Sensa\u00e7\u00e3o (DVD Resenha Da Sensa\u00e7\u00e3o Ao Vivo em Pil\u00f5es/PB)",
+                "description": "#MulherRoleira #MarcynhoSensa\u00e7\u00e3o #ResenhaDaSensa\u00e7\u00e3o \n\nEsse v\u00eddeo faz parte do DVD Resenha da Sensa\u00e7\u00e3o ao vivo em Pil\u00f5es/PB. Se inscreva no canal e assista todos os v\u00eddeos.\ud83d\udca5\n\nSiga no Instagram:\nhttps://www.instagram.com/marcynhosensacao/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fAN_mZsUpog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fAN_mZsUpog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fAN_mZsUpog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fAN_mZsUpog/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fAN_mZsUpog/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marcynho Sensa\u00e7\u00e3o",
+                "tags": [
+                    "marcynho",
+                    "sensa\u00e7\u00e3o",
+                    "piseiro",
+                    "piseiro 2021",
+                    "dvd marcynho",
+                    "marcinho",
+                    "marsinho",
+                    "ouvir piseiro",
+                    "ouvir marcynho",
+                    "dvd oficial",
+                    "viela",
+                    "meu boy",
+                    "cheguei no piseiro",
+                    "vi essa danada",
+                    "ta chapada",
+                    "cacha\u00e7a",
+                    "vou chegar pertinho dela",
+                    "sentada",
+                    "goiaba",
+                    "safada",
+                    "para de olhar",
+                    "piseiro 2022",
+                    "melhores do piseiro",
+                    "sele\u00e7\u00e3o de piseiro",
+                    "piseiro grave",
+                    "piseiro pared\u00e3o"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "MULHER ROLEIRA - Marcynho Sensa\u00e7\u00e3o (DVD Resenha Da Sensa\u00e7\u00e3o Ao Vivo em Pil\u00f5es/PB)",
+                    "description": "#MulherRoleira #MarcynhoSensa\u00e7\u00e3o #ResenhaDaSensa\u00e7\u00e3o \n\nEsse v\u00eddeo faz parte do DVD Resenha da Sensa\u00e7\u00e3o ao vivo em Pil\u00f5es/PB. Se inscreva no canal e assista todos os v\u00eddeos.\ud83d\udca5\n\nSiga no Instagram:\nhttps://www.instagram.com/marcynhosensacao/"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "65441",
+                "likeCount": "1167",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4FZcvKvlWg5aoLkwAI8Qf4huIss",
+            "id": "S0K9xLUXa-g",
+            "snippet": {
+                "publishedAt": "2025-12-24T20:16:49Z",
+                "channelId": "UC5mC_S9d0yGeUUY-n3lfyHw",
+                "title": "TENTE ACHAR 200 BRAINROTS SUPER SECRETOS NO ROBLOX \ud83d\ude28\ud83d\ude31",
+                "description": "\ud83d\udd79\ufe0fJOGO: Crie um Brainrot",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S0K9xLUXa-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S0K9xLUXa-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S0K9xLUXa-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S0K9xLUXa-g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S0K9xLUXa-g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JeffBlox",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "TENTE ACHAR 200 BRAINROTS SUPER SECRETOS NO ROBLOX \ud83d\ude28\ud83d\ude31",
+                    "description": "\ud83d\udd79\ufe0fJOGO: Crie um Brainrot"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "41660",
+                "likeCount": "1217",
+                "favoriteCount": "0",
+                "commentCount": "147"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "v5qi676wdIlqBACsaMpwA-q0Otw",
+            "id": "h4SEAOs0d-Q",
+            "snippet": {
+                "publishedAt": "2025-12-24T23:40:16Z",
+                "channelId": "UC_W8lToHQOt2i-4cBDTuPUA",
+                "title": "BONDE DO GATO PRETO - ESPECIAL DE NATAL ( 3 M\u00daSICAS NOVAS ) ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h4SEAOs0d-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h4SEAOs0d-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h4SEAOs0d-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h4SEAOs0d-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h4SEAOs0d-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BONDE DO GATO PRETO",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "BONDE DO GATO PRETO - ESPECIAL DE NATAL ( 3 M\u00daSICAS NOVAS ) ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "15220",
+                "likeCount": "622",
+                "favoriteCount": "0",
+                "commentCount": "33"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Doi7m7aa6M8bvuggl5kfYixHuA0",
+            "id": "1HhKPufVekI",
+            "snippet": {
+                "publishedAt": "2025-12-24T13:09:09Z",
+                "channelId": "UCn_zl80QFuAXF_OZkfitWVQ",
+                "title": "5 COLEGAS 1 BARCO (talvez 2) | Boat Together",
+                "description": "Conhe\u00e7a o Lenovo Legion GO S \nhttps://www.lenovo.com/br/pt/p/laptops/legion-laptops/serie-handheld/legion-go-s/len106g0002\n\nfala galerinha!!! mount gameplays na \u00e1rea!\n\ntwitter: https://twitter.com/moount\ninstagram: https://instagram.com/mountzera\ntwitch: https://twitch.tv/mount\ndiscord: https://discord.gg/mount\n\ncanal principal: https://youtube.com/mountzera\ncanal de lives: https://www.youtube.com/c/mountlives\ncanal de vods: https://www.youtube.com/@mountvods\n\nvod completo da live: https://youtu.be/B-lD24OzA1c\n\nthumbs por: @marafiggoo\neditado por: @raulleet\n\n#mount",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1HhKPufVekI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1HhKPufVekI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1HhKPufVekI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1HhKPufVekI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1HhKPufVekI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "mount gameplays",
+                "tags": [
+                    "mount",
+                    "mount gameplay",
+                    "mount noitada",
+                    "mount na noitada",
+                    "mount jogando terror",
+                    "mount terror",
+                    "mount terror com os amigos",
+                    "mount joga",
+                    "mount jogando",
+                    "mount game",
+                    "alanzoka",
+                    "capjoga",
+                    "mrfall",
+                    "galagol",
+                    "calango",
+                    "bitgamer"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "5 COLEGAS 1 BARCO (talvez 2) | Boat Together",
+                    "description": "Conhe\u00e7a o Lenovo Legion GO S \nhttps://www.lenovo.com/br/pt/p/laptops/legion-laptops/serie-handheld/legion-go-s/len106g0002\n\nfala galerinha!!! mount gameplays na \u00e1rea!\n\ntwitter: https://twitter.com/moount\ninstagram: https://instagram.com/mountzera\ntwitch: https://twitch.tv/mount\ndiscord: https://discord.gg/mount\n\ncanal principal: https://youtube.com/mountzera\ncanal de lives: https://www.youtube.com/c/mountlives\ncanal de vods: https://www.youtube.com/@mountvods\n\nvod completo da live: https://youtu.be/B-lD24OzA1c\n\nthumbs por: @marafiggoo\neditado por: @raulleet\n\n#mount"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "statistics": {
+                "viewCount": "97109",
+                "likeCount": "9177",
+                "favoriteCount": "0",
+                "commentCount": "211"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YVeJYej6w-sT8ufxMoP3cOaH594",
+            "id": "iZHFOv1-Hlo",
+            "snippet": {
+                "publishedAt": "2025-12-24T15:00:08Z",
+                "channelId": "UCodPwnhKVebr23g1XvX0D3Q",
+                "title": "SIMONE MORENA | DVD BAR DA MORENA ( PARTE 1 ) - NA MALDADE",
+                "description": "Artista: Simone Morena ( @simonemorenaofici )\n\nCompositores: Simone Aline de Oliveira e Thiago Costa\nDire\u00e7\u00e3o Executiva: Rizo Produ\u00e7\u00f5es  (@rizoproducoesbr) \nDire\u00e7\u00e3o Geral: Layane Perez\nProdutora Audiovisual: Junior Santos Filmes\nProdu\u00e7\u00e3o Musical: Joseph e David Matos\nFotografia: Eder Mota / Fabr\u00edcio Ferreira / Markus Mello\nProdu\u00e7\u00e3o Geral: Rubinho\nMaquiagem: Bruna Freitas\nAssessoria de Imprensa: Layra Merc\u00eas\nStory Maker: Ma\u00edra Lima/B\u00e1rbara Martins\nShows: M&P Produ\u00e7\u00f5es: (71) 99621-6262/ (71) 98119-9851\n\nFicha T\u00e9cnica Simone Morena\n\nDiretor Geral: Junior Santos\nDiretor Assistente: Rog\u00e9rio Sampaio\n\nC\u00e2meras:\nLook Mov / Vinicius Matheus / Heitor Xavier / Daniel Coutinho / Paulo Pontes \nRamos / Giovanni Prata / Douglas Visuals / Xangreta / Rog\u00e9rio Sampaio / Cegonha\n\nDrones: Neo Drone / Daniel Lima \n\n#simonemorena #bardamorena #pratomaruma",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iZHFOv1-Hlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iZHFOv1-Hlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iZHFOv1-Hlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iZHFOv1-Hlo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iZHFOv1-Hlo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Simone Morena",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "SIMONE MORENA | DVD BAR DA MORENA ( PARTE 1 ) - NA MALDADE",
+                    "description": "Artista: Simone Morena ( @simonemorenaofici )\n\nCompositores: Simone Aline de Oliveira e Thiago Costa\nDire\u00e7\u00e3o Executiva: Rizo Produ\u00e7\u00f5es  (@rizoproducoesbr) \nDire\u00e7\u00e3o Geral: Layane Perez\nProdutora Audiovisual: Junior Santos Filmes\nProdu\u00e7\u00e3o Musical: Joseph e David Matos\nFotografia: Eder Mota / Fabr\u00edcio Ferreira / Markus Mello\nProdu\u00e7\u00e3o Geral: Rubinho\nMaquiagem: Bruna Freitas\nAssessoria de Imprensa: Layra Merc\u00eas\nStory Maker: Ma\u00edra Lima/B\u00e1rbara Martins\nShows: M&P Produ\u00e7\u00f5es: (71) 99621-6262/ (71) 98119-9851\n\nFicha T\u00e9cnica Simone Morena\n\nDiretor Geral: Junior Santos\nDiretor Assistente: Rog\u00e9rio Sampaio\n\nC\u00e2meras:\nLook Mov / Vinicius Matheus / Heitor Xavier / Daniel Coutinho / Paulo Pontes \nRamos / Giovanni Prata / Douglas Visuals / Xangreta / Rog\u00e9rio Sampaio / Cegonha\n\nDrones: Neo Drone / Daniel Lima \n\n#simonemorena #bardamorena #pratomaruma"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "14440",
+                "likeCount": "257",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DULXrzC5PITZc23C4eNItn4b2TA",
+            "id": "eMtFeMs77uw",
+            "snippet": {
+                "publishedAt": "2025-12-23T21:42:23Z",
+                "channelId": "UCMqwki1wq79sf5IBueB9pQQ",
+                "title": "DESAFIO DAS LUCKY BLOCKS com O LARRYZINHO NO ROUBE UM BRAINROT!",
+                "description": "atualiza\u00e7\u00e3o do Roube um Brainrot, Roube o Brainrot novo strawberry elephant, STEAL A BRAINROT , Steal a Brainrot, novos brainrots  SECRETO NOVO NO ROUBE O BRAINROT. dragon canellonni, Nova atualiza\u00e7\u00e3o steal a brainrot, novo brainrot do roube um brainrot, NOVO BRAINROT ATUALIZA\u00c7\u00c3O, HACKER NO ROUBE UM BRAINROT, script roube um brainrot. centuzzarella,  LOS ORCALEROS\n\n#pizao #roblox #stealabrainrot #roubeumbrainrot #robloxgames #brainrot",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eMtFeMs77uw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eMtFeMs77uw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eMtFeMs77uw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eMtFeMs77uw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eMtFeMs77uw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PIZ\u00c3O",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "DESAFIO DAS LUCKY BLOCKS com O LARRYZINHO NO ROUBE UM BRAINROT!",
+                    "description": "atualiza\u00e7\u00e3o do Roube um Brainrot, Roube o Brainrot novo strawberry elephant, STEAL A BRAINROT , Steal a Brainrot, novos brainrots  SECRETO NOVO NO ROUBE O BRAINROT. dragon canellonni, Nova atualiza\u00e7\u00e3o steal a brainrot, novo brainrot do roube um brainrot, NOVO BRAINROT ATUALIZA\u00c7\u00c3O, HACKER NO ROUBE UM BRAINROT, script roube um brainrot. centuzzarella,  LOS ORCALEROS\n\n#pizao #roblox #stealabrainrot #roubeumbrainrot #robloxgames #brainrot"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "statistics": {
+                "viewCount": "378598",
+                "likeCount": "8174",
+                "favoriteCount": "0",
+                "commentCount": "528"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FT_kg2A9l3g5WhVU99SBr120HHY",
+            "id": "zZyVd0xCPEo",
+            "snippet": {
+                "publishedAt": "2025-12-06T18:48:35Z",
+                "channelId": "UCZdj1MDpyXBPI6nUs_2MZhw",
+                "title": "Jos\u00e9 Feliciano - Feliz Navidad (Letra)",
+                "description": "Jos\u00e9 Feliciano - Feliz Navidad\nReleased 05/11/1970\n\n#JoseFeliciano \n#pop \n#latin \n#rock \n#christmas \n#holiday \n\nespero que te haya gustado \u00a1gracias por ver! \ud83d\udc99\n\ncanal secundario: https://www.youtube.com/@iamsweeet\n\n\u00a1ac\u00e1 mis redes por si gustas seguirme!\n\u27b3 perfil de spotify: https://open.spotify.com/user/qbv420v1r19afqa6y3oxk0sjf?si=d48283bd97384444\n\u27b3 instagram: https://www.instagram.com/swext.blue/\n\u27b3 tiktok: https://vm.tiktok.com/ZMeRhv2d7/\n\u27b3 cont\u00e1ctame: swextblue@gmail.com\n\u27b3 https://ko-fi.com/sweetblue\n\u27b3 https://www.paypal.com/paypalme/swextblue\n\nlyrics:\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ncontador de suscriptores: 1,542,968\n\ntags:\nletra tiktok song, tiktok letra, tiktok, sped up, songs sped, recomendados, busquedas, para ti, shorts, sub espa\u00f1ol, letra en espa\u00f1ol, lyrics, letra en espa\u00f1ol, traducida al espa\u00f1ol, subtitulada al espa\u00f1ol, espa\u00f1ol, letra espa\u00f1ol, espa\u00f1ol lyrics, lyrics spanish, sub, letra lyrics espa\u00f1ol, lyrics spanish, pop, m\u00fasica, 2021, 2022, 2023, 2024, 2025,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zZyVd0xCPEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zZyVd0xCPEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zZyVd0xCPEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zZyVd0xCPEo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zZyVd0xCPEo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "sweetblue.",
+                "tags": [
+                    "recomendados",
+                    "sped up",
+                    "letra en espa\u00f1ol",
+                    "lyrics",
+                    "espa\u00f1ol",
+                    "sub espa\u00f1ol",
+                    "traducci\u00f3n",
+                    "tiktok",
+                    "edit",
+                    "sweetblue",
+                    "recomendaci\u00f3n",
+                    "para ti",
+                    "b\u00fasquedas",
+                    "letra",
+                    "musica",
+                    "musica independiente",
+                    "trend"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Jos\u00e9 Feliciano - Feliz Navidad (Letra)",
+                    "description": "Jos\u00e9 Feliciano - Feliz Navidad\nReleased 05/11/1970\n\n#JoseFeliciano \n#pop \n#latin \n#rock \n#christmas \n#holiday \n\nespero que te haya gustado \u00a1gracias por ver! \ud83d\udc99\n\ncanal secundario: https://www.youtube.com/@iamsweeet\n\n\u00a1ac\u00e1 mis redes por si gustas seguirme!\n\u27b3 perfil de spotify: https://open.spotify.com/user/qbv420v1r19afqa6y3oxk0sjf?si=d48283bd97384444\n\u27b3 instagram: https://www.instagram.com/swext.blue/\n\u27b3 tiktok: https://vm.tiktok.com/ZMeRhv2d7/\n\u27b3 cont\u00e1ctame: swextblue@gmail.com\n\u27b3 https://ko-fi.com/sweetblue\n\u27b3 https://www.paypal.com/paypalme/swextblue\n\nlyrics:\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\ni wanna wish you a merry christmas\nfrom the bottom of my heart\n\nfeliz navidad, feliz navidad\nfeliz navidad, pr\u00f3spero a\u00f1o\ny felicidad\n\ncontador de suscriptores: 1,542,968\n\ntags:\nletra tiktok song, tiktok letra, tiktok, sped up, songs sped, recomendados, busquedas, para ti, shorts, sub espa\u00f1ol, letra en espa\u00f1ol, lyrics, letra en espa\u00f1ol, traducida al espa\u00f1ol, subtitulada al espa\u00f1ol, espa\u00f1ol, letra espa\u00f1ol, espa\u00f1ol lyrics, lyrics spanish, sub, letra lyrics espa\u00f1ol, lyrics spanish, pop, m\u00fasica, 2021, 2022, 2023, 2024, 2025,"
+                },
+                "defaultAudioLanguage": "zxx"
+            },
+            "statistics": {
+                "viewCount": "2406781",
+                "likeCount": "16765",
+                "favoriteCount": "0",
+                "commentCount": "209"
+            }
+        }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 50
+    }
+}
