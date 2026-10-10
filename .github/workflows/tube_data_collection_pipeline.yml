@@ -2,54 +2,61 @@ name: Daily YouTube Data Pipeline
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # Runs daily at 11 AM UTC
+    - cron: '0 11 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-scripts:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Install system dependencies
         run: sudo apt-get update && sudo apt-get install -y libatlas-base-dev libopenblas-dev
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
+          cache: 'pip'
+          cache-dependency-path: src/requirements.txt
 
-      - name: Upgrade pip and install dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install -r src/requirements.txt
 
-      - name: Set API Key Environment Variable
-        run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
-
       - name: Run trending.py (Fetch trending videos)
         run: python src/collection/trending.py
 
-      #- name: Run trending_db.py (Merge trending data into CSV)
-      #  run: python src/processing/trending_db.py
-
-      #- name: Run video_stats.py (Fetch video statistics)
-      #  run: python src/collection/video_stats.py
-
-     #- name: Run video_stats_db.py (Merge video statistics into CSV)
-     #  run: python src/processing/video_stats_db.py
-
-      - name: Configure Git
+      - name: Commit trending data
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/meta/trending
+          git diff --cached --quiet || git commit -m "Trending data [$(date -u +%F)]"
+          git pull --rebase
+          git push
 
-      - name: Commit JSON and CSV files
+      - name: Run non_trending.py (Sample non-trending videos)
+        run: python src/collection/non_trending.py
+
+      - name: Commit non-trending data
+        if: always()   # keep partial results if the script died midway
         run: |
-          git add assets/meta/trending/*.json
-          git add assets/meta/video_stats/*.json
-          git add db/ods/*.csv
-          git commit -m "Automated data pipeline update [$(date)]" || echo "No changes to commit"
+          mkdir -p assets/meta/non_trending
+          git add assets/meta/non_trending
+          git diff --cached --quiet || git commit -m "Non-trending data [$(date -u +%F)]"
+          git pull --rebase
           git push
