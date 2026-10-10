@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "VWYLLnAOJOtPsHfNVh457cJ4GWE",
+    "etag": "emFei-via4ZCMKMGg-LYi3UOf7M",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "RA9OMTLDgzpjKZdyKi65TT9Av1M",
+            "etag": "RvjAkFZ4f-4dgwjhI47HXAtl3eo",
             "id": "3juuih0WdH8",
             "snippet": {
                 "publishedAt": "2026-10-09T19:04:30Z",
@@ -64,15 +64,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1819056",
-                "likeCount": "193961",
+                "viewCount": "1875158",
+                "likeCount": "197090",
                 "favoriteCount": "0",
-                "commentCount": "11570"
+                "commentCount": "11716"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UaaOJQ5XeGk2g-ZGcdvVzzUT9VI",
+            "etag": "Q2HlWVdBoH8S-DIut852i73HVS0",
             "id": "aIJwkkfJzCc",
             "snippet": {
                 "publishedAt": "2026-10-09T22:59:26Z",
@@ -149,15 +149,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "28793",
-                "likeCount": "569",
+                "viewCount": "31211",
+                "likeCount": "594",
                 "favoriteCount": "0",
                 "commentCount": "69"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YLmdReIHkvfXO-sNzi5C0acooBk",
+            "etag": "d7dYvCm6v-USI59loV2lP3hC0x4",
             "id": "YWlb1OMbmOQ",
             "snippet": {
                 "publishedAt": "2026-10-09T17:16:13Z",
@@ -234,15 +234,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1402167",
-                "likeCount": "35839",
+                "viewCount": "1422493",
+                "likeCount": "36510",
                 "favoriteCount": "0",
-                "commentCount": "1239"
+                "commentCount": "1253"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GnID8GO2_mJeiPrF_3h5JDc6LwM",
+            "etag": "6aa0M_4pzJOPjrg7jPaZzBTZmrc",
             "id": "7L6oiqd91qE",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:07Z",
@@ -292,15 +292,15 @@
                 "defaultAudioLanguage": "fr"
             },
             "statistics": {
-                "viewCount": "261793",
-                "likeCount": "13352",
+                "viewCount": "266028",
+                "likeCount": "13536",
                 "favoriteCount": "0",
-                "commentCount": "489"
+                "commentCount": "502"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "avKXyjrWlIkk5KfdoQXr17ajrx4",
+            "etag": "qQXS-GrhQyl1sTsXsb47x7zi3HM",
             "id": "UTtAFfttWVs",
             "snippet": {
                 "publishedAt": "2026-10-09T13:26:42Z",
@@ -345,15 +345,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "179697",
-                "likeCount": "1217",
+                "viewCount": "182286",
+                "likeCount": "1246",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wgbSWtIKreVLFNm2uNtZMq-Bv8E",
+            "etag": "CdUT2t_CranQzkI80R7h9JSamU0",
             "id": "XMmwJzAgAyc",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:35Z",
@@ -403,15 +403,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "190918",
-                "likeCount": "13825",
+                "viewCount": "192864",
+                "likeCount": "13889",
                 "favoriteCount": "0",
-                "commentCount": "1336"
+                "commentCount": "1341"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "_c_Oi15Cw6zjX_ggvEdVW5PeyVU",
+            "etag": "Rp7hAJijR4x-dZXK4ZAT5B7SBYE",
             "id": "VUIgT-E4IS0",
             "snippet": {
                 "publishedAt": "2026-10-08T16:00:10Z",
@@ -491,15 +491,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "2422128",
-                "likeCount": "132772",
+                "viewCount": "2473666",
+                "likeCount": "134038",
                 "favoriteCount": "0",
-                "commentCount": "6700"
+                "commentCount": "6747"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ps9wdgMubi1_lfZi44YGJB_fabo",
+            "etag": "kFQF4UxqjA2Q645h3lb_HrUeOTI",
             "id": "mOSlem4qjGA",
             "snippet": {
                 "publishedAt": "2026-10-08T14:15:13Z",
@@ -539,15 +539,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "97173",
-                "likeCount": "911",
+                "viewCount": "97817",
+                "likeCount": "923",
                 "favoriteCount": "0",
-                "commentCount": "93"
+                "commentCount": "94"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "T8XzaNAouPPAf3BrX2rVbwqdtlE",
+            "etag": "NXhOYVQSMYsr8xY9_5-2_U41gFw",
             "id": "8uziAVcBVMQ",
             "snippet": {
                 "publishedAt": "2026-10-09T19:07:27Z",
@@ -607,15 +607,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "211247",
-                "likeCount": "3669",
+                "viewCount": "216251",
+                "likeCount": "3761",
                 "favoriteCount": "0",
-                "commentCount": "35"
+                "commentCount": "43"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PvIAceVjLC5EcP-Qdub6m9gkycM",
+            "etag": "VAwL80jDcKF7tJ5adpktbrxi9aE",
             "id": "B1-YKd0_BH4",
             "snippet": {
                 "publishedAt": "2026-10-08T22:14:34Z",
@@ -665,82 +665,86 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "87395",
-                "likeCount": "3689",
+                "viewCount": "88663",
+                "likeCount": "3729",
                 "favoriteCount": "0",
                 "commentCount": "97"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5f5rq7vTJxJGvAuw50g5NH4nuUI",
-            "id": "2KPFnP1othM",
+            "etag": "Ouem7NSIEgMMmbu6TyVWY4YGwMk",
+            "id": "8Lquh3gtlWo",
             "snippet": {
-                "publishedAt": "2026-10-08T20:06:09Z",
-                "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
-                "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
-                "description": "The Guy She Was Interested In Wasn't a Guy At All is coming to Crunchyroll January 2027!\n\nABOUT THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\nFashionable and upbeat high schooler Aya loves listening to rock, but no one else seems to share her interest\u2026until she meets a cool, stylish employee at a CD shop. Dressed in black from head to toe, he has this air of mystery about him, and his taste in music is impeccable. Aya falls hard for him\u2014not knowing her crush is actually her female classmate Mitsuki! For her part, Mitsuki generally keeps to herself and avoids standing out at school. But given that she sits right next to Aya, Mitsuki\u2019s all too aware of the other girl\u2019s feelings, and she\u2019s afraid to reveal the truth. So why does she find herself talking with Aya more and more\u2026?\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n\u25b6 WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n\ud83d\udd36 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n#TheGuySheWasInterestedIn #Anime #Crunchyroll",
+                "publishedAt": "2026-10-10T11:53:47Z",
+                "channelId": "UCM8KpBHVy_luxLQV7KoXFtA",
+                "title": "Podr\u00e1 estar genial, pero esto NO ES EL EXORCISTA \ud83e\udd26\u200d\u2642\ufe0f El Exorcista M\u00c1RTIRES Tr\u00e1iler Reacci\u00f3n",
+                "description": "Podr\u00e1 estar genial, pero esto NO ES EL EXORCISTA \ud83e\udd26\u200d\u2642\ufe0f El Exorcista M\u00c1RTIRES Tr\u00e1iler Reacci\u00f3n\n\n\ud83d\udd25MI NUEVO LIBRO \"LA BOTELLA DE KANDOR: 10 A\u00d1OS NO SON NADA\" YA A LA VENTA: https://www.heroesdepapel.es/productos/la-botella-de-kandor-361\n\n\ud83d\udd25FIGURAS, MERCHAN Y MUCHO M\u00c1S EN PIXELATOY!! \nhttps://www.pixelatoy.com/es/\n\n\ud83d\udd25R\u00c9PLICAS DE CINE Y SERIES, MERCHAN Y COSAS FRIKIS EN ESPADAS Y M\u00c1S:\nhttps://espadasymas.com\nY CON MI C\u00d3DIGO KANDOR TENDR\u00c1S UN 5% DE DESCUENTO EN TODA LA TIENDA\n\n\ud83d\udd25CAMISETAS INCRE\u00cdBLES EN CAT BELEREN!! Ll\u00e9vate 2x35\u20ac con llavero de regalo y 10% de descuento con mi c\u00f3digo KANDOR10: https://catbeleren.com/?aff=3\n\n\ud83d\udd25VIAJA CON NOSOTROS A ESCOCIA EL A\u00d1O QUE VIENE: \nhttps://experienciasfrikis.com/tour-a-escocia-la-botella-de-kandor/\n\n\ud83c\udf93 #EmbajadorUCAM | Lidera tu futuro Como embajador de UCAM Universidad, quiero ayudarte a encontrar la mejor formaci\u00f3n para ti. Descubre todos los de grados y m\u00e1steres que ofrece la UCAM y solicita informaci\u00f3n sin compromiso:  \ud83d\udd17 https://go.ucam.edu/GRADO-MASTER-Kandor\n\nS\u00edgueme en mis otros canales y redes:\n\n\ud83d\udd34Twitch: https://www.twitch.tv/labotelladekandor\n\ud83d\udcf8Instagram: https://www.instagram.com/LaBotellaDeKandor/\n\ud83d\udcf1TikTok: https://www.tiktok.com/@labotelladekandoroficial\n\ud83d\udc26Twitter: https://twitter.com/jolivarestolosa\n\ud83e\uddf5Threads: https://www.threads.net/@labotelladekandor\n\ud83d\udce9Contacto: labotelladekandor@gmail.com\n\nRopa guapa personalizada aqu\u00ed https://www.volteretaimprenta.es/tienda/LA-BOTELLA-DE-KANDOR-c138886018 y con mi c\u00f3digo ELBOTELLAS 20% de descuento\n\nPuedes apoyar el canal aqu\u00ed (si quieres, claro). \u00a1Gracias!\nhttps://www.paypal.me/labotelladekandor\n\nEn La botella de Kandor hablo de superh\u00e9roes, DC, Superman, el DCU de James Gunn, Marvel, el UCM, Star Wars, El Se\u00f1or de los Anillos, Juego de Tronos, cine, series de TV, y tambi\u00e9n hago unboxings de figuras y estatuas de coleccionismo (Hot Toys, Sideshow, Prime One, PureArts...), c\u00f3mics, unboxings de figuras mierder, y todo con un toque de humor. Y tambi\u00e9n encontrar\u00e1s las \u00faltimas noticias sobre las pel\u00edculas de superh\u00e9roes del momento, pr\u00f3ximos estrenos, parodias y mucho m\u00e1s. \u00a1Bienvenido a tu canal!\n\n\ud83d\udc4d LIKE si te gusta el v\u00eddeo. \n\ud83d\udd04 COMPARTE si quieres que lleguemos a m\u00e1s gente. \n***Y SUSCR\u00cdBETE si te gusta este contenido***\n\n#ElExorcistaMartires #TheExorcistMartyrs #elexorcista",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8Lquh3gtlWo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8Lquh3gtlWo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8Lquh3gtlWo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8Lquh3gtlWo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8Lquh3gtlWo/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "Crunchyroll",
+                "channelTitle": "La botella de Kandor",
                 "tags": [
-                    "the guy she was interested in wasnt a guy at all",
-                    "the guy she was interested in wasnt a guy at all anime",
-                    "green yuri",
-                    "crunchyroll",
-                    "anime",
-                    "anime pv",
-                    "anime trailer"
+                    "el exorcista martires",
+                    "el exorcista m\u00e1rtires trailer",
+                    "el exorcista m\u00e1rtires trailer reaccion",
+                    "exorcista m\u00e1rtires trailer analisis",
+                    "exorcist martyrs trailer reaccion",
+                    "Scarlett johanson exorcista",
+                    "exorcista scarlet johanson",
+                    "mike Flanagan el exorcista",
+                    "exorcista mike Flanagan trailer",
+                    "de que va el exorcista",
+                    "el exorcista m\u00e1rtires de que va",
+                    "reaccion trailer el exorcista",
+                    "el exorcista m\u00e1rtires reaccion trailer",
+                    "la botella de kandor el exorcista",
+                    "reacci\u00f3n kandor exorcista",
+                    "kandor"
                 ],
                 "categoryId": "1",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "es-ES",
                 "localized": {
-                    "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
-                    "description": "The Guy She Was Interested In Wasn't a Guy At All is coming to Crunchyroll January 2027!\n\nABOUT THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\nFashionable and upbeat high schooler Aya loves listening to rock, but no one else seems to share her interest\u2026until she meets a cool, stylish employee at a CD shop. Dressed in black from head to toe, he has this air of mystery about him, and his taste in music is impeccable. Aya falls hard for him\u2014not knowing her crush is actually her female classmate Mitsuki! For her part, Mitsuki generally keeps to herself and avoids standing out at school. But given that she sits right next to Aya, Mitsuki\u2019s all too aware of the other girl\u2019s feelings, and she\u2019s afraid to reveal the truth. So why does she find herself talking with Aya more and more\u2026?\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n\u25b6 WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n\ud83d\udd36 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n#TheGuySheWasInterestedIn #Anime #Crunchyroll"
+                    "title": "Podr\u00e1 estar genial, pero esto NO ES EL EXORCISTA \ud83e\udd26\u200d\u2642\ufe0f El Exorcista M\u00c1RTIRES Tr\u00e1iler Reacci\u00f3n",
+                    "description": "Podr\u00e1 estar genial, pero esto NO ES EL EXORCISTA \ud83e\udd26\u200d\u2642\ufe0f El Exorcista M\u00c1RTIRES Tr\u00e1iler Reacci\u00f3n\n\n\ud83d\udd25MI NUEVO LIBRO \"LA BOTELLA DE KANDOR: 10 A\u00d1OS NO SON NADA\" YA A LA VENTA: https://www.heroesdepapel.es/productos/la-botella-de-kandor-361\n\n\ud83d\udd25FIGURAS, MERCHAN Y MUCHO M\u00c1S EN PIXELATOY!! \nhttps://www.pixelatoy.com/es/\n\n\ud83d\udd25R\u00c9PLICAS DE CINE Y SERIES, MERCHAN Y COSAS FRIKIS EN ESPADAS Y M\u00c1S:\nhttps://espadasymas.com\nY CON MI C\u00d3DIGO KANDOR TENDR\u00c1S UN 5% DE DESCUENTO EN TODA LA TIENDA\n\n\ud83d\udd25CAMISETAS INCRE\u00cdBLES EN CAT BELEREN!! Ll\u00e9vate 2x35\u20ac con llavero de regalo y 10% de descuento con mi c\u00f3digo KANDOR10: https://catbeleren.com/?aff=3\n\n\ud83d\udd25VIAJA CON NOSOTROS A ESCOCIA EL A\u00d1O QUE VIENE: \nhttps://experienciasfrikis.com/tour-a-escocia-la-botella-de-kandor/\n\n\ud83c\udf93 #EmbajadorUCAM | Lidera tu futuro Como embajador de UCAM Universidad, quiero ayudarte a encontrar la mejor formaci\u00f3n para ti. Descubre todos los de grados y m\u00e1steres que ofrece la UCAM y solicita informaci\u00f3n sin compromiso:  \ud83d\udd17 https://go.ucam.edu/GRADO-MASTER-Kandor\n\nS\u00edgueme en mis otros canales y redes:\n\n\ud83d\udd34Twitch: https://www.twitch.tv/labotelladekandor\n\ud83d\udcf8Instagram: https://www.instagram.com/LaBotellaDeKandor/\n\ud83d\udcf1TikTok: https://www.tiktok.com/@labotelladekandoroficial\n\ud83d\udc26Twitter: https://twitter.com/jolivarestolosa\n\ud83e\uddf5Threads: https://www.threads.net/@labotelladekandor\n\ud83d\udce9Contacto: labotelladekandor@gmail.com\n\nRopa guapa personalizada aqu\u00ed https://www.volteretaimprenta.es/tienda/LA-BOTELLA-DE-KANDOR-c138886018 y con mi c\u00f3digo ELBOTELLAS 20% de descuento\n\nPuedes apoyar el canal aqu\u00ed (si quieres, claro). \u00a1Gracias!\nhttps://www.paypal.me/labotelladekandor\n\nEn La botella de Kandor hablo de superh\u00e9roes, DC, Superman, el DCU de James Gunn, Marvel, el UCM, Star Wars, El Se\u00f1or de los Anillos, Juego de Tronos, cine, series de TV, y tambi\u00e9n hago unboxings de figuras y estatuas de coleccionismo (Hot Toys, Sideshow, Prime One, PureArts...), c\u00f3mics, unboxings de figuras mierder, y todo con un toque de humor. Y tambi\u00e9n encontrar\u00e1s las \u00faltimas noticias sobre las pel\u00edculas de superh\u00e9roes del momento, pr\u00f3ximos estrenos, parodias y mucho m\u00e1s. \u00a1Bienvenido a tu canal!\n\n\ud83d\udc4d LIKE si te gusta el v\u00eddeo. \n\ud83d\udd04 COMPARTE si quieres que lleguemos a m\u00e1s gente. \n***Y SUSCR\u00cdBETE si te gusta este contenido***\n\n#ElExorcistaMartires #TheExorcistMartyrs #elexorcista"
                 },
-                "defaultAudioLanguage": "ja"
+                "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "4010484",
-                "likeCount": "130965",
+                "viewCount": "6636",
+                "likeCount": "436",
                 "favoriteCount": "0",
-                "commentCount": "2656"
+                "commentCount": "87"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UrTjHkZN19NJ3k-sRVF5eVBFsmk",
+            "etag": "B8nbkgJKaA21NQx-nKHeMZhE8HM",
             "id": "B3a6UiUt3j4",
             "snippet": {
                 "publishedAt": "2026-10-09T22:37:23Z",
@@ -834,15 +838,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "242441",
-                "likeCount": "3140",
+                "viewCount": "243235",
+                "likeCount": "3144",
                 "favoriteCount": "0",
                 "commentCount": "10"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "AvyMoTX73-9P1bWYIWaUoUvv8eA",
+            "etag": "HgcAHnLhL6yR6k8OiAu13_p61Dk",
             "id": "cS4YK5GTrxU",
             "snippet": {
                 "publishedAt": "2026-10-09T08:00:07Z",
@@ -892,77 +896,82 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "57041",
-                "likeCount": "2255",
+                "viewCount": "58187",
+                "likeCount": "2286",
                 "favoriteCount": "0",
-                "commentCount": "107"
+                "commentCount": "108"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3x76vL61Pwskz72bLOTURmUMgQU",
-            "id": "gg33XSAtdZM",
+            "etag": "UIjKtu_2H3ZMm8XOhQzOI3fxRs4",
+            "id": "2KPFnP1othM",
             "snippet": {
-                "publishedAt": "2026-10-10T02:59:18Z",
-                "channelId": "UCCOSYITWQHRSUxvlQ4_PSCg",
-                "title": "Sonic the Hedgehog: Memories And Beyond Trailer",
-                "description": "Check out one final sneak peak of our Sonic the Hedgehog 35th Anniversary animated short: Memories and Beyond, coming November 12th, 2026!\n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://x.com/RaceCrossWorlds \nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social",
+                "publishedAt": "2026-10-08T20:06:09Z",
+                "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
+                "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
+                "description": "The Guy She Was Interested In Wasn't a Guy At All is coming to Crunchyroll January 2027!\n\nABOUT THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\nFashionable and upbeat high schooler Aya loves listening to rock, but no one else seems to share her interest\u2026until she meets a cool, stylish employee at a CD shop. Dressed in black from head to toe, he has this air of mystery about him, and his taste in music is impeccable. Aya falls hard for him\u2014not knowing her crush is actually her female classmate Mitsuki! For her part, Mitsuki generally keeps to herself and avoids standing out at school. But given that she sits right next to Aya, Mitsuki\u2019s all too aware of the other girl\u2019s feelings, and she\u2019s afraid to reveal the truth. So why does she find herself talking with Aya more and more\u2026?\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n\u25b6 WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n\ud83d\udd36 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n#TheGuySheWasInterestedIn #Anime #Crunchyroll",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
                     "fhd": {
-                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/fhddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2KPFnP1othM/fhddefault.jpg",
                         "width": 1920,
                         "height": 1080
                     }
                 },
-                "channelTitle": "Sonic the Hedgehog",
+                "channelTitle": "Crunchyroll",
                 "tags": [
-                    "sonic",
-                    "sonic the hedgehog"
+                    "the guy she was interested in wasnt a guy at all",
+                    "the guy she was interested in wasnt a guy at all anime",
+                    "green yuri",
+                    "crunchyroll",
+                    "anime",
+                    "anime pv",
+                    "anime trailer"
                 ],
-                "categoryId": "20",
+                "categoryId": "1",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Sonic the Hedgehog: Memories And Beyond Trailer",
-                    "description": "Check out one final sneak peak of our Sonic the Hedgehog 35th Anniversary animated short: Memories and Beyond, coming November 12th, 2026!\n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://x.com/RaceCrossWorlds \nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social"
+                    "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
+                    "description": "The Guy She Was Interested In Wasn't a Guy At All is coming to Crunchyroll January 2027!\n\nABOUT THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\nFashionable and upbeat high schooler Aya loves listening to rock, but no one else seems to share her interest\u2026until she meets a cool, stylish employee at a CD shop. Dressed in black from head to toe, he has this air of mystery about him, and his taste in music is impeccable. Aya falls hard for him\u2014not knowing her crush is actually her female classmate Mitsuki! For her part, Mitsuki generally keeps to herself and avoids standing out at school. But given that she sits right next to Aya, Mitsuki\u2019s all too aware of the other girl\u2019s feelings, and she\u2019s afraid to reveal the truth. So why does she find herself talking with Aya more and more\u2026?\n\nABOUT CRUNCHYROLL\nCrunchyroll is the place to watch all your favorite anime! Stream new anime, full episodes, movies, OVAs, music, openings, endings, trailers and all the best moments in anime, subbed and dubbed!\n\n\u25b6 WATCH FULL ANIME EPISODES ON YOUTUBE: https://got.cr/cc-pt\n\n\ud83d\udd36 GET YOUR FREE 7-DAY CRUNCHYROLL TRIAL: https://got.cr/cc-7dayspv\n\n#TheGuySheWasInterestedIn #Anime #Crunchyroll"
                 },
-                "defaultAudioLanguage": "en"
+                "defaultAudioLanguage": "ja"
             },
             "statistics": {
-                "viewCount": "310696",
-                "likeCount": "44462",
+                "viewCount": "4059184",
+                "likeCount": "133004",
                 "favoriteCount": "0",
-                "commentCount": "0"
+                "commentCount": "2696"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "o5_cqtPnUknUgUpq0Evagng-WIQ",
+            "etag": "fMjRYXrJqSf1_dWu7qck6XDM62Y",
             "id": "1VFFCbPuFEE",
             "snippet": {
                 "publishedAt": "2026-10-09T17:00:00Z",
@@ -1025,15 +1034,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "159312",
-                "likeCount": "6807",
+                "viewCount": "162940",
+                "likeCount": "6922",
                 "favoriteCount": "0",
-                "commentCount": "194"
+                "commentCount": "197"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JqZEi9VhrimzPuHVKiAWi_S7eoc",
+            "etag": "3TKhqH_pdHp5F2f7iijK5akczic",
             "id": "ZfdwnCz-kiA",
             "snippet": {
                 "publishedAt": "2026-10-08T21:51:18Z",
@@ -1093,15 +1102,188 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2567544",
-                "likeCount": "108102",
+                "viewCount": "2605028",
+                "likeCount": "109571",
                 "favoriteCount": "0",
-                "commentCount": "10333"
+                "commentCount": "10414"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Tc7cE1pWh9qEMM2ffj6JWGgGvsU",
+            "etag": "6KNfBHQ-ITQW5CRShRarB9hiJs8",
+            "id": "gg33XSAtdZM",
+            "snippet": {
+                "publishedAt": "2026-10-10T02:59:18Z",
+                "channelId": "UCCOSYITWQHRSUxvlQ4_PSCg",
+                "title": "Sonic the Hedgehog: Memories And Beyond Trailer",
+                "description": "Check out one final sneak peak of our Sonic the Hedgehog 35th Anniversary animated short: Memories and Beyond, coming November 12th, 2026!\n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://x.com/RaceCrossWorlds \nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/gg33XSAtdZM/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Sonic the Hedgehog",
+                "tags": [
+                    "sonic",
+                    "sonic the hedgehog"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Sonic the Hedgehog: Memories And Beyond Trailer",
+                    "description": "Check out one final sneak peak of our Sonic the Hedgehog 35th Anniversary animated short: Memories and Beyond, coming November 12th, 2026!\n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://x.com/RaceCrossWorlds \nhttps://twitter.com/sonic_hedgehog \nhttps://facebook.com/sonic \nhttps://instagram.com/sonicthehedgehog \nhttps://tiktok.com/@sonic_hedgehog \nhttps://bsky.app/profile/sonic-official.bsky.social"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "327754",
+                "likeCount": "46519",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "snIo7ppke1hY6Pwfyh-3Z2t9HMs",
+            "id": "qdqI62D6lQA",
+            "snippet": {
+                "publishedAt": "2026-10-09T18:06:14Z",
+                "channelId": "UC-cnbLlplnXA4oc7rR21qzg",
+                "title": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina",
+                "description": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina!! Like y suscr\u00edbete a @Lyna y @YoSoyMandarina \u2b50\n\n\u2728Mi Whatsapp: https://whatsapp.com/channel/0029VaDE0nN2P59fRkPhF30P\n\n\u2728 Escucha mi m\u00fasica en Spotify: https://open.spotify.com/intl-es/artist/52Nw4vEbVCypyzo5agInBI\n\n\u2b50 S\u00cdGUEME EN MIS REDES SOCIALES \u2b50\n\n\u25cb Instagram: https://instagram.com/Lynavallejos\n\u25cb Twitter: https://twitter.com/srtalyna\n\u25cb Facebook: https://facebook.com/Lynayoutube\n\u25cb TikTok: https://www.tiktok.com/@lynitavallejos\n\u25cb TikTok de gaming: https://www.tiktok.com/@lynagamingyt\n\n#roblox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Lyna",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina",
+                    "description": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina!! Like y suscr\u00edbete a @Lyna y @YoSoyMandarina \u2b50\n\n\u2728Mi Whatsapp: https://whatsapp.com/channel/0029VaDE0nN2P59fRkPhF30P\n\n\u2728 Escucha mi m\u00fasica en Spotify: https://open.spotify.com/intl-es/artist/52Nw4vEbVCypyzo5agInBI\n\n\u2b50 S\u00cdGUEME EN MIS REDES SOCIALES \u2b50\n\n\u25cb Instagram: https://instagram.com/Lynavallejos\n\u25cb Twitter: https://twitter.com/srtalyna\n\u25cb Facebook: https://facebook.com/Lynayoutube\n\u25cb TikTok: https://www.tiktok.com/@lynitavallejos\n\u25cb TikTok de gaming: https://www.tiktok.com/@lynagamingyt\n\n#roblox"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "818404",
+                "likeCount": "7992",
+                "favoriteCount": "0",
+                "commentCount": "407"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jsPMXQgx2k-kPVjK-BLiGnTKyMQ",
+            "id": "La4g9CSXvus",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:04:04Z",
+                "channelId": "UCoMlNw7o21I7LqL4OsjSYAg",
+                "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feid",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "335785",
+                "likeCount": "25783",
+                "favoriteCount": "0",
+                "commentCount": "1821"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AeUOmo4KoMXdyF6OesbPWZhQhBQ",
             "id": "0bw9HnZvhF0",
             "snippet": {
                 "publishedAt": "2026-10-08T13:27:02Z",
@@ -1171,15 +1353,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "52819",
-                "likeCount": "374",
+                "viewCount": "53368",
+                "likeCount": "378",
                 "favoriteCount": "0",
                 "commentCount": "54"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mjLFt71rVYCQfjU29My9wDIv-dY",
+            "etag": "TBfFVgd3NtKZtWG0m_yFDOQiHRw",
             "id": "mlFxxNsExJc",
             "snippet": {
                 "publishedAt": "2026-10-09T00:55:10Z",
@@ -1267,68 +1449,73 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "7138100",
-                "likeCount": "233215",
+                "viewCount": "7198195",
+                "likeCount": "234656",
                 "favoriteCount": "0",
-                "commentCount": "14499"
+                "commentCount": "14546"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DJFr9XXzlAnAWejbcnZF3ewSobo",
-            "id": "La4g9CSXvus",
+            "etag": "UnaSnR-uu4VFuo8glRUPEMjt4Po",
+            "id": "BF35l_n8a98",
             "snippet": {
-                "publishedAt": "2026-10-09T21:04:04Z",
-                "channelId": "UCoMlNw7o21I7LqL4OsjSYAg",
-                "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
-                "description": "",
+                "publishedAt": "2026-10-08T19:00:09Z",
+                "channelId": "UCz2eoXfYd-vu99oxJRycb9g",
+                "title": "Cyril Kamer - Vision (Video Oficial)",
+                "description": "#cyrilkamer #Vision #trap\nCyril Kamer - Vision (Video Oficial)\n\nRedes sociales\nInstagram: https://www.instagram.com/cyril.kamer\nTikTok: https://www.tiktok.com/@cyril_kamer\nTwitter: https://x.com/cyril_kamerr\n\n\nCR\u00c9DITOS\nDir: https://www.instagram.com/lowbatteryboyz\nShot & Edit by: https://www.instagram.com/lowbatteryboyz\nMix&Master: https://www.instagram.com/mmldstudio",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Feid",
+                "channelTitle": "Cyril Kamer",
+                "tags": [
+                    "cyril kamer",
+                    "ciryl kamer",
+                    "vision"
+                ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "es",
                 "localized": {
-                    "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
-                    "description": ""
+                    "title": "Cyril Kamer - Vision (Video Oficial)",
+                    "description": "#cyrilkamer #Vision #trap\nCyril Kamer - Vision (Video Oficial)\n\nRedes sociales\nInstagram: https://www.instagram.com/cyril.kamer\nTikTok: https://www.tiktok.com/@cyril_kamer\nTwitter: https://x.com/cyril_kamerr\n\n\nCR\u00c9DITOS\nDir: https://www.instagram.com/lowbatteryboyz\nShot & Edit by: https://www.instagram.com/lowbatteryboyz\nMix&Master: https://www.instagram.com/mmldstudio"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "322817",
-                "likeCount": "24822",
+                "viewCount": "145497",
+                "likeCount": "7638",
                 "favoriteCount": "0",
-                "commentCount": "1778"
+                "commentCount": "135"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "w8UjQwT5OjEp44_Ha7kZHLbQgik",
+            "etag": "EWu5fg9MCgv07Dks9lYHWIMOY2w",
             "id": "1PcbkwtmAD0",
             "snippet": {
                 "publishedAt": "2026-10-08T09:00:00Z",
@@ -1393,15 +1580,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "34213",
-                "likeCount": "219",
+                "viewCount": "34417",
+                "likeCount": "220",
                 "favoriteCount": "0",
                 "commentCount": "6"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Rz8J5Q8eaPMfWsve53UDZsnqq1A",
+            "etag": "qLg1B5FQrwjV4wJMja7H3N_IFBA",
             "id": "7SpPoZLhCAo",
             "snippet": {
                 "publishedAt": "2026-10-08T13:15:22Z",
@@ -1462,131 +1649,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "477795",
-                "likeCount": "10505",
+                "viewCount": "481952",
+                "likeCount": "10565",
                 "favoriteCount": "0",
-                "commentCount": "715"
+                "commentCount": "721"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TJ3LLKcPhaQ3AhCbzPDJjm9DQN0",
-            "id": "BF35l_n8a98",
-            "snippet": {
-                "publishedAt": "2026-10-08T19:00:09Z",
-                "channelId": "UCz2eoXfYd-vu99oxJRycb9g",
-                "title": "Cyril Kamer - Vision (Video Oficial)",
-                "description": "#cyrilkamer #Vision #trap\nCyril Kamer - Vision (Video Oficial)\n\nRedes sociales\nInstagram: https://www.instagram.com/cyril.kamer\nTikTok: https://www.tiktok.com/@cyril_kamer\nTwitter: https://x.com/cyril_kamerr\n\n\nCR\u00c9DITOS\nDir: https://www.instagram.com/lowbatteryboyz\nShot & Edit by: https://www.instagram.com/lowbatteryboyz\nMix&Master: https://www.instagram.com/mmldstudio",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/BF35l_n8a98/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Cyril Kamer",
-                "tags": [
-                    "cyril kamer",
-                    "ciryl kamer",
-                    "vision"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Cyril Kamer - Vision (Video Oficial)",
-                    "description": "#cyrilkamer #Vision #trap\nCyril Kamer - Vision (Video Oficial)\n\nRedes sociales\nInstagram: https://www.instagram.com/cyril.kamer\nTikTok: https://www.tiktok.com/@cyril_kamer\nTwitter: https://x.com/cyril_kamerr\n\n\nCR\u00c9DITOS\nDir: https://www.instagram.com/lowbatteryboyz\nShot & Edit by: https://www.instagram.com/lowbatteryboyz\nMix&Master: https://www.instagram.com/mmldstudio"
-                },
-                "defaultAudioLanguage": "es-ES"
-            },
-            "statistics": {
-                "viewCount": "143364",
-                "likeCount": "7601",
-                "favoriteCount": "0",
-                "commentCount": "135"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "0CJOGLlsN7L4WbRAS3LLAHmQ32Y",
-            "id": "qdqI62D6lQA",
-            "snippet": {
-                "publishedAt": "2026-10-09T18:06:14Z",
-                "channelId": "UC-cnbLlplnXA4oc7rR21qzg",
-                "title": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina",
-                "description": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina!! Like y suscr\u00edbete a @Lyna y @YoSoyMandarina \u2b50\n\n\u2728Mi Whatsapp: https://whatsapp.com/channel/0029VaDE0nN2P59fRkPhF30P\n\n\u2728 Escucha mi m\u00fasica en Spotify: https://open.spotify.com/intl-es/artist/52Nw4vEbVCypyzo5agInBI\n\n\u2b50 S\u00cdGUEME EN MIS REDES SOCIALES \u2b50\n\n\u25cb Instagram: https://instagram.com/Lynavallejos\n\u25cb Twitter: https://twitter.com/srtalyna\n\u25cb Facebook: https://facebook.com/Lynayoutube\n\u25cb TikTok: https://www.tiktok.com/@lynitavallejos\n\u25cb TikTok de gaming: https://www.tiktok.com/@lynagamingyt\n\n#roblox",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/qdqI62D6lQA/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Lyna",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina",
-                    "description": "CUIDAMOS por 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS en Roblox con Mandarina!! Like y suscr\u00edbete a @Lyna y @YoSoyMandarina \u2b50\n\n\u2728Mi Whatsapp: https://whatsapp.com/channel/0029VaDE0nN2P59fRkPhF30P\n\n\u2728 Escucha mi m\u00fasica en Spotify: https://open.spotify.com/intl-es/artist/52Nw4vEbVCypyzo5agInBI\n\n\u2b50 S\u00cdGUEME EN MIS REDES SOCIALES \u2b50\n\n\u25cb Instagram: https://instagram.com/Lynavallejos\n\u25cb Twitter: https://twitter.com/srtalyna\n\u25cb Facebook: https://facebook.com/Lynayoutube\n\u25cb TikTok: https://www.tiktok.com/@lynitavallejos\n\u25cb TikTok de gaming: https://www.tiktok.com/@lynagamingyt\n\n#roblox"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "784012",
-                "likeCount": "7630",
-                "favoriteCount": "0",
-                "commentCount": "394"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "meeTFYviZDx-bMfWJ27dbiON6SA",
+            "etag": "FBMr7dXhO9VhuN4DMRpz3XP5tV0",
             "id": "SYwN28e-Saw",
             "snippet": {
                 "publishedAt": "2026-10-06T22:00:10Z",
@@ -1660,15 +1731,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "124569",
-                "likeCount": "294",
+                "viewCount": "128675",
+                "likeCount": "301",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qQnUOe4efrBi_UzjRuBrWj2Aalg",
+            "etag": "LVbS2vZnp4nr74Nd4wlDYHRauCg",
             "id": "ZLBHhCsD0eM",
             "snippet": {
                 "publishedAt": "2026-10-09T13:00:16Z",
@@ -1743,15 +1814,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "138683",
-                "likeCount": "4262",
+                "viewCount": "139937",
+                "likeCount": "4291",
                 "favoriteCount": "0",
                 "commentCount": "185"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "SFRfq3zf8jnJ7CjEs1tw-hr1ee8",
+            "etag": "vd2WZSRD7Fzifbuc5x3cpmztEuw",
             "id": "8rPFbyrva_4",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:07Z",
@@ -1825,15 +1896,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "35629",
-                "likeCount": "1561",
+                "viewCount": "36236",
+                "likeCount": "1578",
                 "favoriteCount": "0",
                 "commentCount": "107"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "aj_sS1blTkRliutl_FpHjCflBDo",
+            "etag": "mLFuTdEWa1wQsjNwp56ZIWwlkCM",
             "id": "Rvb3yfQH0Gs",
             "snippet": {
                 "publishedAt": "2026-10-08T17:30:49Z",
@@ -1882,15 +1953,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "910579",
-                "likeCount": "28254",
+                "viewCount": "914971",
+                "likeCount": "28400",
                 "favoriteCount": "0",
-                "commentCount": "831"
+                "commentCount": "832"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mA89LwgXKnUUX4oUeH4j1zLZqI4",
+            "etag": "5rQDnNY0n902N_-peyfvWD85aeQ",
             "id": "Cz7Pd9n3quE",
             "snippet": {
                 "publishedAt": "2026-10-09T10:42:01Z",
@@ -1939,15 +2010,15 @@
                 "defaultAudioLanguage": "ro"
             },
             "statistics": {
-                "viewCount": "429705",
-                "likeCount": "13814",
+                "viewCount": "447732",
+                "likeCount": "14192",
                 "favoriteCount": "0",
-                "commentCount": "304"
+                "commentCount": "315"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "I_J7VqE6nK4szpelWS2C101kQCc",
+            "etag": "DCTXAXDostrE4yHz39l-ZJp9rfg",
             "id": "javQvZ0ADx0",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:08Z",
@@ -2018,15 +2089,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "4784921",
-                "likeCount": "212532",
+                "viewCount": "4849735",
+                "likeCount": "214339",
                 "favoriteCount": "0",
-                "commentCount": "27785"
+                "commentCount": "27922"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "nq0tbYgfNMYpehVS53Upswcj7YY",
+            "etag": "4PKWXFkS11qX3qGi1EfIRmfWqZg",
             "id": "NBCY7XWQyRE",
             "snippet": {
                 "publishedAt": "2026-10-09T00:00:06Z",
@@ -2077,15 +2148,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "173066",
-                "likeCount": "10349",
+                "viewCount": "175294",
+                "likeCount": "10484",
                 "favoriteCount": "0",
-                "commentCount": "413"
+                "commentCount": "414"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wfqdl6TNh3Kw7AenmHkkLBG_MvE",
+            "etag": "UQvY1CjdQlC3WStFb6oRjgfy03c",
             "id": "IPLQs0_xul0",
             "snippet": {
                 "publishedAt": "2026-10-09T15:19:12Z",
@@ -2150,157 +2221,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "110184",
-                "likeCount": "2433",
+                "viewCount": "112867",
+                "likeCount": "2481",
                 "favoriteCount": "0",
                 "commentCount": "40"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "B5xl63XfbLU1yo1zNf56QUnfokc",
-            "id": "j31L0iIwdmE",
-            "snippet": {
-                "publishedAt": "2026-10-08T22:00:29Z",
-                "channelId": "UCncmmq2xV1002xNnx9_rDhw",
-                "title": "Morat - Me Mata (Video Oficial)",
-                "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MoratVEVO",
-                "tags": [
-                    "Morat",
-                    "Universal Music Spain",
-                    "S.L.U.",
-                    "under exclusive license to Interscope Records",
-                    "Latin"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Morat - Me Mata (Video Oficial)",
-                    "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "662975",
-                "likeCount": "46464",
-                "favoriteCount": "0",
-                "commentCount": "2406"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Q8KjiYWWOqHR115h_19nbPtVeHA",
-            "id": "_Ju2j1NSt9w",
-            "snippet": {
-                "publishedAt": "2026-10-09T11:05:24Z",
-                "channelId": "UCXs61Ndm1-67HwDZR70g8pQ",
-                "title": "Gorilla King Found his Real Parents",
-                "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "qhd": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/qhddefault.jpg",
-                        "width": 2560,
-                        "height": 1440
-                    }
-                },
-                "channelTitle": "Silver",
-                "tags": [
-                    "roblox",
-                    "roblox games",
-                    "best roblox games",
-                    "new roblox games",
-                    "top roblox games",
-                    "fun roblox games",
-                    "roblox games you must play",
-                    "Roblox Game Compilations",
-                    "Roblox Game Rankings",
-                    "Ultimate Roblox Game Lists",
-                    "Roblox Game Catalog",
-                    "Roblox Game Reviews",
-                    "Best Roblox Game Collections",
-                    "Roblox Game Suggestions",
-                    "Roblox Game Selections",
-                    "Roblox Game Lineup",
-                    "Roblox Game Mix",
-                    "Featured Roblox Games",
-                    "Roblox Game Encyclopedia",
-                    "Roblox Game Vault",
-                    "Roblox Game Library",
-                    "Weekly Roblox Game Picks"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Gorilla King Found his Real Parents",
-                    "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "1859175",
-                "likeCount": "20630",
-                "favoriteCount": "0",
-                "commentCount": "231"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "qBu1X2iAYMRlfXtH3qYsxu3TGlg",
+            "etag": "xHKhAlmNaNLOiF17CQGnFmKgp8k",
             "id": "WDrwRHNddMM",
             "snippet": {
                 "publishedAt": "2026-10-09T20:00:08Z",
@@ -2378,15 +2307,157 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "206054",
-                "likeCount": "16186",
+                "viewCount": "212564",
+                "likeCount": "16555",
                 "favoriteCount": "0",
-                "commentCount": "6285"
+                "commentCount": "6345"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EQ4GbqRIGAcQ4Pv032nCw-FV_bU",
+            "etag": "tR4cco8EhWAcHWnpv8G7GTs9iZQ",
+            "id": "_Ju2j1NSt9w",
+            "snippet": {
+                "publishedAt": "2026-10-09T11:05:24Z",
+                "channelId": "UCXs61Ndm1-67HwDZR70g8pQ",
+                "title": "Gorilla King Found his Real Parents",
+                "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "qhd": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/qhddefault.jpg",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "Silver",
+                "tags": [
+                    "roblox",
+                    "roblox games",
+                    "best roblox games",
+                    "new roblox games",
+                    "top roblox games",
+                    "fun roblox games",
+                    "roblox games you must play",
+                    "Roblox Game Compilations",
+                    "Roblox Game Rankings",
+                    "Ultimate Roblox Game Lists",
+                    "Roblox Game Catalog",
+                    "Roblox Game Reviews",
+                    "Best Roblox Game Collections",
+                    "Roblox Game Suggestions",
+                    "Roblox Game Selections",
+                    "Roblox Game Lineup",
+                    "Roblox Game Mix",
+                    "Featured Roblox Games",
+                    "Roblox Game Encyclopedia",
+                    "Roblox Game Vault",
+                    "Roblox Game Library",
+                    "Weekly Roblox Game Picks"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Gorilla King Found his Real Parents",
+                    "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "1914314",
+                "likeCount": "21201",
+                "favoriteCount": "0",
+                "commentCount": "239"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QtuktmwdsDgAJNtGPEqFEej5NMQ",
+            "id": "j31L0iIwdmE",
+            "snippet": {
+                "publishedAt": "2026-10-08T22:00:29Z",
+                "channelId": "UCncmmq2xV1002xNnx9_rDhw",
+                "title": "Morat - Me Mata (Video Oficial)",
+                "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MoratVEVO",
+                "tags": [
+                    "Morat",
+                    "Universal Music Spain",
+                    "S.L.U.",
+                    "under exclusive license to Interscope Records",
+                    "Latin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Morat - Me Mata (Video Oficial)",
+                    "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "670574",
+                "likeCount": "46805",
+                "favoriteCount": "0",
+                "commentCount": "2408"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "flOX6GMwcMyXF7w2PBAFPNpjdGw",
             "id": "h19Lf6IW_uo",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:38Z",
@@ -2464,15 +2535,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "71381",
-                "likeCount": "3935",
+                "viewCount": "72318",
+                "likeCount": "3954",
                 "favoriteCount": "0",
                 "commentCount": "188"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mn5FJ088dbx9l15W-7AngglMv04",
+            "etag": "KAcTwCQVzJ3YRR5DzKb_GkntcVM",
             "id": "V7EbKFi0sxA",
             "snippet": {
                 "publishedAt": "2026-10-09T10:00:10Z",
@@ -2534,15 +2605,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "23582",
-                "likeCount": "1726",
+                "viewCount": "24160",
+                "likeCount": "1766",
                 "favoriteCount": "0",
-                "commentCount": "170"
+                "commentCount": "182"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "BrjLlfnc_XkKhGTHQKuna4oLtyo",
+            "etag": "_Bt0_PfwEGVJT71eYxSq8iYF5vI",
             "id": "zmXcgYv8tLA",
             "snippet": {
                 "publishedAt": "2026-10-07T18:55:33Z",
@@ -2606,138 +2677,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "277211",
-                "likeCount": "5744",
+                "viewCount": "280131",
+                "likeCount": "5773",
                 "favoriteCount": "0",
                 "commentCount": "307"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1P1Z07PNLxi5Bfi8NwXRDinL65I",
-            "id": "fYaF00OZ69U",
-            "snippet": {
-                "publishedAt": "2026-10-09T04:00:07Z",
-                "channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
-                "title": "Troye Sivan - FF (Official Music Video)",
-                "description": "Troye Sivan - FF (Official Music Video)\n\n\u2018She\u2019s The Best,\u2019 the album by Troye Sivan, out now: https://TroyeSivan.lnk.to/ShesTheBestID \nShop \u2018She\u2019s The Best\u2019 \u201cmusic & merch: https://TroyeSivan.lnk.to/storeID\n\nFollow me!\nhttps://x.com/troyesivan\nhttps://www.youtube.com/user/TroyeSivan18\nhttps://www.instagram.com/troyesivan\nhttps://www.facebook.com/troyesivan\nhttps://www.tiktok.com/@troyesivan\n\nDirected by Gordon von Steiner @gvsgvs\n\nFeaturing Felix Mayr @felixmayr\n\nDirector of Photography  Stuart Winecoff @stuart_winecoff\nProduction Designer  Stefan Beckman @stefanbeckman\nExecutive Producer  Kelly McGee @itsmekellymcgee\n\nStylist   Marc Forn\u00e9 @marcforne\nMarc Forn\u00e9 Project Manager  Catarina Barbosa @cat.barbosadasilva\nStyling Assistant  Andrii Panasiuk @andrii.panasiukk\nStyling Assistant  Kostiantyn Goncharuk @kostyagoncharuk\nTailor  Alan Gonzalez @alantude\nGroomer Anna Bernabe @heyannabee\n\n1st AD                Akeel Nelson @akeelogram\n1st AC                Bobby Arnold @bobbyarnold\n2nd AC        Nolan Maloney @nolannoig\nFilm Loader        Elijah Lobato @elijahlobato\nVTR                Joe Menard @backpack.joe\nGaffer                Brad Burke @shootbrad\nBBE                Jack Foster\nElectric        Chelsea Soby @chelseasoby\nKey Grip        Chris Weisehahn\nBBG                Dave Steffey @davesteffey\nGrip                Jacob Friedman @jcb_frdmn\nSteadicam        Kyle Fasanella @smoothcamerakyle\nSound Tech        Turner Curran @transient_audio\nSound Tech        Brett van Dusen\nUnderwater Operator & Tech        Riley Patterson @erileypatterson\nUnderwater Assistant                Sabrina Marki @steadigroove\nCamera                TCS Technological Cinevideo Services @tcsfilm\nGrip, Electric + Production Equipment        Vividkid NYC @vividkidnyc\nShot on Kodak Film @kodak\n\nProduced by Special Production Agency @specialproduction.agency\nSPA | Head of Production Ashley Scott @ash_nyc\nSPA | Executive Producer Paula Navratil @pan2103\nSPA | Lead Producer Levi Jackman Foster @levijfoster\nSPA | Production Manager Mehow Podstawski @mehow123\nSPA | Production Coordinator Sarah Armstrong @sarah.armstrxng\nProduction Assistant Andrew Bachman @andrewcbachman\nProduction Assistant Angel Gurrero\nProduction Assistant Christian Miller @christiansituation\nProduction Assistant Diego Faucher @diego_faucher\nProduction Assistant Dylan Prince @dylancprince\nProduction Assistant Julian Brown @juleswbrown\nProduction Assistant Laura Cotrone @grassmatini_\nProduction Assistant Massimo Greco @moss.pic\nProduction Assistant Matthew Hensarling @matthewhensarling\nProduction Assistant Nicholas Capadano @nickcapaa\nProduction Assistant Silas Sims @silas.sims.co\nLocation Services Josh Dawson @josh_dawson\n\nFeaturing\nAndrii Panasiuk @andrii.panasiukk\nAngel Gurrero\nChristian Miller @christiansituation\nDylan Prince @dylancprince\nJoseph Ong\nMassimo Greco @moss.pic\nMatthew Hensarling @matthewhensarling\nMehow Podstawski @mehow123\nMoustafa Ibrahim\nNicholas Capadano @nickcapaa\nSilas Sims @silas.sims.co\n\nEditor Aitor Bigas @aitorbigas\nAssistant Editor Anton Albitskiy @albitskiy\nColorist  Myles Bevan @m.y.l.e.s at Modern Post @modern.post\nFinishing    Max Ferigo @max.ferigo at Modern Post @modern.post\nPost Producer  Brian Corey @brianxcorey\nScans  Met Post @metpostny\nTitle Design   Any Other Name @anyother.name\nProduction Design Assistant  Levi Gittelman\nProduction Design Assistant Eli Tamarkin\nSpecial FX George Fernandez\n\nGood World Management @goodworld\nMgmt / EP  Dani Russin @danisidebo\nMgmt / EP  Brandon Creed @brandoncreed\nMgmt / EP  Chris Pepe @chrisbpepe\nMgmt / EP  Emma Anderson @noodlemma\nTS Assistant  Alice Fraser @_alicefraser_\n\nCo-Creative Director  Gordon von Steiner @gvsgvs\nCo-Creative Director  Imogene Strauss @imogene\nCreative Director Assistant  Zola Anderson @zo1ita\nDigital Creative  Terry O'Connor @terrencefoconnor\n\nGood World Creative @goodworldcreative\nEP  Kevin Kloecker @kevinkloecker\nEP  Marino Coates-Chitty @marino.coateschitty\nHead of Accounts - Rafy Evans @rafyevans\nCreative Coordinator - Mazie Watson @mazie_watson\nDigital Creative Assistant - Sophia Clemente @sophclemente\n\nInterscope\nPresident, Interscope - Michelle An @littlemeeshmeesh\nVP, Marketing - Hannah Gold @hannuuuuhhh\nDirector, Creative Content - Chris Clavadetscher @chrisclav\nManager, Visual Creative - Alyssa Kamalski @alyssakamalski\n\nSpecial Thanks\nJordan Usdin @jordan_usdin\nTristan Schukraft @tschukraft\nTryst @trysthotels\nMstr @heymistr\nH2O Limo @h2olimo\nSayville Ferry Service @sayvilleferryservice\nB\u0113kin @bekin.fip\n\n#TroyeSivan #FF #ShestheBest\n\nMusic video by Troye Sivan performing FF.\u00a9 2026 Tokky\u2019s Music, LLC",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "TroyeSivanVEVO",
-                "tags": [
-                    "Troye Sivan",
-                    "Tokky\u2019s Music",
-                    "LLC under exclusive license to Interscope Records",
-                    "Pop"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Troye Sivan - FF (Official Music Video)",
-                    "description": "Troye Sivan - FF (Official Music Video)\n\n\u2018She\u2019s The Best,\u2019 the album by Troye Sivan, out now: https://TroyeSivan.lnk.to/ShesTheBestID \nShop \u2018She\u2019s The Best\u2019 \u201cmusic & merch: https://TroyeSivan.lnk.to/storeID\n\nFollow me!\nhttps://x.com/troyesivan\nhttps://www.youtube.com/user/TroyeSivan18\nhttps://www.instagram.com/troyesivan\nhttps://www.facebook.com/troyesivan\nhttps://www.tiktok.com/@troyesivan\n\nDirected by Gordon von Steiner @gvsgvs\n\nFeaturing Felix Mayr @felixmayr\n\nDirector of Photography  Stuart Winecoff @stuart_winecoff\nProduction Designer  Stefan Beckman @stefanbeckman\nExecutive Producer  Kelly McGee @itsmekellymcgee\n\nStylist   Marc Forn\u00e9 @marcforne\nMarc Forn\u00e9 Project Manager  Catarina Barbosa @cat.barbosadasilva\nStyling Assistant  Andrii Panasiuk @andrii.panasiukk\nStyling Assistant  Kostiantyn Goncharuk @kostyagoncharuk\nTailor  Alan Gonzalez @alantude\nGroomer Anna Bernabe @heyannabee\n\n1st AD                Akeel Nelson @akeelogram\n1st AC                Bobby Arnold @bobbyarnold\n2nd AC        Nolan Maloney @nolannoig\nFilm Loader        Elijah Lobato @elijahlobato\nVTR                Joe Menard @backpack.joe\nGaffer                Brad Burke @shootbrad\nBBE                Jack Foster\nElectric        Chelsea Soby @chelseasoby\nKey Grip        Chris Weisehahn\nBBG                Dave Steffey @davesteffey\nGrip                Jacob Friedman @jcb_frdmn\nSteadicam        Kyle Fasanella @smoothcamerakyle\nSound Tech        Turner Curran @transient_audio\nSound Tech        Brett van Dusen\nUnderwater Operator & Tech        Riley Patterson @erileypatterson\nUnderwater Assistant                Sabrina Marki @steadigroove\nCamera                TCS Technological Cinevideo Services @tcsfilm\nGrip, Electric + Production Equipment        Vividkid NYC @vividkidnyc\nShot on Kodak Film @kodak\n\nProduced by Special Production Agency @specialproduction.agency\nSPA | Head of Production Ashley Scott @ash_nyc\nSPA | Executive Producer Paula Navratil @pan2103\nSPA | Lead Producer Levi Jackman Foster @levijfoster\nSPA | Production Manager Mehow Podstawski @mehow123\nSPA | Production Coordinator Sarah Armstrong @sarah.armstrxng\nProduction Assistant Andrew Bachman @andrewcbachman\nProduction Assistant Angel Gurrero\nProduction Assistant Christian Miller @christiansituation\nProduction Assistant Diego Faucher @diego_faucher\nProduction Assistant Dylan Prince @dylancprince\nProduction Assistant Julian Brown @juleswbrown\nProduction Assistant Laura Cotrone @grassmatini_\nProduction Assistant Massimo Greco @moss.pic\nProduction Assistant Matthew Hensarling @matthewhensarling\nProduction Assistant Nicholas Capadano @nickcapaa\nProduction Assistant Silas Sims @silas.sims.co\nLocation Services Josh Dawson @josh_dawson\n\nFeaturing\nAndrii Panasiuk @andrii.panasiukk\nAngel Gurrero\nChristian Miller @christiansituation\nDylan Prince @dylancprince\nJoseph Ong\nMassimo Greco @moss.pic\nMatthew Hensarling @matthewhensarling\nMehow Podstawski @mehow123\nMoustafa Ibrahim\nNicholas Capadano @nickcapaa\nSilas Sims @silas.sims.co\n\nEditor Aitor Bigas @aitorbigas\nAssistant Editor Anton Albitskiy @albitskiy\nColorist  Myles Bevan @m.y.l.e.s at Modern Post @modern.post\nFinishing    Max Ferigo @max.ferigo at Modern Post @modern.post\nPost Producer  Brian Corey @brianxcorey\nScans  Met Post @metpostny\nTitle Design   Any Other Name @anyother.name\nProduction Design Assistant  Levi Gittelman\nProduction Design Assistant Eli Tamarkin\nSpecial FX George Fernandez\n\nGood World Management @goodworld\nMgmt / EP  Dani Russin @danisidebo\nMgmt / EP  Brandon Creed @brandoncreed\nMgmt / EP  Chris Pepe @chrisbpepe\nMgmt / EP  Emma Anderson @noodlemma\nTS Assistant  Alice Fraser @_alicefraser_\n\nCo-Creative Director  Gordon von Steiner @gvsgvs\nCo-Creative Director  Imogene Strauss @imogene\nCreative Director Assistant  Zola Anderson @zo1ita\nDigital Creative  Terry O'Connor @terrencefoconnor\n\nGood World Creative @goodworldcreative\nEP  Kevin Kloecker @kevinkloecker\nEP  Marino Coates-Chitty @marino.coateschitty\nHead of Accounts - Rafy Evans @rafyevans\nCreative Coordinator - Mazie Watson @mazie_watson\nDigital Creative Assistant - Sophia Clemente @sophclemente\n\nInterscope\nPresident, Interscope - Michelle An @littlemeeshmeesh\nVP, Marketing - Hannah Gold @hannuuuuhhh\nDirector, Creative Content - Chris Clavadetscher @chrisclav\nManager, Visual Creative - Alyssa Kamalski @alyssakamalski\n\nSpecial Thanks\nJordan Usdin @jordan_usdin\nTristan Schukraft @tschukraft\nTryst @trysthotels\nMstr @heymistr\nH2O Limo @h2olimo\nSayville Ferry Service @sayvilleferryservice\nB\u0113kin @bekin.fip\n\n#TroyeSivan #FF #ShestheBest\n\nMusic video by Troye Sivan performing FF.\u00a9 2026 Tokky\u2019s Music, LLC"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "1013177",
-                "likeCount": "55347",
-                "favoriteCount": "0",
-                "commentCount": "2692"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "F-AjuuZaLxUPNXAyVG7eLXUHdwY",
-            "id": "JuOXiffDTJY",
-            "snippet": {
-                "publishedAt": "2026-10-08T16:08:00Z",
-                "channelId": "UCFzGNDHEZ5-7d5UXxfHUcRg",
-                "title": "El juego de desarrollar juegos",
-                "description": "El Dark Souls del emprendimiento\n\n- Directo completo:  https://youtube.com/live/u8uIHneTac0",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Juja",
-                "tags": [
-                    "jujalag",
-                    "juja",
-                    "game dev tycoon",
-                    "juego indie"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-ES",
-                "localized": {
-                    "title": "El juego de desarrollar juegos",
-                    "description": "El Dark Souls del emprendimiento\n\n- Directo completo:  https://youtube.com/live/u8uIHneTac0"
-                },
-                "defaultAudioLanguage": "es-ES"
-            },
-            "statistics": {
-                "viewCount": "291157",
-                "likeCount": "8024",
-                "favoriteCount": "0",
-                "commentCount": "188"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "GC3F_4DwxVRxkjc-kOL6nUJ2xlc",
+            "etag": "DRhAnseCzuQ-6S2Bdpvs5Ji2gpA",
             "id": "xrvI1j7euwQ",
             "snippet": {
                 "publishedAt": "2026-10-09T01:00:07Z",
@@ -2792,15 +2740,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "248233",
-                "likeCount": "20367",
+                "viewCount": "250258",
+                "likeCount": "20475",
                 "favoriteCount": "0",
-                "commentCount": "813"
+                "commentCount": "816"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "fOLGG08oVnNQOLADeqsXkDDExfo",
+            "etag": "KSGyAd4vaa5XgECbMKvIJvGYpUc",
             "id": "qtrWQ6x1iTo",
             "snippet": {
                 "publishedAt": "2026-10-09T20:50:14Z",
@@ -2870,15 +2818,138 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "258926",
-                "likeCount": "4688",
+                "viewCount": "269577",
+                "likeCount": "4768",
                 "favoriteCount": "0",
-                "commentCount": "368"
+                "commentCount": "370"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ej8l2nb-rSUdHaeWcqRRljOhrRs",
+            "etag": "_N6_Y3EbA-TWn4bEJ8mtn8edoHk",
+            "id": "fYaF00OZ69U",
+            "snippet": {
+                "publishedAt": "2026-10-09T04:00:07Z",
+                "channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
+                "title": "Troye Sivan - FF (Official Music Video)",
+                "description": "Troye Sivan - FF (Official Music Video)\n\n\u2018She\u2019s The Best,\u2019 the album by Troye Sivan, out now: https://TroyeSivan.lnk.to/ShesTheBestID \nShop \u2018She\u2019s The Best\u2019 \u201cmusic & merch: https://TroyeSivan.lnk.to/storeID\n\nFollow me!\nhttps://x.com/troyesivan\nhttps://www.youtube.com/user/TroyeSivan18\nhttps://www.instagram.com/troyesivan\nhttps://www.facebook.com/troyesivan\nhttps://www.tiktok.com/@troyesivan\n\nDirected by Gordon von Steiner @gvsgvs\n\nFeaturing Felix Mayr @felixmayr\n\nDirector of Photography  Stuart Winecoff @stuart_winecoff\nProduction Designer  Stefan Beckman @stefanbeckman\nExecutive Producer  Kelly McGee @itsmekellymcgee\n\nStylist   Marc Forn\u00e9 @marcforne\nMarc Forn\u00e9 Project Manager  Catarina Barbosa @cat.barbosadasilva\nStyling Assistant  Andrii Panasiuk @andrii.panasiukk\nStyling Assistant  Kostiantyn Goncharuk @kostyagoncharuk\nTailor  Alan Gonzalez @alantude\nGroomer Anna Bernabe @heyannabee\n\n1st AD                Akeel Nelson @akeelogram\n1st AC                Bobby Arnold @bobbyarnold\n2nd AC        Nolan Maloney @nolannoig\nFilm Loader        Elijah Lobato @elijahlobato\nVTR                Joe Menard @backpack.joe\nGaffer                Brad Burke @shootbrad\nBBE                Jack Foster\nElectric        Chelsea Soby @chelseasoby\nKey Grip        Chris Weisehahn\nBBG                Dave Steffey @davesteffey\nGrip                Jacob Friedman @jcb_frdmn\nSteadicam        Kyle Fasanella @smoothcamerakyle\nSound Tech        Turner Curran @transient_audio\nSound Tech        Brett van Dusen\nUnderwater Operator & Tech        Riley Patterson @erileypatterson\nUnderwater Assistant                Sabrina Marki @steadigroove\nCamera                TCS Technological Cinevideo Services @tcsfilm\nGrip, Electric + Production Equipment        Vividkid NYC @vividkidnyc\nShot on Kodak Film @kodak\n\nProduced by Special Production Agency @specialproduction.agency\nSPA | Head of Production Ashley Scott @ash_nyc\nSPA | Executive Producer Paula Navratil @pan2103\nSPA | Lead Producer Levi Jackman Foster @levijfoster\nSPA | Production Manager Mehow Podstawski @mehow123\nSPA | Production Coordinator Sarah Armstrong @sarah.armstrxng\nProduction Assistant Andrew Bachman @andrewcbachman\nProduction Assistant Angel Gurrero\nProduction Assistant Christian Miller @christiansituation\nProduction Assistant Diego Faucher @diego_faucher\nProduction Assistant Dylan Prince @dylancprince\nProduction Assistant Julian Brown @juleswbrown\nProduction Assistant Laura Cotrone @grassmatini_\nProduction Assistant Massimo Greco @moss.pic\nProduction Assistant Matthew Hensarling @matthewhensarling\nProduction Assistant Nicholas Capadano @nickcapaa\nProduction Assistant Silas Sims @silas.sims.co\nLocation Services Josh Dawson @josh_dawson\n\nFeaturing\nAndrii Panasiuk @andrii.panasiukk\nAngel Gurrero\nChristian Miller @christiansituation\nDylan Prince @dylancprince\nJoseph Ong\nMassimo Greco @moss.pic\nMatthew Hensarling @matthewhensarling\nMehow Podstawski @mehow123\nMoustafa Ibrahim\nNicholas Capadano @nickcapaa\nSilas Sims @silas.sims.co\n\nEditor Aitor Bigas @aitorbigas\nAssistant Editor Anton Albitskiy @albitskiy\nColorist  Myles Bevan @m.y.l.e.s at Modern Post @modern.post\nFinishing    Max Ferigo @max.ferigo at Modern Post @modern.post\nPost Producer  Brian Corey @brianxcorey\nScans  Met Post @metpostny\nTitle Design   Any Other Name @anyother.name\nProduction Design Assistant  Levi Gittelman\nProduction Design Assistant Eli Tamarkin\nSpecial FX George Fernandez\n\nGood World Management @goodworld\nMgmt / EP  Dani Russin @danisidebo\nMgmt / EP  Brandon Creed @brandoncreed\nMgmt / EP  Chris Pepe @chrisbpepe\nMgmt / EP  Emma Anderson @noodlemma\nTS Assistant  Alice Fraser @_alicefraser_\n\nCo-Creative Director  Gordon von Steiner @gvsgvs\nCo-Creative Director  Imogene Strauss @imogene\nCreative Director Assistant  Zola Anderson @zo1ita\nDigital Creative  Terry O'Connor @terrencefoconnor\n\nGood World Creative @goodworldcreative\nEP  Kevin Kloecker @kevinkloecker\nEP  Marino Coates-Chitty @marino.coateschitty\nHead of Accounts - Rafy Evans @rafyevans\nCreative Coordinator - Mazie Watson @mazie_watson\nDigital Creative Assistant - Sophia Clemente @sophclemente\n\nInterscope\nPresident, Interscope - Michelle An @littlemeeshmeesh\nVP, Marketing - Hannah Gold @hannuuuuhhh\nDirector, Creative Content - Chris Clavadetscher @chrisclav\nManager, Visual Creative - Alyssa Kamalski @alyssakamalski\n\nSpecial Thanks\nJordan Usdin @jordan_usdin\nTristan Schukraft @tschukraft\nTryst @trysthotels\nMstr @heymistr\nH2O Limo @h2olimo\nSayville Ferry Service @sayvilleferryservice\nB\u0113kin @bekin.fip\n\n#TroyeSivan #FF #ShestheBest\n\nMusic video by Troye Sivan performing FF.\u00a9 2026 Tokky\u2019s Music, LLC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fYaF00OZ69U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TroyeSivanVEVO",
+                "tags": [
+                    "Troye Sivan",
+                    "Tokky\u2019s Music",
+                    "LLC under exclusive license to Interscope Records",
+                    "Pop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Troye Sivan - FF (Official Music Video)",
+                    "description": "Troye Sivan - FF (Official Music Video)\n\n\u2018She\u2019s The Best,\u2019 the album by Troye Sivan, out now: https://TroyeSivan.lnk.to/ShesTheBestID \nShop \u2018She\u2019s The Best\u2019 \u201cmusic & merch: https://TroyeSivan.lnk.to/storeID\n\nFollow me!\nhttps://x.com/troyesivan\nhttps://www.youtube.com/user/TroyeSivan18\nhttps://www.instagram.com/troyesivan\nhttps://www.facebook.com/troyesivan\nhttps://www.tiktok.com/@troyesivan\n\nDirected by Gordon von Steiner @gvsgvs\n\nFeaturing Felix Mayr @felixmayr\n\nDirector of Photography  Stuart Winecoff @stuart_winecoff\nProduction Designer  Stefan Beckman @stefanbeckman\nExecutive Producer  Kelly McGee @itsmekellymcgee\n\nStylist   Marc Forn\u00e9 @marcforne\nMarc Forn\u00e9 Project Manager  Catarina Barbosa @cat.barbosadasilva\nStyling Assistant  Andrii Panasiuk @andrii.panasiukk\nStyling Assistant  Kostiantyn Goncharuk @kostyagoncharuk\nTailor  Alan Gonzalez @alantude\nGroomer Anna Bernabe @heyannabee\n\n1st AD                Akeel Nelson @akeelogram\n1st AC                Bobby Arnold @bobbyarnold\n2nd AC        Nolan Maloney @nolannoig\nFilm Loader        Elijah Lobato @elijahlobato\nVTR                Joe Menard @backpack.joe\nGaffer                Brad Burke @shootbrad\nBBE                Jack Foster\nElectric        Chelsea Soby @chelseasoby\nKey Grip        Chris Weisehahn\nBBG                Dave Steffey @davesteffey\nGrip                Jacob Friedman @jcb_frdmn\nSteadicam        Kyle Fasanella @smoothcamerakyle\nSound Tech        Turner Curran @transient_audio\nSound Tech        Brett van Dusen\nUnderwater Operator & Tech        Riley Patterson @erileypatterson\nUnderwater Assistant                Sabrina Marki @steadigroove\nCamera                TCS Technological Cinevideo Services @tcsfilm\nGrip, Electric + Production Equipment        Vividkid NYC @vividkidnyc\nShot on Kodak Film @kodak\n\nProduced by Special Production Agency @specialproduction.agency\nSPA | Head of Production Ashley Scott @ash_nyc\nSPA | Executive Producer Paula Navratil @pan2103\nSPA | Lead Producer Levi Jackman Foster @levijfoster\nSPA | Production Manager Mehow Podstawski @mehow123\nSPA | Production Coordinator Sarah Armstrong @sarah.armstrxng\nProduction Assistant Andrew Bachman @andrewcbachman\nProduction Assistant Angel Gurrero\nProduction Assistant Christian Miller @christiansituation\nProduction Assistant Diego Faucher @diego_faucher\nProduction Assistant Dylan Prince @dylancprince\nProduction Assistant Julian Brown @juleswbrown\nProduction Assistant Laura Cotrone @grassmatini_\nProduction Assistant Massimo Greco @moss.pic\nProduction Assistant Matthew Hensarling @matthewhensarling\nProduction Assistant Nicholas Capadano @nickcapaa\nProduction Assistant Silas Sims @silas.sims.co\nLocation Services Josh Dawson @josh_dawson\n\nFeaturing\nAndrii Panasiuk @andrii.panasiukk\nAngel Gurrero\nChristian Miller @christiansituation\nDylan Prince @dylancprince\nJoseph Ong\nMassimo Greco @moss.pic\nMatthew Hensarling @matthewhensarling\nMehow Podstawski @mehow123\nMoustafa Ibrahim\nNicholas Capadano @nickcapaa\nSilas Sims @silas.sims.co\n\nEditor Aitor Bigas @aitorbigas\nAssistant Editor Anton Albitskiy @albitskiy\nColorist  Myles Bevan @m.y.l.e.s at Modern Post @modern.post\nFinishing    Max Ferigo @max.ferigo at Modern Post @modern.post\nPost Producer  Brian Corey @brianxcorey\nScans  Met Post @metpostny\nTitle Design   Any Other Name @anyother.name\nProduction Design Assistant  Levi Gittelman\nProduction Design Assistant Eli Tamarkin\nSpecial FX George Fernandez\n\nGood World Management @goodworld\nMgmt / EP  Dani Russin @danisidebo\nMgmt / EP  Brandon Creed @brandoncreed\nMgmt / EP  Chris Pepe @chrisbpepe\nMgmt / EP  Emma Anderson @noodlemma\nTS Assistant  Alice Fraser @_alicefraser_\n\nCo-Creative Director  Gordon von Steiner @gvsgvs\nCo-Creative Director  Imogene Strauss @imogene\nCreative Director Assistant  Zola Anderson @zo1ita\nDigital Creative  Terry O'Connor @terrencefoconnor\n\nGood World Creative @goodworldcreative\nEP  Kevin Kloecker @kevinkloecker\nEP  Marino Coates-Chitty @marino.coateschitty\nHead of Accounts - Rafy Evans @rafyevans\nCreative Coordinator - Mazie Watson @mazie_watson\nDigital Creative Assistant - Sophia Clemente @sophclemente\n\nInterscope\nPresident, Interscope - Michelle An @littlemeeshmeesh\nVP, Marketing - Hannah Gold @hannuuuuhhh\nDirector, Creative Content - Chris Clavadetscher @chrisclav\nManager, Visual Creative - Alyssa Kamalski @alyssakamalski\n\nSpecial Thanks\nJordan Usdin @jordan_usdin\nTristan Schukraft @tschukraft\nTryst @trysthotels\nMstr @heymistr\nH2O Limo @h2olimo\nSayville Ferry Service @sayvilleferryservice\nB\u0113kin @bekin.fip\n\n#TroyeSivan #FF #ShestheBest\n\nMusic video by Troye Sivan performing FF.\u00a9 2026 Tokky\u2019s Music, LLC"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "1026178",
+                "likeCount": "56117",
+                "favoriteCount": "0",
+                "commentCount": "2724"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FaZsJ7p848Boh0VKs5tfkbkvaUY",
+            "id": "JuOXiffDTJY",
+            "snippet": {
+                "publishedAt": "2026-10-08T16:08:00Z",
+                "channelId": "UCFzGNDHEZ5-7d5UXxfHUcRg",
+                "title": "El juego de desarrollar juegos",
+                "description": "El Dark Souls del emprendimiento\n\n- Directo completo:  https://youtube.com/live/u8uIHneTac0",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/JuOXiffDTJY/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Juja",
+                "tags": [
+                    "jujalag",
+                    "juja",
+                    "game dev tycoon",
+                    "juego indie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-ES",
+                "localized": {
+                    "title": "El juego de desarrollar juegos",
+                    "description": "El Dark Souls del emprendimiento\n\n- Directo completo:  https://youtube.com/live/u8uIHneTac0"
+                },
+                "defaultAudioLanguage": "es-ES"
+            },
+            "statistics": {
+                "viewCount": "293828",
+                "likeCount": "8067",
+                "favoriteCount": "0",
+                "commentCount": "189"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TE2pnE2jW523L2kpabaJFQh9PvU",
             "id": "Qltr6I7lBqA",
             "snippet": {
                 "publishedAt": "2026-10-08T10:02:02Z",
@@ -2928,15 +2999,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "13812",
-                "likeCount": "407",
+                "viewCount": "14032",
+                "likeCount": "416",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "45vdhqiU3hC0towge7DznoWQkBo",
+            "etag": "5tS4u8WuK1o0fBXkOQeE1V5osoE",
             "id": "wcki3GsY7fs",
             "snippet": {
                 "publishedAt": "2026-10-08T19:18:13Z",
@@ -2995,15 +3066,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2059044",
-                "likeCount": "17765",
+                "viewCount": "2086438",
+                "likeCount": "18008",
                 "favoriteCount": "0",
-                "commentCount": "569"
+                "commentCount": "585"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RPXWOw5grae7QEXv0kyHxjx7Ug0",
+            "etag": "2_MhQ9xgMXBuJcRi3yb79aUsYLQ",
             "id": "BPLMrkJoyJQ",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:33Z",
@@ -3056,15 +3127,129 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "71877",
-                "likeCount": "3326",
+                "viewCount": "72465",
+                "likeCount": "3347",
                 "favoriteCount": "0",
                 "commentCount": "299"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qH9fHiCu-OpoRShtxe_nfUc1TDo",
+            "etag": "Ypcn5Jei1594rL6OPio2JJLv_zs",
+            "id": "a5OwmwwW6k8",
+            "snippet": {
+                "publishedAt": "2026-10-09T19:00:39Z",
+                "channelId": "UCBo-8yyej5wNMHtutWDntpg",
+                "title": "WISMICHU DURO con ELXOKAS\ud83d\ude28GREFG EXPLOTA por MULTA de 750.000\u20ac\ud83d\ude28JUANSGUARNIZO Y SU MADRE SE SINCERAN",
+                "description": "\u25cf10% de DESCUENTO en PROZIS con el C\u00f3digo 'CELL': http://prozis.com/jZnF\n\n\u25cfInstagram: https://www.instagram.com/cell_officiall/\n\u25cfTwitter: https://twitter.com/Cell_Officiall\n\u25cfMis directos en: https://kick.com/cell\n\n\ud83d\udc8cBUSINESS: colaboracioncell@gmail.com\n\n0:00 INTRO\n0:28 WESTCOL HABLA DE SU GOLPE\n1:06 JORDI WILD SOBRE LA VIVIENDA Y PROPONE ESTO\n7:07 WISMICHU DURO con ELXOKAS\n8:49 ACUSAN A GREFG DE MULTA DE 750.000\u20ac\n13:50 GREFG RESPONDE\n16:46 JUANSGUARNIZO Y SU MADRE SE SINCERAN\n\n\ud83c\udfb5Instrumental Original Intro: Bad Bunny - Tu No Metes Cabra : https://www.youtube.com/watch?v=9NGgLhEVCUk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cell\u2122",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-ES",
+                "localized": {
+                    "title": "WISMICHU DURO con ELXOKAS\ud83d\ude28GREFG EXPLOTA por MULTA de 750.000\u20ac\ud83d\ude28JUANSGUARNIZO Y SU MADRE SE SINCERAN",
+                    "description": "\u25cf10% de DESCUENTO en PROZIS con el C\u00f3digo 'CELL': http://prozis.com/jZnF\n\n\u25cfInstagram: https://www.instagram.com/cell_officiall/\n\u25cfTwitter: https://twitter.com/Cell_Officiall\n\u25cfMis directos en: https://kick.com/cell\n\n\ud83d\udc8cBUSINESS: colaboracioncell@gmail.com\n\n0:00 INTRO\n0:28 WESTCOL HABLA DE SU GOLPE\n1:06 JORDI WILD SOBRE LA VIVIENDA Y PROPONE ESTO\n7:07 WISMICHU DURO con ELXOKAS\n8:49 ACUSAN A GREFG DE MULTA DE 750.000\u20ac\n13:50 GREFG RESPONDE\n16:46 JUANSGUARNIZO Y SU MADRE SE SINCERAN\n\n\ud83c\udfb5Instrumental Original Intro: Bad Bunny - Tu No Metes Cabra : https://www.youtube.com/watch?v=9NGgLhEVCUk"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "167699",
+                "likeCount": "2117",
+                "favoriteCount": "0",
+                "commentCount": "422"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cgFfHzsHyrrxy59OgD9DLFqbMDg",
+            "id": "C9OmyNRyz4E",
+            "snippet": {
+                "publishedAt": "2026-10-10T03:47:32Z",
+                "channelId": "UC9ChdqQRCaZmTCwSJ49tcbw",
+                "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
+                "description": "Sidhu Moose Wala Presente \u201c295\u201d from Moosetape\n\nSinger/Lyrics/Composer - Sidhu Moose Wala\nMusic - The Kidd\nMix & Master - Dense\nVideo - B2GETHER\n\n\nEnjoy And Stay Connected With Artist || SIDHU MOOSE WALA\n\n\nClick to Subscribe - https://bit.ly/SidhuMooseWalaSubscribe\nTwitter - https://www.twitter.com/iSidhuMooseWala\nFacebook - https://www.facebook.com/SidhuMooseWala\nInstagram - https://instagram.com/Sidhu_MooseWala\nSnapChat - https://www.snapchat.com/add/SidhuShubh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sidhu Moose Wala",
+                "tags": [
+                    "sidhu moosewala",
+                    "sidhu moosewala latest song",
+                    "sidhu moosewala leaked songs",
+                    "sidhu moosewala official videos",
+                    "sidhu moosewala official song",
+                    "latest punjabi song 2020"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
+                    "description": "Sidhu Moose Wala Presente \u201c295\u201d from Moosetape\n\nSinger/Lyrics/Composer - Sidhu Moose Wala\nMusic - The Kidd\nMix & Master - Dense\nVideo - B2GETHER\n\n\nEnjoy And Stay Connected With Artist || SIDHU MOOSE WALA\n\n\nClick to Subscribe - https://bit.ly/SidhuMooseWalaSubscribe\nTwitter - https://www.twitter.com/iSidhuMooseWala\nFacebook - https://www.facebook.com/SidhuMooseWala\nInstagram - https://instagram.com/Sidhu_MooseWala\nSnapChat - https://www.snapchat.com/add/SidhuShubh"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "8171434",
+                "likeCount": "474709",
+                "favoriteCount": "0",
+                "commentCount": "74818"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zR50RhJDfNyzgec4_m5XxdglKLo",
             "id": "sfBG3ptmdVA",
             "snippet": {
                 "publishedAt": "2026-10-07T20:18:14Z",
@@ -3136,244 +3321,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1010768",
-                "likeCount": "20192",
+                "viewCount": "1017903",
+                "likeCount": "20283",
                 "favoriteCount": "0",
-                "commentCount": "2823"
+                "commentCount": "2834"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UW2DMPD_3o9V7J5SDxelqUs2pj4",
-            "id": "C9OmyNRyz4E",
-            "snippet": {
-                "publishedAt": "2026-10-10T03:47:32Z",
-                "channelId": "UC9ChdqQRCaZmTCwSJ49tcbw",
-                "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
-                "description": "Sidhu Moose Wala Presente \u201c295\u201d from Moosetape\n\nSinger/Lyrics/Composer - Sidhu Moose Wala\nMusic - The Kidd\nMix & Master - Dense\nVideo - B2GETHER\n\n\nEnjoy And Stay Connected With Artist || SIDHU MOOSE WALA\n\n\nClick to Subscribe - https://bit.ly/SidhuMooseWalaSubscribe\nTwitter - https://www.twitter.com/iSidhuMooseWala\nFacebook - https://www.facebook.com/SidhuMooseWala\nInstagram - https://instagram.com/Sidhu_MooseWala\nSnapChat - https://www.snapchat.com/add/SidhuShubh",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/C9OmyNRyz4E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Sidhu Moose Wala",
-                "tags": [
-                    "sidhu moosewala",
-                    "sidhu moosewala latest song",
-                    "sidhu moosewala leaked songs",
-                    "sidhu moosewala official videos",
-                    "sidhu moosewala official song",
-                    "latest punjabi song 2020"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
-                    "description": "Sidhu Moose Wala Presente \u201c295\u201d from Moosetape\n\nSinger/Lyrics/Composer - Sidhu Moose Wala\nMusic - The Kidd\nMix & Master - Dense\nVideo - B2GETHER\n\n\nEnjoy And Stay Connected With Artist || SIDHU MOOSE WALA\n\n\nClick to Subscribe - https://bit.ly/SidhuMooseWalaSubscribe\nTwitter - https://www.twitter.com/iSidhuMooseWala\nFacebook - https://www.facebook.com/SidhuMooseWala\nInstagram - https://instagram.com/Sidhu_MooseWala\nSnapChat - https://www.snapchat.com/add/SidhuShubh"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "7484365",
-                "likeCount": "456903",
-                "favoriteCount": "0",
-                "commentCount": "72615"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ubUJtFadAThUXRTuO4CDOOPI168",
-            "id": "a5OwmwwW6k8",
-            "snippet": {
-                "publishedAt": "2026-10-09T19:00:39Z",
-                "channelId": "UCBo-8yyej5wNMHtutWDntpg",
-                "title": "WISMICHU DURO con ELXOKAS\ud83d\ude28GREFG EXPLOTA por MULTA de 750.000\u20ac\ud83d\ude28JUANSGUARNIZO Y SU MADRE SE SINCERAN",
-                "description": "\u25cf10% de DESCUENTO en PROZIS con el C\u00f3digo 'CELL': http://prozis.com/jZnF\n\n\u25cfInstagram: https://www.instagram.com/cell_officiall/\n\u25cfTwitter: https://twitter.com/Cell_Officiall\n\u25cfMis directos en: https://kick.com/cell\n\n\ud83d\udc8cBUSINESS: colaboracioncell@gmail.com\n\n0:00 INTRO\n0:28 WESTCOL HABLA DE SU GOLPE\n1:06 JORDI WILD SOBRE LA VIVIENDA Y PROPONE ESTO\n7:07 WISMICHU DURO con ELXOKAS\n8:49 ACUSAN A GREFG DE MULTA DE 750.000\u20ac\n13:50 GREFG RESPONDE\n16:46 JUANSGUARNIZO Y SU MADRE SE SINCERAN\n\n\ud83c\udfb5Instrumental Original Intro: Bad Bunny - Tu No Metes Cabra : https://www.youtube.com/watch?v=9NGgLhEVCUk",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/a5OwmwwW6k8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Cell\u2122",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-ES",
-                "localized": {
-                    "title": "WISMICHU DURO con ELXOKAS\ud83d\ude28GREFG EXPLOTA por MULTA de 750.000\u20ac\ud83d\ude28JUANSGUARNIZO Y SU MADRE SE SINCERAN",
-                    "description": "\u25cf10% de DESCUENTO en PROZIS con el C\u00f3digo 'CELL': http://prozis.com/jZnF\n\n\u25cfInstagram: https://www.instagram.com/cell_officiall/\n\u25cfTwitter: https://twitter.com/Cell_Officiall\n\u25cfMis directos en: https://kick.com/cell\n\n\ud83d\udc8cBUSINESS: colaboracioncell@gmail.com\n\n0:00 INTRO\n0:28 WESTCOL HABLA DE SU GOLPE\n1:06 JORDI WILD SOBRE LA VIVIENDA Y PROPONE ESTO\n7:07 WISMICHU DURO con ELXOKAS\n8:49 ACUSAN A GREFG DE MULTA DE 750.000\u20ac\n13:50 GREFG RESPONDE\n16:46 JUANSGUARNIZO Y SU MADRE SE SINCERAN\n\n\ud83c\udfb5Instrumental Original Intro: Bad Bunny - Tu No Metes Cabra : https://www.youtube.com/watch?v=9NGgLhEVCUk"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "166092",
-                "likeCount": "2088",
-                "favoriteCount": "0",
-                "commentCount": "418"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "LehICIjScGZcrtbj4EsZ7BRNqHA",
-            "id": "TdnjvSKg1yE",
-            "snippet": {
-                "publishedAt": "2026-10-08T22:00:39Z",
-                "channelId": "UCG337sC7wX43Ydw2sslZNog",
-                "title": "Vetusta Morla - Bailar en Beirut (Video Oficial)",
-                "description": "Bailar en Beirut es una producci\u00f3n de H\u00e9ctor Reo y Vetusta Morla para Peque\u00f1o Salto Mortal, mezclado y masterizado por \u00d3scar Clavel. Est\u00e1 grabado en vivo en 5020 Studios (Madrid).\n\nEn 2004 en Beirut, en un festival llamado Anti-Crise, Vetusta Morla se embarcaron en una experiencia humana y art\u00edstica absolutamente estimulante, que estrech\u00f3 su v\u00ednculo como amigos y como compa\u00f1eros de banda. \u201cLa leyenda dice que el impacto en nosotros fue tal que la \u00faltima noche de nuestra estancia all\u00ed, subidos a la azotea de la casa otomana donde se celebr\u00f3 el festival, sellamos el juramento de hacer siempre todo lo que estuviera en nuestra mano por continuar esta aventura fabulosa\u201d.\n\nRecuperan ahora las im\u00e1genes de aquel concierto de Beirut de hace 22 a\u00f1os para el videoclip de la canci\u00f3n, en di\u00e1logo con im\u00e1genes actuales de los ensayos de la nueva gira y de su primer concierto en Barcelona el pasado 2 de octubre. Una pieza que, en palabras de su director Iv\u00e1n Blanco, se mueve \u201centre el archivo y el directo, entre la distancia y el recuerdo, frente a lo \u00fanico e irrepetible del escenario\u201d, trazando as\u00ed un puente entre el origen de la canci\u00f3n y su llegada, tantos a\u00f1os despu\u00e9s, al directo.\n\n\n\nLETRA:   \n\nDicen que lo nuestro comenz\u00f3 en Beirut, \nen la azotea de una casa otomana. \nCon un juramento con los dedos en cruz, \nentre minaretes con efecto llamada, \nse firm\u00f3 aquel pacto en plena madrugada.\n\nCon las manos sobre un disco de Nick Drake, \njuramos por Thom Yorke seguir en la brecha \ny aunque \u201cpara siempre\u201d no sonaba bien, \ndesde entonces cada noche no ha habido tregua. \nPrometimos regresar a esa azotea. \nPrometemos regresar\u2026\n\n\u2026 y volver a cantar bajo el mismo cielo \ny juramos volver a temblar con el A\u00f1o Nuevo. \nPrometimos guardar de la noche el fuego, \nno dejar de beber su luz y volver a bailar en Beirut.\n\nAhora que la sombra engulle la ciudad \ncon un reguero de dolor en su almohada, \ntoca cumplir la promesa y regresar, \nbuscar los restos de esa casa otomana. \nY aunque los ca\u00f1ones silben su tonada, \nprometemos regresar...\n\n\u2026 y volver a cantar bajo el mismo cielo \ny juramos volver a temblar con el A\u00f1o Nuevo. \nPrometimos guardar de la noche el fuego, \nno dejar de beber su luz y volver a bailar en Beirut.\n\nY juramos cantar bajo el mismo cielo, \nno dejar de beber su luz, prometimos mirar al sur \ny volver a bailar\ny volver a bailar en Beirut.\n\n \n#VetustaMorla #BailarEnBeirut\n\nENLACES A PLATAFORMAS Y RRSS  \nWeb: Web Oficial - Vetusta Morla \nVevo: https://www.youtube.com/user/vetustamorlaVEVO \nSpotify: https://open.spotify.com/intl-es/artist/6J6yx1t3nwIDyPXk5xa7O8 \nAmazon Music: https://music.amazon.es/artists/B008PN55TK/vetusta-morla \nApple Music: Vetusta Morla en Apple Music \nYT M\u00fasica: Vetusta Morla - Tema \nTidal: https://listen.tidal.com/artist/3583877 \nDeezer: https://www.deezer.com/es/artist/262717 \nIG: https://www.instagram.com/vetustamorla/ \nFB: https://www.facebook.com/vetustamorlaoficial \nX: https://twitter.com/vetustamorla",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TdnjvSKg1yE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TdnjvSKg1yE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TdnjvSKg1yE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/TdnjvSKg1yE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/TdnjvSKg1yE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "vetustamorlaVEVO",
-                "tags": [
-                    "Bailar en Beirut",
-                    "Vetusta Morla"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Vetusta Morla - Bailar en Beirut (Video Oficial)",
-                    "description": "Bailar en Beirut es una producci\u00f3n de H\u00e9ctor Reo y Vetusta Morla para Peque\u00f1o Salto Mortal, mezclado y masterizado por \u00d3scar Clavel. Est\u00e1 grabado en vivo en 5020 Studios (Madrid).\n\nEn 2004 en Beirut, en un festival llamado Anti-Crise, Vetusta Morla se embarcaron en una experiencia humana y art\u00edstica absolutamente estimulante, que estrech\u00f3 su v\u00ednculo como amigos y como compa\u00f1eros de banda. \u201cLa leyenda dice que el impacto en nosotros fue tal que la \u00faltima noche de nuestra estancia all\u00ed, subidos a la azotea de la casa otomana donde se celebr\u00f3 el festival, sellamos el juramento de hacer siempre todo lo que estuviera en nuestra mano por continuar esta aventura fabulosa\u201d.\n\nRecuperan ahora las im\u00e1genes de aquel concierto de Beirut de hace 22 a\u00f1os para el videoclip de la canci\u00f3n, en di\u00e1logo con im\u00e1genes actuales de los ensayos de la nueva gira y de su primer concierto en Barcelona el pasado 2 de octubre. Una pieza que, en palabras de su director Iv\u00e1n Blanco, se mueve \u201centre el archivo y el directo, entre la distancia y el recuerdo, frente a lo \u00fanico e irrepetible del escenario\u201d, trazando as\u00ed un puente entre el origen de la canci\u00f3n y su llegada, tantos a\u00f1os despu\u00e9s, al directo.\n\n\n\nLETRA:   \n\nDicen que lo nuestro comenz\u00f3 en Beirut, \nen la azotea de una casa otomana. \nCon un juramento con los dedos en cruz, \nentre minaretes con efecto llamada, \nse firm\u00f3 aquel pacto en plena madrugada.\n\nCon las manos sobre un disco de Nick Drake, \njuramos por Thom Yorke seguir en la brecha \ny aunque \u201cpara siempre\u201d no sonaba bien, \ndesde entonces cada noche no ha habido tregua. \nPrometimos regresar a esa azotea. \nPrometemos regresar\u2026\n\n\u2026 y volver a cantar bajo el mismo cielo \ny juramos volver a temblar con el A\u00f1o Nuevo. \nPrometimos guardar de la noche el fuego, \nno dejar de beber su luz y volver a bailar en Beirut.\n\nAhora que la sombra engulle la ciudad \ncon un reguero de dolor en su almohada, \ntoca cumplir la promesa y regresar, \nbuscar los restos de esa casa otomana. \nY aunque los ca\u00f1ones silben su tonada, \nprometemos regresar...\n\n\u2026 y volver a cantar bajo el mismo cielo \ny juramos volver a temblar con el A\u00f1o Nuevo. \nPrometimos guardar de la noche el fuego, \nno dejar de beber su luz y volver a bailar en Beirut.\n\nY juramos cantar bajo el mismo cielo, \nno dejar de beber su luz, prometimos mirar al sur \ny volver a bailar\ny volver a bailar en Beirut.\n\n \n#VetustaMorla #BailarEnBeirut\n\nENLACES A PLATAFORMAS Y RRSS  \nWeb: Web Oficial - Vetusta Morla \nVevo: https://www.youtube.com/user/vetustamorlaVEVO \nSpotify: https://open.spotify.com/intl-es/artist/6J6yx1t3nwIDyPXk5xa7O8 \nAmazon Music: https://music.amazon.es/artists/B008PN55TK/vetusta-morla \nApple Music: Vetusta Morla en Apple Music \nYT M\u00fasica: Vetusta Morla - Tema \nTidal: https://listen.tidal.com/artist/3583877 \nDeezer: https://www.deezer.com/es/artist/262717 \nIG: https://www.instagram.com/vetustamorla/ \nFB: https://www.facebook.com/vetustamorlaoficial \nX: https://twitter.com/vetustamorla"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "49548",
-                "likeCount": "1300",
-                "favoriteCount": "0",
-                "commentCount": "99"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "MTD8pl7GTBgrksvn1n0ZbOYh2dE",
-            "id": "_vAclcnc5pI",
-            "snippet": {
-                "publishedAt": "2026-10-08T21:12:10Z",
-                "channelId": "UCoM9zJTA8nsQnYZaf9Ppt8Q",
-                "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
-                "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Mandarina",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
-                    "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "489841",
-                "likeCount": "9906",
-                "favoriteCount": "0",
-                "commentCount": "378"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ym-o02tQeC0b5bowCbsEDl6zxFQ",
+            "etag": "BNjCc1eYqgDiTOkk_UBphTniqpg",
             "id": "9U2H94GwsbY",
             "snippet": {
                 "publishedAt": "2026-10-09T12:00:39Z",
@@ -3466,10 +3422,68 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "12182",
-                "likeCount": "588",
+                "viewCount": "12462",
+                "likeCount": "594",
                 "favoriteCount": "0",
                 "commentCount": "37"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4aFiNupa9EHYyDsPvAXGE3PiRXY",
+            "id": "_vAclcnc5pI",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:12:10Z",
+                "channelId": "UCoM9zJTA8nsQnYZaf9Ppt8Q",
+                "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
+                "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Mandarina",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
+                    "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "499555",
+                "likeCount": "10120",
+                "favoriteCount": "0",
+                "commentCount": "383"
             }
         }
     ],

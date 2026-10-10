@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "CwpBZOiYer389CuPluwNfxMaJJo",
+    "etag": "mcYNxKVzNrKXQGrHbCwTE_W9zVo",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "RA9OMTLDgzpjKZdyKi65TT9Av1M",
+            "etag": "RvjAkFZ4f-4dgwjhI47HXAtl3eo",
             "id": "3juuih0WdH8",
             "snippet": {
                 "publishedAt": "2026-10-09T19:04:30Z",
@@ -64,15 +64,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1819056",
-                "likeCount": "193961",
+                "viewCount": "1875158",
+                "likeCount": "197090",
                 "favoriteCount": "0",
-                "commentCount": "11570"
+                "commentCount": "11716"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QmhPCc4JpgoVWgaFrtgz-9eEZGw",
+            "etag": "GZkDpXD6tWR0aE061wZjVKo6knE",
             "id": "QEwlcDXFkiA",
             "snippet": {
                 "publishedAt": "2026-10-09T22:54:22Z",
@@ -141,15 +141,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "114192",
-                "likeCount": "2064",
+                "viewCount": "116806",
+                "likeCount": "2157",
                 "favoriteCount": "0",
-                "commentCount": "203"
+                "commentCount": "207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0CJOGLlsN7L4WbRAS3LLAHmQ32Y",
+            "etag": "snIo7ppke1hY6Pwfyh-3Z2t9HMs",
             "id": "qdqI62D6lQA",
             "snippet": {
                 "publishedAt": "2026-10-09T18:06:14Z",
@@ -199,15 +199,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "784012",
-                "likeCount": "7630",
+                "viewCount": "818404",
+                "likeCount": "7992",
                 "favoriteCount": "0",
-                "commentCount": "394"
+                "commentCount": "407"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "olrda0nT0hnt9oVBB-HcG85mPLs",
+            "etag": "Lc4cF-2Wbds7DzqaOi7GS9FmBUo",
             "id": "dKjG85R5RGA",
             "snippet": {
                 "publishedAt": "2026-10-10T00:01:07Z",
@@ -277,15 +277,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "56404",
-                "likeCount": "1308",
+                "viewCount": "59773",
+                "likeCount": "1378",
                 "favoriteCount": "0",
-                "commentCount": "109"
+                "commentCount": "119"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "euxFc_FB9DC0fLH2s3wYYHEIrek",
+            "etag": "-eaNimohOp4996I3vSTzhkGYGRc",
             "id": "DGwYk6Usv3I",
             "snippet": {
                 "publishedAt": "2026-10-10T05:59:52Z",
@@ -372,15 +372,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "402818",
-                "likeCount": "9136",
+                "viewCount": "408157",
+                "likeCount": "9308",
                 "favoriteCount": "0",
-                "commentCount": "80"
+                "commentCount": "84"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "l1OrsQ1rRY9mlOKUrxPDQfzkr1g",
+            "etag": "clIhyMwDFzYA_bGL-84vNKTuEeY",
             "id": "nKnrAXWIryU",
             "snippet": {
                 "publishedAt": "2026-10-08T23:00:08Z",
@@ -479,15 +479,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "153863",
-                "likeCount": "2477",
+                "viewCount": "157443",
+                "likeCount": "2506",
                 "favoriteCount": "0",
                 "commentCount": "61"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "dA5D3bMNzJc76uMRjGBFLyhYKNw",
+            "etag": "lLjIARIRAoCZTP0ZNF6KbyJNzok",
             "id": "h6ZI12XZtRM",
             "snippet": {
                 "publishedAt": "2026-10-09T22:30:28Z",
@@ -581,15 +581,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "193045",
-                "likeCount": "8272",
+                "viewCount": "200402",
+                "likeCount": "8702",
                 "favoriteCount": "0",
-                "commentCount": "287"
+                "commentCount": "291"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ZR5rCIKtr5KGKT4tDoUKN_E-O28",
+            "etag": "8_oVd8ikABsIJoH6X_uCpD6EEl4",
             "id": "4vm1syPr-QE",
             "snippet": {
                 "publishedAt": "2026-10-09T22:15:07Z",
@@ -656,15 +656,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "31829",
-                "likeCount": "1866",
+                "viewCount": "32969",
+                "likeCount": "1923",
                 "favoriteCount": "0",
-                "commentCount": "98"
+                "commentCount": "100"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "h_Erzeeu2Fr-S3ARdMZiweeZa3s",
+            "etag": "iIsR_Qy8MzKv2OW9OvTsCm_v5Gk",
             "id": "GYEXSoJrv78",
             "snippet": {
                 "publishedAt": "2026-10-09T21:30:31Z",
@@ -737,15 +737,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "271463",
-                "likeCount": "11440",
+                "viewCount": "278805",
+                "likeCount": "11779",
                 "favoriteCount": "0",
-                "commentCount": "350"
+                "commentCount": "352"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TomBJ5DfK0Xhx9lOS3h60u0Pt3o",
+            "etag": "-6Lz107MzVanEOGCUjEjrC5v3ls",
             "id": "3Oc-1Mn6LZQ",
             "snippet": {
                 "publishedAt": "2026-10-09T16:00:09Z",
@@ -796,15 +796,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "59931",
-                "likeCount": "80",
+                "viewCount": "62689",
+                "likeCount": "86",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "W_au0z92wZ-zsbS_-xk8jzWI5Eo",
+            "etag": "CgN3jM_IZsVa_JR6_wPxUuNwDmc",
             "id": "lZYD0aqAvIU",
             "snippet": {
                 "publishedAt": "2026-10-10T01:30:26Z",
@@ -849,15 +849,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "410141",
-                "likeCount": "16743",
+                "viewCount": "434766",
+                "likeCount": "17883",
                 "favoriteCount": "0",
-                "commentCount": "583"
+                "commentCount": "602"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2QGSrFdIgY95bit2lU1Ycg078zQ",
+            "etag": "tUa4Q4tyTtSAlfYoYBdDKvwpEfs",
             "id": "ZxdLVdS-yr4",
             "snippet": {
                 "publishedAt": "2026-10-09T16:00:10Z",
@@ -909,15 +909,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "313941",
-                "likeCount": "19334",
+                "viewCount": "320499",
+                "likeCount": "19720",
                 "favoriteCount": "0",
-                "commentCount": "736"
+                "commentCount": "742"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oMxFm09daWLlP4wKLkyeIWe2Dm0",
+            "etag": "NUKFfVRlLcpOv4sNceTHV--RwMA",
             "id": "R3Dg2Zh1ZOc",
             "snippet": {
                 "publishedAt": "2026-10-10T03:11:27Z",
@@ -967,15 +967,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "202171",
-                "likeCount": "5603",
+                "viewCount": "203724",
+                "likeCount": "5629",
                 "favoriteCount": "0",
                 "commentCount": "30"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JqZEi9VhrimzPuHVKiAWi_S7eoc",
+            "etag": "3TKhqH_pdHp5F2f7iijK5akczic",
             "id": "ZfdwnCz-kiA",
             "snippet": {
                 "publishedAt": "2026-10-08T21:51:18Z",
@@ -1035,163 +1035,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2567544",
-                "likeCount": "108102",
+                "viewCount": "2605028",
+                "likeCount": "109571",
                 "favoriteCount": "0",
-                "commentCount": "10333"
+                "commentCount": "10414"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "I_J7VqE6nK4szpelWS2C101kQCc",
-            "id": "javQvZ0ADx0",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:00:08Z",
-                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
-                "title": "skibidi toilet 82",
-                "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "skibidi",
-                "tags": [
-                    "skibidi toilet 82",
-                    "skibidi toilet",
-                    "skibidi",
-                    "82",
-                    "skibidi 82",
-                    "skibidi toilet episode 82",
-                    "episode 82",
-                    "skibidi toilet new episode",
-                    "g-toilet",
-                    "g toilet",
-                    "\uc2a4\ud0a4\ube44\ub514 \ud1a0\uc77c\ub81b",
-                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30c8\u30a4\u30ec",
-                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30fb\u30c8\u30a4\u30ec",
-                    "\u0e2a\u0e01\u0e35\u0e1a\u0e35\u0e14\u0e35\u0e49\u0e17\u0e2d\u0e22\u0e40\u0e25\u0e47\u0e15",
-                    "esquibidi do toilet",
-                    "skippy toilet",
-                    "skippity toilet",
-                    "toilet",
-                    "skibidi toilet season 27"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "skibidi toilet 82",
-                    "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "4784921",
-                "likeCount": "212532",
-                "favoriteCount": "0",
-                "commentCount": "27785"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "HYBs6KXOjzjzBf6i_4afYguBFDY",
-            "id": "hxfkPVNbkQA",
-            "snippet": {
-                "publishedAt": "2026-10-09T00:00:07Z",
-                "channelId": "UC4i6-lksBezBvEKihXcABmQ",
-                "title": "Sebastian Mendoza - Lo Peor",
-                "description": "Shows: https://bio.to/SebaMendoza \nCuentas oficiales Sebastian Mendoza:\nYouTube:  https://www.youtube.com/channel/UCq1OZCi-2xXniu8_ZmMOgVw  \nSpotify: https://open.spotify.com/intl-es/artist/2CEKDXUTkOu4LnGFysySTg?si=gjNjxO1uRFy7zjVBcLQE-g \nInstagram: instagram.com/sebamendoza84\nFacebook: facebook.com/SebastianMendoza.Comunidad\nTik Tok: https://www.tiktok.com/@sebastianmendozaok?_r=1&_t=ZS-93cXWMTSOfI\n \nLETRA:\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nHoy nos domina el fr\u00edo en la habitaci\u00f3n \nQue triste ver como agoniza nuestro amor\nY se nos muere.\n\nPor cada herida que sangre llev\u00f3 una cicatriz \nY tu fantasma me habla cundo intento dormir\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY se nos muere.\n\nSi te eh pedido ayuda para no llorar!\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \npor mi.\n\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY todo se muere.\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \n\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar por mi.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "SebaMendozaVEVO",
-                "tags": [
-                    "Sebastian Mendoza",
-                    "Universal Music Argentina S.A.",
-                    "Latin Tropical",
-                    "cumbia norte\u00f1a",
-                    "estadio malvinas argentinas",
-                    "legado tour",
-                    "zapada un poco de ruido",
-                    "luciano pereyra",
-                    "te soltare",
-                    "Hola Amigo",
-                    "suplente",
-                    "no aguanto m\u00e1s suplente",
-                    "velez",
-                    "dueles"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Sebastian Mendoza - Lo Peor",
-                    "description": "Shows: https://bio.to/SebaMendoza \nCuentas oficiales Sebastian Mendoza:\nYouTube:  https://www.youtube.com/channel/UCq1OZCi-2xXniu8_ZmMOgVw  \nSpotify: https://open.spotify.com/intl-es/artist/2CEKDXUTkOu4LnGFysySTg?si=gjNjxO1uRFy7zjVBcLQE-g \nInstagram: instagram.com/sebamendoza84\nFacebook: facebook.com/SebastianMendoza.Comunidad\nTik Tok: https://www.tiktok.com/@sebastianmendozaok?_r=1&_t=ZS-93cXWMTSOfI\n \nLETRA:\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nHoy nos domina el fr\u00edo en la habitaci\u00f3n \nQue triste ver como agoniza nuestro amor\nY se nos muere.\n\nPor cada herida que sangre llev\u00f3 una cicatriz \nY tu fantasma me habla cundo intento dormir\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY se nos muere.\n\nSi te eh pedido ayuda para no llorar!\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \npor mi.\n\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY todo se muere.\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \n\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar por mi."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "73522",
-                "likeCount": "3022",
-                "favoriteCount": "0",
-                "commentCount": "273"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "GhOzEfcEsx9jUnMi-oJn6JkoNss",
+            "etag": "x4Kfe5bzC24WmytxvGkZnsw-umA",
             "id": "YwsPNUiK5aQ",
             "snippet": {
                 "publishedAt": "2026-10-09T21:05:06Z",
@@ -1267,15 +1119,163 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "466462",
-                "likeCount": "14234",
+                "viewCount": "480559",
+                "likeCount": "14772",
                 "favoriteCount": "0",
-                "commentCount": "1082"
+                "commentCount": "1093"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K_UaJAwySqS3qrM_fUngtTGMkRE",
+            "etag": "CzrtM81gbaWLMX8_V7wEkDS2yC8",
+            "id": "hxfkPVNbkQA",
+            "snippet": {
+                "publishedAt": "2026-10-09T00:00:07Z",
+                "channelId": "UC4i6-lksBezBvEKihXcABmQ",
+                "title": "Sebastian Mendoza - Lo Peor",
+                "description": "Shows: https://bio.to/SebaMendoza \nCuentas oficiales Sebastian Mendoza:\nYouTube:  https://www.youtube.com/channel/UCq1OZCi-2xXniu8_ZmMOgVw  \nSpotify: https://open.spotify.com/intl-es/artist/2CEKDXUTkOu4LnGFysySTg?si=gjNjxO1uRFy7zjVBcLQE-g \nInstagram: instagram.com/sebamendoza84\nFacebook: facebook.com/SebastianMendoza.Comunidad\nTik Tok: https://www.tiktok.com/@sebastianmendozaok?_r=1&_t=ZS-93cXWMTSOfI\n \nLETRA:\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nHoy nos domina el fr\u00edo en la habitaci\u00f3n \nQue triste ver como agoniza nuestro amor\nY se nos muere.\n\nPor cada herida que sangre llev\u00f3 una cicatriz \nY tu fantasma me habla cundo intento dormir\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY se nos muere.\n\nSi te eh pedido ayuda para no llorar!\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \npor mi.\n\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY todo se muere.\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \n\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar por mi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hxfkPVNbkQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SebaMendozaVEVO",
+                "tags": [
+                    "Sebastian Mendoza",
+                    "Universal Music Argentina S.A.",
+                    "Latin Tropical",
+                    "cumbia norte\u00f1a",
+                    "estadio malvinas argentinas",
+                    "legado tour",
+                    "zapada un poco de ruido",
+                    "luciano pereyra",
+                    "te soltare",
+                    "Hola Amigo",
+                    "suplente",
+                    "no aguanto m\u00e1s suplente",
+                    "velez",
+                    "dueles"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Sebastian Mendoza - Lo Peor",
+                    "description": "Shows: https://bio.to/SebaMendoza \nCuentas oficiales Sebastian Mendoza:\nYouTube:  https://www.youtube.com/channel/UCq1OZCi-2xXniu8_ZmMOgVw  \nSpotify: https://open.spotify.com/intl-es/artist/2CEKDXUTkOu4LnGFysySTg?si=gjNjxO1uRFy7zjVBcLQE-g \nInstagram: instagram.com/sebamendoza84\nFacebook: facebook.com/SebastianMendoza.Comunidad\nTik Tok: https://www.tiktok.com/@sebastianmendozaok?_r=1&_t=ZS-93cXWMTSOfI\n \nLETRA:\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nHoy nos domina el fr\u00edo en la habitaci\u00f3n \nQue triste ver como agoniza nuestro amor\nY se nos muere.\n\nPor cada herida que sangre llev\u00f3 una cicatriz \nY tu fantasma me habla cundo intento dormir\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY se nos muere.\n\nSi te eh pedido ayuda para no llorar!\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \npor mi.\n\n\nParece que con el tiempo \nMe hice adicto al dolor \nY solo nos remarcamos lo peor de los dos\nAhora soy el malo en cada situaci\u00f3n \nDe todas tus historias yo soy el peor\nY todo se muere.\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar \n\n\nSi te eh pedido ayuda para no llorar !\nSi te grite mil veces que no aguanto mas !\nMejor nos enfrentamos a la realidad\nNo quiero mas verte llorar por mi."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "75173",
+                "likeCount": "3047",
+                "favoriteCount": "0",
+                "commentCount": "274"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DCTXAXDostrE4yHz39l-ZJp9rfg",
+            "id": "javQvZ0ADx0",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:00:08Z",
+                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+                "title": "skibidi toilet 82",
+                "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "skibidi",
+                "tags": [
+                    "skibidi toilet 82",
+                    "skibidi toilet",
+                    "skibidi",
+                    "82",
+                    "skibidi 82",
+                    "skibidi toilet episode 82",
+                    "episode 82",
+                    "skibidi toilet new episode",
+                    "g-toilet",
+                    "g toilet",
+                    "\uc2a4\ud0a4\ube44\ub514 \ud1a0\uc77c\ub81b",
+                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30c8\u30a4\u30ec",
+                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30fb\u30c8\u30a4\u30ec",
+                    "\u0e2a\u0e01\u0e35\u0e1a\u0e35\u0e14\u0e35\u0e49\u0e17\u0e2d\u0e22\u0e40\u0e25\u0e47\u0e15",
+                    "esquibidi do toilet",
+                    "skippy toilet",
+                    "skippity toilet",
+                    "toilet",
+                    "skibidi toilet season 27"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "skibidi toilet 82",
+                    "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "4849735",
+                "likeCount": "214339",
+                "favoriteCount": "0",
+                "commentCount": "27922"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ruy50DFUpPBMVYmI5yslOP18zDw",
             "id": "acu2n6HHXy4",
             "snippet": {
                 "publishedAt": "2026-10-08T23:00:08Z",
@@ -1325,73 +1325,68 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "73790",
-                "likeCount": "1273",
+                "viewCount": "75423",
+                "likeCount": "1286",
                 "favoriteCount": "0",
-                "commentCount": "56"
+                "commentCount": "57"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Csa0OXdjOKmxItNdT34SAhJCMLs",
-            "id": "yfH5nzS3s_4",
+            "etag": "6S5JQfWSs3D6UHDe_OKzDYgwiag",
+            "id": "uoIjRSL-E8I",
             "snippet": {
-                "publishedAt": "2026-10-09T13:00:23Z",
-                "channelId": "UC0nvWiBrtyoZ0iBmYGRjJ6g",
-                "title": "LOGRO JUGAR MEJOR QUE EL BARCA DE HANSI FLICK Y HUMILLO A MIS RIVALES... EPISODIO 5 - EA FC 27",
-                "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize\n\nContacto: davo@doxen.com.ar",
+                "publishedAt": "2026-10-09T23:43:21Z",
+                "channelId": "UC62nFXtc3KNujp9LCPJt-sA",
+                "title": "Me Convert\u00ed en el GATO ENSOMBRERADO para Trollear a mis Amigos!",
+                "description": "Hoy, Awita Escapara de un Megalodon y vivira en una casa, evolucionara de una casa submarina de tierra muy pobre a una casa SUBMARINA ARCOIRIS y OP MILLONARIA, sus amigos se burlan de el por vivir en una casa pobre,  Qu\u00e9 pasar\u00e1? \u00a1Descrubelo!\ncontacto: awita@mcr-agency.com\n\n#minecraft #minecraftmod #Awita #AwitaMinecraft",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "Davoo Xeneize Plus",
-                "categoryId": "22",
+                "channelTitle": "Awita",
+                "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "LOGRO JUGAR MEJOR QUE EL BARCA DE HANSI FLICK Y HUMILLO A MIS RIVALES... EPISODIO 5 - EA FC 27",
-                    "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize\n\nContacto: davo@doxen.com.ar"
+                    "title": "Me Convert\u00ed en el GATO ENSOMBRERADO para Trollear a mis Amigos!",
+                    "description": "Hoy, Awita Escapara de un Megalodon y vivira en una casa, evolucionara de una casa submarina de tierra muy pobre a una casa SUBMARINA ARCOIRIS y OP MILLONARIA, sus amigos se burlan de el por vivir en una casa pobre,  Qu\u00e9 pasar\u00e1? \u00a1Descrubelo!\ncontacto: awita@mcr-agency.com\n\n#minecraft #minecraftmod #Awita #AwitaMinecraft"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "442370",
-                "likeCount": "16601",
+                "viewCount": "226180",
+                "likeCount": "4419",
                 "favoriteCount": "0",
-                "commentCount": "676"
+                "commentCount": "583"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "B5xl63XfbLU1yo1zNf56QUnfokc",
+            "etag": "QtuktmwdsDgAJNtGPEqFEej5NMQ",
             "id": "j31L0iIwdmE",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:29Z",
@@ -1443,68 +1438,73 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "662975",
-                "likeCount": "46464",
+                "viewCount": "670574",
+                "likeCount": "46805",
                 "favoriteCount": "0",
-                "commentCount": "2406"
+                "commentCount": "2408"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rH7-UtLcQkgJU798U6jDA538QFs",
-            "id": "uoIjRSL-E8I",
+            "etag": "CV2m9Stz3pHDWFxv2cA0jPJEC_E",
+            "id": "yfH5nzS3s_4",
             "snippet": {
-                "publishedAt": "2026-10-09T23:43:21Z",
-                "channelId": "UC62nFXtc3KNujp9LCPJt-sA",
-                "title": "Me Convert\u00ed en el GATO ENSOMBRERADO para Trollear a mis Amigos!",
-                "description": "Hoy, Awita Escapara de un Megalodon y vivira en una casa, evolucionara de una casa submarina de tierra muy pobre a una casa SUBMARINA ARCOIRIS y OP MILLONARIA, sus amigos se burlan de el por vivir en una casa pobre,  Qu\u00e9 pasar\u00e1? \u00a1Descrubelo!\ncontacto: awita@mcr-agency.com\n\n#minecraft #minecraftmod #Awita #AwitaMinecraft",
+                "publishedAt": "2026-10-09T13:00:23Z",
+                "channelId": "UC0nvWiBrtyoZ0iBmYGRjJ6g",
+                "title": "LOGRO JUGAR MEJOR QUE EL BARCA DE HANSI FLICK Y HUMILLO A MIS RIVALES... EPISODIO 5 - EA FC 27",
+                "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize\n\nContacto: davo@doxen.com.ar",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/uoIjRSL-E8I/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/yfH5nzS3s_4/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Awita",
-                "categoryId": "20",
+                "channelTitle": "Davoo Xeneize Plus",
+                "categoryId": "22",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Me Convert\u00ed en el GATO ENSOMBRERADO para Trollear a mis Amigos!",
-                    "description": "Hoy, Awita Escapara de un Megalodon y vivira en una casa, evolucionara de una casa submarina de tierra muy pobre a una casa SUBMARINA ARCOIRIS y OP MILLONARIA, sus amigos se burlan de el por vivir en una casa pobre,  Qu\u00e9 pasar\u00e1? \u00a1Descrubelo!\ncontacto: awita@mcr-agency.com\n\n#minecraft #minecraftmod #Awita #AwitaMinecraft"
+                    "title": "LOGRO JUGAR MEJOR QUE EL BARCA DE HANSI FLICK Y HUMILLO A MIS RIVALES... EPISODIO 5 - EA FC 27",
+                    "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize\n\nContacto: davo@doxen.com.ar"
                 },
-                "defaultAudioLanguage": "es-419"
+                "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "212364",
-                "likeCount": "4220",
+                "viewCount": "446968",
+                "likeCount": "16800",
                 "favoriteCount": "0",
-                "commentCount": "572"
+                "commentCount": "677"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1l_fYheGdpxvYx4oASywiQ4U52U",
+            "etag": "G3R_IVhHSu_BYcMFSEntJZXhOPk",
             "id": "5flyIBwg7t0",
             "snippet": {
                 "publishedAt": "2026-10-09T04:03:19Z",
@@ -1553,15 +1553,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "143527",
-                "likeCount": "3250",
+                "viewCount": "146599",
+                "likeCount": "3340",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YLmdReIHkvfXO-sNzi5C0acooBk",
+            "etag": "d7dYvCm6v-USI59loV2lP3hC0x4",
             "id": "YWlb1OMbmOQ",
             "snippet": {
                 "publishedAt": "2026-10-09T17:16:13Z",
@@ -1638,15 +1638,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1402167",
-                "likeCount": "35839",
+                "viewCount": "1422493",
+                "likeCount": "36510",
                 "favoriteCount": "0",
-                "commentCount": "1239"
+                "commentCount": "1253"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "meeTFYviZDx-bMfWJ27dbiON6SA",
+            "etag": "FBMr7dXhO9VhuN4DMRpz3XP5tV0",
             "id": "SYwN28e-Saw",
             "snippet": {
                 "publishedAt": "2026-10-06T22:00:10Z",
@@ -1720,15 +1720,150 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "124569",
-                "likeCount": "294",
+                "viewCount": "128675",
+                "likeCount": "301",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4ggebkp97OQHd-gAZaN8a1dxzjg",
+            "etag": "KSGyAd4vaa5XgECbMKvIJvGYpUc",
+            "id": "qtrWQ6x1iTo",
+            "snippet": {
+                "publishedAt": "2026-10-09T20:50:14Z",
+                "channelId": "UCcRpW9GxA3KFipksgwEXtEA",
+                "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
+                "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nukleo Plus",
+                "tags": [
+                    "roba un huevo",
+                    "steal an egg",
+                    "roblox",
+                    "nukleo",
+                    "roba un huevo roblox",
+                    "steal an egg roblox",
+                    "top 1 roba un huevo",
+                    "top 1 mundial roba un huevo",
+                    "jugador numero 1 roba un huevo",
+                    "mejor mascota roba un huevo",
+                    "fusion roba un huevo",
+                    "nueva fusion roba un huevo",
+                    "fusion mas rota roba un huevo",
+                    "ballena divina",
+                    "royal skywhale",
+                    "leon eterno",
+                    "celestial sunlion",
+                    "mascota mas op roba un huevo",
+                    "steal an egg fusion",
+                    "steal an egg best pet",
+                    "steal an egg update",
+                    "top mundial roba un huevo",
+                    "roblox espa\u00f1ol"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
+                    "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "269577",
+                "likeCount": "4768",
+                "favoriteCount": "0",
+                "commentCount": "370"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HTtPrvRn9bhbNUvOWzWPomODuCk",
+            "id": "hqo8EwUXgf4",
+            "snippet": {
+                "publishedAt": "2026-10-05T19:24:06Z",
+                "channelId": "UC0a1LBi23Y9VCKByzz4Ut8w",
+                "title": "Como Antes (Turreo Old School)",
+                "description": "Provided to YouTube by Urban Club (Hernan d' music)\n\nComo Antes (Turreo Old School) \u00b7 Hernan D' Music\n\nComo Antes (Turreo Old School)\n\n\u2117 2026 Hernan d' music\n\nReleased on: 2026-10-03\n\nMain Artist: Hernan D' Music\nProducer: Hernan D' Music\nComposer: Llandel Veguilla Malave\nLyricist: Llandel Veguilla Malave\nMusic Publisher: Llandel Veguilla Malave\nComposer: Juan Luis Morera Luna\nLyricist: Juan Luis Morera Luna\nMusic Publisher: Juan Luis Morera Luna\nComposer: Marco Masis\nLyricist: Marco Masis\nMusic Publisher: Marco Masis\nComposer: V\u00edctor Viera Moore\nLyricist: V\u00edctor Viera Moore\nMusic Publisher: V\u00edctor Viera Moore\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hernan D' Music - Topic",
+                "tags": [
+                    "Hernan D' Music",
+                    "Como Antes (Turreo Old School)"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Como Antes (Turreo Old School)",
+                    "description": "Provided to YouTube by Urban Club (Hernan d' music)\n\nComo Antes (Turreo Old School) \u00b7 Hernan D' Music\n\nComo Antes (Turreo Old School)\n\n\u2117 2026 Hernan d' music\n\nReleased on: 2026-10-03\n\nMain Artist: Hernan D' Music\nProducer: Hernan D' Music\nComposer: Llandel Veguilla Malave\nLyricist: Llandel Veguilla Malave\nMusic Publisher: Llandel Veguilla Malave\nComposer: Juan Luis Morera Luna\nLyricist: Juan Luis Morera Luna\nMusic Publisher: Juan Luis Morera Luna\nComposer: Marco Masis\nLyricist: Marco Masis\nMusic Publisher: Marco Masis\nComposer: V\u00edctor Viera Moore\nLyricist: V\u00edctor Viera Moore\nMusic Publisher: V\u00edctor Viera Moore\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "30518",
+                "likeCount": "168",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "b5VZoI6Ah5LHso9ku9v2MLsRDhQ",
             "id": "MMgd6yhPxXw",
             "snippet": {
                 "publishedAt": "2026-10-09T20:52:00Z",
@@ -1808,150 +1943,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "520026",
-                "likeCount": "5698",
+                "viewCount": "543884",
+                "likeCount": "5939",
                 "favoriteCount": "0",
-                "commentCount": "333"
+                "commentCount": "343"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "dyaqw4wxq90g8ZHJNvUI7o9hlnk",
-            "id": "hqo8EwUXgf4",
-            "snippet": {
-                "publishedAt": "2026-10-05T19:24:06Z",
-                "channelId": "UC0a1LBi23Y9VCKByzz4Ut8w",
-                "title": "Como Antes (Turreo Old School)",
-                "description": "Provided to YouTube by Urban Club (Hernan d' music)\n\nComo Antes (Turreo Old School) \u00b7 Hernan D' Music\n\nComo Antes (Turreo Old School)\n\n\u2117 2026 Hernan d' music\n\nReleased on: 2026-10-03\n\nMain Artist: Hernan D' Music\nProducer: Hernan D' Music\nComposer: Llandel Veguilla Malave\nLyricist: Llandel Veguilla Malave\nMusic Publisher: Llandel Veguilla Malave\nComposer: Juan Luis Morera Luna\nLyricist: Juan Luis Morera Luna\nMusic Publisher: Juan Luis Morera Luna\nComposer: Marco Masis\nLyricist: Marco Masis\nMusic Publisher: Marco Masis\nComposer: V\u00edctor Viera Moore\nLyricist: V\u00edctor Viera Moore\nMusic Publisher: V\u00edctor Viera Moore\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/hqo8EwUXgf4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Hernan D' Music - Topic",
-                "tags": [
-                    "Hernan D' Music",
-                    "Como Antes (Turreo Old School)"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Como Antes (Turreo Old School)",
-                    "description": "Provided to YouTube by Urban Club (Hernan d' music)\n\nComo Antes (Turreo Old School) \u00b7 Hernan D' Music\n\nComo Antes (Turreo Old School)\n\n\u2117 2026 Hernan d' music\n\nReleased on: 2026-10-03\n\nMain Artist: Hernan D' Music\nProducer: Hernan D' Music\nComposer: Llandel Veguilla Malave\nLyricist: Llandel Veguilla Malave\nMusic Publisher: Llandel Veguilla Malave\nComposer: Juan Luis Morera Luna\nLyricist: Juan Luis Morera Luna\nMusic Publisher: Juan Luis Morera Luna\nComposer: Marco Masis\nLyricist: Marco Masis\nMusic Publisher: Marco Masis\nComposer: V\u00edctor Viera Moore\nLyricist: V\u00edctor Viera Moore\nMusic Publisher: V\u00edctor Viera Moore\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "29074",
-                "likeCount": "157",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "fOLGG08oVnNQOLADeqsXkDDExfo",
-            "id": "qtrWQ6x1iTo",
-            "snippet": {
-                "publishedAt": "2026-10-09T20:50:14Z",
-                "channelId": "UCcRpW9GxA3KFipksgwEXtEA",
-                "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
-                "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Nukleo Plus",
-                "tags": [
-                    "roba un huevo",
-                    "steal an egg",
-                    "roblox",
-                    "nukleo",
-                    "roba un huevo roblox",
-                    "steal an egg roblox",
-                    "top 1 roba un huevo",
-                    "top 1 mundial roba un huevo",
-                    "jugador numero 1 roba un huevo",
-                    "mejor mascota roba un huevo",
-                    "fusion roba un huevo",
-                    "nueva fusion roba un huevo",
-                    "fusion mas rota roba un huevo",
-                    "ballena divina",
-                    "royal skywhale",
-                    "leon eterno",
-                    "celestial sunlion",
-                    "mascota mas op roba un huevo",
-                    "steal an egg fusion",
-                    "steal an egg best pet",
-                    "steal an egg update",
-                    "top mundial roba un huevo",
-                    "roblox espa\u00f1ol"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
-                    "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "258926",
-                "likeCount": "4688",
-                "favoriteCount": "0",
-                "commentCount": "368"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Og9wN_bDa8DPkQce5KR_RtvERJQ",
+            "etag": "tu9eV1KCcwkHfi3OnNUVrpUG1zU",
             "id": "rYgPNszxA9E",
             "snippet": {
                 "publishedAt": "2026-10-08T23:00:00Z",
@@ -2007,15 +2007,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "98163",
-                "likeCount": "3131",
+                "viewCount": "99366",
+                "likeCount": "3159",
                 "favoriteCount": "0",
-                "commentCount": "258"
+                "commentCount": "259"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YBioRfgammduPp_Pou0aN1Cc1-I",
+            "etag": "DxqdL5eeQQaTkXYO8LJ7BURiM0M",
             "id": "sDDlz3t-JxA",
             "snippet": {
                 "publishedAt": "2026-10-09T23:06:03Z",
@@ -2095,78 +2095,72 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "327003",
-                "likeCount": "26948",
+                "viewCount": "342443",
+                "likeCount": "28069",
                 "favoriteCount": "0",
-                "commentCount": "1691"
+                "commentCount": "1736"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "_KK8W3RZC0-gLA2h2r676lA0fw4",
-            "id": "ueunruWxEoc",
+            "etag": "TvBatnME6ijhzF4KSIySQH8CQgY",
+            "id": "Vy6sj-FXofU",
             "snippet": {
-                "publishedAt": "2026-10-09T00:02:23Z",
-                "channelId": "UC8odS6y6SvgJwVMmk4Cx3Xg",
-                "title": "Distancia",
-                "description": "Provided to YouTube by The Orchard Enterprises\n\nDistancia \u00b7 Maisak \u00b7 Justin Quiles \u00b7 D\u00edmelo Flow \u00b7 Maikel Rafael Rico Torres \u201cMaisak\u201d \u00b7 Justin Rafael Quiles \u00b7 Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d \u00b7 Jhonattan Reyes \u201cJhon El Diver\u201d\n\nDistancia\n\n\u2117 2026 Royalty Records LLC\n\nReleased on: 2026-10-07\n\nProducer: D\u00edmelo Flow\nProducer: Jhon El Diver\nStudio Producer: Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d\nStudio Producer: Jhonattan Reyes \u201cJhon El Diver\u201d\nMixing Engineer, Mastering Engineer, Surround Mixing Engineer: Carlos Armando Rivas Germ\u00e1n \"Crivas\"\nMusic Publisher: ASCAP\nMusic Publisher: WC Music Corp\nMusic Publisher: La Promesa Publishing\nMusic Publisher: Rich Music Inc.\nMusic Publisher: UMPG\nMusic Publisher: Escorcia Music Publishing\nMusic Publisher: BMI\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-08T23:04:24Z",
+                "channelId": "UCy8mjBo1hVZjv0zjbkMpXmQ",
+                "title": "Hace Tiempo",
+                "description": "Provided to YouTube by Dale Q\u00b4Va\n\nHace Tiempo \u00b7 Dale Q\u00b4 Va\n\nHace Tiempo\n\n\u2117 2026 Dia y Noche Producciones\n\nComposer: Marcos David Bainotti\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Maisak - Topic",
+                "channelTitle": "Dale Q\u00b4 Va - Topic",
                 "tags": [
-                    "Maisak",
-                    "Justin Quiles",
-                    "D\u00edmelo Flow",
-                    "Maikel Rafael Rico Torres \u201cMaisak\u201d",
-                    "Justin Rafael Quiles",
-                    "Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d",
-                    "Jhonattan Reyes \u201cJhon El Diver\u201d",
-                    "Distancia"
+                    "Dale Q\u00b4 Va",
+                    "Hace Tiempo"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Distancia",
-                    "description": "Provided to YouTube by The Orchard Enterprises\n\nDistancia \u00b7 Maisak \u00b7 Justin Quiles \u00b7 D\u00edmelo Flow \u00b7 Maikel Rafael Rico Torres \u201cMaisak\u201d \u00b7 Justin Rafael Quiles \u00b7 Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d \u00b7 Jhonattan Reyes \u201cJhon El Diver\u201d\n\nDistancia\n\n\u2117 2026 Royalty Records LLC\n\nReleased on: 2026-10-07\n\nProducer: D\u00edmelo Flow\nProducer: Jhon El Diver\nStudio Producer: Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d\nStudio Producer: Jhonattan Reyes \u201cJhon El Diver\u201d\nMixing Engineer, Mastering Engineer, Surround Mixing Engineer: Carlos Armando Rivas Germ\u00e1n \"Crivas\"\nMusic Publisher: ASCAP\nMusic Publisher: WC Music Corp\nMusic Publisher: La Promesa Publishing\nMusic Publisher: Rich Music Inc.\nMusic Publisher: UMPG\nMusic Publisher: Escorcia Music Publishing\nMusic Publisher: BMI\n\nAuto-generated by YouTube."
+                    "title": "Hace Tiempo",
+                    "description": "Provided to YouTube by Dale Q\u00b4Va\n\nHace Tiempo \u00b7 Dale Q\u00b4 Va\n\nHace Tiempo\n\n\u2117 2026 Dia y Noche Producciones\n\nComposer: Marcos David Bainotti\n\nAuto-generated by YouTube."
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "84124",
-                "likeCount": "1088",
+                "viewCount": "13240",
+                "likeCount": "157",
                 "favoriteCount": "0",
-                "commentCount": "3"
+                "commentCount": "4"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OzkwKRGl_KdgRAzDyCxmTGBUtj0",
+            "etag": "3wGa7x2YSJuK_EXcIT5tBFrJjQM",
             "id": "ut41JSexyzo",
             "snippet": {
                 "publishedAt": "2026-10-09T21:15:19Z",
@@ -2223,130 +2217,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "635947",
-                "likeCount": "4377",
+                "viewCount": "688448",
+                "likeCount": "4721",
                 "favoriteCount": "0",
-                "commentCount": "156"
+                "commentCount": "171"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ij1jiniU3PRW5l3xNCa7DIzpP8k",
-            "id": "Vy6sj-FXofU",
-            "snippet": {
-                "publishedAt": "2026-10-08T23:04:24Z",
-                "channelId": "UCy8mjBo1hVZjv0zjbkMpXmQ",
-                "title": "Hace Tiempo",
-                "description": "Provided to YouTube by Dale Q\u00b4Va\n\nHace Tiempo \u00b7 Dale Q\u00b4 Va\n\nHace Tiempo\n\n\u2117 2026 Dia y Noche Producciones\n\nComposer: Marcos David Bainotti\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Vy6sj-FXofU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Dale Q\u00b4 Va - Topic",
-                "tags": [
-                    "Dale Q\u00b4 Va",
-                    "Hace Tiempo"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Hace Tiempo",
-                    "description": "Provided to YouTube by Dale Q\u00b4Va\n\nHace Tiempo \u00b7 Dale Q\u00b4 Va\n\nHace Tiempo\n\n\u2117 2026 Dia y Noche Producciones\n\nComposer: Marcos David Bainotti\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "12915",
-                "likeCount": "156",
-                "favoriteCount": "0",
-                "commentCount": "4"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "MTD8pl7GTBgrksvn1n0ZbOYh2dE",
-            "id": "_vAclcnc5pI",
-            "snippet": {
-                "publishedAt": "2026-10-08T21:12:10Z",
-                "channelId": "UCoM9zJTA8nsQnYZaf9Ppt8Q",
-                "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
-                "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Mandarina",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
-                    "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "489841",
-                "likeCount": "9906",
-                "favoriteCount": "0",
-                "commentCount": "378"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "QrTKU3_DHM52ESnamvO9fjn8lz8",
+            "etag": "ssHplinsNJmGmVkfWjAxQnoQRbo",
             "id": "OjmG_9CLUdE",
             "snippet": {
                 "publishedAt": "2026-10-06T18:45:49Z",
@@ -2396,15 +2275,299 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "50345",
-                "likeCount": "441",
+                "viewCount": "50889",
+                "likeCount": "457",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "m830gJaBIMCBiaGI9kR7E1ZptfM",
+            "etag": "4aFiNupa9EHYyDsPvAXGE3PiRXY",
+            "id": "_vAclcnc5pI",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:12:10Z",
+                "channelId": "UCoM9zJTA8nsQnYZaf9Ppt8Q",
+                "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
+                "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/_vAclcnc5pI/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Mandarina",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Encontramos TODOS los GATITOS en Roblox Find the Kitten",
+                    "description": "Miau, digo hola! Hoy encontramos todos los gatitos en Find the Kitten!\nDejas tu like y te suscribes porfi porfi porfi?"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "499555",
+                "likeCount": "10120",
+                "favoriteCount": "0",
+                "commentCount": "383"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5ZHBUprGCmzns5CkYZqI_GfDO6Y",
+            "id": "ueunruWxEoc",
+            "snippet": {
+                "publishedAt": "2026-10-09T00:02:23Z",
+                "channelId": "UC8odS6y6SvgJwVMmk4Cx3Xg",
+                "title": "Distancia",
+                "description": "Provided to YouTube by The Orchard Enterprises\n\nDistancia \u00b7 Maisak \u00b7 Justin Quiles \u00b7 D\u00edmelo Flow \u00b7 Maikel Rafael Rico Torres \u201cMaisak\u201d \u00b7 Justin Rafael Quiles \u00b7 Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d \u00b7 Jhonattan Reyes \u201cJhon El Diver\u201d\n\nDistancia\n\n\u2117 2026 Royalty Records LLC\n\nReleased on: 2026-10-07\n\nProducer: D\u00edmelo Flow\nProducer: Jhon El Diver\nStudio Producer: Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d\nStudio Producer: Jhonattan Reyes \u201cJhon El Diver\u201d\nMixing Engineer, Mastering Engineer, Surround Mixing Engineer: Carlos Armando Rivas Germ\u00e1n \"Crivas\"\nMusic Publisher: ASCAP\nMusic Publisher: WC Music Corp\nMusic Publisher: La Promesa Publishing\nMusic Publisher: Rich Music Inc.\nMusic Publisher: UMPG\nMusic Publisher: Escorcia Music Publishing\nMusic Publisher: BMI\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ueunruWxEoc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Maisak - Topic",
+                "tags": [
+                    "Maisak",
+                    "Justin Quiles",
+                    "D\u00edmelo Flow",
+                    "Maikel Rafael Rico Torres \u201cMaisak\u201d",
+                    "Justin Rafael Quiles",
+                    "Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d",
+                    "Jhonattan Reyes \u201cJhon El Diver\u201d",
+                    "Distancia"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Distancia",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nDistancia \u00b7 Maisak \u00b7 Justin Quiles \u00b7 D\u00edmelo Flow \u00b7 Maikel Rafael Rico Torres \u201cMaisak\u201d \u00b7 Justin Rafael Quiles \u00b7 Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d \u00b7 Jhonattan Reyes \u201cJhon El Diver\u201d\n\nDistancia\n\n\u2117 2026 Royalty Records LLC\n\nReleased on: 2026-10-07\n\nProducer: D\u00edmelo Flow\nProducer: Jhon El Diver\nStudio Producer: Jorge Vald\u00e9s V\u00e1zquez \u201cD\u00edmelo Flow\u201d\nStudio Producer: Jhonattan Reyes \u201cJhon El Diver\u201d\nMixing Engineer, Mastering Engineer, Surround Mixing Engineer: Carlos Armando Rivas Germ\u00e1n \"Crivas\"\nMusic Publisher: ASCAP\nMusic Publisher: WC Music Corp\nMusic Publisher: La Promesa Publishing\nMusic Publisher: Rich Music Inc.\nMusic Publisher: UMPG\nMusic Publisher: Escorcia Music Publishing\nMusic Publisher: BMI\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "85565",
+                "likeCount": "1128",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tR4cco8EhWAcHWnpv8G7GTs9iZQ",
+            "id": "_Ju2j1NSt9w",
+            "snippet": {
+                "publishedAt": "2026-10-09T11:05:24Z",
+                "channelId": "UCXs61Ndm1-67HwDZR70g8pQ",
+                "title": "Gorilla King Found his Real Parents",
+                "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "qhd": {
+                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/qhddefault.jpg",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "Silver",
+                "tags": [
+                    "roblox",
+                    "roblox games",
+                    "best roblox games",
+                    "new roblox games",
+                    "top roblox games",
+                    "fun roblox games",
+                    "roblox games you must play",
+                    "Roblox Game Compilations",
+                    "Roblox Game Rankings",
+                    "Ultimate Roblox Game Lists",
+                    "Roblox Game Catalog",
+                    "Roblox Game Reviews",
+                    "Best Roblox Game Collections",
+                    "Roblox Game Suggestions",
+                    "Roblox Game Selections",
+                    "Roblox Game Lineup",
+                    "Roblox Game Mix",
+                    "Featured Roblox Games",
+                    "Roblox Game Encyclopedia",
+                    "Roblox Game Vault",
+                    "Roblox Game Library",
+                    "Weekly Roblox Game Picks"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Gorilla King Found his Real Parents",
+                    "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "1914314",
+                "likeCount": "21201",
+                "favoriteCount": "0",
+                "commentCount": "239"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MzGVNBkxEuLxmDvmAMILS90oGY0",
+            "id": "nIj65PmhVp4",
+            "snippet": {
+                "publishedAt": "2026-10-08T22:00:09Z",
+                "channelId": "UCKJTZ-XqjoGz8hwwq1vz7WQ",
+                "title": "Sole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)",
+                "description": "Segu\u00ed la Playlist de Cumbia en Spotify:\nhttp://bit.ly/CumbiaPop-SP\n\nSegu\u00ed a Sole:\nInstagram: https://www.instagram.com/sole.raa/\n\nSegu\u00ed a MMG:\nInstagram: https://bit.ly/InstagramMontevideoMusicGroup\nFacebook: https://bit.ly/3FuDOqM\nTwitter: https://bit.ly/2YAZzEI\nWeb: https://bit.ly/3mFGdXb\n\nSole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)\n\nMMG \u00a9 2026\nMontevideo, Uruguay.\n\n#soleramirez #lucassugo #creoenti",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Montevideo Music Group",
+                "tags": [
+                    "Sole Ramirez",
+                    "Sole Ram\u00edrez",
+                    "La Vita",
+                    "M\u00e1s All\u00e1 De Todo",
+                    "Mas Alla De Todo",
+                    "Sole Ramirez La Vita",
+                    "Sole Ramirez cumbia",
+                    "La Vita cumbia",
+                    "cumbia",
+                    "cumbia 2026",
+                    "cumbia latina",
+                    "cumbia rom\u00e1ntica",
+                    "cumbia para bailar",
+                    "cumbia rom\u00e1ntica 2026",
+                    "canciones de cumbia",
+                    "cumbia moderna",
+                    "cumbia femenina",
+                    "m\u00fasica para bailar",
+                    "hit de cumbia",
+                    "nueva cumbia",
+                    "cumbia popular",
+                    "sole ramirez nuestro primer beso",
+                    "Nhay - Nada Remix (Video Oficial)",
+                    "nhay nada remix",
+                    "sole ramirez nhay",
+                    "mala tuya nada"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "Sole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)",
+                    "description": "Segu\u00ed la Playlist de Cumbia en Spotify:\nhttp://bit.ly/CumbiaPop-SP\n\nSegu\u00ed a Sole:\nInstagram: https://www.instagram.com/sole.raa/\n\nSegu\u00ed a MMG:\nInstagram: https://bit.ly/InstagramMontevideoMusicGroup\nFacebook: https://bit.ly/3FuDOqM\nTwitter: https://bit.ly/2YAZzEI\nWeb: https://bit.ly/3mFGdXb\n\nSole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)\n\nMMG \u00a9 2026\nMontevideo, Uruguay.\n\n#soleramirez #lucassugo #creoenti"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "29524",
+                "likeCount": "814",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sP8WizsP8jXOKhw_z8MD9cS6-Rs",
             "id": "pw0Yr9MxEA0",
             "snippet": {
                 "publishedAt": "2026-10-09T21:33:12Z",
@@ -2487,15 +2650,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "180702",
-                "likeCount": "2488",
+                "viewCount": "186758",
+                "likeCount": "2564",
                 "favoriteCount": "0",
                 "commentCount": "207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JtfanC3PrvKvxfwAwbMOqzfrbiU",
+            "etag": "ur3Z7HEoe220wmvaT4w8aBx_il4",
             "id": "EjwMHarzpXw",
             "snippet": {
                 "publishedAt": "2026-10-08T13:30:29Z",
@@ -2568,97 +2731,184 @@
                 }
             },
             "statistics": {
-                "viewCount": "168941",
-                "likeCount": "215",
+                "viewCount": "171999",
+                "likeCount": "217",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Q8KjiYWWOqHR115h_19nbPtVeHA",
-            "id": "_Ju2j1NSt9w",
+            "etag": "w3A4QkAyUhnXI537yjztoToAZxk",
+            "id": "sJAIGZfoWKw",
             "snippet": {
-                "publishedAt": "2026-10-09T11:05:24Z",
-                "channelId": "UCXs61Ndm1-67HwDZR70g8pQ",
-                "title": "Gorilla King Found his Real Parents",
-                "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!",
+                "publishedAt": "2026-10-09T20:22:34Z",
+                "channelId": "UC7qdNWFCD3lo8toe0TsaeUw",
+                "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
+                "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
-                    "qhd": {
-                        "url": "https://i.ytimg.com/vi/_Ju2j1NSt9w/qhddefault.jpg",
-                        "width": 2560,
-                        "height": 1440
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Silver",
-                "tags": [
-                    "roblox",
-                    "roblox games",
-                    "best roblox games",
-                    "new roblox games",
-                    "top roblox games",
-                    "fun roblox games",
-                    "roblox games you must play",
-                    "Roblox Game Compilations",
-                    "Roblox Game Rankings",
-                    "Ultimate Roblox Game Lists",
-                    "Roblox Game Catalog",
-                    "Roblox Game Reviews",
-                    "Best Roblox Game Collections",
-                    "Roblox Game Suggestions",
-                    "Roblox Game Selections",
-                    "Roblox Game Lineup",
-                    "Roblox Game Mix",
-                    "Featured Roblox Games",
-                    "Roblox Game Encyclopedia",
-                    "Roblox Game Vault",
-                    "Roblox Game Library",
-                    "Weekly Roblox Game Picks"
-                ],
-                "categoryId": "20",
+                "channelTitle": "CrisGreen ( \u0361\u00b0 3 \u0361\u00b0)",
+                "categoryId": "24",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "es",
                 "localized": {
-                    "title": "Gorilla King Found his Real Parents",
-                    "description": "\ud83e\udd77 Hey there, it's your friend Silver! \n\n\u2694\ufe0f If you're a fan of Roblox, following my channel is a must for you! I'll be posting 2 to 3 daily videos involving this fantastic game that we all love, filled with good humor, action and drama. \n\n\ud83e\udd0d Don't waste any other second without being part of the #SILVERGANG - subscribe now and light up your days!"
+                    "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
+                    "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com"
                 },
-                "defaultAudioLanguage": "en"
+                "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1859175",
-                "likeCount": "20630",
+                "viewCount": "232716",
+                "likeCount": "14847",
                 "favoriteCount": "0",
-                "commentCount": "231"
+                "commentCount": "295"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TjBtqfuDte2Fu1wBPB3uhvR15B0",
+            "etag": "IsYfRLeh6JmdH3g5fwjZ0_GFmdw",
+            "id": "dqy4pk2NHgo",
+            "snippet": {
+                "publishedAt": "2026-10-06T23:01:23Z",
+                "channelId": "UCm9xdC9Uz-1iNmPursmfowQ",
+                "title": "Amor de Colegio",
+                "description": "Provided to YouTube by Indyana Records LLC\n\nAmor de Colegio \u00b7 La Juntada De Los Artistas \u00b7 Roman El Original\n\nROMAN EL ORIGINAL / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS\n\n\u2117 2026 Indyana Records\n\nComposer: Rom\u00e1n Ezequiel S\u00edvori\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dqy4pk2NHgo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dqy4pk2NHgo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dqy4pk2NHgo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dqy4pk2NHgo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dqy4pk2NHgo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "La Juntada De Los Artistas - Topic",
+                "tags": [
+                    "La Juntada De Los Artistas",
+                    "Roman El Original",
+                    "ROMAN EL ORIGINAL / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+                    "Amor de Colegio"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Amor de Colegio",
+                    "description": "Provided to YouTube by Indyana Records LLC\n\nAmor de Colegio \u00b7 La Juntada De Los Artistas \u00b7 Roman El Original\n\nROMAN EL ORIGINAL / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS\n\n\u2117 2026 Indyana Records\n\nComposer: Rom\u00e1n Ezequiel S\u00edvori\n\nAuto-generated by YouTube."
+                }
+            },
+            "statistics": {
+                "viewCount": "8793",
+                "likeCount": "39",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3BFyn1X933pnKibXbWnxzT7Y1mY",
+            "id": "uQZctMvZ3pc",
+            "snippet": {
+                "publishedAt": "2026-10-09T23:10:03Z",
+                "channelId": "UCyDUULOp3b3JsehZKIIVzrg",
+                "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
+                "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jardred",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
+                    "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "191569",
+                "likeCount": "6320",
+                "favoriteCount": "0",
+                "commentCount": "299"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hqoMkNnqYzENRjoTz59qGtzb_yY",
             "id": "aB0U2WdJOPQ",
             "snippet": {
                 "publishedAt": "2026-10-06T20:49:40Z",
@@ -2737,154 +2987,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "87857",
-                "likeCount": "170",
+                "viewCount": "90166",
+                "likeCount": "180",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "riXlrAtX4Yq7ln0VSl07WfkWc0M",
-            "id": "sJAIGZfoWKw",
-            "snippet": {
-                "publishedAt": "2026-10-09T20:22:34Z",
-                "channelId": "UC7qdNWFCD3lo8toe0TsaeUw",
-                "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
-                "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "CrisGreen ( \u0361\u00b0 3 \u0361\u00b0)",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
-                    "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "225436",
-                "likeCount": "14204",
-                "favoriteCount": "0",
-                "commentCount": "294"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Q5jbi5T7VZCsOLaH1Q0AkeQ4s0M",
-            "id": "nIj65PmhVp4",
-            "snippet": {
-                "publishedAt": "2026-10-08T22:00:09Z",
-                "channelId": "UCKJTZ-XqjoGz8hwwq1vz7WQ",
-                "title": "Sole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)",
-                "description": "Segu\u00ed la Playlist de Cumbia en Spotify:\nhttp://bit.ly/CumbiaPop-SP\n\nSegu\u00ed a Sole:\nInstagram: https://www.instagram.com/sole.raa/\n\nSegu\u00ed a MMG:\nInstagram: https://bit.ly/InstagramMontevideoMusicGroup\nFacebook: https://bit.ly/3FuDOqM\nTwitter: https://bit.ly/2YAZzEI\nWeb: https://bit.ly/3mFGdXb\n\nSole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)\n\nMMG \u00a9 2026\nMontevideo, Uruguay.\n\n#soleramirez #lucassugo #creoenti",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nIj65PmhVp4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Montevideo Music Group",
-                "tags": [
-                    "Sole Ramirez",
-                    "Sole Ram\u00edrez",
-                    "La Vita",
-                    "M\u00e1s All\u00e1 De Todo",
-                    "Mas Alla De Todo",
-                    "Sole Ramirez La Vita",
-                    "Sole Ramirez cumbia",
-                    "La Vita cumbia",
-                    "cumbia",
-                    "cumbia 2026",
-                    "cumbia latina",
-                    "cumbia rom\u00e1ntica",
-                    "cumbia para bailar",
-                    "cumbia rom\u00e1ntica 2026",
-                    "canciones de cumbia",
-                    "cumbia moderna",
-                    "cumbia femenina",
-                    "m\u00fasica para bailar",
-                    "hit de cumbia",
-                    "nueva cumbia",
-                    "cumbia popular",
-                    "sole ramirez nuestro primer beso",
-                    "Nhay - Nada Remix (Video Oficial)",
-                    "nhay nada remix",
-                    "sole ramirez nhay",
-                    "mala tuya nada"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "Sole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)",
-                    "description": "Segu\u00ed la Playlist de Cumbia en Spotify:\nhttp://bit.ly/CumbiaPop-SP\n\nSegu\u00ed a Sole:\nInstagram: https://www.instagram.com/sole.raa/\n\nSegu\u00ed a MMG:\nInstagram: https://bit.ly/InstagramMontevideoMusicGroup\nFacebook: https://bit.ly/3FuDOqM\nTwitter: https://bit.ly/2YAZzEI\nWeb: https://bit.ly/3mFGdXb\n\nSole Ram\u00edrez, Lucas Sugo - Creo En Ti (Video Oficial)\n\nMMG \u00a9 2026\nMontevideo, Uruguay.\n\n#soleramirez #lucassugo #creoenti"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "28396",
-                "likeCount": "805",
-                "favoriteCount": "0",
-                "commentCount": "75"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "xJmDR-cPBLvhXkxtjc_AohV9MCY",
+            "etag": "y6dceK0cfYINAoL5nwdbnffLPhA",
             "id": "22MhEvgV2eM",
             "snippet": {
                 "publishedAt": "2026-10-09T22:15:29Z",
@@ -2929,221 +3040,68 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "128454",
-                "likeCount": "2021",
+                "viewCount": "132444",
+                "likeCount": "2087",
                 "favoriteCount": "0",
-                "commentCount": "112"
+                "commentCount": "113"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Kp2Z4YRUA-zUVR1q78HJaWR3eAs",
-            "id": "hlpN5v9ThNI",
+            "etag": "jsPMXQgx2k-kPVjK-BLiGnTKyMQ",
+            "id": "La4g9CSXvus",
             "snippet": {
-                "publishedAt": "2026-10-09T23:00:10Z",
-                "channelId": "UCzWQ2suFS7asGwhKZiX3i4Q",
-                "title": "Cachumba - Baile De Los 100 Temas Vol. 2 (Video Oficial)",
-                "description": "#Cachumba #ElBaileDeLos100Temas #Cachumbaenvivo \n\n\u00a1Reviv\u00ed una noche hist\u00f3rica de puro cuarteto de barrio! \ud83d\udca5 Fernando \"El Turco\" Oliva y Cachumba hacen vibrar la Plaza de la M\u00fasica en C\u00f3rdoba con un show marat\u00f3nico e inolvidable: La Noche de los 100 Temas (VOL. 2).\n\nDisfrut\u00e1 del baile grabado en vivo el 02 de mayo, un enganchado imperdible con los mejores \u00e9xitos de la banda para bailar sin parar. \n\u00a1Sub\u00ed el volumen, compartilo con tu gente y dej\u00e1 en los comentarios cu\u00e1l fue tu tema favorito! \ud83c\udfb6\ud83d\udc83\ud83d\udd7a\n\n\u23f1\ufe0f LISTA DE TEMAS (TIMESTAMPS)\n\n00:00 - TE AMO\n01:25 - ME VA A EXTRA\u00d1AR \n03:10 - TE QUIERO TANTO \n04:22 - UN D\u00cdA TE DIJE \n05:15 - Y YA VEZ! \n06:46 - CORREN CORREN LOS SEGUNDOS \n09:10 - SER AMANTES \n10:09 -  DIME DIME \n11:29 - NUEVE Y MEDIA \n13:24 - PORQUE TANTA POL\u00c9MICA \n15:00 - SABOR A NADA \n16:44 - LUNA\n18:18 - QUIEN SE TOMO TODO EL VINO\n19:12 - MUJERES \n20:17 - \u00c9CHAME A M\u00cd LA CULPA \n22:16 - A TI P\u00c1JARA \n23:28 - LA \u00daLTIMA NOCHE \n24:58 - TODO EL AMOR QUE TE HACE FALTA\n26:37 - ESTAFADORA AMOR\n28:15 - AD\u00d3NDE VA A PARAR EL AMOR\n29:33 - DILE A ESE HOMBRE \n31:02 - INTENTEMOS \n33:02 - ME VOY\n34:33 - NO ES SUFICIENTE\n35:53 - LIBERTAD PARA TI \n37:08 - NO PACHANGA NANINGA\n38:38 - RESISTIR\u00c9 \n40:05 - EL AMOR DE VERDAD \n41:35 - TE VOY A ENSE\u00d1AR \n42:52 - EL \u00daLTIMO ADI\u00d3S \n44:13 - NADA CAMBIA \n45:16 - RAQUEL \n46:34 - EMBUSTERA \n48:00 - SOLO\n50:34 - SE LO JURO VIEJA \n\n#CuartetoEnganchado #CachumbaCompleto #bailecompleto #CuartetoParaBailar #PlazaDeLaMusica #TurcoOliva #cachumba2026 #cuarteto #cuartetocordob\u00e9s #musicacordobesa #cuartetodelbueno #musicaargentina\n\n\ud83c\udf10 Redes Sociales\nFacebook \ud83d\udc49 https://www.facebook.com/Cachumbaweb\nInstagram \ud83d\udc49 https://www.instagram.com/Cachumbaweb\nTikTok \ud83d\udc49 https://www.tiktok.com/@Cachumbaweb\nSpotify \ud83d\udc49 https://www.cachumba.com.ar/spotify\nSitio web \ud83d\udc49 https://www.cachumba.com.ar\n\n\u00a9 2026 MOJO Latam LLC / Cachumba",
+                "publishedAt": "2026-10-09T21:04:04Z",
+                "channelId": "UCoMlNw7o21I7LqL4OsjSYAg",
+                "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Cachumba ",
-                "tags": [
-                    "Cachumba",
-                    "Cachumba en vivo",
-                    "Cachumba 100 temas",
-                    "Baile de los 100 temas",
-                    "Cachumba Plaza de la Musica",
-                    "Turco Oliva",
-                    "Turco Oliva en vivo",
-                    "cuarteto cordobes",
-                    "cuarteto en vivo",
-                    "cachumba enganchados",
-                    "baile de cuarteto",
-                    "musica cordobesa",
-                    "Cachumba show completo",
-                    "Plaza de la Musica Cordoba",
-                    "cuarteto de barrio",
-                    "enganchados de Cachumba",
-                    "recital Cachumba",
-                    "Cachumba 2026",
-                    "Cuarteto - G\u00e9nero de m\u00fasica",
-                    "TU MISTERIOSO ALGUIEN (CUARTETO)",
-                    "Cuarteto Sessions #5"
-                ],
+                "channelTitle": "Feid",
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Cachumba - Baile De Los 100 Temas Vol. 2 (Video Oficial)",
-                    "description": "#Cachumba #ElBaileDeLos100Temas #Cachumbaenvivo \n\n\u00a1Reviv\u00ed una noche hist\u00f3rica de puro cuarteto de barrio! \ud83d\udca5 Fernando \"El Turco\" Oliva y Cachumba hacen vibrar la Plaza de la M\u00fasica en C\u00f3rdoba con un show marat\u00f3nico e inolvidable: La Noche de los 100 Temas (VOL. 2).\n\nDisfrut\u00e1 del baile grabado en vivo el 02 de mayo, un enganchado imperdible con los mejores \u00e9xitos de la banda para bailar sin parar. \n\u00a1Sub\u00ed el volumen, compartilo con tu gente y dej\u00e1 en los comentarios cu\u00e1l fue tu tema favorito! \ud83c\udfb6\ud83d\udc83\ud83d\udd7a\n\n\u23f1\ufe0f LISTA DE TEMAS (TIMESTAMPS)\n\n00:00 - TE AMO\n01:25 - ME VA A EXTRA\u00d1AR \n03:10 - TE QUIERO TANTO \n04:22 - UN D\u00cdA TE DIJE \n05:15 - Y YA VEZ! \n06:46 - CORREN CORREN LOS SEGUNDOS \n09:10 - SER AMANTES \n10:09 -  DIME DIME \n11:29 - NUEVE Y MEDIA \n13:24 - PORQUE TANTA POL\u00c9MICA \n15:00 - SABOR A NADA \n16:44 - LUNA\n18:18 - QUIEN SE TOMO TODO EL VINO\n19:12 - MUJERES \n20:17 - \u00c9CHAME A M\u00cd LA CULPA \n22:16 - A TI P\u00c1JARA \n23:28 - LA \u00daLTIMA NOCHE \n24:58 - TODO EL AMOR QUE TE HACE FALTA\n26:37 - ESTAFADORA AMOR\n28:15 - AD\u00d3NDE VA A PARAR EL AMOR\n29:33 - DILE A ESE HOMBRE \n31:02 - INTENTEMOS \n33:02 - ME VOY\n34:33 - NO ES SUFICIENTE\n35:53 - LIBERTAD PARA TI \n37:08 - NO PACHANGA NANINGA\n38:38 - RESISTIR\u00c9 \n40:05 - EL AMOR DE VERDAD \n41:35 - TE VOY A ENSE\u00d1AR \n42:52 - EL \u00daLTIMO ADI\u00d3S \n44:13 - NADA CAMBIA \n45:16 - RAQUEL \n46:34 - EMBUSTERA \n48:00 - SOLO\n50:34 - SE LO JURO VIEJA \n\n#CuartetoEnganchado #CachumbaCompleto #bailecompleto #CuartetoParaBailar #PlazaDeLaMusica #TurcoOliva #cachumba2026 #cuarteto #cuartetocordob\u00e9s #musicacordobesa #cuartetodelbueno #musicaargentina\n\n\ud83c\udf10 Redes Sociales\nFacebook \ud83d\udc49 https://www.facebook.com/Cachumbaweb\nInstagram \ud83d\udc49 https://www.instagram.com/Cachumbaweb\nTikTok \ud83d\udc49 https://www.tiktok.com/@Cachumbaweb\nSpotify \ud83d\udc49 https://www.cachumba.com.ar/spotify\nSitio web \ud83d\udc49 https://www.cachumba.com.ar\n\n\u00a9 2026 MOJO Latam LLC / Cachumba"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "6434",
-                "likeCount": "121",
-                "favoriteCount": "0",
-                "commentCount": "9"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "QNSF9GbJH0EX8icx9iCvUJQo2Bk",
-            "id": "uQZctMvZ3pc",
-            "snippet": {
-                "publishedAt": "2026-10-09T23:10:03Z",
-                "channelId": "UCyDUULOp3b3JsehZKIIVzrg",
-                "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
-                "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Jardred",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
-                    "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25"
+                    "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
+                    "description": ""
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "180891",
-                "likeCount": "6049",
+                "viewCount": "335785",
+                "likeCount": "25783",
                 "favoriteCount": "0",
-                "commentCount": "292"
+                "commentCount": "1821"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qp-4QMKVga9dr6Kqmp_PODLYz2k",
-            "id": "C2IX5V29GWw",
-            "snippet": {
-                "publishedAt": "2026-10-07T13:00:23Z",
-                "channelId": "UC4AerYtVqvf4sxUTqqAfL4A",
-                "title": "Romeo Santos - Necio (Letra/Lyrics) ft. Santana",
-                "description": "\ud83c\udf43 Romeo Santos - Necio (Letra/Lyrics) ft. Santana\n\ud83c\udf0eDownload / Stream: https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP \n#RomeoSantos #Necio #Letra #Lyrics #Santana\n\ud83d\udc9aHelp us reach 50.000 subscribers!\ud83d\udc9a\n\n\ud83c\udf3bFollow Romeo Santos\nhttps://www.instagram.com/RomeoSantos\nhttps://www.facebook.com/RomeoSantosOfficial\nhttps://x.com/RomeoSantosPage\nhttp://romeosantosonline.com\nhttp://smarturl.it/RomeoSpotify\n\n\ud83d\udc9a Lyrics:  Romeo Santos - Necio ft. Santana\n\n[Verso 1]\nDelirando , obsesionado\nCon cerebro imaginario y dosis de locura\nVeo cosas absurdas\nGuardan el secreto\nEn mi hombro hay un diablito que me agobia\nMe impuls\u00f3 a mandarte flores\nQue te llame por las noches\nY que viole las reglas aunque seas ajena\nQue no se me ocurra aceptarte ni un segundo como amiga\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n(I like your feeling, mami)\n\n[Verso 2]\nUn amor sin disciplina, calibrado e impaciente\nY vaga por tus calles como un imprudente\nViendo cada paso que t\u00fa des sin un motivo, amada m\u00eda\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n[Interlude]\nLet\u2019s go\nThey wanna know me\nSantana\nSo nasty\nOkay\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n\nTags:\nRomeo Santos Santana Necio Letra,\nRomeo Santos Santana Necio,\nNecio,\nRomeo Santos Necio Letra,\nRomeo Santos Necio,\nSencillamente usted amada m\u00eda me pone necio,\nEs irracional este sentimiento que no detengo,\nMe va consumiendo,\nSencillamente usted amada m\u00eda me vuelve necio,\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,\nY me estoy hundiendo\n\nTags:\nRomeo Santos Santana Necio Letra,Romeo Santos Santana Necio,Necio,Romeo Santos Necio Letra,Romeo Santos Necio,Sencillamente usted amada m\u00eda me pone necio,Es irracional este sentimiento que no detengo,Me va consumiendo,Sencillamente usted amada m\u00eda me vuelve necio,Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,Y me estoy hundiendo,romeo santos necio letra,romeo santos necio,romeo santos santana necio letra,romeo santos santana necio,necio letra,necio\n\n\n \n\ud83c\udf43Follow World of Healing\nhttps://www.instagram.com/worldofhealingmusic \nhttps://www.facebook.com/people/World-of-Healing/61570566586336/ \nhttps://youtube.com/@WorldofHealingMusic?si=Q-0PqjxP79YzVuRb\n..................................................................................................................................\n\u2b50Thank you very much for your support on World of Healing channel! \u2b50\ud83c\udf43\n...................................................................................................................................",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "World of Healing",
-                "tags": [
-                    "Romeo Santos Santana Necio Letra",
-                    "Romeo Santos Santana Necio",
-                    "Necio",
-                    "Romeo Santos Necio Letra",
-                    "Romeo Santos Necio",
-                    "Sencillamente usted amada m\u00eda me pone necio",
-                    "Es irracional este sentimiento que no detengo",
-                    "Me va consumiendo",
-                    "Sencillamente usted amada m\u00eda me vuelve necio",
-                    "Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco",
-                    "Y me estoy hundiendo",
-                    "romeo santos necio letra",
-                    "romeo santos necio",
-                    "romeo santos santana necio letra",
-                    "romeo santos santana necio",
-                    "necio letra",
-                    "necio"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Romeo Santos - Necio (Letra/Lyrics) ft. Santana",
-                    "description": "\ud83c\udf43 Romeo Santos - Necio (Letra/Lyrics) ft. Santana\n\ud83c\udf0eDownload / Stream: https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP \n#RomeoSantos #Necio #Letra #Lyrics #Santana\n\ud83d\udc9aHelp us reach 50.000 subscribers!\ud83d\udc9a\n\n\ud83c\udf3bFollow Romeo Santos\nhttps://www.instagram.com/RomeoSantos\nhttps://www.facebook.com/RomeoSantosOfficial\nhttps://x.com/RomeoSantosPage\nhttp://romeosantosonline.com\nhttp://smarturl.it/RomeoSpotify\n\n\ud83d\udc9a Lyrics:  Romeo Santos - Necio ft. Santana\n\n[Verso 1]\nDelirando , obsesionado\nCon cerebro imaginario y dosis de locura\nVeo cosas absurdas\nGuardan el secreto\nEn mi hombro hay un diablito que me agobia\nMe impuls\u00f3 a mandarte flores\nQue te llame por las noches\nY que viole las reglas aunque seas ajena\nQue no se me ocurra aceptarte ni un segundo como amiga\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n(I like your feeling, mami)\n\n[Verso 2]\nUn amor sin disciplina, calibrado e impaciente\nY vaga por tus calles como un imprudente\nViendo cada paso que t\u00fa des sin un motivo, amada m\u00eda\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n[Interlude]\nLet\u2019s go\nThey wanna know me\nSantana\nSo nasty\nOkay\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n\nTags:\nRomeo Santos Santana Necio Letra,\nRomeo Santos Santana Necio,\nNecio,\nRomeo Santos Necio Letra,\nRomeo Santos Necio,\nSencillamente usted amada m\u00eda me pone necio,\nEs irracional este sentimiento que no detengo,\nMe va consumiendo,\nSencillamente usted amada m\u00eda me vuelve necio,\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,\nY me estoy hundiendo\n\nTags:\nRomeo Santos Santana Necio Letra,Romeo Santos Santana Necio,Necio,Romeo Santos Necio Letra,Romeo Santos Necio,Sencillamente usted amada m\u00eda me pone necio,Es irracional este sentimiento que no detengo,Me va consumiendo,Sencillamente usted amada m\u00eda me vuelve necio,Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,Y me estoy hundiendo,romeo santos necio letra,romeo santos necio,romeo santos santana necio letra,romeo santos santana necio,necio letra,necio\n\n\n \n\ud83c\udf43Follow World of Healing\nhttps://www.instagram.com/worldofhealingmusic \nhttps://www.facebook.com/people/World-of-Healing/61570566586336/ \nhttps://youtube.com/@WorldofHealingMusic?si=Q-0PqjxP79YzVuRb\n..................................................................................................................................\n\u2b50Thank you very much for your support on World of Healing channel! \u2b50\ud83c\udf43\n..................................................................................................................................."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "696390",
-                "likeCount": "1262",
-                "favoriteCount": "0",
-                "commentCount": "12"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "9slNMZvFHl9EKz2_n-bO_FY9TuY",
+            "etag": "L2F0x6lqIEZS6v6wZg-QwDfTyBk",
             "id": "JurFwTLdQlU",
             "snippet": {
                 "publishedAt": "2026-10-10T00:00:06Z",
@@ -3220,135 +3178,159 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "9253",
-                "likeCount": "28",
+                "viewCount": "9259",
+                "likeCount": "29",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DJFr9XXzlAnAWejbcnZF3ewSobo",
-            "id": "La4g9CSXvus",
+            "etag": "HZpRoJ3gcs_AKJRtXoZO4JkHUHE",
+            "id": "C2IX5V29GWw",
             "snippet": {
-                "publishedAt": "2026-10-09T21:04:04Z",
-                "channelId": "UCoMlNw7o21I7LqL4OsjSYAg",
-                "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
-                "description": "",
+                "publishedAt": "2026-10-07T13:00:23Z",
+                "channelId": "UC4AerYtVqvf4sxUTqqAfL4A",
+                "title": "Romeo Santos - Necio (Letra/Lyrics) ft. Santana",
+                "description": "\ud83c\udf43 Romeo Santos - Necio (Letra/Lyrics) ft. Santana\n\ud83c\udf0eDownload / Stream: https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP \n#RomeoSantos #Necio #Letra #Lyrics #Santana\n\ud83d\udc9aHelp us reach 50.000 subscribers!\ud83d\udc9a\n\n\ud83c\udf3bFollow Romeo Santos\nhttps://www.instagram.com/RomeoSantos\nhttps://www.facebook.com/RomeoSantosOfficial\nhttps://x.com/RomeoSantosPage\nhttp://romeosantosonline.com\nhttp://smarturl.it/RomeoSpotify\n\n\ud83d\udc9a Lyrics:  Romeo Santos - Necio ft. Santana\n\n[Verso 1]\nDelirando , obsesionado\nCon cerebro imaginario y dosis de locura\nVeo cosas absurdas\nGuardan el secreto\nEn mi hombro hay un diablito que me agobia\nMe impuls\u00f3 a mandarte flores\nQue te llame por las noches\nY que viole las reglas aunque seas ajena\nQue no se me ocurra aceptarte ni un segundo como amiga\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n(I like your feeling, mami)\n\n[Verso 2]\nUn amor sin disciplina, calibrado e impaciente\nY vaga por tus calles como un imprudente\nViendo cada paso que t\u00fa des sin un motivo, amada m\u00eda\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n[Interlude]\nLet\u2019s go\nThey wanna know me\nSantana\nSo nasty\nOkay\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n\nTags:\nRomeo Santos Santana Necio Letra,\nRomeo Santos Santana Necio,\nNecio,\nRomeo Santos Necio Letra,\nRomeo Santos Necio,\nSencillamente usted amada m\u00eda me pone necio,\nEs irracional este sentimiento que no detengo,\nMe va consumiendo,\nSencillamente usted amada m\u00eda me vuelve necio,\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,\nY me estoy hundiendo\n\nTags:\nRomeo Santos Santana Necio Letra,Romeo Santos Santana Necio,Necio,Romeo Santos Necio Letra,Romeo Santos Necio,Sencillamente usted amada m\u00eda me pone necio,Es irracional este sentimiento que no detengo,Me va consumiendo,Sencillamente usted amada m\u00eda me vuelve necio,Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,Y me estoy hundiendo,romeo santos necio letra,romeo santos necio,romeo santos santana necio letra,romeo santos santana necio,necio letra,necio\n\n\n \n\ud83c\udf43Follow World of Healing\nhttps://www.instagram.com/worldofhealingmusic \nhttps://www.facebook.com/people/World-of-Healing/61570566586336/ \nhttps://youtube.com/@WorldofHealingMusic?si=Q-0PqjxP79YzVuRb\n..................................................................................................................................\n\u2b50Thank you very much for your support on World of Healing channel! \u2b50\ud83c\udf43\n...................................................................................................................................",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/default.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/La4g9CSXvus/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Feid",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "322817",
-                "likeCount": "24822",
-                "favoriteCount": "0",
-                "commentCount": "1778"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "GJ_hHNwnrgiQFzLb54teSRyTu_U",
-            "id": "wcki3GsY7fs",
-            "snippet": {
-                "publishedAt": "2026-10-08T19:18:13Z",
-                "channelId": "UCEs5MQjXJq27-X2vgdwtYDw",
-                "title": "CASA SECRETA en la MONTA\u00d1A POBRE vs MILLONARIA en Minecraft!",
-                "description": "Hoy, Nacho y Dagar tienen que sobrevivir 100 d\u00edas en una Mansi\u00f3n en el Acantilado! Cada uno tendr\u00e1 que hacer su propia casa secreta, donde podr\u00e1n hacer cosas incre\u00edbles, aunque Dagar empezar\u00e1 teniendo una casa de pobre... \u00bfQu\u00e9 pasar\u00e1? \u00a1Desc\u00fabrelo!\n\n#Minecraft #MinecraftMod #Dagar #NachoyDagar",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
                     "fhd": {
-                        "url": "https://i.ytimg.com/vi/wcki3GsY7fs/fhddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/C2IX5V29GWw/fhddefault.jpg",
                         "width": 1920,
                         "height": 1080
                     }
                 },
-                "channelTitle": "Dagar",
+                "channelTitle": "World of Healing",
                 "tags": [
-                    "Minecraft",
-                    "minecraft mod",
-                    "dagar y nacho",
-                    "nacho y dagar",
-                    "amigos minecraft",
-                    "dagar minecraft",
-                    "minecraft dagar"
+                    "Romeo Santos Santana Necio Letra",
+                    "Romeo Santos Santana Necio",
+                    "Necio",
+                    "Romeo Santos Necio Letra",
+                    "Romeo Santos Necio",
+                    "Sencillamente usted amada m\u00eda me pone necio",
+                    "Es irracional este sentimiento que no detengo",
+                    "Me va consumiendo",
+                    "Sencillamente usted amada m\u00eda me vuelve necio",
+                    "Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco",
+                    "Y me estoy hundiendo",
+                    "romeo santos necio letra",
+                    "romeo santos necio",
+                    "romeo santos santana necio letra",
+                    "romeo santos santana necio",
+                    "necio letra",
+                    "necio"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Romeo Santos - Necio (Letra/Lyrics) ft. Santana",
+                    "description": "\ud83c\udf43 Romeo Santos - Necio (Letra/Lyrics) ft. Santana\n\ud83c\udf0eDownload / Stream: https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP \n#RomeoSantos #Necio #Letra #Lyrics #Santana\n\ud83d\udc9aHelp us reach 50.000 subscribers!\ud83d\udc9a\n\n\ud83c\udf3bFollow Romeo Santos\nhttps://www.instagram.com/RomeoSantos\nhttps://www.facebook.com/RomeoSantosOfficial\nhttps://x.com/RomeoSantosPage\nhttp://romeosantosonline.com\nhttp://smarturl.it/RomeoSpotify\n\n\ud83d\udc9a Lyrics:  Romeo Santos - Necio ft. Santana\n\n[Verso 1]\nDelirando , obsesionado\nCon cerebro imaginario y dosis de locura\nVeo cosas absurdas\nGuardan el secreto\nEn mi hombro hay un diablito que me agobia\nMe impuls\u00f3 a mandarte flores\nQue te llame por las noches\nY que viole las reglas aunque seas ajena\nQue no se me ocurra aceptarte ni un segundo como amiga\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n(I like your feeling, mami)\n\n[Verso 2]\nUn amor sin disciplina, calibrado e impaciente\nY vaga por tus calles como un imprudente\nViendo cada paso que t\u00fa des sin un motivo, amada m\u00eda\n\n[Pre-Coro]\nNecio porque tienes due\u00f1o\nY yo soy un loco hablando con reflejos que no est\u00e1n\nNecio porque no eres m\u00eda, mi fruta prohibida\nMe despierta el deseo de probar\n\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n[Interlude]\nLet\u2019s go\nThey wanna know me\nSantana\nSo nasty\nOkay\n[Coro]\nSencillamente usted amada m\u00eda, me pone necio\nEs irracional este sentimiento que no detengo\nMe va consumiendo\nSencillamente usted amada m\u00eda, me vuelve necio\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco\nY me estoy hundiendo\n\n\nTags:\nRomeo Santos Santana Necio Letra,\nRomeo Santos Santana Necio,\nNecio,\nRomeo Santos Necio Letra,\nRomeo Santos Necio,\nSencillamente usted amada m\u00eda me pone necio,\nEs irracional este sentimiento que no detengo,\nMe va consumiendo,\nSencillamente usted amada m\u00eda me vuelve necio,\nMi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,\nY me estoy hundiendo\n\nTags:\nRomeo Santos Santana Necio Letra,Romeo Santos Santana Necio,Necio,Romeo Santos Necio Letra,Romeo Santos Necio,Sencillamente usted amada m\u00eda me pone necio,Es irracional este sentimiento que no detengo,Me va consumiendo,Sencillamente usted amada m\u00eda me vuelve necio,Mi amor alucinante se lanz\u00f3 al oc\u00e9ano por terco,Y me estoy hundiendo,romeo santos necio letra,romeo santos necio,romeo santos santana necio letra,romeo santos santana necio,necio letra,necio\n\n\n \n\ud83c\udf43Follow World of Healing\nhttps://www.instagram.com/worldofhealingmusic \nhttps://www.facebook.com/people/World-of-Healing/61570566586336/ \nhttps://youtube.com/@WorldofHealingMusic?si=Q-0PqjxP79YzVuRb\n..................................................................................................................................\n\u2b50Thank you very much for your support on World of Healing channel! \u2b50\ud83c\udf43\n..................................................................................................................................."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "703646",
+                "likeCount": "1269",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gO1HLQmsFC6G4U2xm2K-XERdYxU",
+            "id": "d4hnFpYNs4Y",
+            "snippet": {
+                "publishedAt": "2026-10-09T19:30:04Z",
+                "channelId": "UCrPWiqy4AmzFruDvWONex6w",
+                "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ChuuyMine",
+                "tags": [
+                    "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                    "YA NO PUEDO JUGAR ROBLOX",
+                    "NO PUEDO JUGAR ROBLOX",
+                    "JUGAR ROBLOX",
+                    "ROBLOX",
+                    "chuuymine",
+                    "chuuymine roblox",
+                    "roblox chuuymine",
+                    "chuuymine ya no puedo jugar roblox",
+                    "ya no puedo jugar roblox chuuymine",
+                    "chuuymine jugar roblox",
+                    "jugar roblox chuuymine"
                 ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "CASA SECRETA en la MONTA\u00d1A POBRE vs MILLONARIA en Minecraft!",
-                    "description": "Hoy, Nacho y Dagar tienen que sobrevivir 100 d\u00edas en una Mansi\u00f3n en el Acantilado! Cada uno tendr\u00e1 que hacer su propia casa secreta, donde podr\u00e1n hacer cosas incre\u00edbles, aunque Dagar empezar\u00e1 teniendo una casa de pobre... \u00bfQu\u00e9 pasar\u00e1? \u00a1Desc\u00fabrelo!\n\n#Minecraft #MinecraftMod #Dagar #NachoyDagar"
+                    "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                    "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab"
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2059044",
-                "likeCount": "17764",
+                "viewCount": "239769",
+                "likeCount": "2394",
                 "favoriteCount": "0",
-                "commentCount": "569"
+                "commentCount": "278"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "S93JkGavSaXIF3dltfizhloWQHU",
+            "etag": "U1TadyeHoMZigebLaFyIpGFRoto",
             "id": "InRfwHxrD7s",
             "snippet": {
                 "publishedAt": "2026-10-09T00:10:07Z",
@@ -3419,160 +3401,167 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "50496",
-                "likeCount": "1271",
+                "viewCount": "51684",
+                "likeCount": "1288",
                 "favoriteCount": "0",
-                "commentCount": "106"
+                "commentCount": "107"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Yjsb32i2d8BBvg6fp9ko3q3tCxY",
-            "id": "d4hnFpYNs4Y",
+            "etag": "NDuRPB0vYcY1NguqRXHcHMpGNhs",
+            "id": "wQPaJL5KxgQ",
             "snippet": {
-                "publishedAt": "2026-10-09T19:30:04Z",
-                "channelId": "UCrPWiqy4AmzFruDvWONex6w",
-                "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                "publishedAt": "2026-10-09T22:43:30Z",
+                "channelId": "UCUyrOJOArbGjNnrR_RXGHLw",
+                "title": "\u00a1GAMEZKING VS ANTI-GAMEZKING! \ud83d\udd25 CONTRATE A GAMEZ PARA HUMILLAR A UN HACKER EN FREE FIRE!",
+                "description": "\u2764 Mi Instagram: hectorinoyt https://www.instagram.com/hectorinoyt/\n\u26a1Mi pagina de Facebook: https://www.facebook.com/TheHectorino-559201734106913\n\u2714 Correo de Contacto de mi canal: hectorino@trihaus.es\n\ud83d\udd25 Tags: #TheHectorino #FreeFire #gamezking \n\n\u00a1ESPIE A GAMEZKING Y ES EL MEJOR JUGADOR DEL MUNDO EN FREE FIRE! \ud83d\udd25 INCREIBLE \ud83d\udd25 !!! ,  \u00a1LE DAMOS 1000 DIAMANTES POR KILL A GAMEZKING! ( EL MEJOR JUGADOR DEL MUNDO) * ME DEJO POBRE * \ud83d\ude2d\ud83d\udc8e , EST\u00c1 ES MI PERSPECTIVA DEL RETO DE HECTORINO 31.000 \ud83d\udc8e// REALME P4 POWER , COMPRE UNA CUENTA CON 15.000.000 MILLONES DE DIAMANTES EN FREE FIRE !! - TheDonato\nTheDonato , SUSCRIPTOR ME DEJA SIN DINERO AL DARLE 5,000 DIAMANTES x KILL EN FREE FIRE !! - TheDonato\nTheDonato , TINCA Y NEK7 VS STREAMNIPEROS\ud83d\ude30\u2620\ufe0f NOS VIENEN A CAZAR TODO EL LOBBY en FREEFIRE , \u00a1EL MAYOR RETO DE MI VIDA! \ud83d\udd25 GRAN MAESTRO EN DUELO DE ESCUADRAS POR PRIMERA VEZ \ud83d\udd25 FREE FIRE , \u00a1LE DAMOS 1,000 DIAMANTES POR KILL A TINCA EN FREE FIRE !! *FINAL INESPERADO* CON DONATO !!! \ud83d\ude08\ud83d\udc8e ,",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wQPaJL5KxgQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wQPaJL5KxgQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wQPaJL5KxgQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wQPaJL5KxgQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wQPaJL5KxgQ/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "ChuuyMine",
+                "channelTitle": "TheHectorino",
                 "tags": [
-                    "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                    "YA NO PUEDO JUGAR ROBLOX",
-                    "NO PUEDO JUGAR ROBLOX",
-                    "JUGAR ROBLOX",
-                    "ROBLOX",
-                    "chuuymine",
-                    "chuuymine roblox",
-                    "roblox chuuymine",
-                    "chuuymine ya no puedo jugar roblox",
-                    "ya no puedo jugar roblox chuuymine",
-                    "chuuymine jugar roblox",
-                    "jugar roblox chuuymine"
+                    "FREE FIRE",
+                    "free fire",
+                    "Free fire",
+                    "Hectorino",
+                    "Gamezking",
+                    "donato",
+                    "TheDonato",
+                    "Donato gamezking",
+                    "hectorino gamezking",
+                    "contrate a gamezking",
+                    "gamezking diamantes",
+                    "diamantes free fire",
+                    "diamantes gamezking",
+                    "mejor jugador free fire",
+                    "jugador free fire",
+                    "el mejor jugador de free fire",
+                    "hectorino y gamezking",
+                    "tinca vs gamezking",
+                    "pros vs influencers freee fire",
+                    "final free fire ws latam",
+                    "ff ws latam",
+                    "lyon free fire",
+                    "donato vs pros free fire",
+                    "torneo free fire",
+                    "nek7 free fire",
+                    "nek7 vs gamezking"
                 ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                    "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab"
+                    "title": "\u00a1GAMEZKING VS ANTI-GAMEZKING! \ud83d\udd25 CONTRATE A GAMEZ PARA HUMILLAR A UN HACKER EN FREE FIRE!",
+                    "description": "\u2764 Mi Instagram: hectorinoyt https://www.instagram.com/hectorinoyt/\n\u26a1Mi pagina de Facebook: https://www.facebook.com/TheHectorino-559201734106913\n\u2714 Correo de Contacto de mi canal: hectorino@trihaus.es\n\ud83d\udd25 Tags: #TheHectorino #FreeFire #gamezking \n\n\u00a1ESPIE A GAMEZKING Y ES EL MEJOR JUGADOR DEL MUNDO EN FREE FIRE! \ud83d\udd25 INCREIBLE \ud83d\udd25 !!! ,  \u00a1LE DAMOS 1000 DIAMANTES POR KILL A GAMEZKING! ( EL MEJOR JUGADOR DEL MUNDO) * ME DEJO POBRE * \ud83d\ude2d\ud83d\udc8e , EST\u00c1 ES MI PERSPECTIVA DEL RETO DE HECTORINO 31.000 \ud83d\udc8e// REALME P4 POWER , COMPRE UNA CUENTA CON 15.000.000 MILLONES DE DIAMANTES EN FREE FIRE !! - TheDonato\nTheDonato , SUSCRIPTOR ME DEJA SIN DINERO AL DARLE 5,000 DIAMANTES x KILL EN FREE FIRE !! - TheDonato\nTheDonato , TINCA Y NEK7 VS STREAMNIPEROS\ud83d\ude30\u2620\ufe0f NOS VIENEN A CAZAR TODO EL LOBBY en FREEFIRE , \u00a1EL MAYOR RETO DE MI VIDA! \ud83d\udd25 GRAN MAESTRO EN DUELO DE ESCUADRAS POR PRIMERA VEZ \ud83d\udd25 FREE FIRE , \u00a1LE DAMOS 1,000 DIAMANTES POR KILL A TINCA EN FREE FIRE !! *FINAL INESPERADO* CON DONATO !!! \ud83d\ude08\ud83d\udc8e ,"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "232135",
-                "likeCount": "2318",
+                "viewCount": "268089",
+                "likeCount": "6735",
                 "favoriteCount": "0",
-                "commentCount": "272"
+                "commentCount": "183"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uHTk_U-ahrEGVnIITOIY8zWgZgw",
-            "id": "KFfyknXKwjw",
+            "etag": "QUL9HY6x4TcmEG8198DJgNhkF1c",
+            "id": "hlpN5v9ThNI",
             "snippet": {
-                "publishedAt": "2026-10-08T16:42:06Z",
-                "channelId": "UC1qMwcumipfgTLd3TA1vVZg",
-                "title": "Romeo Santos - Hilito (Letra/Lyrics)",
-                "description": "\ud83d\udc64 Artista | Romeo Santos\n\ud83d\udcbf Canci\u00f3n | Hilito\n\ud83d\udcc5 Fecha de Lanzamiento | 03/03/2014\n\ud83d\udd0a G\u00e9neros Musicales | Latin, Bachata\n\n\u2728 Acerca de la Canci\u00f3n:\n\u201cHilito\u201d de Romeo Santos es una canci\u00f3n sobre el arrepentimiento de alguien que, despu\u00e9s de perder a la persona que amaba, comprende demasiado tarde cu\u00e1nto depend\u00eda de su amor. Con una mezcla de orgullo, dolor y vulnerabilidad, Romeo reconoce que subestim\u00f3 la relaci\u00f3n y ahora se siente al l\u00edmite, aferr\u00e1ndose a los \u00faltimos recuerdos que le quedan.\n\n\ud83d\udcf2 S\u00edgue a \"Romeo Santos\" en:\n\ud83d\udd17 Instagram: https://www.instagram.com/romeosantos\n\ud83c\udfb5 TikTok: https://www.tiktok.com/@romeosantos\n\n\u2b50 Encu\u00e9ntrame en Redes:\n\ud83d\udd17 Instagram: https://www.instagram.com/jostland_/\n\ud83c\udf10 Facebook: https://www.facebook.com/josstland/\n\ud83c\udfb5 TikTok: https://www.tiktok.com/@iamjostland\n\ud83d\udcec Contacto Directo por Instagram: @jostland_\n\n\ud83c\udfb6 [ Letra / Lyrics ] \ud83c\udfb6\n\n[Verso 1]\nDile al tiempo que perdone, a los a\u00f1os que demoren\nQue los meses tengan treinta d\u00eda' de m\u00e1s\nNecesito otro siglo, una p\u00edldora de olvido\nAlgo \u00fatil, que me ayude a borrar\n\n[Pre-Coro]\nSin ti, me he convertido en un buf\u00f3n, el payaso del sal\u00f3n\nMiento cuando digo odiarte\nYo, que privaba en vencedor, quien ganaba en el amor\nY me diste jaque mate\n\n[Coro]\nYo le dije al coraz\u00f3n que te olvidara\nRudamente, me grit\u00f3 que me callara\nMe confi\u00e9 de trapecista en un hilito\nY resbal\u00e9 por la arrogancia, yo lo admito\n\n[Post-Coro]\nLe orden\u00e9 a mi alma que borrara\nQue no te amara, y se ri\u00f3 en mi cara\nCr\u00f3nica de una muerte anunciada\nSin ti, mi vida no conduce a nada\n\n[Interludio]\nEy, escucha las palabras\nCome on\nThere's many of them\nBut only one king\n\n[Verso 2]\nDile a un ni\u00f1o que no llore, al jard\u00edn que no d\u00e9 flores\nQue la luna salga junto con el sol\nSi se dan tus peticiones, ya no escribo m\u00e1s canciones\nY te olvido sin guardar rencor\nAqu\u00ed, soledad en mi habitaci\u00f3n\nPongo un cuadro sin color de Mona Lisa que dejaste\nEs la testigo del dolor, aunque es mi imaginaci\u00f3n\nVeo la pena en su semblante\n\n[Coro]\nYo le dije al coraz\u00f3n que te olvidara\nRudamente, me grit\u00f3 que me callara\nMe confi\u00e9 de trapecista en un hilito\nY resbal\u00e9 por la arrogancia, yo lo admito\n\n[Post-Coro]\nLe orden\u00e9 a mi alma que borrara\nQue no te amara, y se ri\u00f3 en mi cara\nCr\u00f3nica de una muerte anunciada\nSin ti, mi vida no conduce a nada\n\n[Interludio]\nAy, chich\u00ed\nQu\u00e9 maldito sentimiento\nOkay\n\n[Outro]\nNo valor\u00e9 tu amor y me sent\u00ed Tarzan (En un hilito)\nTo' los hombres lloran, hasta Superman (En un hilito)\nI know that you know I'll do whatever for your love\nBut I took you for granted, now I'm hanging from a rope (En un hilito)\nT\u00fa te vas y yo he quedado solo (En un hilito)\nEstoy en vela, ya no cierro los ojos\nColgando en un hilito, sin tu amor\n\n#RomeoSantos #Hilito #Bachata",
+                "publishedAt": "2026-10-09T23:00:10Z",
+                "channelId": "UCzWQ2suFS7asGwhKZiX3i4Q",
+                "title": "Cachumba - Baile De Los 100 Temas Vol. 2 (Video Oficial)",
+                "description": "#Cachumba #ElBaileDeLos100Temas #Cachumbaenvivo \n\n\u00a1Reviv\u00ed una noche hist\u00f3rica de puro cuarteto de barrio! \ud83d\udca5 Fernando \"El Turco\" Oliva y Cachumba hacen vibrar la Plaza de la M\u00fasica en C\u00f3rdoba con un show marat\u00f3nico e inolvidable: La Noche de los 100 Temas (VOL. 2).\n\nDisfrut\u00e1 del baile grabado en vivo el 02 de mayo, un enganchado imperdible con los mejores \u00e9xitos de la banda para bailar sin parar. \n\u00a1Sub\u00ed el volumen, compartilo con tu gente y dej\u00e1 en los comentarios cu\u00e1l fue tu tema favorito! \ud83c\udfb6\ud83d\udc83\ud83d\udd7a\n\n\u23f1\ufe0f LISTA DE TEMAS (TIMESTAMPS)\n\n00:00 - TE AMO\n01:25 - ME VA A EXTRA\u00d1AR \n03:10 - TE QUIERO TANTO \n04:22 - UN D\u00cdA TE DIJE \n05:15 - Y YA VEZ! \n06:46 - CORREN CORREN LOS SEGUNDOS \n09:10 - SER AMANTES \n10:09 -  DIME DIME \n11:29 - NUEVE Y MEDIA \n13:24 - PORQUE TANTA POL\u00c9MICA \n15:00 - SABOR A NADA \n16:44 - LUNA\n18:18 - QUIEN SE TOMO TODO EL VINO\n19:12 - MUJERES \n20:17 - \u00c9CHAME A M\u00cd LA CULPA \n22:16 - A TI P\u00c1JARA \n23:28 - LA \u00daLTIMA NOCHE \n24:58 - TODO EL AMOR QUE TE HACE FALTA\n26:37 - ESTAFADORA AMOR\n28:15 - AD\u00d3NDE VA A PARAR EL AMOR\n29:33 - DILE A ESE HOMBRE \n31:02 - INTENTEMOS \n33:02 - ME VOY\n34:33 - NO ES SUFICIENTE\n35:53 - LIBERTAD PARA TI \n37:08 - NO PACHANGA NANINGA\n38:38 - RESISTIR\u00c9 \n40:05 - EL AMOR DE VERDAD \n41:35 - TE VOY A ENSE\u00d1AR \n42:52 - EL \u00daLTIMO ADI\u00d3S \n44:13 - NADA CAMBIA \n45:16 - RAQUEL \n46:34 - EMBUSTERA \n48:00 - SOLO\n50:34 - SE LO JURO VIEJA \n\n#CuartetoEnganchado #CachumbaCompleto #bailecompleto #CuartetoParaBailar #PlazaDeLaMusica #TurcoOliva #cachumba2026 #cuarteto #cuartetocordob\u00e9s #musicacordobesa #cuartetodelbueno #musicaargentina\n\n\ud83c\udf10 Redes Sociales\nFacebook \ud83d\udc49 https://www.facebook.com/Cachumbaweb\nInstagram \ud83d\udc49 https://www.instagram.com/Cachumbaweb\nTikTok \ud83d\udc49 https://www.tiktok.com/@Cachumbaweb\nSpotify \ud83d\udc49 https://www.cachumba.com.ar/spotify\nSitio web \ud83d\udc49 https://www.cachumba.com.ar\n\n\u00a9 2026 MOJO Latam LLC / Cachumba",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hlpN5v9ThNI/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/KFfyknXKwjw/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "jostland.",
+                "channelTitle": "Cachumba ",
                 "tags": [
-                    "hilito romeo santos",
-                    "hilito romeo santos letra",
-                    "hilito romeo",
-                    "hilito romeo santos karaoke",
-                    "hilito romeo santos slowed",
-                    "hilito romeo santos video oficial",
-                    "hilito romeo santos cancion",
-                    "hilito romeo santos mix",
-                    "hilito romeo santos en vivo",
-                    "hilito romeo santos letra espa\u00f1ol",
-                    "romeo santos hilito",
-                    "romeo santos hilito letra",
-                    "romeo santos hilito video oficial",
-                    "romeo santos hilito mix",
-                    "romeo santos hilito karaoke",
-                    "letra",
-                    "lyrics",
-                    "audio",
-                    "tiktok",
-                    "video oficial",
-                    "karaoke",
-                    "bachata mix",
-                    "jostland"
+                    "Cachumba",
+                    "Cachumba en vivo",
+                    "Cachumba 100 temas",
+                    "Baile de los 100 temas",
+                    "Cachumba Plaza de la Musica",
+                    "Turco Oliva",
+                    "Turco Oliva en vivo",
+                    "cuarteto cordobes",
+                    "cuarteto en vivo",
+                    "cachumba enganchados",
+                    "baile de cuarteto",
+                    "musica cordobesa",
+                    "Cachumba show completo",
+                    "Plaza de la Musica Cordoba",
+                    "cuarteto de barrio",
+                    "enganchados de Cachumba",
+                    "recital Cachumba",
+                    "Cachumba 2026",
+                    "Cuarteto - G\u00e9nero de m\u00fasica",
+                    "TU MISTERIOSO ALGUIEN (CUARTETO)",
+                    "Cuarteto Sessions #5"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
+                "defaultLanguage": "es-419",
                 "localized": {
-                    "title": "Romeo Santos - Hilito (Letra/Lyrics)",
-                    "description": "\ud83d\udc64 Artista | Romeo Santos\n\ud83d\udcbf Canci\u00f3n | Hilito\n\ud83d\udcc5 Fecha de Lanzamiento | 03/03/2014\n\ud83d\udd0a G\u00e9neros Musicales | Latin, Bachata\n\n\u2728 Acerca de la Canci\u00f3n:\n\u201cHilito\u201d de Romeo Santos es una canci\u00f3n sobre el arrepentimiento de alguien que, despu\u00e9s de perder a la persona que amaba, comprende demasiado tarde cu\u00e1nto depend\u00eda de su amor. Con una mezcla de orgullo, dolor y vulnerabilidad, Romeo reconoce que subestim\u00f3 la relaci\u00f3n y ahora se siente al l\u00edmite, aferr\u00e1ndose a los \u00faltimos recuerdos que le quedan.\n\n\ud83d\udcf2 S\u00edgue a \"Romeo Santos\" en:\n\ud83d\udd17 Instagram: https://www.instagram.com/romeosantos\n\ud83c\udfb5 TikTok: https://www.tiktok.com/@romeosantos\n\n\u2b50 Encu\u00e9ntrame en Redes:\n\ud83d\udd17 Instagram: https://www.instagram.com/jostland_/\n\ud83c\udf10 Facebook: https://www.facebook.com/josstland/\n\ud83c\udfb5 TikTok: https://www.tiktok.com/@iamjostland\n\ud83d\udcec Contacto Directo por Instagram: @jostland_\n\n\ud83c\udfb6 [ Letra / Lyrics ] \ud83c\udfb6\n\n[Verso 1]\nDile al tiempo que perdone, a los a\u00f1os que demoren\nQue los meses tengan treinta d\u00eda' de m\u00e1s\nNecesito otro siglo, una p\u00edldora de olvido\nAlgo \u00fatil, que me ayude a borrar\n\n[Pre-Coro]\nSin ti, me he convertido en un buf\u00f3n, el payaso del sal\u00f3n\nMiento cuando digo odiarte\nYo, que privaba en vencedor, quien ganaba en el amor\nY me diste jaque mate\n\n[Coro]\nYo le dije al coraz\u00f3n que te olvidara\nRudamente, me grit\u00f3 que me callara\nMe confi\u00e9 de trapecista en un hilito\nY resbal\u00e9 por la arrogancia, yo lo admito\n\n[Post-Coro]\nLe orden\u00e9 a mi alma que borrara\nQue no te amara, y se ri\u00f3 en mi cara\nCr\u00f3nica de una muerte anunciada\nSin ti, mi vida no conduce a nada\n\n[Interludio]\nEy, escucha las palabras\nCome on\nThere's many of them\nBut only one king\n\n[Verso 2]\nDile a un ni\u00f1o que no llore, al jard\u00edn que no d\u00e9 flores\nQue la luna salga junto con el sol\nSi se dan tus peticiones, ya no escribo m\u00e1s canciones\nY te olvido sin guardar rencor\nAqu\u00ed, soledad en mi habitaci\u00f3n\nPongo un cuadro sin color de Mona Lisa que dejaste\nEs la testigo del dolor, aunque es mi imaginaci\u00f3n\nVeo la pena en su semblante\n\n[Coro]\nYo le dije al coraz\u00f3n que te olvidara\nRudamente, me grit\u00f3 que me callara\nMe confi\u00e9 de trapecista en un hilito\nY resbal\u00e9 por la arrogancia, yo lo admito\n\n[Post-Coro]\nLe orden\u00e9 a mi alma que borrara\nQue no te amara, y se ri\u00f3 en mi cara\nCr\u00f3nica de una muerte anunciada\nSin ti, mi vida no conduce a nada\n\n[Interludio]\nAy, chich\u00ed\nQu\u00e9 maldito sentimiento\nOkay\n\n[Outro]\nNo valor\u00e9 tu amor y me sent\u00ed Tarzan (En un hilito)\nTo' los hombres lloran, hasta Superman (En un hilito)\nI know that you know I'll do whatever for your love\nBut I took you for granted, now I'm hanging from a rope (En un hilito)\nT\u00fa te vas y yo he quedado solo (En un hilito)\nEstoy en vela, ya no cierro los ojos\nColgando en un hilito, sin tu amor\n\n#RomeoSantos #Hilito #Bachata"
+                    "title": "Cachumba - Baile De Los 100 Temas Vol. 2 (Video Oficial)",
+                    "description": "#Cachumba #ElBaileDeLos100Temas #Cachumbaenvivo \n\n\u00a1Reviv\u00ed una noche hist\u00f3rica de puro cuarteto de barrio! \ud83d\udca5 Fernando \"El Turco\" Oliva y Cachumba hacen vibrar la Plaza de la M\u00fasica en C\u00f3rdoba con un show marat\u00f3nico e inolvidable: La Noche de los 100 Temas (VOL. 2).\n\nDisfrut\u00e1 del baile grabado en vivo el 02 de mayo, un enganchado imperdible con los mejores \u00e9xitos de la banda para bailar sin parar. \n\u00a1Sub\u00ed el volumen, compartilo con tu gente y dej\u00e1 en los comentarios cu\u00e1l fue tu tema favorito! \ud83c\udfb6\ud83d\udc83\ud83d\udd7a\n\n\u23f1\ufe0f LISTA DE TEMAS (TIMESTAMPS)\n\n00:00 - TE AMO\n01:25 - ME VA A EXTRA\u00d1AR \n03:10 - TE QUIERO TANTO \n04:22 - UN D\u00cdA TE DIJE \n05:15 - Y YA VEZ! \n06:46 - CORREN CORREN LOS SEGUNDOS \n09:10 - SER AMANTES \n10:09 -  DIME DIME \n11:29 - NUEVE Y MEDIA \n13:24 - PORQUE TANTA POL\u00c9MICA \n15:00 - SABOR A NADA \n16:44 - LUNA\n18:18 - QUIEN SE TOMO TODO EL VINO\n19:12 - MUJERES \n20:17 - \u00c9CHAME A M\u00cd LA CULPA \n22:16 - A TI P\u00c1JARA \n23:28 - LA \u00daLTIMA NOCHE \n24:58 - TODO EL AMOR QUE TE HACE FALTA\n26:37 - ESTAFADORA AMOR\n28:15 - AD\u00d3NDE VA A PARAR EL AMOR\n29:33 - DILE A ESE HOMBRE \n31:02 - INTENTEMOS \n33:02 - ME VOY\n34:33 - NO ES SUFICIENTE\n35:53 - LIBERTAD PARA TI \n37:08 - NO PACHANGA NANINGA\n38:38 - RESISTIR\u00c9 \n40:05 - EL AMOR DE VERDAD \n41:35 - TE VOY A ENSE\u00d1AR \n42:52 - EL \u00daLTIMO ADI\u00d3S \n44:13 - NADA CAMBIA \n45:16 - RAQUEL \n46:34 - EMBUSTERA \n48:00 - SOLO\n50:34 - SE LO JURO VIEJA \n\n#CuartetoEnganchado #CachumbaCompleto #bailecompleto #CuartetoParaBailar #PlazaDeLaMusica #TurcoOliva #cachumba2026 #cuarteto #cuartetocordob\u00e9s #musicacordobesa #cuartetodelbueno #musicaargentina\n\n\ud83c\udf10 Redes Sociales\nFacebook \ud83d\udc49 https://www.facebook.com/Cachumbaweb\nInstagram \ud83d\udc49 https://www.instagram.com/Cachumbaweb\nTikTok \ud83d\udc49 https://www.tiktok.com/@Cachumbaweb\nSpotify \ud83d\udc49 https://www.cachumba.com.ar/spotify\nSitio web \ud83d\udc49 https://www.cachumba.com.ar\n\n\u00a9 2026 MOJO Latam LLC / Cachumba"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "59138",
-                "likeCount": "202",
+                "viewCount": "6840",
+                "likeCount": "132",
                 "favoriteCount": "0",
-                "commentCount": "4"
+                "commentCount": "11"
             }
         }
     ],

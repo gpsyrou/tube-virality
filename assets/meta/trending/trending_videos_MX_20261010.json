@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "eKgYifFDV0X7cY8AlAU0FusFLH0",
+    "etag": "dE17NWSxEy2c-f5hMYswV4HaKPI",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "RA9OMTLDgzpjKZdyKi65TT9Av1M",
+            "etag": "RvjAkFZ4f-4dgwjhI47HXAtl3eo",
             "id": "3juuih0WdH8",
             "snippet": {
                 "publishedAt": "2026-10-09T19:04:30Z",
@@ -64,15 +64,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1819056",
-                "likeCount": "193961",
+                "viewCount": "1875158",
+                "likeCount": "197090",
                 "favoriteCount": "0",
-                "commentCount": "11570"
+                "commentCount": "11716"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QmhPCc4JpgoVWgaFrtgz-9eEZGw",
+            "etag": "GZkDpXD6tWR0aE061wZjVKo6knE",
             "id": "QEwlcDXFkiA",
             "snippet": {
                 "publishedAt": "2026-10-09T22:54:22Z",
@@ -141,15 +141,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "114192",
-                "likeCount": "2064",
+                "viewCount": "116806",
+                "likeCount": "2157",
                 "favoriteCount": "0",
-                "commentCount": "203"
+                "commentCount": "207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ZywCagYXzDcWr3oor0D6iV_Mt2A",
+            "etag": "Dmd5r4EGIOJDgRt2g1PKqWyL4Oo",
             "id": "javQvZ0ADx0",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:08Z",
@@ -220,15 +220,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "4784921",
-                "likeCount": "212536",
+                "viewCount": "4849735",
+                "likeCount": "214346",
                 "favoriteCount": "0",
-                "commentCount": "27785"
+                "commentCount": "27922"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GTevFS-bal5yPmhbfDXhPGMph7I",
+            "etag": "E4IjVIKLqtHuWPboPVlbkIh93bA",
             "id": "e8d2j2YN6mY",
             "snippet": {
                 "publishedAt": "2026-10-09T21:30:10Z",
@@ -291,15 +291,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "118913",
-                "likeCount": "8300",
+                "viewCount": "121457",
+                "likeCount": "8489",
                 "favoriteCount": "0",
-                "commentCount": "469"
+                "commentCount": "482"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3x76vL61Pwskz72bLOTURmUMgQU",
+            "etag": "6KNfBHQ-ITQW5CRShRarB9hiJs8",
             "id": "gg33XSAtdZM",
             "snippet": {
                 "publishedAt": "2026-10-10T02:59:18Z",
@@ -353,15 +353,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "310696",
-                "likeCount": "44462",
+                "viewCount": "327754",
+                "likeCount": "46519",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2jlUpcPR2PZH8RTpldB34rajEHk",
+            "etag": "x4Kfe5bzC24WmytxvGkZnsw-umA",
             "id": "YwsPNUiK5aQ",
             "snippet": {
                 "publishedAt": "2026-10-09T21:05:06Z",
@@ -437,15 +437,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "466462",
-                "likeCount": "14235",
+                "viewCount": "480559",
+                "likeCount": "14772",
                 "favoriteCount": "0",
-                "commentCount": "1082"
+                "commentCount": "1093"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1AzFBPy-s8lKz8oOERQrAZHFw5w",
+            "etag": "5VPiqtcAWQMM6bWjAXhhY6B8ZBU",
             "id": "BpiZQnRl5uc",
             "snippet": {
                 "publishedAt": "2026-10-09T00:00:07Z",
@@ -490,15 +490,15 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "323370",
-                "likeCount": "15953",
+                "viewCount": "325627",
+                "likeCount": "16066",
                 "favoriteCount": "0",
-                "commentCount": "564"
+                "commentCount": "566"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "AUOH1FaoyVHkEVCOZyAF5C6P5wg",
+            "etag": "wdlSp1uumFLsfkE8kvE-jr2MGK0",
             "id": "IiKEX5JCkxc",
             "snippet": {
                 "publishedAt": "2026-10-10T03:49:02Z",
@@ -557,15 +557,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "14723",
-                "likeCount": "482",
+                "viewCount": "15910",
+                "likeCount": "536",
                 "favoriteCount": "0",
-                "commentCount": "40"
+                "commentCount": "46"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0CJOGLlsN7L4WbRAS3LLAHmQ32Y",
+            "etag": "nnhAXY3KMYjA0n4ycgIwLoJcTPQ",
             "id": "qdqI62D6lQA",
             "snippet": {
                 "publishedAt": "2026-10-09T18:06:14Z",
@@ -615,15 +615,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "784012",
-                "likeCount": "7630",
+                "viewCount": "818404",
+                "likeCount": "7994",
                 "favoriteCount": "0",
-                "commentCount": "394"
+                "commentCount": "407"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "gO730hS2oNsCMioUs9NqISoPuI4",
+            "etag": "wetrYjV275EnVuwQJW44JOXirGQ",
             "id": "s2boTvbOQ14",
             "snippet": {
                 "publishedAt": "2026-10-10T00:00:03Z",
@@ -700,15 +700,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "64508",
-                "likeCount": "6016",
+                "viewCount": "66607",
+                "likeCount": "6244",
                 "favoriteCount": "0",
-                "commentCount": "526"
+                "commentCount": "536"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5f5rq7vTJxJGvAuw50g5NH4nuUI",
+            "etag": "UIjKtu_2H3ZMm8XOhQzOI3fxRs4",
             "id": "2KPFnP1othM",
             "snippet": {
                 "publishedAt": "2026-10-08T20:06:09Z",
@@ -767,15 +767,15 @@
                 "defaultAudioLanguage": "ja"
             },
             "statistics": {
-                "viewCount": "4010484",
-                "likeCount": "130965",
+                "viewCount": "4059184",
+                "likeCount": "133004",
                 "favoriteCount": "0",
-                "commentCount": "2656"
+                "commentCount": "2696"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "W_au0z92wZ-zsbS_-xk8jzWI5Eo",
+            "etag": "CgN3jM_IZsVa_JR6_wPxUuNwDmc",
             "id": "lZYD0aqAvIU",
             "snippet": {
                 "publishedAt": "2026-10-10T01:30:26Z",
@@ -820,73 +820,73 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "410141",
-                "likeCount": "16743",
+                "viewCount": "434766",
+                "likeCount": "17883",
                 "favoriteCount": "0",
-                "commentCount": "583"
+                "commentCount": "602"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "54aaLM4DdpogQ8C7TqI-3sHlPK4",
-            "id": "vzHF1l0qbgU",
+            "etag": "yoAudhO8iTwRjuEcF242nYNu-1c",
+            "id": "gXSQdXSPsDs",
             "snippet": {
-                "publishedAt": "2026-10-09T22:00:06Z",
-                "channelId": "UCDXUoF5e_G2bJFvPxBJ_OHA",
-                "title": "Jorge Cuellar - AMOR FATI",
-                "description": "AMOR FATI representa la idea de aceptar y abrazar todo lo que la vida nos presenta, tanto lo bueno como lo dif\u00edcil, entendiendo que cada experiencia forma parte de nuestro camino.\nAmar el destino no es solo aceptar lo que sucede, sino aprender a encontrar belleza en todo aquello que nos toca vivir \ud83d\udc99",
+                "publishedAt": "2026-10-08T10:00:21Z",
+                "channelId": "UCjDCUfKytMMjrshUQJ30qxg",
+                "title": "Paciencia",
+                "description": "Provided to YouTube by Afinarte Music\n\nPaciencia \u00b7 LOS DOS DE TAMAULIPAS\n\nNo Fue Suerte\n\n\u2117 Afinarte Music\n\nReleased on: 2026-10-09\n\nComposer: El Conejo Blas\nComposer: Roberto Astorga\nComposer: Miguel G\u00f3mez Maga\u00f1a\nComposer: Jes\u00fas Alberto Iribe Guzm\u00e1n\nLyricist: El Conejo Blas\nLyricist: Roberto Astorga\nLyricist: Miguel G\u00f3mez Maga\u00f1a\nLyricist: Jes\u00fas Alberto Iribe Guzm\u00e1n\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
                     }
                 },
-                "channelTitle": "Jorge Cuellar",
-                "categoryId": "22",
+                "channelTitle": "LOS DOS DE TAMAULIPAS - Topic",
+                "tags": [
+                    "LOS DOS DE TAMAULIPAS",
+                    "No Fue Suerte",
+                    "Paciencia"
+                ],
+                "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Jorge Cuellar - AMOR FATI",
-                    "description": "AMOR FATI representa la idea de aceptar y abrazar todo lo que la vida nos presenta, tanto lo bueno como lo dif\u00edcil, entendiendo que cada experiencia forma parte de nuestro camino.\nAmar el destino no es solo aceptar lo que sucede, sino aprender a encontrar belleza en todo aquello que nos toca vivir \ud83d\udc99"
+                    "title": "Paciencia",
+                    "description": "Provided to YouTube by Afinarte Music\n\nPaciencia \u00b7 LOS DOS DE TAMAULIPAS\n\nNo Fue Suerte\n\n\u2117 Afinarte Music\n\nReleased on: 2026-10-09\n\nComposer: El Conejo Blas\nComposer: Roberto Astorga\nComposer: Miguel G\u00f3mez Maga\u00f1a\nComposer: Jes\u00fas Alberto Iribe Guzm\u00e1n\nLyricist: El Conejo Blas\nLyricist: Roberto Astorga\nLyricist: Miguel G\u00f3mez Maga\u00f1a\nLyricist: Jes\u00fas Alberto Iribe Guzm\u00e1n\n\nAuto-generated by YouTube."
                 },
-                "defaultAudioLanguage": "es-MX"
+                "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "64784",
-                "likeCount": "8948",
+                "viewCount": "174270",
+                "likeCount": "4496",
                 "favoriteCount": "0",
-                "commentCount": "1146"
+                "commentCount": "32"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WBjjcxnBKtPKIMJROZXbyNzi0NI",
+            "etag": "p_4CmDOlf0pPNq656pHkTjUxr78",
             "id": "bo7tDE1Yj-I",
             "snippet": {
                 "publishedAt": "2026-10-08T20:00:07Z",
@@ -938,15 +938,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "84047",
-                "likeCount": "1061",
+                "viewCount": "84833",
+                "likeCount": "1069",
                 "favoriteCount": "0",
-                "commentCount": "198"
+                "commentCount": "201"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "XrBfdw2BeqL1kLLQMIuQCkrw7QM",
+            "etag": "DxqdL5eeQQaTkXYO8LJ7BURiM0M",
             "id": "sDDlz3t-JxA",
             "snippet": {
                 "publishedAt": "2026-10-09T23:06:03Z",
@@ -1026,131 +1026,73 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "327003",
-                "likeCount": "26950",
+                "viewCount": "342443",
+                "likeCount": "28069",
                 "favoriteCount": "0",
-                "commentCount": "1691"
+                "commentCount": "1736"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5AZ5p-Fi4P9lnzTfaZ0W9TAQEPI",
-            "id": "gXSQdXSPsDs",
+            "etag": "pn7fBK37QeN2aqQ2BQ3VQjpMT4I",
+            "id": "vzHF1l0qbgU",
             "snippet": {
-                "publishedAt": "2026-10-08T10:00:21Z",
-                "channelId": "UCjDCUfKytMMjrshUQJ30qxg",
-                "title": "Paciencia",
-                "description": "Provided to YouTube by Afinarte Music\n\nPaciencia \u00b7 LOS DOS DE TAMAULIPAS\n\nNo Fue Suerte\n\n\u2117 Afinarte Music\n\nReleased on: 2026-10-09\n\nComposer: El Conejo Blas\nComposer: Roberto Astorga\nComposer: Miguel G\u00f3mez Maga\u00f1a\nComposer: Jes\u00fas Alberto Iribe Guzm\u00e1n\nLyricist: El Conejo Blas\nLyricist: Roberto Astorga\nLyricist: Miguel G\u00f3mez Maga\u00f1a\nLyricist: Jes\u00fas Alberto Iribe Guzm\u00e1n\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-09T22:00:06Z",
+                "channelId": "UCDXUoF5e_G2bJFvPxBJ_OHA",
+                "title": "Jorge Cuellar - AMOR FATI",
+                "description": "AMOR FATI representa la idea de aceptar y abrazar todo lo que la vida nos presenta, tanto lo bueno como lo dif\u00edcil, entendiendo que cada experiencia forma parte de nuestro camino.\nAmar el destino no es solo aceptar lo que sucede, sino aprender a encontrar belleza en todo aquello que nos toca vivir \ud83d\udc99",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/gXSQdXSPsDs/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/vzHF1l0qbgU/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
                     }
                 },
-                "channelTitle": "LOS DOS DE TAMAULIPAS - Topic",
-                "tags": [
-                    "LOS DOS DE TAMAULIPAS",
-                    "No Fue Suerte",
-                    "Paciencia"
-                ],
-                "categoryId": "10",
+                "channelTitle": "Jorge Cuellar",
+                "categoryId": "22",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Paciencia",
-                    "description": "Provided to YouTube by Afinarte Music\n\nPaciencia \u00b7 LOS DOS DE TAMAULIPAS\n\nNo Fue Suerte\n\n\u2117 Afinarte Music\n\nReleased on: 2026-10-09\n\nComposer: El Conejo Blas\nComposer: Roberto Astorga\nComposer: Miguel G\u00f3mez Maga\u00f1a\nComposer: Jes\u00fas Alberto Iribe Guzm\u00e1n\nLyricist: El Conejo Blas\nLyricist: Roberto Astorga\nLyricist: Miguel G\u00f3mez Maga\u00f1a\nLyricist: Jes\u00fas Alberto Iribe Guzm\u00e1n\n\nAuto-generated by YouTube."
+                    "title": "Jorge Cuellar - AMOR FATI",
+                    "description": "AMOR FATI representa la idea de aceptar y abrazar todo lo que la vida nos presenta, tanto lo bueno como lo dif\u00edcil, entendiendo que cada experiencia forma parte de nuestro camino.\nAmar el destino no es solo aceptar lo que sucede, sino aprender a encontrar belleza en todo aquello que nos toca vivir \ud83d\udc99"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "168929",
-                "likeCount": "4265",
+                "viewCount": "67491",
+                "likeCount": "9126",
                 "favoriteCount": "0",
-                "commentCount": "31"
+                "commentCount": "1154"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "kxrVOJ45Y7TPj6zbvyj-galGThg",
-            "id": "LwZQpi5JaVM",
-            "snippet": {
-                "publishedAt": "2026-10-09T16:28:37Z",
-                "channelId": "UC3E8iPQGBdAnOQR_cmkEbsw",
-                "title": "Gears of War: E-Day | Accolades Trailer",
-                "description": "We hold the line. We're Gears. On behalf of The Coalition, thank you for playing and making this an incredible launch.\n\nhttps://www.gearsofwar.com/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/LwZQpi5JaVM/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Gears of War",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Gears of War: E-Day | Accolades Trailer",
-                    "description": "We hold the line. We're Gears. On behalf of The Coalition, thank you for playing and making this an incredible launch.\n\nhttps://www.gearsofwar.com/"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "31252",
-                "likeCount": "1981",
-                "favoriteCount": "0",
-                "commentCount": "421"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "OzkwKRGl_KdgRAzDyCxmTGBUtj0",
+            "etag": "3wGa7x2YSJuK_EXcIT5tBFrJjQM",
             "id": "ut41JSexyzo",
             "snippet": {
                 "publishedAt": "2026-10-09T21:15:19Z",
@@ -1207,15 +1149,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "635947",
-                "likeCount": "4377",
+                "viewCount": "688448",
+                "likeCount": "4721",
                 "favoriteCount": "0",
-                "commentCount": "156"
+                "commentCount": "171"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PMbrnouLLKXlXz8gLBrT3w1szzc",
+            "etag": "wTsyO9wGt495a-AR2yZja2heC0s",
             "id": "m7LvIU5qHmo",
             "snippet": {
                 "publishedAt": "2026-10-09T00:01:22Z",
@@ -1266,15 +1208,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "288727",
-                "likeCount": "12299",
+                "viewCount": "291942",
+                "likeCount": "12480",
                 "favoriteCount": "0",
-                "commentCount": "315"
+                "commentCount": "317"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4ggebkp97OQHd-gAZaN8a1dxzjg",
+            "etag": "b5VZoI6Ah5LHso9ku9v2MLsRDhQ",
             "id": "MMgd6yhPxXw",
             "snippet": {
                 "publishedAt": "2026-10-09T20:52:00Z",
@@ -1354,15 +1296,125 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "520026",
-                "likeCount": "5698",
+                "viewCount": "543884",
+                "likeCount": "5939",
                 "favoriteCount": "0",
-                "commentCount": "333"
+                "commentCount": "343"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "urrOLKTjCbiGo-E9YEFxSPeXF2w",
+            "etag": "oFHfo1ptUxaFA8sTR9RHHMwUWMY",
+            "id": "k2FIMmLaz7w",
+            "snippet": {
+                "publishedAt": "2026-10-10T00:00:40Z",
+                "channelId": "UCZ3pVT4hv4hgWwHpJHyTNRQ",
+                "title": "Los Dos De Tamaulipas - 5.0 (Video Oficial)",
+                "description": "Escucha lo mejor de AfinArte Music Aqu\u00ed  http://bit.ly/LoMejorDeAfinArte\nSuscr\u00edbete a nuestro canal: http://bit.ly/AfinArte\nDescubre lo mas nuevo de AfinArte Aqu\u00ed: https://bit.ly/EstrenosAfinArte2023\n\nLos Dos De Tamaulipas - 5.0 (Video Oficial)\n\nContrataciones: \nUSA: +1 (714) 345-6352\nM\u00e9xico: +52 (443) 187-8559\n\n\nhttps://facebook.com/AfinArteMusic\nhttps://instagram.com/AfinArtemusic\n\n\n#AfinArteMusic #M\u00e9xico #MusicaMexicana #LosDosDeTamaulipas  #5.0",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AfinArte Music",
+                "tags": [
+                    "afinarte",
+                    "music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Los Dos De Tamaulipas - 5.0 (Video Oficial)",
+                    "description": "Escucha lo mejor de AfinArte Music Aqu\u00ed  http://bit.ly/LoMejorDeAfinArte\nSuscr\u00edbete a nuestro canal: http://bit.ly/AfinArte\nDescubre lo mas nuevo de AfinArte Aqu\u00ed: https://bit.ly/EstrenosAfinArte2023\n\nLos Dos De Tamaulipas - 5.0 (Video Oficial)\n\nContrataciones: \nUSA: +1 (714) 345-6352\nM\u00e9xico: +52 (443) 187-8559\n\n\nhttps://facebook.com/AfinArteMusic\nhttps://instagram.com/AfinArtemusic\n\n\n#AfinArteMusic #M\u00e9xico #MusicaMexicana #LosDosDeTamaulipas  #5.0"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "59847",
+                "likeCount": "2130",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "w-eQ9GnyPARb_asTXgBzu_V--00",
+            "id": "svdihoQ6jxw",
+            "snippet": {
+                "publishedAt": "2026-10-10T00:16:46Z",
+                "channelId": "UC7llV6PgcR3-4PxntePs9eg",
+                "title": "7 DIAS CUIDANDO UN GATO DE LAS ANOMALIAS  EN ROBLOX",
+                "description": "\u00a1Hola! \u2728 No olvides suscribirte al canal \u2764\ufe0f y activar la campanita \ud83d\udd14 para no perderte ninguna de mis aventuras.\n\n\u00a1MI INSTAGRAM! \ud83d\udc95\n https://www.instagram.com/bereburdd?igsh=Ynh0czdhdXFtZmVo&utm_source=qr\n\n\u00a1S\u00cdGUEME EN ROBLOX! \ud83c\udfae\n\ud83d\udc49\ud83c\udffb Perfil: https://www.roblox.com/users/3045881540/profile\n\n#Roblox #Gaming #BereRoblox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bere Roblox",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "7 DIAS CUIDANDO UN GATO DE LAS ANOMALIAS  EN ROBLOX",
+                    "description": "\u00a1Hola! \u2728 No olvides suscribirte al canal \u2764\ufe0f y activar la campanita \ud83d\udd14 para no perderte ninguna de mis aventuras.\n\n\u00a1MI INSTAGRAM! \ud83d\udc95\n https://www.instagram.com/bereburdd?igsh=Ynh0czdhdXFtZmVo&utm_source=qr\n\n\u00a1S\u00cdGUEME EN ROBLOX! \ud83c\udfae\n\ud83d\udc49\ud83c\udffb Perfil: https://www.roblox.com/users/3045881540/profile\n\n#Roblox #Gaming #BereRoblox"
+                },
+                "defaultAudioLanguage": "es-MX"
+            },
+            "statistics": {
+                "viewCount": "124694",
+                "likeCount": "1145",
+                "favoriteCount": "0",
+                "commentCount": "131"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RJ9b9DxgPOiHtPUsDFTvxWsBf4Q",
             "id": "rFSVdKVpYWI",
             "snippet": {
                 "publishedAt": "2026-10-09T00:00:08Z",
@@ -1451,125 +1503,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "267455",
-                "likeCount": "13855",
+                "viewCount": "269058",
+                "likeCount": "13945",
                 "favoriteCount": "0",
-                "commentCount": "1719"
+                "commentCount": "1727"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3VEQHaD4XvWCCncD0DXCcmv9Wsc",
-            "id": "svdihoQ6jxw",
-            "snippet": {
-                "publishedAt": "2026-10-10T00:16:46Z",
-                "channelId": "UC7llV6PgcR3-4PxntePs9eg",
-                "title": "7 DIAS CUIDANDO UN GATO DE LAS ANOMALIAS  EN ROBLOX",
-                "description": "\u00a1Hola! \u2728 No olvides suscribirte al canal \u2764\ufe0f y activar la campanita \ud83d\udd14 para no perderte ninguna de mis aventuras.\n\n\u00a1MI INSTAGRAM! \ud83d\udc95\n https://www.instagram.com/bereburdd?igsh=Ynh0czdhdXFtZmVo&utm_source=qr\n\n\u00a1S\u00cdGUEME EN ROBLOX! \ud83c\udfae\n\ud83d\udc49\ud83c\udffb Perfil: https://www.roblox.com/users/3045881540/profile\n\n#Roblox #Gaming #BereRoblox",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/svdihoQ6jxw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Bere Roblox",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "7 DIAS CUIDANDO UN GATO DE LAS ANOMALIAS  EN ROBLOX",
-                    "description": "\u00a1Hola! \u2728 No olvides suscribirte al canal \u2764\ufe0f y activar la campanita \ud83d\udd14 para no perderte ninguna de mis aventuras.\n\n\u00a1MI INSTAGRAM! \ud83d\udc95\n https://www.instagram.com/bereburdd?igsh=Ynh0czdhdXFtZmVo&utm_source=qr\n\n\u00a1S\u00cdGUEME EN ROBLOX! \ud83c\udfae\n\ud83d\udc49\ud83c\udffb Perfil: https://www.roblox.com/users/3045881540/profile\n\n#Roblox #Gaming #BereRoblox"
-                },
-                "defaultAudioLanguage": "es-MX"
-            },
-            "statistics": {
-                "viewCount": "117463",
-                "likeCount": "1039",
-                "favoriteCount": "0",
-                "commentCount": "128"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "u9bI2PMjRayP44mzpDOAhzZ5vLE",
-            "id": "wLA85zXBQqw",
-            "snippet": {
-                "publishedAt": "2026-10-08T23:46:26Z",
-                "channelId": "UCNM1bTJ722YqB6DQCZY1zMQ",
-                "title": "Ven Conmigo",
-                "description": "Provided to YouTube by TuneCore\n\nVen Conmigo \u00b7 Los Magic\n\nVen Conmigo\n\n\u2117 2026 sakura.productions\n\nReleased on: 2026-07-02\n\nVocals: Los Magic\nProducer: Los Magic\nComposer: Alyssa Hernandez\nSongwriter: Alyssa Hernandez\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Los Magic - Topic",
-                "tags": [
-                    "Los Magic",
-                    "Ven Conmigo"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Ven Conmigo",
-                    "description": "Provided to YouTube by TuneCore\n\nVen Conmigo \u00b7 Los Magic\n\nVen Conmigo\n\n\u2117 2026 sakura.productions\n\nReleased on: 2026-07-02\n\nVocals: Los Magic\nProducer: Los Magic\nComposer: Alyssa Hernandez\nSongwriter: Alyssa Hernandez\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "128936",
-                "likeCount": "2161",
-                "favoriteCount": "0",
-                "commentCount": "20"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "YLmdReIHkvfXO-sNzi5C0acooBk",
+            "etag": "d7dYvCm6v-USI59loV2lP3hC0x4",
             "id": "YWlb1OMbmOQ",
             "snippet": {
                 "publishedAt": "2026-10-09T17:16:13Z",
@@ -1646,68 +1588,72 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1402167",
-                "likeCount": "35839",
+                "viewCount": "1422493",
+                "likeCount": "36510",
                 "favoriteCount": "0",
-                "commentCount": "1239"
+                "commentCount": "1253"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ujq1nd3uXyoHyHEvLRWClK6ox6Q",
-            "id": "F6haEym4zrY",
+            "etag": "GXL29fE9L0hTGPawhtIL2iI16oY",
+            "id": "wLA85zXBQqw",
             "snippet": {
-                "publishedAt": "2026-10-09T00:00:06Z",
-                "channelId": "UCrCp2upFOCeoUgoAd7CI9lA",
-                "title": "Emi Blue x Dani Flow - DR. DOCTOR (Video Oficial)",
-                "description": "DR. DOCTOR ya est\u00e1 aqu\u00ed. Emi Blue y Dani Flow se unen en una guaracha irreverente y sin frenos \u2014 divertida, r\u00e1pida y hecha para la fiesta. El junte que nadie esperaba pero que todos necesitaban.\n\n\ud83d\udd12 Disponible en todas las plataformas: https://awal.uk/drdoctor\n\n\ud83d\udcf2 S\u00edgueme:\nInstagram: https://www.instagram.com/emiblue16_\nTikTok: https://www.tiktok.com/@emiblue16\n\nArtista: Emi Blue, Dani Flow\nProducci\u00f3n: Yexay TMM\nMezcla y Masterizaci\u00f3n: A.River.V\nComposici\u00f3n: Emily Azul Mora Moreno, Roberto Ibarra Jim\u00e9nez, V\u00edctor Daniel Ayala Valladares\nSello: Psycodelia Music\n\nCasa Productora: 19/20 Cine\nDirector: Axel Zapi\u00e9n\nProductor: Sim\u00f3n Augusto\nGerente de Producci\u00f3n: Lilith Ortiz\n1AD: Yamir Perea\nDoP / Colorista: Mateo Romero\n1AC: Irene Valencia | 2AC: Sa\u00fal P\u00e9rez\nGaffer: Sinuhe Cinismos\nStaff: Bryan Moreno / Cuauht\u00e9moc Quiroz\nEl\u00e9ctrico: Carlos Alarc\u00f3n\nDise\u00f1adora de Producci\u00f3n: Ana Victoria M\u00e9ndez\nAsist. Arte: Natalia Villaf\u00e1n / Naim Mor\u00e1n / Luc\u00eda Le\u00f3n\nSwing: Luis V\u00e1zquez\nMUAH: Hanniel Oyarzabal\nStylist Emi: Paula Rega | Stylist Extras: Georgina Flores Toussant\nEditor: Erick Garc\u00eda Torres\nCoordinador de Post-Producci\u00f3n: Cid Galv\u00e1n\nBTS: Fernanda J\u00e1uregui\nCatering: M&M Catering\nTramoya: 3 Diablitos\n\n#EmiBlue #DaniFlow #DrDoctor #Guaracha #VideoOficial #LatinMusic #MusicaUrbana",
+                "publishedAt": "2026-10-08T23:46:26Z",
+                "channelId": "UCNM1bTJ722YqB6DQCZY1zMQ",
+                "title": "Ven Conmigo",
+                "description": "Provided to YouTube by TuneCore\n\nVen Conmigo \u00b7 Los Magic\n\nVen Conmigo\n\n\u2117 2026 sakura.productions\n\nReleased on: 2026-07-02\n\nVocals: Los Magic\nProducer: Los Magic\nComposer: Alyssa Hernandez\nSongwriter: Alyssa Hernandez\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wLA85zXBQqw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Emi Blue",
+                "channelTitle": "Los Magic - Topic",
+                "tags": [
+                    "Los Magic",
+                    "Ven Conmigo"
+                ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Emi Blue x Dani Flow - DR. DOCTOR (Video Oficial)",
-                    "description": "DR. DOCTOR ya est\u00e1 aqu\u00ed. Emi Blue y Dani Flow se unen en una guaracha irreverente y sin frenos \u2014 divertida, r\u00e1pida y hecha para la fiesta. El junte que nadie esperaba pero que todos necesitaban.\n\n\ud83d\udd12 Disponible en todas las plataformas: https://awal.uk/drdoctor\n\n\ud83d\udcf2 S\u00edgueme:\nInstagram: https://www.instagram.com/emiblue16_\nTikTok: https://www.tiktok.com/@emiblue16\n\nArtista: Emi Blue, Dani Flow\nProducci\u00f3n: Yexay TMM\nMezcla y Masterizaci\u00f3n: A.River.V\nComposici\u00f3n: Emily Azul Mora Moreno, Roberto Ibarra Jim\u00e9nez, V\u00edctor Daniel Ayala Valladares\nSello: Psycodelia Music\n\nCasa Productora: 19/20 Cine\nDirector: Axel Zapi\u00e9n\nProductor: Sim\u00f3n Augusto\nGerente de Producci\u00f3n: Lilith Ortiz\n1AD: Yamir Perea\nDoP / Colorista: Mateo Romero\n1AC: Irene Valencia | 2AC: Sa\u00fal P\u00e9rez\nGaffer: Sinuhe Cinismos\nStaff: Bryan Moreno / Cuauht\u00e9moc Quiroz\nEl\u00e9ctrico: Carlos Alarc\u00f3n\nDise\u00f1adora de Producci\u00f3n: Ana Victoria M\u00e9ndez\nAsist. Arte: Natalia Villaf\u00e1n / Naim Mor\u00e1n / Luc\u00eda Le\u00f3n\nSwing: Luis V\u00e1zquez\nMUAH: Hanniel Oyarzabal\nStylist Emi: Paula Rega | Stylist Extras: Georgina Flores Toussant\nEditor: Erick Garc\u00eda Torres\nCoordinador de Post-Producci\u00f3n: Cid Galv\u00e1n\nBTS: Fernanda J\u00e1uregui\nCatering: M&M Catering\nTramoya: 3 Diablitos\n\n#EmiBlue #DaniFlow #DrDoctor #Guaracha #VideoOficial #LatinMusic #MusicaUrbana"
+                    "title": "Ven Conmigo",
+                    "description": "Provided to YouTube by TuneCore\n\nVen Conmigo \u00b7 Los Magic\n\nVen Conmigo\n\n\u2117 2026 sakura.productions\n\nReleased on: 2026-07-02\n\nVocals: Los Magic\nProducer: Los Magic\nComposer: Alyssa Hernandez\nSongwriter: Alyssa Hernandez\n\nAuto-generated by YouTube."
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "212522",
-                "likeCount": "10206",
+                "viewCount": "131769",
+                "likeCount": "2240",
                 "favoriteCount": "0",
-                "commentCount": "338"
+                "commentCount": "20"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rH7-UtLcQkgJU798U6jDA538QFs",
+            "etag": "6S5JQfWSs3D6UHDe_OKzDYgwiag",
             "id": "uoIjRSL-E8I",
             "snippet": {
                 "publishedAt": "2026-10-09T23:43:21Z",
@@ -1752,72 +1698,68 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "212364",
-                "likeCount": "4220",
+                "viewCount": "226180",
+                "likeCount": "4419",
                 "favoriteCount": "0",
-                "commentCount": "572"
+                "commentCount": "583"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sLEdhrt0Gg38oBOY7bFOBywI2Bo",
-            "id": "k2FIMmLaz7w",
+            "etag": "Wvxnoe0CgFiPccrTtmpw0x4_Wfc",
+            "id": "F6haEym4zrY",
             "snippet": {
-                "publishedAt": "2026-10-10T00:00:40Z",
-                "channelId": "UCZ3pVT4hv4hgWwHpJHyTNRQ",
-                "title": "Los Dos De Tamaulipas - 5.0 (Video Oficial)",
-                "description": "Escucha lo mejor de AfinArte Music Aqu\u00ed  http://bit.ly/LoMejorDeAfinArte\nSuscr\u00edbete a nuestro canal: http://bit.ly/AfinArte\nDescubre lo mas nuevo de AfinArte Aqu\u00ed: https://bit.ly/EstrenosAfinArte2023\n\nLos Dos De Tamaulipas - 5.0 (Video Oficial)\n\nContrataciones: \nUSA: +1 (714) 345-6352\nM\u00e9xico: +52 (443) 187-8559\n\n\nhttps://facebook.com/AfinArteMusic\nhttps://instagram.com/AfinArtemusic\n\n\n#AfinArteMusic #M\u00e9xico #MusicaMexicana #LosDosDeTamaulipas  #5.0",
+                "publishedAt": "2026-10-09T00:00:06Z",
+                "channelId": "UCrCp2upFOCeoUgoAd7CI9lA",
+                "title": "Emi Blue x Dani Flow - DR. DOCTOR (Video Oficial)",
+                "description": "DR. DOCTOR ya est\u00e1 aqu\u00ed. Emi Blue y Dani Flow se unen en una guaracha irreverente y sin frenos \u2014 divertida, r\u00e1pida y hecha para la fiesta. El junte que nadie esperaba pero que todos necesitaban.\n\n\ud83d\udd12 Disponible en todas las plataformas: https://awal.uk/drdoctor\n\n\ud83d\udcf2 S\u00edgueme:\nInstagram: https://www.instagram.com/emiblue16_\nTikTok: https://www.tiktok.com/@emiblue16\n\nArtista: Emi Blue, Dani Flow\nProducci\u00f3n: Yexay TMM\nMezcla y Masterizaci\u00f3n: A.River.V\nComposici\u00f3n: Emily Azul Mora Moreno, Roberto Ibarra Jim\u00e9nez, V\u00edctor Daniel Ayala Valladares\nSello: Psycodelia Music\n\nCasa Productora: 19/20 Cine\nDirector: Axel Zapi\u00e9n\nProductor: Sim\u00f3n Augusto\nGerente de Producci\u00f3n: Lilith Ortiz\n1AD: Yamir Perea\nDoP / Colorista: Mateo Romero\n1AC: Irene Valencia | 2AC: Sa\u00fal P\u00e9rez\nGaffer: Sinuhe Cinismos\nStaff: Bryan Moreno / Cuauht\u00e9moc Quiroz\nEl\u00e9ctrico: Carlos Alarc\u00f3n\nDise\u00f1adora de Producci\u00f3n: Ana Victoria M\u00e9ndez\nAsist. Arte: Natalia Villaf\u00e1n / Naim Mor\u00e1n / Luc\u00eda Le\u00f3n\nSwing: Luis V\u00e1zquez\nMUAH: Hanniel Oyarzabal\nStylist Emi: Paula Rega | Stylist Extras: Georgina Flores Toussant\nEditor: Erick Garc\u00eda Torres\nCoordinador de Post-Producci\u00f3n: Cid Galv\u00e1n\nBTS: Fernanda J\u00e1uregui\nCatering: M&M Catering\nTramoya: 3 Diablitos\n\n#EmiBlue #DaniFlow #DrDoctor #Guaracha #VideoOficial #LatinMusic #MusicaUrbana",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/k2FIMmLaz7w/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/F6haEym4zrY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "AfinArte Music",
-                "tags": [
-                    "afinarte",
-                    "music"
-                ],
+                "channelTitle": "Emi Blue",
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Los Dos De Tamaulipas - 5.0 (Video Oficial)",
-                    "description": "Escucha lo mejor de AfinArte Music Aqu\u00ed  http://bit.ly/LoMejorDeAfinArte\nSuscr\u00edbete a nuestro canal: http://bit.ly/AfinArte\nDescubre lo mas nuevo de AfinArte Aqu\u00ed: https://bit.ly/EstrenosAfinArte2023\n\nLos Dos De Tamaulipas - 5.0 (Video Oficial)\n\nContrataciones: \nUSA: +1 (714) 345-6352\nM\u00e9xico: +52 (443) 187-8559\n\n\nhttps://facebook.com/AfinArteMusic\nhttps://instagram.com/AfinArtemusic\n\n\n#AfinArteMusic #M\u00e9xico #MusicaMexicana #LosDosDeTamaulipas  #5.0"
+                    "title": "Emi Blue x Dani Flow - DR. DOCTOR (Video Oficial)",
+                    "description": "DR. DOCTOR ya est\u00e1 aqu\u00ed. Emi Blue y Dani Flow se unen en una guaracha irreverente y sin frenos \u2014 divertida, r\u00e1pida y hecha para la fiesta. El junte que nadie esperaba pero que todos necesitaban.\n\n\ud83d\udd12 Disponible en todas las plataformas: https://awal.uk/drdoctor\n\n\ud83d\udcf2 S\u00edgueme:\nInstagram: https://www.instagram.com/emiblue16_\nTikTok: https://www.tiktok.com/@emiblue16\n\nArtista: Emi Blue, Dani Flow\nProducci\u00f3n: Yexay TMM\nMezcla y Masterizaci\u00f3n: A.River.V\nComposici\u00f3n: Emily Azul Mora Moreno, Roberto Ibarra Jim\u00e9nez, V\u00edctor Daniel Ayala Valladares\nSello: Psycodelia Music\n\nCasa Productora: 19/20 Cine\nDirector: Axel Zapi\u00e9n\nProductor: Sim\u00f3n Augusto\nGerente de Producci\u00f3n: Lilith Ortiz\n1AD: Yamir Perea\nDoP / Colorista: Mateo Romero\n1AC: Irene Valencia | 2AC: Sa\u00fal P\u00e9rez\nGaffer: Sinuhe Cinismos\nStaff: Bryan Moreno / Cuauht\u00e9moc Quiroz\nEl\u00e9ctrico: Carlos Alarc\u00f3n\nDise\u00f1adora de Producci\u00f3n: Ana Victoria M\u00e9ndez\nAsist. Arte: Natalia Villaf\u00e1n / Naim Mor\u00e1n / Luc\u00eda Le\u00f3n\nSwing: Luis V\u00e1zquez\nMUAH: Hanniel Oyarzabal\nStylist Emi: Paula Rega | Stylist Extras: Georgina Flores Toussant\nEditor: Erick Garc\u00eda Torres\nCoordinador de Post-Producci\u00f3n: Cid Galv\u00e1n\nBTS: Fernanda J\u00e1uregui\nCatering: M&M Catering\nTramoya: 3 Diablitos\n\n#EmiBlue #DaniFlow #DrDoctor #Guaracha #VideoOficial #LatinMusic #MusicaUrbana"
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "55687",
-                "likeCount": "1957",
+                "viewCount": "214408",
+                "likeCount": "10308",
                 "favoriteCount": "0",
-                "commentCount": "44"
+                "commentCount": "339"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "tgMCUIkQc4HmlfCdG6mIBflDrlM",
+            "etag": "956LiOlvPFAdRzemNar30soM6dg",
             "id": "4CYt02M3sik",
             "snippet": {
                 "publishedAt": "2026-10-09T22:55:47Z",
@@ -1899,15 +1841,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "104324",
-                "likeCount": "2987",
+                "viewCount": "108882",
+                "likeCount": "3216",
                 "favoriteCount": "0",
-                "commentCount": "52"
+                "commentCount": "55"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "AeHn9sMG7XLTuV3IXaQjd-B2hYE",
+            "etag": "VrDnoIZLSL2z1qL3OhwPVG6_6fk",
             "id": "hdK35QFA2c4",
             "snippet": {
                 "publishedAt": "2026-10-08T13:00:07Z",
@@ -1976,15 +1918,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "119711",
-                "likeCount": "360",
+                "viewCount": "121314",
+                "likeCount": "366",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mCtEv9K9SAroC7qbnZqV4-bDD3c",
+            "etag": "mSprsI0zZYOPjcyRhjig3h89pas",
             "id": "YyWi1aG2h8Q",
             "snippet": {
                 "publishedAt": "2026-10-10T03:24:50Z",
@@ -2026,15 +1968,15 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "982004",
-                "likeCount": "7756",
+                "viewCount": "982254",
+                "likeCount": "7760",
                 "favoriteCount": "0",
                 "commentCount": "68"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PGSKe9Rp4GQxHmFCcI9nxqNJ4II",
+            "etag": "GBL0s0dte8zVKoLTGrXBIphxaL4",
             "id": "I6kOiPQXp54",
             "snippet": {
                 "publishedAt": "2026-10-09T04:01:05Z",
@@ -2096,15 +2038,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "438795",
-                "likeCount": "43638",
+                "viewCount": "442091",
+                "likeCount": "43967",
                 "favoriteCount": "0",
-                "commentCount": "5151"
+                "commentCount": "5175"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "m830gJaBIMCBiaGI9kR7E1ZptfM",
+            "etag": "sP8WizsP8jXOKhw_z8MD9cS6-Rs",
             "id": "pw0Yr9MxEA0",
             "snippet": {
                 "publishedAt": "2026-10-09T21:33:12Z",
@@ -2187,15 +2129,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "180702",
-                "likeCount": "2488",
+                "viewCount": "186758",
+                "likeCount": "2564",
                 "favoriteCount": "0",
                 "commentCount": "207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Oq8puIlaFGQPT3a96gZKGvw-Nf4",
+            "etag": "qx_iOMp_Oh5-2FYo99_NKSBVy9Y",
             "id": "hG8kbDMwbeM",
             "snippet": {
                 "publishedAt": "2026-09-25T22:00:17Z",
@@ -2256,156 +2198,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "19964",
-                "likeCount": "64",
+                "viewCount": "20192",
+                "likeCount": "66",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "h_Erzeeu2Fr-S3ARdMZiweeZa3s",
-            "id": "GYEXSoJrv78",
-            "snippet": {
-                "publishedAt": "2026-10-09T21:30:31Z",
-                "channelId": "UC4DLCrt55UwaDvAswIr_59A",
-                "title": "El MOMENTO mas DIFICIL de la SERIE DIFICIL",
-                "description": "Para ver este contenido en vivo: https://kick.com/spreen\n\nCanal Spreen:\nhttps://www.youtube.com/channel/UCgTOIiEgjm58xLjHvDjmgdA/videos\n\n\u25cf \u00a1Sigueme por aqui! \ud83d\udc40\n\u2022 Instagram: https://www.instagram.com/spreen/\n\u2022 Twitter (Personal): https://twitter.com/ivan_buhaje\n\u2022 Twitter: https://twitter.com/SpreenDMC\n\n#SpreenDMC #Dedsafio",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "SpreenDMC",
-                "tags": [
-                    "Juego",
-                    "Spreen",
-                    "Espa\u00f1ol",
-                    "PS4",
-                    "XBOX",
-                    "PC",
-                    "Spanish",
-                    "SpreenDMC",
-                    "Youtube Fortnite",
-                    "Videos de Bromas",
-                    "Bromas",
-                    "Gracioso",
-                    "hackers",
-                    "Staff series en espa\u00f1ol",
-                    "Argentina",
-                    "Humor",
-                    "Risas",
-                    "Divertido",
-                    "Comentado",
-                    "hack",
-                    "rush",
-                    "skywars",
-                    "fortnite",
-                    "staff series",
-                    "xray",
-                    "hacker"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "El MOMENTO mas DIFICIL de la SERIE DIFICIL",
-                    "description": "Para ver este contenido en vivo: https://kick.com/spreen\n\nCanal Spreen:\nhttps://www.youtube.com/channel/UCgTOIiEgjm58xLjHvDjmgdA/videos\n\n\u25cf \u00a1Sigueme por aqui! \ud83d\udc40\n\u2022 Instagram: https://www.instagram.com/spreen/\n\u2022 Twitter (Personal): https://twitter.com/ivan_buhaje\n\u2022 Twitter: https://twitter.com/SpreenDMC\n\n#SpreenDMC #Dedsafio"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "271463",
-                "likeCount": "11440",
-                "favoriteCount": "0",
-                "commentCount": "350"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "B5xl63XfbLU1yo1zNf56QUnfokc",
-            "id": "j31L0iIwdmE",
-            "snippet": {
-                "publishedAt": "2026-10-08T22:00:29Z",
-                "channelId": "UCncmmq2xV1002xNnx9_rDhw",
-                "title": "Morat - Me Mata (Video Oficial)",
-                "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MoratVEVO",
-                "tags": [
-                    "Morat",
-                    "Universal Music Spain",
-                    "S.L.U.",
-                    "under exclusive license to Interscope Records",
-                    "Latin"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Morat - Me Mata (Video Oficial)",
-                    "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "662975",
-                "likeCount": "46464",
-                "favoriteCount": "0",
-                "commentCount": "2406"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "a93c0YQ_TQjDJCKjj5X27EQ3jS8",
+            "etag": "ckTiHhpJMr8ch1pWkewI6zDK1no",
             "id": "NL2IsH6J5fs",
             "snippet": {
                 "publishedAt": "2026-10-10T01:27:30Z",
@@ -2485,15 +2286,156 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "217572",
-                "likeCount": "12125",
+                "viewCount": "229556",
+                "likeCount": "12775",
                 "favoriteCount": "0",
-                "commentCount": "841"
+                "commentCount": "869"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UnRyJPNQFB36HPvyrt2RjJCU-jA",
+            "etag": "QtuktmwdsDgAJNtGPEqFEej5NMQ",
+            "id": "j31L0iIwdmE",
+            "snippet": {
+                "publishedAt": "2026-10-08T22:00:29Z",
+                "channelId": "UCncmmq2xV1002xNnx9_rDhw",
+                "title": "Morat - Me Mata (Video Oficial)",
+                "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j31L0iIwdmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MoratVEVO",
+                "tags": [
+                    "Morat",
+                    "Universal Music Spain",
+                    "S.L.U.",
+                    "under exclusive license to Interscope Records",
+                    "Latin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Morat - Me Mata (Video Oficial)",
+                    "description": "Escucha \"Me Mata\" en tu plataforma favorita: http://morat.lnk.to/memata/\nSuscr\u00edbete al canal de Morat en Youtube: youtube.com/moratoficial\n\nSigue a Morat en redes:\nInstagram: https://www.instagram.com/morat\nTiktok: https://www.tiktok.com/@moratbanda\nX: https://x.com/MoratBanda\n\nMusic video by Morat performing Me Mata.\u00a9 2026 Interscope Records"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "670574",
+                "likeCount": "46805",
+                "favoriteCount": "0",
+                "commentCount": "2408"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "H6yWfr1IOhXPYYlesXY5SgrOIo8",
+            "id": "GYEXSoJrv78",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:30:31Z",
+                "channelId": "UC4DLCrt55UwaDvAswIr_59A",
+                "title": "El MOMENTO mas DIFICIL de la SERIE DIFICIL",
+                "description": "Para ver este contenido en vivo: https://kick.com/spreen\n\nCanal Spreen:\nhttps://www.youtube.com/channel/UCgTOIiEgjm58xLjHvDjmgdA/videos\n\n\u25cf \u00a1Sigueme por aqui! \ud83d\udc40\n\u2022 Instagram: https://www.instagram.com/spreen/\n\u2022 Twitter (Personal): https://twitter.com/ivan_buhaje\n\u2022 Twitter: https://twitter.com/SpreenDMC\n\n#SpreenDMC #Dedsafio",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GYEXSoJrv78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SpreenDMC",
+                "tags": [
+                    "Juego",
+                    "Spreen",
+                    "Espa\u00f1ol",
+                    "PS4",
+                    "XBOX",
+                    "PC",
+                    "Spanish",
+                    "SpreenDMC",
+                    "Youtube Fortnite",
+                    "Videos de Bromas",
+                    "Bromas",
+                    "Gracioso",
+                    "hackers",
+                    "Staff series en espa\u00f1ol",
+                    "Argentina",
+                    "Humor",
+                    "Risas",
+                    "Divertido",
+                    "Comentado",
+                    "hack",
+                    "rush",
+                    "skywars",
+                    "fortnite",
+                    "staff series",
+                    "xray",
+                    "hacker"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "El MOMENTO mas DIFICIL de la SERIE DIFICIL",
+                    "description": "Para ver este contenido en vivo: https://kick.com/spreen\n\nCanal Spreen:\nhttps://www.youtube.com/channel/UCgTOIiEgjm58xLjHvDjmgdA/videos\n\n\u25cf \u00a1Sigueme por aqui! \ud83d\udc40\n\u2022 Instagram: https://www.instagram.com/spreen/\n\u2022 Twitter (Personal): https://twitter.com/ivan_buhaje\n\u2022 Twitter: https://twitter.com/SpreenDMC\n\n#SpreenDMC #Dedsafio"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "278805",
+                "likeCount": "11783",
+                "favoriteCount": "0",
+                "commentCount": "352"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NQdUhR3v1g4weujjD5Ki7az8XOw",
             "id": "ENXLhu3UYto",
             "snippet": {
                 "publishedAt": "2026-10-09T03:04:49Z",
@@ -2543,15 +2485,155 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "222559",
-                "likeCount": "9027",
+                "viewCount": "226912",
+                "likeCount": "9273",
                 "favoriteCount": "0",
-                "commentCount": "394"
+                "commentCount": "395"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lTbHB0TmSFFY5JsFEnJpS6p6tMA",
+            "etag": "gO1HLQmsFC6G4U2xm2K-XERdYxU",
+            "id": "d4hnFpYNs4Y",
+            "snippet": {
+                "publishedAt": "2026-10-09T19:30:04Z",
+                "channelId": "UCrPWiqy4AmzFruDvWONex6w",
+                "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ChuuyMine",
+                "tags": [
+                    "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                    "YA NO PUEDO JUGAR ROBLOX",
+                    "NO PUEDO JUGAR ROBLOX",
+                    "JUGAR ROBLOX",
+                    "ROBLOX",
+                    "chuuymine",
+                    "chuuymine roblox",
+                    "roblox chuuymine",
+                    "chuuymine ya no puedo jugar roblox",
+                    "ya no puedo jugar roblox chuuymine",
+                    "chuuymine jugar roblox",
+                    "jugar roblox chuuymine"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
+                    "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "239769",
+                "likeCount": "2394",
+                "favoriteCount": "0",
+                "commentCount": "278"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "H-DLtzyWUdkX-Fpoio56-NTJzIM",
+            "id": "aJleQ1cHVIU",
+            "snippet": {
+                "publishedAt": "2026-10-08T17:30:08Z",
+                "channelId": "UCcXifH1pPqzadvzmTBI4Zsg",
+                "title": "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
+                "description": "\u2728\u00a1Muchas gracias por ver el video! espero que les haya gustado. \u2728\n\nM\u00e1s m\u00fasica para ti:\n\n\u27a4 Hits variados para escuchar sin saltar canciones: https://www.youtube.com/playlist?list=PL9XoSLEkeG4iQcziPT_p7ilJ5oK9f2_9V\n\u27a4 Reggaet\u00f3n lento, rap suave y urbano chill: https://www.youtube.com/playlist?list=PLRCu-cbh3vYtD3-YHLIZpXph091qSfYJG\n\u27a4 Rom\u00e1nticas para dedicar y cantar con sentimiento: https://www.youtube.com/playlist?list=PLIhaX7myPw6mlEAOgf5ufMRbPRDd9lNNo\n\u27a4 Retro 80s, 90s y cl\u00e1sicos inolvidables: https://www.youtube.com/playlist?list=PLCntZTlOKd9Y4d_09XEbYb0co_KKAaI6F\n\u27a4 Urbano caliente para subir la vibra: https://www.youtube.com/playlist?list=PLx_e4fXTbuJS0i2c-N-C8ihv8rNDrsxHR\n\u27a4 Full reggaet\u00f3n, perreo y corridos tumbados: https://www.youtube.com/playlist?list=PLmWNlIYWlhPEQwrcXjhSZ-gMlJyc1gShl\n\n\u2764\ufe0f\u200d\ud83d\udd25Antes de ver este v\u00eddeo, chequea el original:\n https://youtu.be/7TEwDvwyP5A?si=igBX3spxFluk-xLr\n\n\ud83d\udcdd Letra/ Lyrics:\nMe qued\u00e9 en el mismo punto\ndonde un d\u00eda te perd\u00ed\nPensando que en cualquier momento\u2026\nibas a volver por m\u00ed\nLe hice caso al coraz\u00f3n\ncuando dijo \u201cdale tiempo\u201d\nY el tiempo se fue pasando\ny t\u00fa nunca regresando\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nGuard\u00e9 lo poco que era nuestro\ncomo si a\u00fan fuera a servir\nMientras t\u00fa ya hac\u00edas tu vida\nlejos de todo lo que fui\nMe aferr\u00e9 a la idea\nde que esto no era el final\nY termin\u00e9 entendiendo\nque fui yo el que no supo soltar\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nTags:\nNunca Supiste Que Te Esper\u00e9 Letra\nGrupo Firme Nunca Supiste Que Te Esper\u00e9\nNunca Supiste Que Te Esper\u00e9 Grupo Firme\nNunca supiste que te esper\u00e9\nNi las noches que no dorm\u00eda\nNi las veces que en silencio\nTu nombre repet\u00eda\nNunca supiste que te esper\u00e9\nY eso pesa m\u00e1s\nPorque di todo por alguien\nQue nunca mir\u00f3 atr\u00e1s\nNunca Supiste Que Te Esper\u00e9\n\n#GrupoFirme #NuncaSupisteQueTeEsper\u00e9 #grupofirme #eduincaz #Letra #Latinlove",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Latin Love",
+                "tags": [
+                    "latin",
+                    "latinLove",
+                    "Latin Love",
+                    "Letra",
+                    "Lyrics",
+                    "romance latino",
+                    "baladas de amor",
+                    "pop rom\u00e1ntico",
+                    "m\u00fasica sentimental",
+                    "LatinFlow",
+                    "canciones de amor",
+                    "vibes rom\u00e1nticos",
+                    "pop de enamorados",
+                    "himnos de amor",
+                    "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
+                    "Nunca Supiste Que Te Esper\u00e9",
+                    "Grupo Firme - Nunca Supiste Que Te Esper\u00e9",
+                    "Grupo Firme"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
+                    "description": "\u2728\u00a1Muchas gracias por ver el video! espero que les haya gustado. \u2728\n\nM\u00e1s m\u00fasica para ti:\n\n\u27a4 Hits variados para escuchar sin saltar canciones: https://www.youtube.com/playlist?list=PL9XoSLEkeG4iQcziPT_p7ilJ5oK9f2_9V\n\u27a4 Reggaet\u00f3n lento, rap suave y urbano chill: https://www.youtube.com/playlist?list=PLRCu-cbh3vYtD3-YHLIZpXph091qSfYJG\n\u27a4 Rom\u00e1nticas para dedicar y cantar con sentimiento: https://www.youtube.com/playlist?list=PLIhaX7myPw6mlEAOgf5ufMRbPRDd9lNNo\n\u27a4 Retro 80s, 90s y cl\u00e1sicos inolvidables: https://www.youtube.com/playlist?list=PLCntZTlOKd9Y4d_09XEbYb0co_KKAaI6F\n\u27a4 Urbano caliente para subir la vibra: https://www.youtube.com/playlist?list=PLx_e4fXTbuJS0i2c-N-C8ihv8rNDrsxHR\n\u27a4 Full reggaet\u00f3n, perreo y corridos tumbados: https://www.youtube.com/playlist?list=PLmWNlIYWlhPEQwrcXjhSZ-gMlJyc1gShl\n\n\u2764\ufe0f\u200d\ud83d\udd25Antes de ver este v\u00eddeo, chequea el original:\n https://youtu.be/7TEwDvwyP5A?si=igBX3spxFluk-xLr\n\n\ud83d\udcdd Letra/ Lyrics:\nMe qued\u00e9 en el mismo punto\ndonde un d\u00eda te perd\u00ed\nPensando que en cualquier momento\u2026\nibas a volver por m\u00ed\nLe hice caso al coraz\u00f3n\ncuando dijo \u201cdale tiempo\u201d\nY el tiempo se fue pasando\ny t\u00fa nunca regresando\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nGuard\u00e9 lo poco que era nuestro\ncomo si a\u00fan fuera a servir\nMientras t\u00fa ya hac\u00edas tu vida\nlejos de todo lo que fui\nMe aferr\u00e9 a la idea\nde que esto no era el final\nY termin\u00e9 entendiendo\nque fui yo el que no supo soltar\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nTags:\nNunca Supiste Que Te Esper\u00e9 Letra\nGrupo Firme Nunca Supiste Que Te Esper\u00e9\nNunca Supiste Que Te Esper\u00e9 Grupo Firme\nNunca supiste que te esper\u00e9\nNi las noches que no dorm\u00eda\nNi las veces que en silencio\nTu nombre repet\u00eda\nNunca supiste que te esper\u00e9\nY eso pesa m\u00e1s\nPorque di todo por alguien\nQue nunca mir\u00f3 atr\u00e1s\nNunca Supiste Que Te Esper\u00e9\n\n#GrupoFirme #NuncaSupisteQueTeEsper\u00e9 #grupofirme #eduincaz #Letra #Latinlove"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "27162",
+                "likeCount": "121",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hzhyumGJ3rNMqEZBnZRHsaukb8U",
             "id": "Cs3Fut5e7pc",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:24Z",
@@ -2626,15 +2708,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1099944",
-                "likeCount": "26664",
+                "viewCount": "1105793",
+                "likeCount": "26908",
                 "favoriteCount": "0",
-                "commentCount": "356"
+                "commentCount": "357"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "D0xclY3g6WE2fri55CqsQwy2XOw",
+            "etag": "wnWdekkBT8uDPWr4sf4EP9ZRh5s",
             "id": "V8PUuih5GcE",
             "snippet": {
                 "publishedAt": "2026-10-04T18:11:41Z",
@@ -2695,155 +2777,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "70175",
-                "likeCount": "56",
+                "viewCount": "70932",
+                "likeCount": "59",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Yjsb32i2d8BBvg6fp9ko3q3tCxY",
-            "id": "d4hnFpYNs4Y",
-            "snippet": {
-                "publishedAt": "2026-10-09T19:30:04Z",
-                "channelId": "UCrPWiqy4AmzFruDvWONex6w",
-                "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/d4hnFpYNs4Y/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ChuuyMine",
-                "tags": [
-                    "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                    "YA NO PUEDO JUGAR ROBLOX",
-                    "NO PUEDO JUGAR ROBLOX",
-                    "JUGAR ROBLOX",
-                    "ROBLOX",
-                    "chuuymine",
-                    "chuuymine roblox",
-                    "roblox chuuymine",
-                    "chuuymine ya no puedo jugar roblox",
-                    "ya no puedo jugar roblox chuuymine",
-                    "chuuymine jugar roblox",
-                    "jugar roblox chuuymine"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "YA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab",
-                    "description": "El d\u00eda de hoy Ya No Puedo Jugar Roblox, porque esto es Juegos de Roblox Basados en Historias Aterradoras, as\u00ed es el Juego Mas Perturbador de Roblox \u00bfConseguiremos Sobrevivir?\n\n\u279c Mi Ropa: https://chuymine.com\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo primero aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Twitter: https://twitter.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nAunque esto parezca un video de Como CONSEGU\u00cd una NOVIA GAMER en este juego Silvio Gamer o JUEGOS DE ROBLOX BASADOS EN HISTORIAS ATERRADORAS ChuuyMine, tampoco es un video de Compramos un SQUISHY ABANDONADO en Brookhaven Roblox Lyna, Un SIMULADOR DE 100 EXPERIMENTOS EXTREMOS ChuuyMine o SOBREVIVIMOS A BUDDY THE UNICORN EN ROBLOX RoxiCake Gamer, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nYA NO PUEDO JUGAR ROBLOX \ud83d\ude14\ud83d\udeab"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "232135",
-                "likeCount": "2318",
-                "favoriteCount": "0",
-                "commentCount": "272"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "uE4bFxD_SG0vLBaFWhLtziwW6Q0",
-            "id": "aJleQ1cHVIU",
-            "snippet": {
-                "publishedAt": "2026-10-08T17:30:08Z",
-                "channelId": "UCcXifH1pPqzadvzmTBI4Zsg",
-                "title": "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
-                "description": "\u2728\u00a1Muchas gracias por ver el video! espero que les haya gustado. \u2728\n\nM\u00e1s m\u00fasica para ti:\n\n\u27a4 Hits variados para escuchar sin saltar canciones: https://www.youtube.com/playlist?list=PL9XoSLEkeG4iQcziPT_p7ilJ5oK9f2_9V\n\u27a4 Reggaet\u00f3n lento, rap suave y urbano chill: https://www.youtube.com/playlist?list=PLRCu-cbh3vYtD3-YHLIZpXph091qSfYJG\n\u27a4 Rom\u00e1nticas para dedicar y cantar con sentimiento: https://www.youtube.com/playlist?list=PLIhaX7myPw6mlEAOgf5ufMRbPRDd9lNNo\n\u27a4 Retro 80s, 90s y cl\u00e1sicos inolvidables: https://www.youtube.com/playlist?list=PLCntZTlOKd9Y4d_09XEbYb0co_KKAaI6F\n\u27a4 Urbano caliente para subir la vibra: https://www.youtube.com/playlist?list=PLx_e4fXTbuJS0i2c-N-C8ihv8rNDrsxHR\n\u27a4 Full reggaet\u00f3n, perreo y corridos tumbados: https://www.youtube.com/playlist?list=PLmWNlIYWlhPEQwrcXjhSZ-gMlJyc1gShl\n\n\u2764\ufe0f\u200d\ud83d\udd25Antes de ver este v\u00eddeo, chequea el original:\n https://youtu.be/7TEwDvwyP5A?si=igBX3spxFluk-xLr\n\n\ud83d\udcdd Letra/ Lyrics:\nMe qued\u00e9 en el mismo punto\ndonde un d\u00eda te perd\u00ed\nPensando que en cualquier momento\u2026\nibas a volver por m\u00ed\nLe hice caso al coraz\u00f3n\ncuando dijo \u201cdale tiempo\u201d\nY el tiempo se fue pasando\ny t\u00fa nunca regresando\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nGuard\u00e9 lo poco que era nuestro\ncomo si a\u00fan fuera a servir\nMientras t\u00fa ya hac\u00edas tu vida\nlejos de todo lo que fui\nMe aferr\u00e9 a la idea\nde que esto no era el final\nY termin\u00e9 entendiendo\nque fui yo el que no supo soltar\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nTags:\nNunca Supiste Que Te Esper\u00e9 Letra\nGrupo Firme Nunca Supiste Que Te Esper\u00e9\nNunca Supiste Que Te Esper\u00e9 Grupo Firme\nNunca supiste que te esper\u00e9\nNi las noches que no dorm\u00eda\nNi las veces que en silencio\nTu nombre repet\u00eda\nNunca supiste que te esper\u00e9\nY eso pesa m\u00e1s\nPorque di todo por alguien\nQue nunca mir\u00f3 atr\u00e1s\nNunca Supiste Que Te Esper\u00e9\n\n#GrupoFirme #NuncaSupisteQueTeEsper\u00e9 #grupofirme #eduincaz #Letra #Latinlove",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aJleQ1cHVIU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Latin Love",
-                "tags": [
-                    "latin",
-                    "latinLove",
-                    "Latin Love",
-                    "Letra",
-                    "Lyrics",
-                    "romance latino",
-                    "baladas de amor",
-                    "pop rom\u00e1ntico",
-                    "m\u00fasica sentimental",
-                    "LatinFlow",
-                    "canciones de amor",
-                    "vibes rom\u00e1nticos",
-                    "pop de enamorados",
-                    "himnos de amor",
-                    "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
-                    "Nunca Supiste Que Te Esper\u00e9",
-                    "Grupo Firme - Nunca Supiste Que Te Esper\u00e9",
-                    "Grupo Firme"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Grupo Firme - Nunca Supiste Que Te Esper\u00e9 (Letra)",
-                    "description": "\u2728\u00a1Muchas gracias por ver el video! espero que les haya gustado. \u2728\n\nM\u00e1s m\u00fasica para ti:\n\n\u27a4 Hits variados para escuchar sin saltar canciones: https://www.youtube.com/playlist?list=PL9XoSLEkeG4iQcziPT_p7ilJ5oK9f2_9V\n\u27a4 Reggaet\u00f3n lento, rap suave y urbano chill: https://www.youtube.com/playlist?list=PLRCu-cbh3vYtD3-YHLIZpXph091qSfYJG\n\u27a4 Rom\u00e1nticas para dedicar y cantar con sentimiento: https://www.youtube.com/playlist?list=PLIhaX7myPw6mlEAOgf5ufMRbPRDd9lNNo\n\u27a4 Retro 80s, 90s y cl\u00e1sicos inolvidables: https://www.youtube.com/playlist?list=PLCntZTlOKd9Y4d_09XEbYb0co_KKAaI6F\n\u27a4 Urbano caliente para subir la vibra: https://www.youtube.com/playlist?list=PLx_e4fXTbuJS0i2c-N-C8ihv8rNDrsxHR\n\u27a4 Full reggaet\u00f3n, perreo y corridos tumbados: https://www.youtube.com/playlist?list=PLmWNlIYWlhPEQwrcXjhSZ-gMlJyc1gShl\n\n\u2764\ufe0f\u200d\ud83d\udd25Antes de ver este v\u00eddeo, chequea el original:\n https://youtu.be/7TEwDvwyP5A?si=igBX3spxFluk-xLr\n\n\ud83d\udcdd Letra/ Lyrics:\nMe qued\u00e9 en el mismo punto\ndonde un d\u00eda te perd\u00ed\nPensando que en cualquier momento\u2026\nibas a volver por m\u00ed\nLe hice caso al coraz\u00f3n\ncuando dijo \u201cdale tiempo\u201d\nY el tiempo se fue pasando\ny t\u00fa nunca regresando\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nGuard\u00e9 lo poco que era nuestro\ncomo si a\u00fan fuera a servir\nMientras t\u00fa ya hac\u00edas tu vida\nlejos de todo lo que fui\nMe aferr\u00e9 a la idea\nde que esto no era el final\nY termin\u00e9 entendiendo\nque fui yo el que no supo soltar\n\nY no fue orgullo\nfue querer\nCreer que a\u00fan quedaba algo\nque no supe ver\n\nNunca supiste que te esper\u00e9\nni las noches que no dorm\u00eda\nNi las veces que en silencio\ntu nombre repet\u00eda\nNunca supiste que te esper\u00e9\ny eso pesa m\u00e1s\nPorque di todo por alguien\nque nunca mir\u00f3 atr\u00e1s\n\nTags:\nNunca Supiste Que Te Esper\u00e9 Letra\nGrupo Firme Nunca Supiste Que Te Esper\u00e9\nNunca Supiste Que Te Esper\u00e9 Grupo Firme\nNunca supiste que te esper\u00e9\nNi las noches que no dorm\u00eda\nNi las veces que en silencio\nTu nombre repet\u00eda\nNunca supiste que te esper\u00e9\nY eso pesa m\u00e1s\nPorque di todo por alguien\nQue nunca mir\u00f3 atr\u00e1s\nNunca Supiste Que Te Esper\u00e9\n\n#GrupoFirme #NuncaSupisteQueTeEsper\u00e9 #grupofirme #eduincaz #Letra #Latinlove"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "26399",
-                "likeCount": "117",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "QZ0mvZPbGGr8eGpr7_0K1L8cyV4",
+            "etag": "hUm64tdk0MiUEi-NritEAegeuZs",
             "id": "_ytE75DzokI",
             "snippet": {
                 "publishedAt": "2026-10-09T18:44:47Z",
@@ -2937,15 +2879,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "231047",
-                "likeCount": "5403",
+                "viewCount": "237587",
+                "likeCount": "5605",
                 "favoriteCount": "0",
-                "commentCount": "459"
+                "commentCount": "479"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "U6TgWrTrgMiIjqNuNtaNwP1E0L0",
+            "etag": "xDQ7fd3OUt7yuhI3W5dsQ_gF_z8",
             "id": "Rof0xhVw0Jg",
             "snippet": {
                 "publishedAt": "2026-10-08T10:00:38Z",
@@ -2993,15 +2935,136 @@
                 }
             },
             "statistics": {
-                "viewCount": "79338",
-                "likeCount": "1639",
+                "viewCount": "80795",
+                "likeCount": "1696",
                 "favoriteCount": "0",
-                "commentCount": "18"
+                "commentCount": "19"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4DeroTpRcCbje8bGt5_OWGY9oE8",
+            "etag": "3BFyn1X933pnKibXbWnxzT7Y1mY",
+            "id": "uQZctMvZ3pc",
+            "snippet": {
+                "publishedAt": "2026-10-09T23:10:03Z",
+                "channelId": "UCyDUULOp3b3JsehZKIIVzrg",
+                "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
+                "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jardred",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
+                    "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "191569",
+                "likeCount": "6320",
+                "favoriteCount": "0",
+                "commentCount": "299"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3TKhqH_pdHp5F2f7iijK5akczic",
+            "id": "ZfdwnCz-kiA",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:51:18Z",
+                "channelId": "UC9TO_oo4c_LrOiKNaY6aysA",
+                "title": "DADDY YANKEE-  BOTZ (B\u00e9same OTra veZ) Official Video",
+                "description": "BOTZ (B\u00e8same OTra veZ)\n\n\"El Mejor algoritmo que ha tenido la humanidad en todo su historia siempre ha sido un beso\"\n\nSuscr\u00edbete al canal: Subscribe to the channel: https://goo.gl/yypZya\n\n\n\nSigue a Daddy Yankee / Follow Daddy Yankee:\nTikTok: https://www.tiktok.com/@daddyyankee?lang=en\nInstagram-http://goo.gl/a6F7gz | \nFacebook-http://goo.gl/QYZ53a | X-http://goo.gl/AzaR8o \nwww.daddyyankee.com\n\nLetra/Lyrics:\nBOTZ (Letra/Lyrics)\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez (we run the world!)\nQuiero saber (\u00a1Daddy!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nUn beso que rompa\nExplosi\u00f3n como bomba\nEsto es un sentimiento que traspasa la ropa\nEstamo\u2019 conecta\u2019o\u2019, no hay nada que no\u2019 corrompa\nUsted me cambi\u00f3, me lo dicen mi\u2019 compa\u2019 (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento (\u00a1sube!)\nDos corazones, un solo sentimiento (\u00a1voy! \u00a1voy!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber (\u00a1sube!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nNo creo en el destino\nEsto fue un plan divino\nNo es casualidad que t\u00fa te cruzaras en mi camino\nNi Gucci ni valentino\nContigo e\u2019 que combino\nSomo\u2019 el barrio fino (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\n\u00a1Da-ddy!\n\u00a0\n\n\n#DaddyYankee",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Daddy Yankee",
+                "tags": [
+                    "#DaddyYankee",
+                    "#DY",
+                    "#thebigboss",
+                    "#laultimavueltaworld",
+                    "#thegoat",
+                    "Reggaeton videos",
+                    "Daddy Yankee cristiano",
+                    "daddy yankee 2026",
+                    "BOZT",
+                    "Musica nueva daddy yankee",
+                    "new music daddy yankee",
+                    "Person of the year",
+                    "reggaeton"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "DADDY YANKEE-  BOTZ (B\u00e9same OTra veZ) Official Video",
+                    "description": "BOTZ (B\u00e8same OTra veZ)\n\n\"El Mejor algoritmo que ha tenido la humanidad en todo su historia siempre ha sido un beso\"\n\nSuscr\u00edbete al canal: Subscribe to the channel: https://goo.gl/yypZya\n\n\n\nSigue a Daddy Yankee / Follow Daddy Yankee:\nTikTok: https://www.tiktok.com/@daddyyankee?lang=en\nInstagram-http://goo.gl/a6F7gz | \nFacebook-http://goo.gl/QYZ53a | X-http://goo.gl/AzaR8o \nwww.daddyyankee.com\n\nLetra/Lyrics:\nBOTZ (Letra/Lyrics)\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez (we run the world!)\nQuiero saber (\u00a1Daddy!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nUn beso que rompa\nExplosi\u00f3n como bomba\nEsto es un sentimiento que traspasa la ropa\nEstamo\u2019 conecta\u2019o\u2019, no hay nada que no\u2019 corrompa\nUsted me cambi\u00f3, me lo dicen mi\u2019 compa\u2019 (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento (\u00a1sube!)\nDos corazones, un solo sentimiento (\u00a1voy! \u00a1voy!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber (\u00a1sube!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nNo creo en el destino\nEsto fue un plan divino\nNo es casualidad que t\u00fa te cruzaras en mi camino\nNi Gucci ni valentino\nContigo e\u2019 que combino\nSomo\u2019 el barrio fino (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\n\u00a1Da-ddy!\n\u00a0\n\n\n#DaddyYankee"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "2605028",
+                "likeCount": "109571",
+                "favoriteCount": "0",
+                "commentCount": "10414"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pQ0ZWxr8-fxcAy0Ak_m2XFNgghE",
             "id": "Oelfh3QU9-8",
             "snippet": {
                 "publishedAt": "2026-10-09T17:15:11Z",
@@ -3076,136 +3139,127 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "229806",
-                "likeCount": "11260",
+                "viewCount": "233656",
+                "likeCount": "11442",
                 "favoriteCount": "0",
                 "commentCount": "636"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JqZEi9VhrimzPuHVKiAWi_S7eoc",
-            "id": "ZfdwnCz-kiA",
+            "etag": "BA-z-MouvcgDHFyU_KYRivrWA34",
+            "id": "3-3XXrpDp2o",
             "snippet": {
-                "publishedAt": "2026-10-08T21:51:18Z",
-                "channelId": "UC9TO_oo4c_LrOiKNaY6aysA",
-                "title": "DADDY YANKEE-  BOTZ (B\u00e9same OTra veZ) Official Video",
-                "description": "BOTZ (B\u00e8same OTra veZ)\n\n\"El Mejor algoritmo que ha tenido la humanidad en todo su historia siempre ha sido un beso\"\n\nSuscr\u00edbete al canal: Subscribe to the channel: https://goo.gl/yypZya\n\n\n\nSigue a Daddy Yankee / Follow Daddy Yankee:\nTikTok: https://www.tiktok.com/@daddyyankee?lang=en\nInstagram-http://goo.gl/a6F7gz | \nFacebook-http://goo.gl/QYZ53a | X-http://goo.gl/AzaR8o \nwww.daddyyankee.com\n\nLetra/Lyrics:\nBOTZ (Letra/Lyrics)\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez (we run the world!)\nQuiero saber (\u00a1Daddy!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nUn beso que rompa\nExplosi\u00f3n como bomba\nEsto es un sentimiento que traspasa la ropa\nEstamo\u2019 conecta\u2019o\u2019, no hay nada que no\u2019 corrompa\nUsted me cambi\u00f3, me lo dicen mi\u2019 compa\u2019 (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento (\u00a1sube!)\nDos corazones, un solo sentimiento (\u00a1voy! \u00a1voy!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber (\u00a1sube!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nNo creo en el destino\nEsto fue un plan divino\nNo es casualidad que t\u00fa te cruzaras en mi camino\nNi Gucci ni valentino\nContigo e\u2019 que combino\nSomo\u2019 el barrio fino (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\n\u00a1Da-ddy!\n\u00a0\n\n\n#DaddyYankee",
+                "publishedAt": "2026-10-09T15:00:09Z",
+                "channelId": "UCGuXQUUn7C6Tg6Dz6D_xGVw",
+                "title": "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
+                "description": "Air Supply performing 'Making Love Out Of Nothing At All' on Vorsicht Musik! on December 12, 1983.\n\nFootage licensed from ZDF Enterprises. All rights reserved.\n\nCONNECT WITH AIR SUPPLY:\nAirSupplyMusic.com\nYoutube.com/channel/UCLIx3q_0KLVHAxgxsvh_vSQ\nFacebook.com/AirSupplyMusic\nInstagram.com/AirSupplyMusic\nX.com/AirSupplyMusic\nTikTok.com/@AirSupplyMusic\n\nLISTEN TO AIR SUPPLY\nhttps://fanlink.tv/AirSupply\n\nBeloved by their millions of fans across the planet as Air Supply \u2013 have had nearly half a century to hone their skills, harness their passion and unleash the beautifully intimate yet rockin\u2019 romantic energy of those instantly identifiable 80s hits that made them global superstars.\n\n50 years since they met in the chorus of the Australian touring company of Jesus Christ Superstar, the duo is ever-present on the road in North America and overseas to the tune of 130 dates a year. This run includes being the first Western group to tour China and several other countries who prior to their breakthrough would not allow pop music across their borders, as well as performing for a record 175,000 people in Cuba in 2005.\n\n#AirSupply #Rock #love  #AirSupplyLive #MakingLoveOutOfNothingAtAll #VorsichtMusik",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3-3XXrpDp2o/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3-3XXrpDp2o/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3-3XXrpDp2o/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3-3XXrpDp2o/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ZfdwnCz-kiA/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3-3XXrpDp2o/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Daddy Yankee",
+                "channelTitle": "AirSupplyVEVO",
                 "tags": [
-                    "#DaddyYankee",
-                    "#DY",
-                    "#thebigboss",
-                    "#laultimavueltaworld",
-                    "#thegoat",
-                    "Reggaeton videos",
-                    "Daddy Yankee cristiano",
-                    "daddy yankee 2026",
-                    "BOZT",
-                    "Musica nueva daddy yankee",
-                    "new music daddy yankee",
-                    "Person of the year",
-                    "reggaeton"
+                    "Air Supply",
+                    "Love Out of Nothing",
+                    "Making Love",
+                    "ZDF",
+                    "Vorsicht Musik"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "DADDY YANKEE-  BOTZ (B\u00e9same OTra veZ) Official Video",
-                    "description": "BOTZ (B\u00e8same OTra veZ)\n\n\"El Mejor algoritmo que ha tenido la humanidad en todo su historia siempre ha sido un beso\"\n\nSuscr\u00edbete al canal: Subscribe to the channel: https://goo.gl/yypZya\n\n\n\nSigue a Daddy Yankee / Follow Daddy Yankee:\nTikTok: https://www.tiktok.com/@daddyyankee?lang=en\nInstagram-http://goo.gl/a6F7gz | \nFacebook-http://goo.gl/QYZ53a | X-http://goo.gl/AzaR8o \nwww.daddyyankee.com\n\nLetra/Lyrics:\nBOTZ (Letra/Lyrics)\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez (we run the world!)\nQuiero saber (\u00a1Daddy!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nUn beso que rompa\nExplosi\u00f3n como bomba\nEsto es un sentimiento que traspasa la ropa\nEstamo\u2019 conecta\u2019o\u2019, no hay nada que no\u2019 corrompa\nUsted me cambi\u00f3, me lo dicen mi\u2019 compa\u2019 (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby (\u00a1sube!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento (\u00a1sube!)\nDos corazones, un solo sentimiento (\u00a1voy! \u00a1voy!)\n\u00a0\nB\u00e9same otra vez\nQuiero saber (\u00a1sube!)\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nSi t\u00fa quiere shorty, te pongo en contexto\nStory que sube\u2019, story que contesto\nT\u00fa me completa\u2019 y yo te completo\nMa\u2019 t\u00fa \u2018ta\u2019 de respeto\n\u00a0\nNo creo en el destino\nEsto fue un plan divino\nNo es casualidad que t\u00fa te cruzaras en mi camino\nNi Gucci ni valentino\nContigo e\u2019 que combino\nSomo\u2019 el barrio fino (hey, hey)\n\u00a0\nYo nunca me imagin\u00e9, lo que Dios me regal\u00f3\nEn mi escala musical, t\u00fa, eres mi sol\nY suena\u2019 tan bien\n\u2018Tamos vibrando tan bien (let\u2019s go!)\n\u00a0\nContigo quiero un por siempre\nYa, yo, me convenc\u00ed\nTengo el pasaporte lleno\nY nunca he visto algo as\u00ed\nAc\u00e9rcame esa boca, si no es mucho pedir\nBaby\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nSi tu siente\u2019 lo mismo que yo siento\nDos corazones, un solo sentimiento\n\u00a0\nB\u00e9same otra vez\nQuiero saber\nQue es lo que tienen tu\u2019 beso\u2019\nDame m\u00e1\u2019 de \u2018so, beb\u00e9\n\u00a0\n\u00a1Da-ddy!\n\u00a0\n\n\n#DaddyYankee"
+                    "title": "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
+                    "description": "Air Supply performing 'Making Love Out Of Nothing At All' on Vorsicht Musik! on December 12, 1983.\n\nFootage licensed from ZDF Enterprises. All rights reserved.\n\nCONNECT WITH AIR SUPPLY:\nAirSupplyMusic.com\nYoutube.com/channel/UCLIx3q_0KLVHAxgxsvh_vSQ\nFacebook.com/AirSupplyMusic\nInstagram.com/AirSupplyMusic\nX.com/AirSupplyMusic\nTikTok.com/@AirSupplyMusic\n\nLISTEN TO AIR SUPPLY\nhttps://fanlink.tv/AirSupply\n\nBeloved by their millions of fans across the planet as Air Supply \u2013 have had nearly half a century to hone their skills, harness their passion and unleash the beautifully intimate yet rockin\u2019 romantic energy of those instantly identifiable 80s hits that made them global superstars.\n\n50 years since they met in the chorus of the Australian touring company of Jesus Christ Superstar, the duo is ever-present on the road in North America and overseas to the tune of 130 dates a year. This run includes being the first Western group to tour China and several other countries who prior to their breakthrough would not allow pop music across their borders, as well as performing for a record 175,000 people in Cuba in 2005.\n\n#AirSupply #Rock #love  #AirSupplyLive #MakingLoveOutOfNothingAtAll #VorsichtMusik"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "2567544",
-                "likeCount": "108102",
+                "viewCount": "103068",
+                "likeCount": "1352",
                 "favoriteCount": "0",
-                "commentCount": "10333"
+                "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QNSF9GbJH0EX8icx9iCvUJQo2Bk",
-            "id": "uQZctMvZ3pc",
+            "etag": "ET39JQcldqOtUX8dZNlTFvGeWq4",
+            "id": "sMBlJavXFYU",
             "snippet": {
-                "publishedAt": "2026-10-09T23:10:03Z",
-                "channelId": "UCyDUULOp3b3JsehZKIIVzrg",
-                "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
-                "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25",
+                "publishedAt": "2026-10-10T00:07:04Z",
+                "channelId": "UCj_pcmy3zBqzouJe9hcpmpQ",
+                "title": "CUIDAMOS 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS con MI FAMILIA en Roblox",
+                "description": "Bienvenidos al canal de Karim Juega! \r\n\r\n\ud83d\uded1 Suscribete a nuestro canal: https://www.youtube.com/channel/UCj_pcmy3zBqzouJe9hcpmpQ\r\n\r\n\ud83d\uded1 COMENTA: Qu\u00e9 es lo que m\u00e1s te ha gustado del v\u00eddeo. \r\n\r\n\ud83d\uded1 ENCU\u00c9NTRANOS EN: \r\n\r\nFACEBOOK: https://www.facebook.com/KarimJuegayAprende\r\n\r\n\ud83d\uded1 Contacto: contactokarimjuega@gmail.com \r\n\r\n\ud83d\uded1 \u00bfQuienes somos ? \r\n\r\n\u00a1\u00a1No te pierdas ning\u00fan v\u00eddeo y suscr\u00edbete!! \r\n\r\nCanal de Juegos y Juguetes.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/uQZctMvZ3pc/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Jardred",
+                "channelTitle": "Karim Juega",
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft",
-                    "description": "Prob\u00e9 el Mod IMPOSIBLE de JUGAR con Amigos en Minecraft\n\nMI LIBRO JARDRED CONTRA LA REINA DE FUEGO \ud83d\udc47\ud83d\udd25\ud83c\udf83\nhttps://www.planetadelibros.com/libro-jardred-contra-la-reina-de-fuego/378145\n\n\u25b6TWITTER:  \nhttps://twitter.com/SoyJardred\n\u25b6INSTAGRAM:  \nhttps://www.instagram.com/jardred\n\nADVERTENCIA! - Que encontraras en Jardred?\n\nEn Jardred encontrar\u00e1s v\u00eddeos de Minecraft cuidadosamente preparados y guionizados, creados con el \u00fanico prop\u00f3sito de ofrecer historias entretenidas para el p\u00fablico. El contenido est\u00e1 dirigido a toda la familia: aunque los personajes son ca\u00f3ticos y las situaciones pueden ser intensas, nunca se transmiten mensajes negativos a la audiencia. Todo est\u00e1 pensado para entretener tanto a los m\u00e1s peque\u00f1os como a los m\u00e1s mayores.\n\nEl canal se inspira en m\u00faltiples creadores de la plataforma de YouTube, pero siempre con un enfoque propio y original, buscando que cada historia tenga una identidad \u00fanica que no pueda encontrarse en ning\u00fan otro canal. Publicamos contenido diario de Minecraft en formato largo y Shorts, pensado para todo tipo de p\u00fablico.\n\nPERSONAJES:\n\nJARDRED\nUna calabaza viviente ca\u00f3tica, con cambios de humor constantes. Al m\u00ednimo enfado recurre a la dinamita para hacerlo volar todo por los aires, aunque intenta controlar sus impulsos. Adora a los gatos y, aunque no lo admita, es muy miedoso con todo lo relacionado con el terror. Aprecia profundamente a sus amigos, aunque rara vez lo demuestra, prefiriendo expresar su cari\u00f1o a trav\u00e9s de bromas extremas y situaciones absurdas.\n\nMAURICIO\nEl aldeano principal y m\u00e1s conocido de la aldea. Es el acompa\u00f1ante habitual de Jardred en casi todas sus aventuras, aunque a menudo termina agotado por su comportamiento y necesita tiempo a solas. Le apasionan los negocios y ganar dinero; su pasatiempo favorito es jugar en el ordenador. Trabaja diariamente organizando y distribuyendo las tareas entre los aldeanos del reino.\n\nPABLO\nEl \u00fanico aldeano que viste una t\u00fanica blanca. Es un cient\u00edfico apasionado por la naturaleza y los animales, siempre experimentando, aunque muchas veces sus pruebas acaban en situaciones inesperadas. A pesar de su pasado t\u00edmido, ahora no tolera que nadie se burle de \u00e9l y siempre est\u00e1 dispuesto a ayudar a sus amigos cuando se encuentran en problemas.\n\nALMUDENA\nLa \u00fanica aldeana que viste una t\u00fanica rosa. Es la l\u00edder de los ej\u00e9rcitos de la aldea, aunque actualmente dispone de m\u00e1s tiempo libre desde que el Rey Aldeano ha comenzado a sustituir el ej\u00e9rcito tradicional por agentes de polic\u00eda bajo su mando. Tiene un car\u00e1cter fuerte y autoritario, y no soporta que le lleven la contraria cuando sabe que tiene raz\u00f3n.\n\nJARD\nEl clon malvado de Jardred. En el pasado fue la criatura m\u00e1s poderosa de Minecraft, capaz de corromper y controlar mundos y criaturas a su antojo. Actualmente vive en la aldea con solo una peque\u00f1a parte de sus antiguos poderes, intentando llevar una vida normal. En esta nueva etapa, se encuentra estudiando programaci\u00f3n.\n\n\n---------------------------------------------------------------\nConvi\u00e9rtete en Miembro!\ud83c\udf83\ud83d\udd25:   @Jardred  \n\nSIGUEME \ud83d\udca5: \n\ud83d\udcdeCONTACTO \ud83d\udcde: contactojardred@gmail.com \nTIKTOK: @mcjardred \nMUSICA por EPIDEMIC SOUND\ud83d\uded0: https://www.epidemicsound.com\n\nY muchas gracias a mi maravilloso grupo de LOS DEL PUEBLO por acompa\u00f1arme hasta el final! \ud83d\udd25"
+                    "title": "CUIDAMOS 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS con MI FAMILIA en Roblox",
+                    "description": "Bienvenidos al canal de Karim Juega! \r\n\r\n\ud83d\uded1 Suscribete a nuestro canal: https://www.youtube.com/channel/UCj_pcmy3zBqzouJe9hcpmpQ\r\n\r\n\ud83d\uded1 COMENTA: Qu\u00e9 es lo que m\u00e1s te ha gustado del v\u00eddeo. \r\n\r\n\ud83d\uded1 ENCU\u00c9NTRANOS EN: \r\n\r\nFACEBOOK: https://www.facebook.com/KarimJuegayAprende\r\n\r\n\ud83d\uded1 Contacto: contactokarimjuega@gmail.com \r\n\r\n\ud83d\uded1 \u00bfQuienes somos ? \r\n\r\n\u00a1\u00a1No te pierdas ning\u00fan v\u00eddeo y suscr\u00edbete!! \r\n\r\nCanal de Juegos y Juguetes."
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "180891",
-                "likeCount": "6049",
-                "favoriteCount": "0",
-                "commentCount": "292"
+                "viewCount": "75016",
+                "likeCount": "1035",
+                "favoriteCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "r_xhrrajBnQbwy6eowgiSrS8uYA",
+            "etag": "ahUh5BfoSWsxrpOOyiUvVMsQBNU",
             "id": "LaqtLWELSBc",
             "snippet": {
                 "publishedAt": "2026-10-09T00:00:10Z",
@@ -3288,223 +3342,178 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "126390",
-                "likeCount": "6982",
+                "viewCount": "127798",
+                "likeCount": "7078",
                 "favoriteCount": "0",
-                "commentCount": "268"
+                "commentCount": "274"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "FSaoTaURX6W0xMlO5O6UseBjk4Y",
-            "id": "sMBlJavXFYU",
+            "etag": "RZuh_LMluHmtVK_8_fcsDTJ_NzM",
+            "id": "qCMh_I7Dins",
             "snippet": {
-                "publishedAt": "2026-10-10T00:07:04Z",
-                "channelId": "UCj_pcmy3zBqzouJe9hcpmpQ",
-                "title": "CUIDAMOS 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS con MI FAMILIA en Roblox",
-                "description": "Bienvenidos al canal de Karim Juega! \r\n\r\n\ud83d\uded1 Suscribete a nuestro canal: https://www.youtube.com/channel/UCj_pcmy3zBqzouJe9hcpmpQ\r\n\r\n\ud83d\uded1 COMENTA: Qu\u00e9 es lo que m\u00e1s te ha gustado del v\u00eddeo. \r\n\r\n\ud83d\uded1 ENCU\u00c9NTRANOS EN: \r\n\r\nFACEBOOK: https://www.facebook.com/KarimJuegayAprende\r\n\r\n\ud83d\uded1 Contacto: contactokarimjuega@gmail.com \r\n\r\n\ud83d\uded1 \u00bfQuienes somos ? \r\n\r\n\u00a1\u00a1No te pierdas ning\u00fan v\u00eddeo y suscr\u00edbete!! \r\n\r\nCanal de Juegos y Juguetes.",
+                "publishedAt": "2026-10-10T13:54:48Z",
+                "channelId": "UC_rklqhEA3jIL_Y7CxLn5lQ",
+                "title": "MAZOS ANTI-META en el TOP de Clash Royale!!!!\ud83d\udd3a(Sin Nuevas Cartas) CR EN VIVO",
+                "description": "\u00danete a este canal para acceder a sus beneficios:\nhttps://www.youtube.com/channel/UC_rklqhEA3jIL_Y7CxLn5lQ/join\n\n\u2192\u2192\u2192 CANAL DE WHATSAPP!: https://whatsapp.com/channel/0029Va9Rme5IiRozqxVhTw3c\n\n\u00a1HEY! \ud83d\udd34 En vivo: https://www.twitch.tv/yosoyricklive\n(9:00 pm Hora M\u00e9xico, todas las noches) S\u00edgueme.\n\nMis canales:\n\ud83d\udf32 YoSoyRick - https://www.youtube.com/c/YoSoyRickOficial\n\ud83d\udf32 YoSoyRickLive - https://www.youtube.com/c/YoSoyRickLive\n\ud83d\udf32 YoSoyRick T\u00e1ctica Royale - https://www.youtube.com/channel/UCGM42CuIpB0d778OpuKqVXA\n\ud83c\udd82\ud83c\udd84\ud83c\udd82\ud83c\udd72\ud83c\udd81\ud83c\udd78\ud83c\udd71\ud83c\udd74\ud83c\udd83\ud83c\udd74\n\n----------------------------------------------------------------\nSIGUEME AQU\u00cd!:\n\u2022 Facebook - https://www.facebook.com/YoSoyRickV\n\u2022 Twitter - https://twitter.com/YoSoyRickYT\n\u2022 Instagram - https://www.instagram.com/YOSOYRICK\n\u2022 Tik Tok - https://www.tiktok.com/@yosoyrickoficial\n--------------------------------------------------------------------\n#clashroyale #Nuevacarta #top1cr #Clashroyalelive #mejoresmazos",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/sMBlJavXFYU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Karim Juega",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "CUIDAMOS 7 DIAS a un GATO de las ANOMALIAS ATERRADORAS con MI FAMILIA en Roblox",
-                    "description": "Bienvenidos al canal de Karim Juega! \r\n\r\n\ud83d\uded1 Suscribete a nuestro canal: https://www.youtube.com/channel/UCj_pcmy3zBqzouJe9hcpmpQ\r\n\r\n\ud83d\uded1 COMENTA: Qu\u00e9 es lo que m\u00e1s te ha gustado del v\u00eddeo. \r\n\r\n\ud83d\uded1 ENCU\u00c9NTRANOS EN: \r\n\r\nFACEBOOK: https://www.facebook.com/KarimJuegayAprende\r\n\r\n\ud83d\uded1 Contacto: contactokarimjuega@gmail.com \r\n\r\n\ud83d\uded1 \u00bfQuienes somos ? \r\n\r\n\u00a1\u00a1No te pierdas ning\u00fan v\u00eddeo y suscr\u00edbete!! \r\n\r\nCanal de Juegos y Juguetes."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "69658",
-                "likeCount": "960",
-                "favoriteCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "sgf5AbPFzWonrRyMigX4oU5RJkU",
-            "id": "gWENF98iUBY",
-            "snippet": {
-                "publishedAt": "2026-10-08T22:00:14Z",
-                "channelId": "UCB8_0QUp1PMLEi6DRiGn_Ng",
-                "title": "Ana Gabriel - No Te Hago Falta (Letra)",
-                "description": "No Te Hago Falta - Ana Gabriel (Letra/Lyrics)\n\nVideo Oficial: https://www.youtube.com/watch?v=gr6RzMi4L3o\n\nSigue a Ana Gabriel: https://www.youtube.com/channel/UCs1eKCRvdr0FefP8rHax2aw\n\nSuscr\u00edbete para m\u00e1s letras de tus canciones favoritas \ud83d\udd25\nActiva la campanita \ud83d\udd14 y no te pierdas ning\u00fan estreno.\n\nLetra de la canci\u00f3n:\nTE AGRADEZCO LOS MOMENTOS QUE ME DISTE\nNO HACE FALTA QUE TE DIGA NADA M\u00c1S\nLAS PALABRAS QUE TEN\u00cdA YO GUARDADAS\nSEGUIR\u00c1N POR MUCHO TIEMPO SOLO EN M\u00cd\n\nYO NO TE HAGO FALTA, ESO YA LO S\u00c9\nNI AHORA NI MA\u00d1ANA, SIEMPRE HA SIDO AS\u00cd\nBUSCO UNA SALIDA, YO NO S\u00c9 QU\u00c9 HACER\nESTOY DESESPERADA, VOY A ENLOQUECER\n\nYO NO TE HAGO FALTA NI ANTES NI DESPU\u00c9S\nT\u00da NO SIENTES NADA, ES TRISTE SABER\n\nYO NO TE HAGO FALTA, ESO YA LO S\u00c9\nNI AHORA NI MA\u00d1ANA, SIEMPRE HA SIDO AS\u00cd\nBUSCO UNA SALIDA, YO NO S\u00c9 QU\u00c9 HACER\nESTOY DESESPERADA, VOY A ENLOQUECER\n\nYO NO TE HAGO FALTA NI ANTES NI DESPU\u00c9S\nT\u00da NO SIENTES NADA, ES TRISTE SABER\n_________________________________\nNo te esfuerces por buscar alguna excusa\nS\u00e9 bien que tienes que partir\nTanta prisa por llegar tienes ahora\nHasta el sitio donde esperan ya por ti\n\nTe agradezco los momentos que me diste\nNo hace falta que te diga nada m\u00e1s\nLas palabras que ten\u00eda yo guardadas\nSeguir\u00e1n por mucho tiempo solo en m\u00ed\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\nTe agradezco los momentos que me diste\nNo hace falta que te diga nada m\u00e1s\nLas palabras que ten\u00eda yo guardadas\nSeguir\u00e1n por mucho tiempo solo en m\u00ed\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\n#NoTeHagoFalta #AnaGabriel #MusicaMexicana #BaladaRomantica #MusicaRomantica #PopLatino #MusicaLatina #CancionesRomanticas #ExitosAnaGabriel #LyricVideo #VideoConLetra",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
                     "fhd": {
-                        "url": "https://i.ytimg.com/vi/gWENF98iUBY/fhddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qCMh_I7Dins/fhddefault.jpg",
                         "width": 1920,
                         "height": 1080
                     }
                 },
-                "channelTitle": "Keller MX",
+                "channelTitle": "YoSoyRick",
                 "tags": [
-                    "No Te Hago Falta",
-                    "Ana Gabriel",
-                    "Ana Gabriel No Te Hago Falta",
-                    "No Te Hago Falta Letra",
-                    "No Te Hago Falta Lyrics",
-                    "Letra No Te Hago Falta",
-                    "Ana Gabriel Exitos",
-                    "Ana Gabriel Canciones",
-                    "Balada Romantica",
-                    "Musica Romantica",
-                    "Pop Latino",
-                    "Pop Romantico",
-                    "Musica Mexicana",
-                    "Ranchera Mexicana",
-                    "Canciones Mexicanas",
-                    "Musica Latina",
-                    "Canciones Romanticas",
-                    "Exitos Ana Gabriel",
-                    "Lyric Video",
-                    "Video con Letra",
-                    "Letra Completa",
-                    "Clasicos Mexicanos"
+                    "yosoyrick",
+                    "clash royale",
+                    "mazo clash royale",
+                    "mejores mazos",
+                    "la mejor carta evolucionada",
+                    "clash royale en espa\u00f1ol",
+                    "deck clash royale",
+                    "clash royale en vivo",
+                    "en vivo clash royale",
+                    "clash royale nueva evolucion",
+                    "nueva evo",
+                    "new evo",
+                    "CLASHROYALE",
+                    "PRO PLAYER",
+                    "PRO TIPS CLASH ROYALE",
+                    "top 1 clash royale",
+                    "clash royale top mundial",
+                    "mejor mazo",
+                    "pro tips",
+                    "cr",
+                    "mazos",
+                    "clash royale live",
+                    "clash royale evolucion",
+                    "clash royale 2026",
+                    "live clash royale",
+                    "CR",
+                    "clash"
                 ],
-                "categoryId": "10",
+                "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
+                "defaultLanguage": "es-MX",
                 "localized": {
-                    "title": "Ana Gabriel - No Te Hago Falta (Letra)",
-                    "description": "No Te Hago Falta - Ana Gabriel (Letra/Lyrics)\n\nVideo Oficial: https://www.youtube.com/watch?v=gr6RzMi4L3o\n\nSigue a Ana Gabriel: https://www.youtube.com/channel/UCs1eKCRvdr0FefP8rHax2aw\n\nSuscr\u00edbete para m\u00e1s letras de tus canciones favoritas \ud83d\udd25\nActiva la campanita \ud83d\udd14 y no te pierdas ning\u00fan estreno.\n\nLetra de la canci\u00f3n:\nTE AGRADEZCO LOS MOMENTOS QUE ME DISTE\nNO HACE FALTA QUE TE DIGA NADA M\u00c1S\nLAS PALABRAS QUE TEN\u00cdA YO GUARDADAS\nSEGUIR\u00c1N POR MUCHO TIEMPO SOLO EN M\u00cd\n\nYO NO TE HAGO FALTA, ESO YA LO S\u00c9\nNI AHORA NI MA\u00d1ANA, SIEMPRE HA SIDO AS\u00cd\nBUSCO UNA SALIDA, YO NO S\u00c9 QU\u00c9 HACER\nESTOY DESESPERADA, VOY A ENLOQUECER\n\nYO NO TE HAGO FALTA NI ANTES NI DESPU\u00c9S\nT\u00da NO SIENTES NADA, ES TRISTE SABER\n\nYO NO TE HAGO FALTA, ESO YA LO S\u00c9\nNI AHORA NI MA\u00d1ANA, SIEMPRE HA SIDO AS\u00cd\nBUSCO UNA SALIDA, YO NO S\u00c9 QU\u00c9 HACER\nESTOY DESESPERADA, VOY A ENLOQUECER\n\nYO NO TE HAGO FALTA NI ANTES NI DESPU\u00c9S\nT\u00da NO SIENTES NADA, ES TRISTE SABER\n_________________________________\nNo te esfuerces por buscar alguna excusa\nS\u00e9 bien que tienes que partir\nTanta prisa por llegar tienes ahora\nHasta el sitio donde esperan ya por ti\n\nTe agradezco los momentos que me diste\nNo hace falta que te diga nada m\u00e1s\nLas palabras que ten\u00eda yo guardadas\nSeguir\u00e1n por mucho tiempo solo en m\u00ed\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\nTe agradezco los momentos que me diste\nNo hace falta que te diga nada m\u00e1s\nLas palabras que ten\u00eda yo guardadas\nSeguir\u00e1n por mucho tiempo solo en m\u00ed\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\nYo no te hago falta, eso ya lo s\u00e9\nNi ahora ni ma\u00f1ana, siempre ha sido as\u00ed\nBusco una salida, yo no s\u00e9 qu\u00e9 hacer\nEstoy desesperada, voy a enloquecer\n\nYo no te hago falta ni antes ni despu\u00e9s\nT\u00fa no sientes nada, es triste saber\n\n#NoTeHagoFalta #AnaGabriel #MusicaMexicana #BaladaRomantica #MusicaRomantica #PopLatino #MusicaLatina #CancionesRomanticas #ExitosAnaGabriel #LyricVideo #VideoConLetra"
+                    "title": "MAZOS ANTI-META en el TOP de Clash Royale!!!!\ud83d\udd3a(Sin Nuevas Cartas) CR EN VIVO",
+                    "description": "\u00danete a este canal para acceder a sus beneficios:\nhttps://www.youtube.com/channel/UC_rklqhEA3jIL_Y7CxLn5lQ/join\n\n\u2192\u2192\u2192 CANAL DE WHATSAPP!: https://whatsapp.com/channel/0029Va9Rme5IiRozqxVhTw3c\n\n\u00a1HEY! \ud83d\udd34 En vivo: https://www.twitch.tv/yosoyricklive\n(9:00 pm Hora M\u00e9xico, todas las noches) S\u00edgueme.\n\nMis canales:\n\ud83d\udf32 YoSoyRick - https://www.youtube.com/c/YoSoyRickOficial\n\ud83d\udf32 YoSoyRickLive - https://www.youtube.com/c/YoSoyRickLive\n\ud83d\udf32 YoSoyRick T\u00e1ctica Royale - https://www.youtube.com/channel/UCGM42CuIpB0d778OpuKqVXA\n\ud83c\udd82\ud83c\udd84\ud83c\udd82\ud83c\udd72\ud83c\udd81\ud83c\udd78\ud83c\udd71\ud83c\udd74\ud83c\udd83\ud83c\udd74\n\n----------------------------------------------------------------\nSIGUEME AQU\u00cd!:\n\u2022 Facebook - https://www.facebook.com/YoSoyRickV\n\u2022 Twitter - https://twitter.com/YoSoyRickYT\n\u2022 Instagram - https://www.instagram.com/YOSOYRICK\n\u2022 Tik Tok - https://www.tiktok.com/@yosoyrickoficial\n--------------------------------------------------------------------\n#clashroyale #Nuevacarta #top1cr #Clashroyalelive #mejoresmazos"
                 },
-                "defaultAudioLanguage": "es"
+                "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "46057",
-                "likeCount": "230",
+                "viewCount": "36798",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ieAjgnAnslFhYnitj1kDMcwhcrA",
-            "id": "KJAmqCggpN0",
+            "etag": "FBMr7dXhO9VhuN4DMRpz3XP5tV0",
+            "id": "SYwN28e-Saw",
             "snippet": {
-                "publishedAt": "2026-10-09T22:10:05Z",
-                "channelId": "UCLQkAKmz2E9F8yB9AJPpSkg",
-                "title": "Creamos un CUARTO SECRETO para ESCONDERNOS de los DINOSAURIOS en BROOKHAVEN | Kori Roblox",
-                "description": "Construimos una BASE SECRETA para ESCONDERNOS de los DINOSAURIOS en BROOKHAVEN | Kori Roblox\n\n\n\ud83d\udc55 TIENDA EN LINEA: https://karimjuega.com\n\ud83d\udc51Corona Kori: https://www.roblox.com/catalog/5300408223/Pretty-Crown\n\ud83c\udfa7\u200b Audifonos Kori: https://www.roblox.com/es/catalog/89607338459134/Kori-Audifonos\n\ud83d\udc57\u200b Falda de Kori: https://www.roblox.com/es/catalog/127549610557850/Kori-Falda\n\ud83d\udc36 Mochila Kima: https://www.roblox.com/es/catalog/98201672142642/Mochila-Kima\n\ud83c\udf1fRopa kori: https://www.roblox.com/es/catalog/73214807163537/KoriPants\n\n\u2b50 USA MI CODIGO EN ROBLOX: kori \n\ud83c\udfae\u200bUNETE A MI COMUNIDAD https://www.roblox.com/es/communities/6445490/Kori-Team#!/about\n\nREDES SOCIALES:\n\ud83d\udcf7 INSTAGRAM: https://www.instagram.com/korijuega_\n\ud83d\udda4TIKTOK: https://www.tiktok.com/@kori.yt\n\ud83d\udc8c E-MAIL FANS: cartitasfamgmail.com\n\ud83d\udce9E-MAIL SOLO BUSINESS: contactokori@gmail.com\n\nMUSICA: https://www.epidemicsound.com/es/music/featured/\n\n\ud83d\udc81\u200d\u2640\ufe0fCANAL SECRETO: https: https://www.youtube.com/user/189koreana\n\n                            \u2b50\ud83c\udf1cPIENSA CREA SUE\u00d1A Y ATR\u00c9VETE \u2b50\ud83c\udf1c",
+                "publishedAt": "2026-10-06T22:00:10Z",
+                "channelId": "UCH1gGFEyj7pqtCI1vsBs9cg",
+                "title": "Aitana - SUPERESTRELLA // Letra + Lyrics",
+                "description": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2606\u272e\u2605\u2606\u272e\n\n\u00a1Gracias por estar aqu\u00ed! \u2661\nEspero que disfrutes este video tanto como yo disfrut\u00e9 haci\u00e9ndolo.\nSi te gust\u00f3, no olvides dejar tu like y suscribirte para m\u00e1s traducciones y lyric videos.\n\n\u22c6.\u02da   \u22c6\uff61\ud81a\uddb9\u00b0\u2b52\u02da\uff61\u22c6\n\nIf you are the artist or the owner of any artwork featured in this video and would like it removed, please contact me. I will gladly take it down as soon as possible. \ud83d\udc97\n\n\u0660\u08ea\u2b51\n\n\u2570\u2508\u27a4 \u2726 \ud835\udde6\ud835\udde8\ud835\udde3\ud835\uddd8\ud835\udde5\ud835\uddd8\ud835\udde6\ud835\udde7\ud835\udde5\ud835\uddd8\ud835\udddf\ud835\udddf\ud835\uddd4\n\n\u201cSUPERESTRELLA\u201d es una canci\u00f3n llena de energ\u00eda y actitud que juega con la idea de convertir una noche de fiesta en una fantas\u00eda rom\u00e1ntica. Aitana canta sobre sentirse atra\u00edda por alguien y dejarse llevar por la qu\u00edmica del momento, imaginando una conexi\u00f3n intensa mientras la noche avanza entre copas, luces y baile. La canci\u00f3n mezcla coqueteo, deseo y esa seguridad de sentirse como una aut\u00e9ntica superestrella cuando est\u00e1s con la persona que te gusta.\n\nAitana - SUPERESTRELLA\n(Espa\u00f1ol \u2022 Letra \u2022 Lyrics \u2022 Sub. Espa\u00f1ol)\nReleased 29 May 2025\nFrom the album \"CUARTO AZUL\"\nGet it here: http://aitana.lnk.to/CUARTOAZUL\n\n.\u00b0 \u0f18\ud83c\udfa7\u22c6\ud83d\udd87\u208a\u02da\u0dc6\n\n\u2726 Sigue a Aitana\n\nYouTube\nhttps://www.youtube.com/@aitana\n\nSpotify\nhttps://open.spotify.com/artist/7eLcDZDYHXZCebtQCfHsWP\n\n\u22c6.\u02da\u2b51.\u141f\n\n\u2726 Encu\u00e9ntrame aqu\u00ed\n\nCanal Secundario\nhttps://youtube.com/@stevenn.?si=CJKY6EI5g-ZTHVjC\n\nBeats & Beats\nhttps://youtube.com/@beatsnbeat5?si=lgIh6JD8Wy-DumaK\n\nTikTok\nhttps://www.tiktok.com/@stevenfannn\n\nInstagram\nhttps://www.instagram.com/stevenishereeee\n\nBusiness / Promos / Music Submissions\n\u2709\ufe0f stevenfanii43@gmail.com\n\n\u250a         \u250a       \u250a   \u250a    \u250a        \u250a\n\u250a         \u250a       \u250a   \u250a   \u02da\u2605\u22c6\uff61\u02da  \u22c6\n\u250a         \u250a       \u250a   \u22c6\n\u250a         \u250a       \u2605\u22c6\n\u250a \u25e6\n\u2605\u22c6      \u250a .  \u02da\n\u02da\u2605.\ud81a\udd54 \u0741 \u02d6\u05b4 \u08ea\u269d\u208a \u22b9\u02da\n\n\u266a Lyrics / Letra:\nMe ve entrando en la disco y se me queda mirando\nCreo que me ha conocido, ser\u00e1 uno m\u00e1s de tantos\nMierda, quiz\u00e1 eres mi pr\u00f3ximo error (mi pr\u00f3ximo error)\nEstoy con mis amigas de reojo mirando\nTe queda tan bien esa camisa de Versace\nHoy vas a ser mi pr\u00f3ximo error (mi pr\u00f3ximo error)\nY no s\u00e9 d\u00f3nde diablos se habr\u00e1 metido\nNo est\u00e1 en el ba\u00f1o ni en los pasillos\nFuck, est\u00e1 en la barra y viene directo a m\u00ed\n\u00c9l me dice que quiere divertirse\nYo le digo que los rumores vuelan\n\u00c9l me dice que no le importa estar\nCon una superestrella\nYo le digo: \"\u00bfDe d\u00f3nde t\u00fa has salido?\"\n\u00c9l me dice que quiere estar conmigo\nYo le digo que no es f\u00e1cil enamorarse\nDe una superestrella (superestrella)\nAqu\u00ed est\u00e1 todo el mundo mirando\nVamos solos al ba\u00f1o\nY retomamos lo que estamos empezando\nSolo quiero conocerte un poco m\u00e1s\nSupongo que no lo he pensado bien\nPero ma\u00f1ana seremos noticia en la TV\nQue seas t\u00fa a quien le cuente mis mentiras\nTatuarme tu apellido, querernos para toda la vida\nY no s\u00e9 qu\u00e9 diablos estamos haciendo\nNo te conozco, pero me estoy muriendo\nFuck, v\u00e1monos ya de aqu\u00ed, hoy soy toda para ti\n\u00c9l me dice que quiere divertirse\nYo le digo que los rumores vuelan\n\u00c9l me dice que no le importa estar\nCon una superestrella\nYo le digo: \"\u00bfDe d\u00f3nde t\u00fa has salido?\"\n\u00c9l me dice que quiere estar conmigo\nYo le digo que no es f\u00e1cil enamorarse\nDe una superestrella (superestrella)\nSuperestrella\nSuperestrella\n\n                        \u2880\u28e4\u28e4\u28e4\u28e4\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u28ff\u280b\u2800\u2800\u2819\u28bf\u28e6\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28f8\u2847\u2800\u2800\u2800\u2800\u2800\u2819\u28bf\u28e6\u2840\u2800\u2800\u2880\u28c0\u28c0\u28e0\u28e4\u28c0\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28ff\u2807\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2819\u283f\u283f\u281f\u281b\u281b\u280b\u2809\u2809\u281b\u28f7\u2844\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u28ff\u2880\u28c0\u2864\u28e4\u28a4\u2864\u28e4\u28c0\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\n\u2800\u2800\u2800\u2800\u28c0\u28e4\u28f6\u283f\u281b\u280b\u2801\u2801\u2800\u2800\u2800\u2809\u281b\u28ef\u28f3\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u287f\u2803\n\u2800\u28e0\u28f6\u283f\u281b\u2809\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2808\u287b\u28ff\u2800\u2800\u2800\u2800\u2800\u28e0\u287f\u2803\u2800\n\u28b8\u285f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2874\u280b\u2809\u28b9\u2846\u2800\u2800\u28b8\u28ff\u2800\u2800\u2800\u2800\u28a0\u287f\u2801\u2800\u2800\n\u28b8\u28e7\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\u2800\u2800\u2808\u2800\u2800\u2880\u28ee\u280f\u2800\u2800\u2800\u2800\u2818\u28f7\u2840\u2800\u2800\n\u2800\u2819\u283f\u28f6\u28e4\u28c0\u2800\u2800\u2800\u2800\u2808\u283b\u28a6\u28e4\u28e4\u28e4\u2876\u281f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28f7\u2844\u2800\n\u2800\u2800\u2800\u2800\u2809\u281b\u283f\u28f6\u28c4\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u2844\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28ff\u2846\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28e0\u28f6\u28f6\u28e6\u28e4\u28e4\u28c4\u28c0\u28c0\u28e4\u287f\u2803\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b9\u2847\u2800\u2800\u2800\u2800\u2800\u28e0\u28fe\u280f\u2800\u2800\u2800\u2808\u2809\u2809\u2819\u281b\u2809\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u28c4\u2800\u2800\u28e0\u28fe\u281f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2808\u281b\u281b\u281b\u281b\u2801 #aitana #pop\n\nTags: superestrella meaning, aitana superestrella meaning, superestrella aitana significado, aitana superestrella tiktok, superestrella tiktok, aitana tiktok, aitana viral, m\u00fasica espa\u00f1ola viral, pop espa\u00f1ol viral, canciones para bailar, canciones de fiesta, spanish pop, spanish songs",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KJAmqCggpN0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KJAmqCggpN0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KJAmqCggpN0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/KJAmqCggpN0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/KJAmqCggpN0/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/SYwN28e-Saw/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Kori",
+                "channelTitle": "steven",
                 "tags": [
-                    "kori youtube",
-                    "roblox kori",
-                    "roblox",
-                    "roblox espa\u00f1ol",
-                    "juegos divertidos",
-                    "kori juega",
-                    "momentos divertidos",
-                    "brookhaven",
-                    "roblox brookhaven",
-                    "historias en brookhaven",
-                    "brookhaven historias",
-                    "karim juega",
-                    "dylan juega",
-                    "luky",
-                    "karim juega brookhaven",
-                    "mejores momentos en brookhaven",
-                    "juegos para celular",
-                    "pelicula brookhaven",
-                    "24 horas",
-                    "creamos un cuarto secreto",
-                    "creabos un bunker secreto",
-                    "habitacion secreta",
-                    "creamos un cuarto secreto para escondernos de los dinosaurios",
-                    "dinosaurios brookhaven"
+                    "aitana",
+                    "superestrella",
+                    "aitana superestrella",
+                    "superestrella lyrics",
+                    "superestrella letra",
+                    "superestrella espa\u00f1ol",
+                    "aitana lyrics",
+                    "aitana espa\u00f1ol",
+                    "aitana canciones",
+                    "aitana songs",
+                    "superestrella aitana lyrics",
+                    "pop espa\u00f1ol",
+                    "pop espa\u00f1ol 2025",
+                    "pop",
+                    "m\u00fasica espa\u00f1ola",
+                    "canciones espa\u00f1olas",
+                    "m\u00fasica pop",
+                    "pop latino",
+                    "canciones de fiesta",
+                    "canciones de amor",
+                    "canciones de atracci\u00f3n",
+                    "steven fan"
                 ],
-                "categoryId": "20",
+                "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "Creamos un CUARTO SECRETO para ESCONDERNOS de los DINOSAURIOS en BROOKHAVEN | Kori Roblox",
-                    "description": "Construimos una BASE SECRETA para ESCONDERNOS de los DINOSAURIOS en BROOKHAVEN | Kori Roblox\n\n\n\ud83d\udc55 TIENDA EN LINEA: https://karimjuega.com\n\ud83d\udc51Corona Kori: https://www.roblox.com/catalog/5300408223/Pretty-Crown\n\ud83c\udfa7\u200b Audifonos Kori: https://www.roblox.com/es/catalog/89607338459134/Kori-Audifonos\n\ud83d\udc57\u200b Falda de Kori: https://www.roblox.com/es/catalog/127549610557850/Kori-Falda\n\ud83d\udc36 Mochila Kima: https://www.roblox.com/es/catalog/98201672142642/Mochila-Kima\n\ud83c\udf1fRopa kori: https://www.roblox.com/es/catalog/73214807163537/KoriPants\n\n\u2b50 USA MI CODIGO EN ROBLOX: kori \n\ud83c\udfae\u200bUNETE A MI COMUNIDAD https://www.roblox.com/es/communities/6445490/Kori-Team#!/about\n\nREDES SOCIALES:\n\ud83d\udcf7 INSTAGRAM: https://www.instagram.com/korijuega_\n\ud83d\udda4TIKTOK: https://www.tiktok.com/@kori.yt\n\ud83d\udc8c E-MAIL FANS: cartitasfamgmail.com\n\ud83d\udce9E-MAIL SOLO BUSINESS: contactokori@gmail.com\n\nMUSICA: https://www.epidemicsound.com/es/music/featured/\n\n\ud83d\udc81\u200d\u2640\ufe0fCANAL SECRETO: https: https://www.youtube.com/user/189koreana\n\n                            \u2b50\ud83c\udf1cPIENSA CREA SUE\u00d1A Y ATR\u00c9VETE \u2b50\ud83c\udf1c"
+                    "title": "Aitana - SUPERESTRELLA // Letra + Lyrics",
+                    "description": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2606\u272e\u2605\u2606\u272e\n\n\u00a1Gracias por estar aqu\u00ed! \u2661\nEspero que disfrutes este video tanto como yo disfrut\u00e9 haci\u00e9ndolo.\nSi te gust\u00f3, no olvides dejar tu like y suscribirte para m\u00e1s traducciones y lyric videos.\n\n\u22c6.\u02da   \u22c6\uff61\ud81a\uddb9\u00b0\u2b52\u02da\uff61\u22c6\n\nIf you are the artist or the owner of any artwork featured in this video and would like it removed, please contact me. I will gladly take it down as soon as possible. \ud83d\udc97\n\n\u0660\u08ea\u2b51\n\n\u2570\u2508\u27a4 \u2726 \ud835\udde6\ud835\udde8\ud835\udde3\ud835\uddd8\ud835\udde5\ud835\uddd8\ud835\udde6\ud835\udde7\ud835\udde5\ud835\uddd8\ud835\udddf\ud835\udddf\ud835\uddd4\n\n\u201cSUPERESTRELLA\u201d es una canci\u00f3n llena de energ\u00eda y actitud que juega con la idea de convertir una noche de fiesta en una fantas\u00eda rom\u00e1ntica. Aitana canta sobre sentirse atra\u00edda por alguien y dejarse llevar por la qu\u00edmica del momento, imaginando una conexi\u00f3n intensa mientras la noche avanza entre copas, luces y baile. La canci\u00f3n mezcla coqueteo, deseo y esa seguridad de sentirse como una aut\u00e9ntica superestrella cuando est\u00e1s con la persona que te gusta.\n\nAitana - SUPERESTRELLA\n(Espa\u00f1ol \u2022 Letra \u2022 Lyrics \u2022 Sub. Espa\u00f1ol)\nReleased 29 May 2025\nFrom the album \"CUARTO AZUL\"\nGet it here: http://aitana.lnk.to/CUARTOAZUL\n\n.\u00b0 \u0f18\ud83c\udfa7\u22c6\ud83d\udd87\u208a\u02da\u0dc6\n\n\u2726 Sigue a Aitana\n\nYouTube\nhttps://www.youtube.com/@aitana\n\nSpotify\nhttps://open.spotify.com/artist/7eLcDZDYHXZCebtQCfHsWP\n\n\u22c6.\u02da\u2b51.\u141f\n\n\u2726 Encu\u00e9ntrame aqu\u00ed\n\nCanal Secundario\nhttps://youtube.com/@stevenn.?si=CJKY6EI5g-ZTHVjC\n\nBeats & Beats\nhttps://youtube.com/@beatsnbeat5?si=lgIh6JD8Wy-DumaK\n\nTikTok\nhttps://www.tiktok.com/@stevenfannn\n\nInstagram\nhttps://www.instagram.com/stevenishereeee\n\nBusiness / Promos / Music Submissions\n\u2709\ufe0f stevenfanii43@gmail.com\n\n\u250a         \u250a       \u250a   \u250a    \u250a        \u250a\n\u250a         \u250a       \u250a   \u250a   \u02da\u2605\u22c6\uff61\u02da  \u22c6\n\u250a         \u250a       \u250a   \u22c6\n\u250a         \u250a       \u2605\u22c6\n\u250a \u25e6\n\u2605\u22c6      \u250a .  \u02da\n\u02da\u2605.\ud81a\udd54 \u0741 \u02d6\u05b4 \u08ea\u269d\u208a \u22b9\u02da\n\n\u266a Lyrics / Letra:\nMe ve entrando en la disco y se me queda mirando\nCreo que me ha conocido, ser\u00e1 uno m\u00e1s de tantos\nMierda, quiz\u00e1 eres mi pr\u00f3ximo error (mi pr\u00f3ximo error)\nEstoy con mis amigas de reojo mirando\nTe queda tan bien esa camisa de Versace\nHoy vas a ser mi pr\u00f3ximo error (mi pr\u00f3ximo error)\nY no s\u00e9 d\u00f3nde diablos se habr\u00e1 metido\nNo est\u00e1 en el ba\u00f1o ni en los pasillos\nFuck, est\u00e1 en la barra y viene directo a m\u00ed\n\u00c9l me dice que quiere divertirse\nYo le digo que los rumores vuelan\n\u00c9l me dice que no le importa estar\nCon una superestrella\nYo le digo: \"\u00bfDe d\u00f3nde t\u00fa has salido?\"\n\u00c9l me dice que quiere estar conmigo\nYo le digo que no es f\u00e1cil enamorarse\nDe una superestrella (superestrella)\nAqu\u00ed est\u00e1 todo el mundo mirando\nVamos solos al ba\u00f1o\nY retomamos lo que estamos empezando\nSolo quiero conocerte un poco m\u00e1s\nSupongo que no lo he pensado bien\nPero ma\u00f1ana seremos noticia en la TV\nQue seas t\u00fa a quien le cuente mis mentiras\nTatuarme tu apellido, querernos para toda la vida\nY no s\u00e9 qu\u00e9 diablos estamos haciendo\nNo te conozco, pero me estoy muriendo\nFuck, v\u00e1monos ya de aqu\u00ed, hoy soy toda para ti\n\u00c9l me dice que quiere divertirse\nYo le digo que los rumores vuelan\n\u00c9l me dice que no le importa estar\nCon una superestrella\nYo le digo: \"\u00bfDe d\u00f3nde t\u00fa has salido?\"\n\u00c9l me dice que quiere estar conmigo\nYo le digo que no es f\u00e1cil enamorarse\nDe una superestrella (superestrella)\nSuperestrella\nSuperestrella\n\n                        \u2880\u28e4\u28e4\u28e4\u28e4\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u28ff\u280b\u2800\u2800\u2819\u28bf\u28e6\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28f8\u2847\u2800\u2800\u2800\u2800\u2800\u2819\u28bf\u28e6\u2840\u2800\u2800\u2880\u28c0\u28c0\u28e0\u28e4\u28c0\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28ff\u2807\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2819\u283f\u283f\u281f\u281b\u281b\u280b\u2809\u2809\u281b\u28f7\u2844\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u28ff\u2880\u28c0\u2864\u28e4\u28a4\u2864\u28e4\u28c0\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\n\u2800\u2800\u2800\u2800\u28c0\u28e4\u28f6\u283f\u281b\u280b\u2801\u2801\u2800\u2800\u2800\u2809\u281b\u28ef\u28f3\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u28a0\u287f\u2803\n\u2800\u28e0\u28f6\u283f\u281b\u2809\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2808\u287b\u28ff\u2800\u2800\u2800\u2800\u2800\u28e0\u287f\u2803\u2800\n\u28b8\u285f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2874\u280b\u2809\u28b9\u2846\u2800\u2800\u28b8\u28ff\u2800\u2800\u2800\u2800\u28a0\u287f\u2801\u2800\u2800\n\u28b8\u28e7\u2840\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\u2800\u2800\u2808\u2800\u2800\u2880\u28ee\u280f\u2800\u2800\u2800\u2800\u2818\u28f7\u2840\u2800\u2800\n\u2800\u2819\u283f\u28f6\u28e4\u28c0\u2800\u2800\u2800\u2800\u2808\u283b\u28a6\u28e4\u28e4\u28e4\u2876\u281f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28f7\u2844\u2800\n\u2800\u2800\u2800\u2800\u2809\u281b\u283f\u28f6\u28c4\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u2844\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b8\u2847\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28ff\u2846\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28e0\u28f6\u28f6\u28e6\u28e4\u28e4\u28c4\u28c0\u28c0\u28e4\u287f\u2803\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28b9\u2847\u2800\u2800\u2800\u2800\u2800\u28e0\u28fe\u280f\u2800\u2800\u2800\u2808\u2809\u2809\u2819\u281b\u2809\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u28ff\u28c4\u2800\u2800\u28e0\u28fe\u281f\u2801\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2808\u281b\u281b\u281b\u281b\u2801 #aitana #pop\n\nTags: superestrella meaning, aitana superestrella meaning, superestrella aitana significado, aitana superestrella tiktok, superestrella tiktok, aitana tiktok, aitana viral, m\u00fasica espa\u00f1ola viral, pop espa\u00f1ol viral, canciones para bailar, canciones de fiesta, spanish pop, spanish songs"
                 },
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "90355",
-                "likeCount": "1177",
+                "viewCount": "128675",
+                "likeCount": "301",
                 "favoriteCount": "0",
-                "commentCount": "106"
+                "commentCount": "11"
             }
         }
     ],

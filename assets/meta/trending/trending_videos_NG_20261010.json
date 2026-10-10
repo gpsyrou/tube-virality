@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "f79t4eDjXURYG1rwK08Cy1-lwn0",
+    "etag": "mnMPZCaJTqIyz_uN82rzRMucIMA",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "bvvL263hywfQfLaQADzYmtUuaX0",
+            "etag": "ngkBb_E46JxOOKHv7_jzWtUnfbM",
             "id": "3g6deNjbuxs",
             "snippet": {
                 "publishedAt": "2026-10-01T23:00:10Z",
@@ -90,15 +90,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1755367",
-                "likeCount": "28920",
+                "viewCount": "1759692",
+                "likeCount": "28963",
                 "favoriteCount": "0",
                 "commentCount": "1528"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sgLytKIECNk2OmcwVb0r9GZHccE",
+            "etag": "7-nov-WH5x50_3lzf0Z8EjDp2Ko",
             "id": "Hmvy2rX49So",
             "snippet": {
                 "publishedAt": "2026-10-01T14:27:51Z",
@@ -157,15 +157,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "245045",
-                "likeCount": "1423",
+                "viewCount": "245258",
+                "likeCount": "1422",
                 "favoriteCount": "0",
                 "commentCount": "92"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "miNoLxKKDVMqDPk1diUJLwyoSd8",
+            "etag": "qx68OA6bxQ8NCJ93-shPewZKltw",
             "id": "ULJZbI96WRg",
             "snippet": {
                 "publishedAt": "2026-10-09T14:25:35Z",
@@ -215,15 +215,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "606340",
-                "likeCount": "14353",
+                "viewCount": "620669",
+                "likeCount": "14611",
                 "favoriteCount": "0",
-                "commentCount": "464"
+                "commentCount": "467"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "47KEbGPi2rcl8sbVhxqHHvkuEJM",
+            "etag": "fA3OynOpq6igs93lSL3rZH8w_-I",
             "id": "2ZTcvsdMR1c",
             "snippet": {
                 "publishedAt": "2026-10-05T16:02:40Z",
@@ -274,15 +274,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "5796846",
-                "likeCount": "181076",
+                "viewCount": "5849070",
+                "likeCount": "182029",
                 "favoriteCount": "0",
-                "commentCount": "8439"
+                "commentCount": "8470"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0J7O8Sw-H3wliDEUlRiqLUP-GNY",
+            "etag": "lvHWBGPXZqKGjJqKg1aF0lWLTQE",
             "id": "9ejg-J_-8Us",
             "snippet": {
                 "publishedAt": "2026-10-08T12:34:39Z",
@@ -348,15 +348,206 @@
                 "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "28772",
-                "likeCount": "863",
+                "viewCount": "28969",
+                "likeCount": "866",
                 "favoriteCount": "0",
                 "commentCount": "141"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JMVabJL39QmLEOjgsVTqoSucHEE",
+            "etag": "D4I3KdXaK1y-3le_3TFC2W5YUKM",
+            "id": "Um8DCPskzHg",
+            "snippet": {
+                "publishedAt": "2026-10-10T14:27:09Z",
+                "channelId": "UCvWuQfTMrRny57Cl3qtEmmg",
+                "title": "\ud83d\udd34Arsenal vs Leeds United - Premier League 26/27 | eFootball Match | Pes 21 Gameplay",
+                "description": "eFootball Pes 21 | Arsenal vs Leeds - Premier League 2026/27 live | Gameplay PC\nDonate PayPal: trailersbest1@gmail.com\nMonoBank: 4441 1110 6878 3889\nDonate: Payeer - P1813025 \nGuys, hello everyone! On this channel we play real matches using video games eFootball PES 2021 and EA Sports FC. All videos are recorded from video games by us personally and uploaded to this channel to entertain everyone. \nThanks for watching, if you liked this video subscribe, leave a like and tell me your Opinion in the comments section! Your opinion is important! \n \n- For cooperation, please contact us by e-mail - trailersbest1@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Um8DCPskzHg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Um8DCPskzHg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Um8DCPskzHg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Um8DCPskzHg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Um8DCPskzHg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Football TV",
+                "tags": [
+                    "pes 2021",
+                    "pes 2021 gameplay",
+                    "soccer",
+                    "pro evolution soccer 2021",
+                    "pc gameplay",
+                    "football pes 2021",
+                    "football",
+                    "gameplay video",
+                    "gameplay",
+                    "pc",
+                    "gameplay sport",
+                    "gameplay football",
+                    "gameplay pes 2021",
+                    "pes 2021 pc",
+                    "game",
+                    "\u0444\u0443\u0442\u0431\u043e\u043b",
+                    "\u0441\u043f\u043e\u0440\u0442",
+                    "\u0438\u0433\u0440\u0430",
+                    "\u0433\u0435\u0439\u043c\u043f\u043b\u0435\u0439",
+                    "efootball",
+                    "pes 2025",
+                    "soccer game",
+                    "football game",
+                    "Arsenal vs Leeds United Pes 21",
+                    "Arsenal Pes 21",
+                    "Leeds United Pes 21"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\ud83d\udd34Arsenal vs Leeds United - Premier League 26/27 | eFootball Match | Pes 21 Gameplay",
+                    "description": "eFootball Pes 21 | Arsenal vs Leeds - Premier League 2026/27 live | Gameplay PC\nDonate PayPal: trailersbest1@gmail.com\nMonoBank: 4441 1110 6878 3889\nDonate: Payeer - P1813025 \nGuys, hello everyone! On this channel we play real matches using video games eFootball PES 2021 and EA Sports FC. All videos are recorded from video games by us personally and uploaded to this channel to entertain everyone. \nThanks for watching, if you liked this video subscribe, leave a like and tell me your Opinion in the comments section! Your opinion is important! \n \n- For cooperation, please contact us by e-mail - trailersbest1@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "93458",
+                "likeCount": "327",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lVwrh3CNOj4AYlY73fz77FBZJrw",
+            "id": "8fRjiRK8e4s",
+            "snippet": {
+                "publishedAt": "2026-09-30T23:03:02Z",
+                "channelId": "UCcHJhU4S-CbjEJY-8bCxegA",
+                "title": "16",
+                "description": "Provided to YouTube by EMPIRE Distribution\n\n16 \u00b7 BNXN\n\nStill In Charge\n\n\u2117 2026 T.Y.E. / EMPIRE\n\nReleased on: 2026-09-30\n\nProducer: WalahiSteph\nComposer: Stephanas Swuchet Boman\nComposer: Daniel Benson\nLyricist: Daniel Benson\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BNXN fka Buju - Topic",
+                "tags": [
+                    "BNXN",
+                    "Still In Charge",
+                    "16"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "16",
+                    "description": "Provided to YouTube by EMPIRE Distribution\n\n16 \u00b7 BNXN\n\nStill In Charge\n\n\u2117 2026 T.Y.E. / EMPIRE\n\nReleased on: 2026-09-30\n\nProducer: WalahiSteph\nComposer: Stephanas Swuchet Boman\nComposer: Daniel Benson\nLyricist: Daniel Benson\n\nAuto-generated by YouTube."
+                }
+            },
+            "statistics": {
+                "viewCount": "275022",
+                "likeCount": "3886",
+                "favoriteCount": "0",
+                "commentCount": "164"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rKdRA0lRtaxbZox799k_VQk1t4Q",
+            "id": "cmF8YoO6B6Y",
+            "snippet": {
+                "publishedAt": "2026-10-08T14:00:34Z",
+                "channelId": "UC6bhj0QVfKvS6J91pGJj_gQ",
+                "title": "RED RULES 2|Latest Nigeria Drama Nollywood Trailer|IyaboOjo|chinyere wilfred|Bryan Okoye|ichie fuego",
+                "description": "\ud83c\udfac RED RULES 2 \u2014 OFFICIAL TRAILER I\n\nGet ready for an exciting, hilarious, drama-filled movie packed with unexpected situations, unforgettable characters, and plenty of twists! \ud83c\udfac\u2764\ufe0f\n\nThe wait is almost over! Watch the Official Trailer now and tell us in the comments: Which character are you most excited to see? \ud83d\udc40\n\n\ud83c\udfac Premieres: Thursday 15th October 2026\n\u23f0 Time: 3:00 PM\n\ud83d\udcfa Exclusively on Fespris TV \u2014 YouTube\n\nDon\u2019t miss it! \ud83d\udd25\n\n\ud83d\udc4d LIKE the trailer\n\ud83d\udcac COMMENT your thoughts\n\ud83d\udcf2 SHARE with your friends & family\n\ud83d\udd14 SUBSCRIBE to Fespris TV and turn on your notifications!\n\n#RedRules #FesprisTV #NigerianMovies #Nollywood #OfficialTrailer #ComingSoon #IyaboOjo #BryanOkoye #OdunladeAdekola #EniolaBadmus #YorubaMovies #Trending",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FESPRIS TV",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "RED RULES 2|Latest Nigeria Drama Nollywood Trailer|IyaboOjo|chinyere wilfred|Bryan Okoye|ichie fuego",
+                    "description": "\ud83c\udfac RED RULES 2 \u2014 OFFICIAL TRAILER I\n\nGet ready for an exciting, hilarious, drama-filled movie packed with unexpected situations, unforgettable characters, and plenty of twists! \ud83c\udfac\u2764\ufe0f\n\nThe wait is almost over! Watch the Official Trailer now and tell us in the comments: Which character are you most excited to see? \ud83d\udc40\n\n\ud83c\udfac Premieres: Thursday 15th October 2026\n\u23f0 Time: 3:00 PM\n\ud83d\udcfa Exclusively on Fespris TV \u2014 YouTube\n\nDon\u2019t miss it! \ud83d\udd25\n\n\ud83d\udc4d LIKE the trailer\n\ud83d\udcac COMMENT your thoughts\n\ud83d\udcf2 SHARE with your friends & family\n\ud83d\udd14 SUBSCRIBE to Fespris TV and turn on your notifications!\n\n#RedRules #FesprisTV #NigerianMovies #Nollywood #OfficialTrailer #ComingSoon #IyaboOjo #BryanOkoye #OdunladeAdekola #EniolaBadmus #YorubaMovies #Trending"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "51888",
+                "likeCount": "504",
+                "favoriteCount": "0",
+                "commentCount": "73"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iXjl2uUz6jFqEU08VAnhkW0Io2k",
             "id": "hbf394xYLwM",
             "snippet": {
                 "publishedAt": "2026-10-07T14:41:47Z",
@@ -406,125 +597,127 @@
                 "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "562901",
-                "likeCount": "18961",
+                "viewCount": "564382",
+                "likeCount": "19012",
                 "favoriteCount": "0",
-                "commentCount": "1276"
+                "commentCount": "1277"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "LSBsYZs6VMqzIPkqE8H8VkgDoA8",
-            "id": "8fRjiRK8e4s",
+            "etag": "gDRhyEayZ1U96BPatP-nUl07FZ8",
+            "id": "kLHVMxZdQVs",
             "snippet": {
-                "publishedAt": "2026-09-30T23:03:02Z",
-                "channelId": "UCcHJhU4S-CbjEJY-8bCxegA",
-                "title": "16",
-                "description": "Provided to YouTube by EMPIRE Distribution\n\n16 \u00b7 BNXN\n\nStill In Charge\n\n\u2117 2026 T.Y.E. / EMPIRE\n\nReleased on: 2026-09-30\n\nProducer: WalahiSteph\nComposer: Stephanas Swuchet Boman\nComposer: Daniel Benson\nLyricist: Daniel Benson\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-08T23:04:15Z",
+                "channelId": "UC4mHpkf_26sEWN8M5PMpV_w",
+                "title": "2am in toronto",
+                "description": "Provided to YouTube by EMPIRE Distribution\n\n2am in toronto \u00b7 FOLA \u00b7 Davido\n\n9\n\n\u2117 2026 Dangbana Republik Records / EMPIRE\n\nReleased on: 2026-10-08\n\nProducer: Blaisebeatz\nComposer: Afolarin Odunlami\nComposer: David Adedeji Adeleke\nComposer: Marcel Akunwata\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/8fRjiRK8e4s/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "BNXN fka Buju - Topic",
+                "channelTitle": "FOLA - Topic",
                 "tags": [
-                    "BNXN",
-                    "Still In Charge",
-                    "16"
+                    "FOLA",
+                    "Davido",
+                    "9",
+                    "2am in toronto"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "16",
-                    "description": "Provided to YouTube by EMPIRE Distribution\n\n16 \u00b7 BNXN\n\nStill In Charge\n\n\u2117 2026 T.Y.E. / EMPIRE\n\nReleased on: 2026-09-30\n\nProducer: WalahiSteph\nComposer: Stephanas Swuchet Boman\nComposer: Daniel Benson\nLyricist: Daniel Benson\n\nAuto-generated by YouTube."
-                }
-            },
-            "statistics": {
-                "viewCount": "274428",
-                "likeCount": "3880",
-                "favoriteCount": "0",
-                "commentCount": "164"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Q5DMwePM5LsTLs2nTmBBPusjf-g",
-            "id": "cmF8YoO6B6Y",
-            "snippet": {
-                "publishedAt": "2026-10-08T14:00:34Z",
-                "channelId": "UC6bhj0QVfKvS6J91pGJj_gQ",
-                "title": "RED RULES 2|Latest Nigeria Drama Nollywood Trailer|IyaboOjo|chinyere wilfred|Bryan Okoye|ichie fuego",
-                "description": "\ud83c\udfac RED RULES 2 \u2014 OFFICIAL TRAILER I\n\nGet ready for an exciting, hilarious, drama-filled movie packed with unexpected situations, unforgettable characters, and plenty of twists! \ud83c\udfac\u2764\ufe0f\n\nThe wait is almost over! Watch the Official Trailer now and tell us in the comments: Which character are you most excited to see? \ud83d\udc40\n\n\ud83c\udfac Premieres: Thursday 15th October 2026\n\u23f0 Time: 3:00 PM\n\ud83d\udcfa Exclusively on Fespris TV \u2014 YouTube\n\nDon\u2019t miss it! \ud83d\udd25\n\n\ud83d\udc4d LIKE the trailer\n\ud83d\udcac COMMENT your thoughts\n\ud83d\udcf2 SHARE with your friends & family\n\ud83d\udd14 SUBSCRIBE to Fespris TV and turn on your notifications!\n\n#RedRules #FesprisTV #NigerianMovies #Nollywood #OfficialTrailer #ComingSoon #IyaboOjo #BryanOkoye #OdunladeAdekola #EniolaBadmus #YorubaMovies #Trending",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cmF8YoO6B6Y/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "FESPRIS TV",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "RED RULES 2|Latest Nigeria Drama Nollywood Trailer|IyaboOjo|chinyere wilfred|Bryan Okoye|ichie fuego",
-                    "description": "\ud83c\udfac RED RULES 2 \u2014 OFFICIAL TRAILER I\n\nGet ready for an exciting, hilarious, drama-filled movie packed with unexpected situations, unforgettable characters, and plenty of twists! \ud83c\udfac\u2764\ufe0f\n\nThe wait is almost over! Watch the Official Trailer now and tell us in the comments: Which character are you most excited to see? \ud83d\udc40\n\n\ud83c\udfac Premieres: Thursday 15th October 2026\n\u23f0 Time: 3:00 PM\n\ud83d\udcfa Exclusively on Fespris TV \u2014 YouTube\n\nDon\u2019t miss it! \ud83d\udd25\n\n\ud83d\udc4d LIKE the trailer\n\ud83d\udcac COMMENT your thoughts\n\ud83d\udcf2 SHARE with your friends & family\n\ud83d\udd14 SUBSCRIBE to Fespris TV and turn on your notifications!\n\n#RedRules #FesprisTV #NigerianMovies #Nollywood #OfficialTrailer #ComingSoon #IyaboOjo #BryanOkoye #OdunladeAdekola #EniolaBadmus #YorubaMovies #Trending"
+                    "title": "2am in toronto",
+                    "description": "Provided to YouTube by EMPIRE Distribution\n\n2am in toronto \u00b7 FOLA \u00b7 Davido\n\n9\n\n\u2117 2026 Dangbana Republik Records / EMPIRE\n\nReleased on: 2026-10-08\n\nProducer: Blaisebeatz\nComposer: Afolarin Odunlami\nComposer: David Adedeji Adeleke\nComposer: Marcel Akunwata\n\nAuto-generated by YouTube."
                 },
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "51577",
-                "likeCount": "505",
+                "viewCount": "54443",
+                "likeCount": "1254",
                 "favoriteCount": "0",
-                "commentCount": "73"
+                "commentCount": "68"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "pDMx-Ff4-6F9ABlD8UJd953PwNc",
+            "etag": "HKYfwtLm9CkXcbQiLjTnPmgMjkQ",
+            "id": "rNiKo2gLvWA",
+            "snippet": {
+                "publishedAt": "2026-09-30T19:00:10Z",
+                "channelId": "UCK-FDSIDGzjK6PYWcFaOzkA",
+                "title": "DARE DAYA OFFIAL TRAILER ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Saira Movies",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "DARE DAYA OFFIAL TRAILER ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ha"
+            },
+            "statistics": {
+                "viewCount": "258678",
+                "likeCount": "5543",
+                "favoriteCount": "0",
+                "commentCount": "225"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8CvLuYyeS9BjG_NGNXEuGaCDpNA",
             "id": "7hWJcgSEdeI",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:38Z",
@@ -584,15 +777,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "639141",
-                "likeCount": "5435",
+                "viewCount": "650591",
+                "likeCount": "5481",
                 "favoriteCount": "0",
-                "commentCount": "752"
+                "commentCount": "757"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rCbRPHJ-k4EW8FCvrJhGHwUsf7A",
+            "etag": "FxDV4qLqddjzUuiQ4Wk9dhPDcW8",
             "id": "eif6uKC-wNY",
             "snippet": {
                 "publishedAt": "2026-09-30T16:07:38Z",
@@ -644,185 +837,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "2872443",
-                "likeCount": "26237",
+                "viewCount": "2877656",
+                "likeCount": "26279",
                 "favoriteCount": "0",
-                "commentCount": "1081"
+                "commentCount": "1082"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "B5r2Ap6Sh4jNdRksDLmEx_qLZ9Y",
-            "id": "rNiKo2gLvWA",
-            "snippet": {
-                "publishedAt": "2026-09-30T19:00:10Z",
-                "channelId": "UCK-FDSIDGzjK6PYWcFaOzkA",
-                "title": "DARE DAYA OFFIAL TRAILER ",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/rNiKo2gLvWA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Saira Movies",
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "DARE DAYA OFFIAL TRAILER ",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "ha"
-            },
-            "statistics": {
-                "viewCount": "258504",
-                "likeCount": "5542",
-                "favoriteCount": "0",
-                "commentCount": "225"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "IuYfWDIXQb_xXu-IVGJ5_hyDMyw",
-            "id": "lo2J79wvA2o",
-            "snippet": {
-                "publishedAt": "2026-10-09T12:00:02Z",
-                "channelId": "UCVJySEgGPUCnSCrtAmWiKcw",
-                "title": "We Found the LONGEST DOOR in Minecraft\u2026",
-                "description": "Today, .Watch to find out what happens!\n\nSocials: https://solo.to/techys",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "TechyCraft",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "We Found the LONGEST DOOR in Minecraft\u2026",
-                    "description": "Today, .Watch to find out what happens!\n\nSocials: https://solo.to/techys"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "480417",
-                "likeCount": "6355",
-                "favoriteCount": "0",
-                "commentCount": "642"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "TlrvyuAvfcln5D5NvK-PsuiRF5U",
-            "id": "kLHVMxZdQVs",
-            "snippet": {
-                "publishedAt": "2026-10-08T23:04:15Z",
-                "channelId": "UC4mHpkf_26sEWN8M5PMpV_w",
-                "title": "2am in toronto",
-                "description": "Provided to YouTube by EMPIRE Distribution\n\n2am in toronto \u00b7 FOLA \u00b7 Davido\n\n9\n\n\u2117 2026 Dangbana Republik Records / EMPIRE\n\nReleased on: 2026-10-08\n\nProducer: Blaisebeatz\nComposer: Afolarin Odunlami\nComposer: David Adedeji Adeleke\nComposer: Marcel Akunwata\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kLHVMxZdQVs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "FOLA - Topic",
-                "tags": [
-                    "FOLA",
-                    "Davido",
-                    "9",
-                    "2am in toronto"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "2am in toronto",
-                    "description": "Provided to YouTube by EMPIRE Distribution\n\n2am in toronto \u00b7 FOLA \u00b7 Davido\n\n9\n\n\u2117 2026 Dangbana Republik Records / EMPIRE\n\nReleased on: 2026-10-08\n\nProducer: Blaisebeatz\nComposer: Afolarin Odunlami\nComposer: David Adedeji Adeleke\nComposer: Marcel Akunwata\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "53780",
-                "likeCount": "1240",
-                "favoriteCount": "0",
-                "commentCount": "68"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "SeFHJRHy_SoDCS5sNogf7IOzVf0",
+            "etag": "ec-3mcdndsnMEKWKKgDFGsvUz6A",
             "id": "Q5vqmJywp6Q",
             "snippet": {
                 "publishedAt": "2026-10-08T17:00:20Z",
@@ -888,87 +911,77 @@
                 "localized": {
                     "title": "TRIALS OF OLAIDE PART 2 Official Trailer | A Powerful Story of Love, Betrayal & Survival",
                     "description": "Welcome to A3 Vetements Films!\n\nExperience the official trailer of TRIALS OF OLAIDE, a captivating and emotional movie filled with unexpected twists, challenges, and life-changing decisions.\n\nAs Olaide faces difficult trials that test her strength, loyalty, and resilience, secrets begin to unfold and relationships are pushed to their limits. Will she overcome the obstacles before her, or will her struggles change her life forever?\n\nStarring:\n\u2b50 Blessing Nze\n\u2b50 Niyi Johnson\n\u2b50 Osemere\n\u2b50 Micheal Ejoor \n\nDirected by Tobe Nosike\nProduced by Rita Onyeogani\n\nWatch the official trailer and get ready for an unforgettable cinematic experience.\n\n\ud83d\udd14 Subscribe to A3 Vetements Films for more exciting movies, trailers, and exclusive content.\n\n#TrialsOfOlaide #OfficialTrailer #NigerianMovie #NollywoodMovies #A3VetementsFilms #BlessingNze #NiyiJohnson #MovieTrailer #ComingSoon #LatestNollywoodMovie #part2"
-                }
+                },
+                "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "40679",
-                "likeCount": "332",
+                "viewCount": "41122",
+                "likeCount": "334",
                 "favoriteCount": "0",
                 "commentCount": "61"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "L_3ktK3WMO-D-RTfpYcSvvvlu3M",
-            "id": "ea-gnnkBiGE",
+            "etag": "c9vTIvOrIKxvGBh0YjDzjTTJyWM",
+            "id": "lo2J79wvA2o",
             "snippet": {
-                "publishedAt": "2026-10-09T16:00:36Z",
-                "channelId": "UCzlUw75H5ILJ2l_ackxyI6A",
-                "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
-                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox",
+                "publishedAt": "2026-10-09T12:00:02Z",
+                "channelId": "UCVJySEgGPUCnSCrtAmWiKcw",
+                "title": "We Found the LONGEST DOOR in Minecraft\u2026",
+                "description": "Today, .Watch to find out what happens!\n\nSocials: https://solo.to/techys",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/lo2J79wvA2o/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "More Techy",
-                "tags": [
-                    "roblox",
-                    "funnyroblox",
-                    "techyblox",
-                    "techy",
-                    "crazy fan girls",
-                    "crazy fan girl",
-                    "my crazy fan girls",
-                    "girlfriend",
-                    "roblox girlfriend"
-                ],
+                "channelTitle": "TechyCraft",
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
-                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox"
+                    "title": "We Found the LONGEST DOOR in Minecraft\u2026",
+                    "description": "Today, .Watch to find out what happens!\n\nSocials: https://solo.to/techys"
                 },
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "377177",
-                "likeCount": "4806",
+                "viewCount": "485383",
+                "likeCount": "6399",
                 "favoriteCount": "0",
-                "commentCount": "1212"
+                "commentCount": "644"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "873lMBi4BA6NBEqoBbyoFVOYZSM",
+            "etag": "0pFVFEQILx4LKpJxziWjqezqlpU",
             "id": "KHY5OXKHBW0",
             "snippet": {
                 "publishedAt": "2026-10-01T13:02:53Z",
@@ -1033,15 +1046,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "4946207",
-                "likeCount": "39553",
+                "viewCount": "4947768",
+                "likeCount": "39586",
                 "favoriteCount": "0",
-                "commentCount": "6288"
+                "commentCount": "6293"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "tHbpTuNJ3SXvhLAlpaf2Wtyw_b4",
+            "etag": "SmH2ot6avPqVE91xQkyvBaNhuU8",
             "id": "up1h_pi7KKs",
             "snippet": {
                 "publishedAt": "2026-10-01T07:13:27Z",
@@ -1086,10 +1099,190 @@
                 "defaultAudioLanguage": "ar"
             },
             "statistics": {
-                "viewCount": "242002",
-                "likeCount": "3176",
+                "viewCount": "242334",
+                "likeCount": "3180",
                 "favoriteCount": "0",
                 "commentCount": "505"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AmnS4UipAqU5TK9K7FAjPB8lhW0",
+            "id": "ea-gnnkBiGE",
+            "snippet": {
+                "publishedAt": "2026-10-09T16:00:36Z",
+                "channelId": "UCzlUw75H5ILJ2l_ackxyI6A",
+                "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
+                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "More Techy",
+                "tags": [
+                    "roblox",
+                    "funnyroblox",
+                    "techyblox",
+                    "techy",
+                    "crazy fan girls",
+                    "crazy fan girl",
+                    "my crazy fan girls",
+                    "girlfriend",
+                    "roblox girlfriend"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
+                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "384606",
+                "likeCount": "4884",
+                "favoriteCount": "0",
+                "commentCount": "1229"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-V_BzsF_ayIOUnMtwyjfN4YdICE",
+            "id": "1uFjbzi_wU4",
+            "snippet": {
+                "publishedAt": "2026-10-01T10:02:10Z",
+                "channelId": "UC9-8AVDR4hQSHFGspJP2ALQ",
+                "title": "Go Hard or Go Home",
+                "description": "Provided to YouTube by Measurable Accurate Digital Solutions Ltd t/as MAD Solutions\n\nGo Hard or Go Home \u00b7 Chief Priest \u00b7 Evado\n\nGo Hard Or Go Home\n\n\u2117 2026 Chief Priest, Under Exclusive License To MAD Solutions LLC\n\nReleased on: 2026-10-02\n\nAssociated Performer: Chief Priest\nAssociated Performer: Evado\nProducer: Jayboy\nMastering Engineer, Mixing Engineer: Mix Monster\nComposer: Pascal Chibuike Okechukwu\nComposer: Emmanuel Njoku Chidubem t/as Evado\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Release - Topic",
+                "tags": [
+                    "Chief Priest",
+                    "Evado",
+                    "Go Hard Or Go Home",
+                    "Go Hard or Go Home"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Go Hard or Go Home",
+                    "description": "Provided to YouTube by Measurable Accurate Digital Solutions Ltd t/as MAD Solutions\n\nGo Hard or Go Home \u00b7 Chief Priest \u00b7 Evado\n\nGo Hard Or Go Home\n\n\u2117 2026 Chief Priest, Under Exclusive License To MAD Solutions LLC\n\nReleased on: 2026-10-02\n\nAssociated Performer: Chief Priest\nAssociated Performer: Evado\nProducer: Jayboy\nMastering Engineer, Mixing Engineer: Mix Monster\nComposer: Pascal Chibuike Okechukwu\nComposer: Emmanuel Njoku Chidubem t/as Evado\n\nAuto-generated by YouTube."
+                }
+            },
+            "statistics": {
+                "viewCount": "101972",
+                "likeCount": "2340",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ryjAHM2AuCPs1o9Q5LAa1ryHMm8",
+            "id": "ZCEA5yZ_vdA",
+            "snippet": {
+                "publishedAt": "2026-10-04T20:00:06Z",
+                "channelId": "UCrgGRuVw2NFcbhy8PV811GQ",
+                "title": "DUNIYA LABARI OFFICIAL TRAILER",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AL-RAHUZ FILMS PRODUCTION LIMITED",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "DUNIYA LABARI OFFICIAL TRAILER",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ha"
+            },
+            "statistics": {
+                "viewCount": "109880",
+                "likeCount": "2657",
+                "favoriteCount": "0",
+                "commentCount": "71"
             }
         },
         {
@@ -1178,186 +1371,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "CSfhMKwQGMG4fM0je0fW-9zr37Y",
-            "id": "1uFjbzi_wU4",
-            "snippet": {
-                "publishedAt": "2026-10-01T10:02:10Z",
-                "channelId": "UC9-8AVDR4hQSHFGspJP2ALQ",
-                "title": "Go Hard or Go Home",
-                "description": "Provided to YouTube by Measurable Accurate Digital Solutions Ltd t/as MAD Solutions\n\nGo Hard or Go Home \u00b7 Chief Priest \u00b7 Evado\n\nGo Hard Or Go Home\n\n\u2117 2026 Chief Priest, Under Exclusive License To MAD Solutions LLC\n\nReleased on: 2026-10-02\n\nAssociated Performer: Chief Priest\nAssociated Performer: Evado\nProducer: Jayboy\nMastering Engineer, Mixing Engineer: Mix Monster\nComposer: Pascal Chibuike Okechukwu\nComposer: Emmanuel Njoku Chidubem t/as Evado\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1uFjbzi_wU4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Release - Topic",
-                "tags": [
-                    "Chief Priest",
-                    "Evado",
-                    "Go Hard Or Go Home",
-                    "Go Hard or Go Home"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Go Hard or Go Home",
-                    "description": "Provided to YouTube by Measurable Accurate Digital Solutions Ltd t/as MAD Solutions\n\nGo Hard or Go Home \u00b7 Chief Priest \u00b7 Evado\n\nGo Hard Or Go Home\n\n\u2117 2026 Chief Priest, Under Exclusive License To MAD Solutions LLC\n\nReleased on: 2026-10-02\n\nAssociated Performer: Chief Priest\nAssociated Performer: Evado\nProducer: Jayboy\nMastering Engineer, Mixing Engineer: Mix Monster\nComposer: Pascal Chibuike Okechukwu\nComposer: Emmanuel Njoku Chidubem t/as Evado\n\nAuto-generated by YouTube."
-                }
-            },
-            "statistics": {
-                "viewCount": "101543",
-                "likeCount": "2333",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "HQD2UHbAtsNh39SOq8L_P3REw_E",
-            "id": "ZCEA5yZ_vdA",
-            "snippet": {
-                "publishedAt": "2026-10-04T20:00:06Z",
-                "channelId": "UCrgGRuVw2NFcbhy8PV811GQ",
-                "title": "DUNIYA LABARI OFFICIAL TRAILER",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ZCEA5yZ_vdA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "AL-RAHUZ FILMS PRODUCTION LIMITED",
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "DUNIYA LABARI OFFICIAL TRAILER",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "ha"
-            },
-            "statistics": {
-                "viewCount": "109744",
-                "likeCount": "2657",
-                "favoriteCount": "0",
-                "commentCount": "71"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "3h1KGN5awiNjyUFAG6uOHJNxYbs",
-            "id": "bwOWM1T1ptE",
-            "snippet": {
-                "publishedAt": "2026-10-03T12:00:28Z",
-                "channelId": "UC8921WlIEYiZtB5FV7onyBg",
-                "title": "Oba Femi vs. The Great Khali: Raw, Oct. 3, 2026",
-                "description": "Oba Femi vs. The Great Khali\n\nWATCH LIVE: Oba Femi vs. The Great Khali\nFULL MATCH: Oba Femi vs. The Great Khali\n\nWWE Gameplay",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MainEventGames",
-                "tags": [
-                    "oba femi vs the great khali",
-                    "oba femi vs the great khali fight",
-                    "oba femi vs the great khali wwe raw",
-                    "oba femi vs the great khali: raw",
-                    "the great khali vs oba femi",
-                    "oba femi vs the great khali wwe 2k26",
-                    "oba femi vs the great khali full match",
-                    "oba femi vs the great khali raw netflix",
-                    "oba femi vs the great khali extreme rules",
-                    "roman reigns vs oba femi vs the great khali",
-                    "the great khali vs oba femi wwe",
-                    "the great khali vs oba femi 2026",
-                    "the great khali vs oba femi fight"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "Oba Femi vs. The Great Khali: Raw, Oct. 3, 2026",
-                    "description": "Oba Femi vs. The Great Khali\n\nWATCH LIVE: Oba Femi vs. The Great Khali\nFULL MATCH: Oba Femi vs. The Great Khali\n\nWWE Gameplay"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "137283",
-                "likeCount": "284",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "pnzVfzRaG3sZpIt0frFlkLvXSGY",
+            "etag": "qPNqzh3cFmxQsNQ-hfZ8ool7SO8",
             "id": "8gvtRUxMmyk",
             "snippet": {
                 "publishedAt": "2026-10-01T10:00:01Z",
@@ -1407,15 +1421,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "108009",
-                "likeCount": "1987",
+                "viewCount": "108247",
+                "likeCount": "1991",
                 "favoriteCount": "0",
                 "commentCount": "129"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "7GyOZEfkudpzsMVOAhQsZhGaDoQ",
+            "etag": "Y58xT4_N_G3Bsgn6APa4V_qkuPQ",
             "id": "VZI0AFU0AV4",
             "snippet": {
                 "publishedAt": "2026-09-30T15:00:33Z",
@@ -1491,7 +1505,7 @@
                 "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "284087",
+                "viewCount": "284170",
                 "likeCount": "1626",
                 "favoriteCount": "0",
                 "commentCount": "76"
@@ -1499,60 +1513,75 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "lN7V9sWpGxG1IusEqhfGEfPaCDM",
-            "id": "NR1R9zUXec0",
+            "etag": "3h1KGN5awiNjyUFAG6uOHJNxYbs",
+            "id": "bwOWM1T1ptE",
             "snippet": {
-                "publishedAt": "2026-10-08T11:38:59Z",
-                "channelId": "UCozhavMC5oIn1JxjLuP6D8Q",
-                "title": "Prof BOF Spends 9K Coins For EPIC MARCELO & PEPE\ud83d\ude31Epic Spanish League Guardians Pack Opening\ud83d\udd25",
-                "description": "The Spanish League Guardians Epic Pack is finally here in eFootball 2027, featuring Epic Marcelo, Pepe, and Edm\u00edlson! \ud83d\udd25\n\nWearing my Real Madrid jersey and going in with over 7,000 Coins, my main targets are Fullback Finisher Marcelo and Pepe with his aggressive new playstyle. But pack openings on my main account are always a rollercoaster... Between fake-out highlight animations and trolling standard cards, can we actually pull Marcelo before running completely dry? Watch till the end to see how it went down! \ud83d\ude2d\n\nThe new Epic Spanish League Guardians pack is here in eFootball 2027, featuring three legendary players \u2014 EPIC PEPE, EPIC MARCELO & EPIC EDMILSON! \ud83d\udd25\n\nI decided to go in with 9,000 eFootball Coins \u2014 around $77 \u2014 to see what I could pull from this pack. \ud83d\udcb0\n\n\n\neFootball 2027, eFootball 27, eFootball mobile, eFootball 2027 pack opening, eFootball 27 pack opening, Epic Spanish League Guardians, Spanish League Guardians pack, Spanish League Guardians eFootball 2027, Epic Pepe eFootball 2027, 103 Pepe, Pepe eFootball 27, Aerial Fort Pepe, Long Reach Tackle Pepe, Epic Marcelo eFootball 2027, 101 Marcelo, Marcelo eFootball 27, Momentum Dribbling Marcelo, Edged Crossing Marcelo, Phenomenal Pass Marcelo, Epic Edmilson eFootball 2027, 100 Edmilson, Edmilson eFootball 27, Fortress Edmilson, Shadow Hunt Edmilson, best Epic players eFootball 2027, new Epic players eFootball 2027, eFootball 2027 Epic pack, eFootball coins, 9000 eFootball coins, $77 eFootball pack opening, Prof BOF\n\n#efootball #efootballmobile #bofgames #efootball2027",
+                "publishedAt": "2026-10-03T12:00:28Z",
+                "channelId": "UC8921WlIEYiZtB5FV7onyBg",
+                "title": "Oba Femi vs. The Great Khali: Raw, Oct. 3, 2026",
+                "description": "Oba Femi vs. The Great Khali\n\nWATCH LIVE: Oba Femi vs. The Great Khali\nFULL MATCH: Oba Femi vs. The Great Khali\n\nWWE Gameplay",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bwOWM1T1ptE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Bof games",
+                "channelTitle": "MainEventGames",
+                "tags": [
+                    "oba femi vs the great khali",
+                    "oba femi vs the great khali fight",
+                    "oba femi vs the great khali wwe raw",
+                    "oba femi vs the great khali: raw",
+                    "the great khali vs oba femi",
+                    "oba femi vs the great khali wwe 2k26",
+                    "oba femi vs the great khali full match",
+                    "oba femi vs the great khali raw netflix",
+                    "oba femi vs the great khali extreme rules",
+                    "roman reigns vs oba femi vs the great khali",
+                    "the great khali vs oba femi wwe",
+                    "the great khali vs oba femi 2026",
+                    "the great khali vs oba femi fight"
+                ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "en-US",
                 "localized": {
-                    "title": "Prof BOF Spends 9K Coins For EPIC MARCELO & PEPE\ud83d\ude31Epic Spanish League Guardians Pack Opening\ud83d\udd25",
-                    "description": "The Spanish League Guardians Epic Pack is finally here in eFootball 2027, featuring Epic Marcelo, Pepe, and Edm\u00edlson! \ud83d\udd25\n\nWearing my Real Madrid jersey and going in with over 7,000 Coins, my main targets are Fullback Finisher Marcelo and Pepe with his aggressive new playstyle. But pack openings on my main account are always a rollercoaster... Between fake-out highlight animations and trolling standard cards, can we actually pull Marcelo before running completely dry? Watch till the end to see how it went down! \ud83d\ude2d\n\nThe new Epic Spanish League Guardians pack is here in eFootball 2027, featuring three legendary players \u2014 EPIC PEPE, EPIC MARCELO & EPIC EDMILSON! \ud83d\udd25\n\nI decided to go in with 9,000 eFootball Coins \u2014 around $77 \u2014 to see what I could pull from this pack. \ud83d\udcb0\n\n\n\neFootball 2027, eFootball 27, eFootball mobile, eFootball 2027 pack opening, eFootball 27 pack opening, Epic Spanish League Guardians, Spanish League Guardians pack, Spanish League Guardians eFootball 2027, Epic Pepe eFootball 2027, 103 Pepe, Pepe eFootball 27, Aerial Fort Pepe, Long Reach Tackle Pepe, Epic Marcelo eFootball 2027, 101 Marcelo, Marcelo eFootball 27, Momentum Dribbling Marcelo, Edged Crossing Marcelo, Phenomenal Pass Marcelo, Epic Edmilson eFootball 2027, 100 Edmilson, Edmilson eFootball 27, Fortress Edmilson, Shadow Hunt Edmilson, best Epic players eFootball 2027, new Epic players eFootball 2027, eFootball 2027 Epic pack, eFootball coins, 9000 eFootball coins, $77 eFootball pack opening, Prof BOF\n\n#efootball #efootballmobile #bofgames #efootball2027"
+                    "title": "Oba Femi vs. The Great Khali: Raw, Oct. 3, 2026",
+                    "description": "Oba Femi vs. The Great Khali\n\nWATCH LIVE: Oba Femi vs. The Great Khali\nFULL MATCH: Oba Femi vs. The Great Khali\n\nWWE Gameplay"
                 },
-                "defaultAudioLanguage": "en"
+                "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "65734",
-                "likeCount": "1913",
+                "viewCount": "137283",
+                "likeCount": "284",
                 "favoriteCount": "0",
-                "commentCount": "218"
+                "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EAFvYpO0_GlWvY8V4f3SATkl8tg",
+            "etag": "rdkjCXsiyoj0z1RIHmY6vcYUo3E",
             "id": "Y-dcZI0-HrI",
             "snippet": {
                 "publishedAt": "2026-09-24T16:00:15Z",
@@ -1601,15 +1630,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1545796",
-                "likeCount": "14943",
+                "viewCount": "1549787",
+                "likeCount": "14949",
                 "favoriteCount": "0",
-                "commentCount": "1044"
+                "commentCount": "1045"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "NFX_XVBS1-6ryEfk7N5ebSZ-GEY",
+            "etag": "LHbNGW49XnmidQAnsvUeNV5EksU",
             "id": "QIR6zLnrlFE",
             "snippet": {
                 "publishedAt": "2026-10-02T17:00:20Z",
@@ -1653,15 +1682,395 @@
                 }
             },
             "statistics": {
-                "viewCount": "107433",
-                "likeCount": "587",
+                "viewCount": "107617",
+                "likeCount": "588",
                 "favoriteCount": "0",
                 "commentCount": "96"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eoHccCxt4TVvMgGAnXN-YDII1kI",
+            "etag": "1gLZ5SQ8UHrZ5IVY-8JGaXk7FIw",
+            "id": "BpTyb7EtIP8",
+            "snippet": {
+                "publishedAt": "2026-10-10T10:00:07Z",
+                "channelId": "UCn0LFurplUpb4LPpPFDjNHw",
+                "title": "\ud83d\udd34 Arsenal vs Leeds United 2 - 1 | MATCH HIGHLIGHTS & GOALS | Premier League 2026 | eFootball Pes21",
+                "description": "#Arsenal #LeedsUnited #ArsenalLeeds #PremierLeague #PremierLeague2026 #LiveToday #eFootball #PES2021 #eFootballSimulation\n\n\u26bd Arsenal vs Leeds United Live Today | Premier League 2026/27 | Live Match Today - eFootball Simulation\n\n\ud83c\udfc6 Competition: Premier League 2026/27\n\u26bd Match: Arsenal \ud83d\udd34\u26aa vs Leeds United \u26aa\ud83d\udfe1\n\ud83d\udcc5 Date: October 10, 2026\n\u23f0 Kick-off Time: According to the official match schedule\n\n\u26a0\ufe0f Important: This video is a simulation created with eFootball PES 2021 and does not represent an official broadcast of the match.\n\ud83c\udfae All footage shown comes from gameplay and a virtual football simulation.\n\ud83d\udcdd Commentary, reactions, and analysis are based exclusively on the simulated gameplay.\n\nWelcome to this realistic eFootball simulation of Arsenal \ud83d\udd34\u26aa vs Leeds United \u26aa\ud83d\udfe1! Experience an exciting Premier League matchup featuring realistic gameplay, tactical battles, quick attacks, defensive pressure, and the atmosphere of a real English football match.\n\n\ud83d\udd34\u26aa Arsenal:\nArsenal will look to dominate possession, use quick passing combinations, and create dangerous attacking opportunities. The team will aim to control the tempo, exploit spaces in the opposition's defense, and turn its chances into goals.\n\n\u26aa\ud83d\udfe1 Leeds United:\nLeeds United will look to respond with energetic pressing, quick transitions, and direct attacking play. The team will try to exploit open spaces, launch dangerous counterattacks, and challenge Arsenal's defense throughout the match.\n\n\ud83d\udd25 What can you expect?\n\u26bd A realistic simulation of Arsenal vs Leeds United\n\ud83c\udfae eFootball PES 2021 gameplay with realistic tactics and settings\n\ud83c\udfdf\ufe0f An exciting stadium atmosphere with the feeling of a real Premier League match\n\ud83d\udd25 Attacks, counterattacks, chances, goals, and decisive moments\n\ud83e\udde0 Tactical battles inspired by English football\n\ud83d\udcca A simulated final result and a possible match scenario\n\nWho will win this Premier League clash in our eFootball simulation? Watch until the final whistle to discover the goals, final score, key moments, and how this virtual English football matchup unfolds!\n\n\ud83d\udc4d Like the video if you enjoy realistic football simulations.\n\ud83d\udcac Comment your prediction and tell us what you think the final score will be!\n\ud83d\udd14 Subscribe to PRS SOUL and turn on notifications so you never miss a new eFootball simulation.\n\n\ud83d\udd0e SEO Keywords:\nArsenal vs Leeds United, Arsenal Leeds live, Arsenal Leeds live today, Arsenal vs Leeds today, Leeds United vs Arsenal, Arsenal match today, Leeds United match today, Premier League 2026/27, Arsenal live, Leeds United live, Arsenal Leeds simulation, eFootball PES 2021, eFootball simulation, football simulation, realistic football simulation, Arsenal vs Leeds prediction, Arsenal vs Leeds gameplay, Premier League simulation",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BpTyb7EtIP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BpTyb7EtIP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BpTyb7EtIP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BpTyb7EtIP8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BpTyb7EtIP8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PRS SOUL",
+                "tags": [
+                    "arsenal vs leeds live today",
+                    "arsenal vs leeds united today",
+                    "leeds united vs arsenal today",
+                    "arsenal vs leeds united live",
+                    "leeds united vs arsenal live",
+                    "arsenal vs leeds united",
+                    "arsenal leeds united live",
+                    "leeds united arsenal live",
+                    "arsenal vs leeds highlights today",
+                    "arsenal vs leeds live",
+                    "leeds united vs arsenal",
+                    "leeds vs arsenal live",
+                    "leeds united live",
+                    "arsenal vs leeds",
+                    "arsenal vs leeds united highlights",
+                    "arsenal vs leeds united gameplay",
+                    "arsenal vs leeds united 2026/27",
+                    "epl",
+                    "liv"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\ud83d\udd34 Arsenal vs Leeds United 2 - 1 | MATCH HIGHLIGHTS & GOALS | Premier League 2026 | eFootball Pes21",
+                    "description": "#Arsenal #LeedsUnited #ArsenalLeeds #PremierLeague #PremierLeague2026 #LiveToday #eFootball #PES2021 #eFootballSimulation\n\n\u26bd Arsenal vs Leeds United Live Today | Premier League 2026/27 | Live Match Today - eFootball Simulation\n\n\ud83c\udfc6 Competition: Premier League 2026/27\n\u26bd Match: Arsenal \ud83d\udd34\u26aa vs Leeds United \u26aa\ud83d\udfe1\n\ud83d\udcc5 Date: October 10, 2026\n\u23f0 Kick-off Time: According to the official match schedule\n\n\u26a0\ufe0f Important: This video is a simulation created with eFootball PES 2021 and does not represent an official broadcast of the match.\n\ud83c\udfae All footage shown comes from gameplay and a virtual football simulation.\n\ud83d\udcdd Commentary, reactions, and analysis are based exclusively on the simulated gameplay.\n\nWelcome to this realistic eFootball simulation of Arsenal \ud83d\udd34\u26aa vs Leeds United \u26aa\ud83d\udfe1! Experience an exciting Premier League matchup featuring realistic gameplay, tactical battles, quick attacks, defensive pressure, and the atmosphere of a real English football match.\n\n\ud83d\udd34\u26aa Arsenal:\nArsenal will look to dominate possession, use quick passing combinations, and create dangerous attacking opportunities. The team will aim to control the tempo, exploit spaces in the opposition's defense, and turn its chances into goals.\n\n\u26aa\ud83d\udfe1 Leeds United:\nLeeds United will look to respond with energetic pressing, quick transitions, and direct attacking play. The team will try to exploit open spaces, launch dangerous counterattacks, and challenge Arsenal's defense throughout the match.\n\n\ud83d\udd25 What can you expect?\n\u26bd A realistic simulation of Arsenal vs Leeds United\n\ud83c\udfae eFootball PES 2021 gameplay with realistic tactics and settings\n\ud83c\udfdf\ufe0f An exciting stadium atmosphere with the feeling of a real Premier League match\n\ud83d\udd25 Attacks, counterattacks, chances, goals, and decisive moments\n\ud83e\udde0 Tactical battles inspired by English football\n\ud83d\udcca A simulated final result and a possible match scenario\n\nWho will win this Premier League clash in our eFootball simulation? Watch until the final whistle to discover the goals, final score, key moments, and how this virtual English football matchup unfolds!\n\n\ud83d\udc4d Like the video if you enjoy realistic football simulations.\n\ud83d\udcac Comment your prediction and tell us what you think the final score will be!\n\ud83d\udd14 Subscribe to PRS SOUL and turn on notifications so you never miss a new eFootball simulation.\n\n\ud83d\udd0e SEO Keywords:\nArsenal vs Leeds United, Arsenal Leeds live, Arsenal Leeds live today, Arsenal vs Leeds today, Leeds United vs Arsenal, Arsenal match today, Leeds United match today, Premier League 2026/27, Arsenal live, Leeds United live, Arsenal Leeds simulation, eFootball PES 2021, eFootball simulation, football simulation, realistic football simulation, Arsenal vs Leeds prediction, Arsenal vs Leeds gameplay, Premier League simulation"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "35547",
+                "likeCount": "107",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sPyuyKjwJrJjpICmQ4bo1gH9j4U",
+            "id": "DCyFQHeMqtY",
+            "snippet": {
+                "publishedAt": "2026-10-08T18:42:06Z",
+                "channelId": "UCSUVM9Ygr6AI5Eje5BnFhtw",
+                "title": "OMAH LAY - ARTIFICIAL HAPPINESS [Official Music Video]",
+                "description": "Listen to CLARITY OF MIND: https://omahlay.lnk.to/CLARITYOFMIND\n\nFOLLOW OMAH LAY:\nhttps://www.instagram.com/omah_lay/\nhttps://twitter.com/Omah_Lay\nhttps://www.facebook.com/OfficialOmahLay\nhttps://www.tiktok.com/@omah_lay\nhttps://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=PkzWcbzMTKCb-OEIhyHbRA\nhttps://music.apple.com/artist/omah-lay/1459319359\n\nTEXT ME \ud83d\udc9c +1 917-810-3414\n\nLyrics\n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\nI don\u2019t see anyone \nWhen fit come close to me \nAll of them know \nAll of them know ah \nNobody be my mate \nI Dey tell you with a clean mind \nPort harcourt Omah Lay \nAnything when you don see \nI don see am \nAyayayaya\n\nOne in the morning time \nThat\u2019s how I start my day \nAdvantage to see money clear \nIt\u2019s either all or nothing \nI still dey deadline ayaya\nI never die ayaya\nE get things when I still Dey fine \nNirvana is one them \n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nno stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\nI no know how many times when I wan tell Una o \nI no know how many times I wan tell Una o \nI don dey tell you o \nI don dey tell you o \nI no no o \nI no no o \nI no no o \nI no no o \nI don tell you o \nI don tell now o",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Omah Lay",
+                "tags": [
+                    "Omah Lay",
+                    "Artificial Happiness",
+                    "Clarity Of Mind",
+                    "Omah Lay Album",
+                    "Afro Pop",
+                    "Official Music Video",
+                    "Afro Beats",
+                    "New Afro Pop 2026",
+                    "New Afro Beats 2026"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "OMAH LAY - ARTIFICIAL HAPPINESS [Official Music Video]",
+                    "description": "Listen to CLARITY OF MIND: https://omahlay.lnk.to/CLARITYOFMIND\n\nFOLLOW OMAH LAY:\nhttps://www.instagram.com/omah_lay/\nhttps://twitter.com/Omah_Lay\nhttps://www.facebook.com/OfficialOmahLay\nhttps://www.tiktok.com/@omah_lay\nhttps://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=PkzWcbzMTKCb-OEIhyHbRA\nhttps://music.apple.com/artist/omah-lay/1459319359\n\nTEXT ME \ud83d\udc9c +1 917-810-3414\n\nLyrics\n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\nI don\u2019t see anyone \nWhen fit come close to me \nAll of them know \nAll of them know ah \nNobody be my mate \nI Dey tell you with a clean mind \nPort harcourt Omah Lay \nAnything when you don see \nI don see am \nAyayayaya\n\nOne in the morning time \nThat\u2019s how I start my day \nAdvantage to see money clear \nIt\u2019s either all or nothing \nI still dey deadline ayaya\nI never die ayaya\nE get things when I still Dey fine \nNirvana is one them \n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nno stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\nI no know how many times when I wan tell Una o \nI no know how many times I wan tell Una o \nI don dey tell you o \nI don dey tell you o \nI no no o \nI no no o \nI no no o \nI no no o \nI don tell you o \nI don tell now o"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "1654836",
+                "likeCount": "21976",
+                "favoriteCount": "0",
+                "commentCount": "1568"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GE4tff4AnfNShxkU2iXJ9SUvmD0",
+            "id": "sXKnmgmbkoE",
+            "snippet": {
+                "publishedAt": "2026-10-01T16:00:21Z",
+                "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+                "title": "Marvel Television\u2019s VisionQuest | Official Trailer",
+                "description": "On October 14, experience the final Vision of the groundbreaking trilogy. Marvel Television\u2019s VisionQuest streaming soon on Disney+.\n\n\u25ba SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n\u25ba SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Marvel Entertainment",
+                "tags": [
+                    "marvel",
+                    "comics"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Marvel Television\u2019s VisionQuest | Official Trailer",
+                    "description": "On October 14, experience the final Vision of the groundbreaking trilogy. Marvel Television\u2019s VisionQuest streaming soon on Disney+.\n\n\u25ba SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n\u25ba SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "20805002",
+                "likeCount": "251212",
+                "favoriteCount": "0",
+                "commentCount": "8805"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ABFPJlJvwsoMEJoMlXX619947jg",
+            "id": "NR1R9zUXec0",
+            "snippet": {
+                "publishedAt": "2026-10-08T11:38:59Z",
+                "channelId": "UCozhavMC5oIn1JxjLuP6D8Q",
+                "title": "Prof BOF Spends 9K Coins For EPIC MARCELO & PEPE\ud83d\ude31Epic Spanish League Guardians Pack Opening\ud83d\udd25",
+                "description": "The Spanish League Guardians Epic Pack is finally here in eFootball 2027, featuring Epic Marcelo, Pepe, and Edm\u00edlson! \ud83d\udd25\n\nWearing my Real Madrid jersey and going in with over 7,000 Coins, my main targets are Fullback Finisher Marcelo and Pepe with his aggressive new playstyle. But pack openings on my main account are always a rollercoaster... Between fake-out highlight animations and trolling standard cards, can we actually pull Marcelo before running completely dry? Watch till the end to see how it went down! \ud83d\ude2d\n\nThe new Epic Spanish League Guardians pack is here in eFootball 2027, featuring three legendary players \u2014 EPIC PEPE, EPIC MARCELO & EPIC EDMILSON! \ud83d\udd25\n\nI decided to go in with 9,000 eFootball Coins \u2014 around $77 \u2014 to see what I could pull from this pack. \ud83d\udcb0\n\n\n\neFootball 2027, eFootball 27, eFootball mobile, eFootball 2027 pack opening, eFootball 27 pack opening, Epic Spanish League Guardians, Spanish League Guardians pack, Spanish League Guardians eFootball 2027, Epic Pepe eFootball 2027, 103 Pepe, Pepe eFootball 27, Aerial Fort Pepe, Long Reach Tackle Pepe, Epic Marcelo eFootball 2027, 101 Marcelo, Marcelo eFootball 27, Momentum Dribbling Marcelo, Edged Crossing Marcelo, Phenomenal Pass Marcelo, Epic Edmilson eFootball 2027, 100 Edmilson, Edmilson eFootball 27, Fortress Edmilson, Shadow Hunt Edmilson, best Epic players eFootball 2027, new Epic players eFootball 2027, eFootball 2027 Epic pack, eFootball coins, 9000 eFootball coins, $77 eFootball pack opening, Prof BOF\n\n#efootball #efootballmobile #bofgames #efootball2027",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NR1R9zUXec0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bof games",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Prof BOF Spends 9K Coins For EPIC MARCELO & PEPE\ud83d\ude31Epic Spanish League Guardians Pack Opening\ud83d\udd25",
+                    "description": "The Spanish League Guardians Epic Pack is finally here in eFootball 2027, featuring Epic Marcelo, Pepe, and Edm\u00edlson! \ud83d\udd25\n\nWearing my Real Madrid jersey and going in with over 7,000 Coins, my main targets are Fullback Finisher Marcelo and Pepe with his aggressive new playstyle. But pack openings on my main account are always a rollercoaster... Between fake-out highlight animations and trolling standard cards, can we actually pull Marcelo before running completely dry? Watch till the end to see how it went down! \ud83d\ude2d\n\nThe new Epic Spanish League Guardians pack is here in eFootball 2027, featuring three legendary players \u2014 EPIC PEPE, EPIC MARCELO & EPIC EDMILSON! \ud83d\udd25\n\nI decided to go in with 9,000 eFootball Coins \u2014 around $77 \u2014 to see what I could pull from this pack. \ud83d\udcb0\n\n\n\neFootball 2027, eFootball 27, eFootball mobile, eFootball 2027 pack opening, eFootball 27 pack opening, Epic Spanish League Guardians, Spanish League Guardians pack, Spanish League Guardians eFootball 2027, Epic Pepe eFootball 2027, 103 Pepe, Pepe eFootball 27, Aerial Fort Pepe, Long Reach Tackle Pepe, Epic Marcelo eFootball 2027, 101 Marcelo, Marcelo eFootball 27, Momentum Dribbling Marcelo, Edged Crossing Marcelo, Phenomenal Pass Marcelo, Epic Edmilson eFootball 2027, 100 Edmilson, Edmilson eFootball 27, Fortress Edmilson, Shadow Hunt Edmilson, best Epic players eFootball 2027, new Epic players eFootball 2027, eFootball 2027 Epic pack, eFootball coins, 9000 eFootball coins, $77 eFootball pack opening, Prof BOF\n\n#efootball #efootballmobile #bofgames #efootball2027"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "65930",
+                "likeCount": "1916",
+                "favoriteCount": "0",
+                "commentCount": "218"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Id5ymLEMdZnwMPGRMJiRaoXf6gY",
+            "id": "fEvkI5uBw4E",
+            "snippet": {
+                "publishedAt": "2026-10-05T11:00:06Z",
+                "channelId": "UCuv4b5gx6MpFAJJKgEwh1uw",
+                "title": "TML Vibez - Shuperu (official Video) Feat. Ayo Maff & Shoday",
+                "description": "Dapper Music & Entertainment presents the official video for Shuperu featuring Ayo Maff & Shoday\n\nAvailable to stream / download:https://dvpper.lnk.to/astreetkidsdiarydisk2\n\n\u00a9 2026 Dapper Music & Ent, Under exclusive license to Dvpper Digital Ltd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tml Vibez",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TML Vibez - Shuperu (official Video) Feat. Ayo Maff & Shoday",
+                    "description": "Dapper Music & Entertainment presents the official video for Shuperu featuring Ayo Maff & Shoday\n\nAvailable to stream / download:https://dvpper.lnk.to/astreetkidsdiarydisk2\n\n\u00a9 2026 Dapper Music & Ent, Under exclusive license to Dvpper Digital Ltd."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "203776",
+                "likeCount": "2862",
+                "favoriteCount": "0",
+                "commentCount": "133"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sxWRLCCjzSPBWoS9_NSvWH99lx8",
+            "id": "1_06nnD8ZPs",
+            "snippet": {
+                "publishedAt": "2026-10-07T11:50:42Z",
+                "channelId": "UCZ3pmGCRxEGnoaVQZSzqXXw",
+                "title": "Tele x Zikora | OFFICIAL MOVIE TRAILER | Mike Afolarin | Genoveva Umeh | Angel Unigwe",
+                "description": "Tele x Zikora is a Nigerian young adult campus movie set in a fictional University called Lagos Metropolitan University. It follows two young people from entirely different worlds whose lives collide on a university campus. \n\nTele x Zikora is set to release in cinemas on October 23, 2026.\n\nWritten, Produced and Directed by Adenike Adebayo-Esho\n\nProduction Companies:  Imagine Media Studios & MayDay Studios\n\nDistributor: Cinemaxng\n\n#Nollywood #nollywoodmovies #movieteaser",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "qhd": {
+                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/qhddefault.jpg",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "Imagine Media Studios",
+                "tags": [
+                    "Tele x Zikora",
+                    "Tele x Zikora Movie",
+                    "TXZ Movie",
+                    "Lagos Metropolitan University",
+                    "Nollywood Campus Movie",
+                    "Nollywood Movie",
+                    "Nigerian Campus Movie",
+                    "Angel Unigwe",
+                    "Mike Afolarin",
+                    "Eronini Osinachi"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tele x Zikora | OFFICIAL MOVIE TRAILER | Mike Afolarin | Genoveva Umeh | Angel Unigwe",
+                    "description": "Tele x Zikora is a Nigerian young adult campus movie set in a fictional University called Lagos Metropolitan University. It follows two young people from entirely different worlds whose lives collide on a university campus. \n\nTele x Zikora is set to release in cinemas on October 23, 2026.\n\nWritten, Produced and Directed by Adenike Adebayo-Esho\n\nProduction Companies:  Imagine Media Studios & MayDay Studios\n\nDistributor: Cinemaxng\n\n#Nollywood #nollywoodmovies #movieteaser"
+                }
+            },
+            "statistics": {
+                "viewCount": "20797",
+                "likeCount": "344",
+                "favoriteCount": "0",
+                "commentCount": "24"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Csop-MyH0T5CwrrzsHMmFqBE0HE",
             "id": "8t8YBu7bdT0",
             "snippet": {
                 "publishedAt": "2026-10-06T13:00:07Z",
@@ -1723,389 +2132,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "5048929",
-                "likeCount": "140879",
+                "viewCount": "5061526",
+                "likeCount": "141060",
                 "favoriteCount": "0",
-                "commentCount": "19110"
+                "commentCount": "19123"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5l4DP4FYKkoYgPlRlY1YmlNInHI",
-            "id": "DCyFQHeMqtY",
-            "snippet": {
-                "publishedAt": "2026-10-08T18:42:06Z",
-                "channelId": "UCSUVM9Ygr6AI5Eje5BnFhtw",
-                "title": "OMAH LAY - ARTIFICIAL HAPPINESS [Official Music Video]",
-                "description": "Listen to CLARITY OF MIND: https://omahlay.lnk.to/CLARITYOFMIND\n\nFOLLOW OMAH LAY:\nhttps://www.instagram.com/omah_lay/\nhttps://twitter.com/Omah_Lay\nhttps://www.facebook.com/OfficialOmahLay\nhttps://www.tiktok.com/@omah_lay\nhttps://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=PkzWcbzMTKCb-OEIhyHbRA\nhttps://music.apple.com/artist/omah-lay/1459319359\n\nTEXT ME \ud83d\udc9c +1 917-810-3414\n\nLyrics\n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\nI don\u2019t see anyone \nWhen fit come close to me \nAll of them know \nAll of them know ah \nNobody be my mate \nI Dey tell you with a clean mind \nPort harcourt Omah Lay \nAnything when you don see \nI don see am \nAyayayaya\n\nOne in the morning time \nThat\u2019s how I start my day \nAdvantage to see money clear \nIt\u2019s either all or nothing \nI still dey deadline ayaya\nI never die ayaya\nE get things when I still Dey fine \nNirvana is one them \n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nno stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\nI no know how many times when I wan tell Una o \nI no know how many times I wan tell Una o \nI don dey tell you o \nI don dey tell you o \nI no no o \nI no no o \nI no no o \nI no no o \nI don tell you o \nI don tell now o",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/DCyFQHeMqtY/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Omah Lay",
-                "tags": [
-                    "Omah Lay",
-                    "Artificial Happiness",
-                    "Clarity Of Mind",
-                    "Omah Lay Album",
-                    "Afro Pop",
-                    "Official Music Video",
-                    "Afro Beats",
-                    "New Afro Pop 2026",
-                    "New Afro Beats 2026"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "OMAH LAY - ARTIFICIAL HAPPINESS [Official Music Video]",
-                    "description": "Listen to CLARITY OF MIND: https://omahlay.lnk.to/CLARITYOFMIND\n\nFOLLOW OMAH LAY:\nhttps://www.instagram.com/omah_lay/\nhttps://twitter.com/Omah_Lay\nhttps://www.facebook.com/OfficialOmahLay\nhttps://www.tiktok.com/@omah_lay\nhttps://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=PkzWcbzMTKCb-OEIhyHbRA\nhttps://music.apple.com/artist/omah-lay/1459319359\n\nTEXT ME \ud83d\udc9c +1 917-810-3414\n\nLyrics\n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\nI don\u2019t see anyone \nWhen fit come close to me \nAll of them know \nAll of them know ah \nNobody be my mate \nI Dey tell you with a clean mind \nPort harcourt Omah Lay \nAnything when you don see \nI don see am \nAyayayaya\n\nOne in the morning time \nThat\u2019s how I start my day \nAdvantage to see money clear \nIt\u2019s either all or nothing \nI still dey deadline ayaya\nI never die ayaya\nE get things when I still Dey fine \nNirvana is one them \n\n\u00cdgbo is telling on me\nI like what it\u2019s saying make I no stop \nBefore morning the feeling will wash off \nBut tonight we will die at the war front \n\nMoney when no complete \nIt will never ever be my portion \nNo time for many discussions \nThe thing long e reach her subconscious \n\nBlood of Jesus \nNo stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nno stop \n\n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nE say no stop \n\u00cdgbo is telling on me \nBlood of Jesus \n\n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\u00ccgbo is telling on me \n\nI no know how many times when I wan tell Una o \nI no know how many times I wan tell Una o \nI don dey tell you o \nI don dey tell you o \nI no no o \nI no no o \nI no no o \nI no no o \nI don tell you o \nI don tell now o"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "1650184",
-                "likeCount": "21762",
-                "favoriteCount": "0",
-                "commentCount": "1564"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "q_W4qAj5wfcgWMbWSVXrF0k_xgY",
-            "id": "sXKnmgmbkoE",
-            "snippet": {
-                "publishedAt": "2026-10-01T16:00:21Z",
-                "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-                "title": "Marvel Television\u2019s VisionQuest | Official Trailer",
-                "description": "On October 14, experience the final Vision of the groundbreaking trilogy. Marvel Television\u2019s VisionQuest streaming soon on Disney+.\n\n\u25ba SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n\u25ba SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/sXKnmgmbkoE/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Marvel Entertainment",
-                "tags": [
-                    "marvel",
-                    "comics"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Marvel Television\u2019s VisionQuest | Official Trailer",
-                    "description": "On October 14, experience the final Vision of the groundbreaking trilogy. Marvel Television\u2019s VisionQuest streaming soon on Disney+.\n\n\u25ba SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n\u25ba SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n@Disney \n@StarWars \n@pixar \n@disneyplus"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "20792516",
-                "likeCount": "251103",
-                "favoriteCount": "0",
-                "commentCount": "8803"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "hHpMbIusZVQCf8KE35_juN5Cz-c",
-            "id": "45PZjTginRY",
-            "snippet": {
-                "publishedAt": "2026-10-09T15:00:22Z",
-                "channelId": "UCoRjsuzMh-MqfRjvlqaVLPw",
-                "title": "Hiding Inside ITEMS To Troll My Friends In Rivals Hide & Seek...",
-                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/45PZjTginRY/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Techys",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Hiding Inside ITEMS To Troll My Friends In Rivals Hide & Seek...",
-                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "301385",
-                "likeCount": "3986",
-                "favoriteCount": "0",
-                "commentCount": "361"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ZUJ7COPbGdh-Xst3enZfWA3PxTI",
-            "id": "fEvkI5uBw4E",
-            "snippet": {
-                "publishedAt": "2026-10-05T11:00:06Z",
-                "channelId": "UCuv4b5gx6MpFAJJKgEwh1uw",
-                "title": "TML Vibez - Shuperu (official Video) Feat. Ayo Maff & Shoday",
-                "description": "Dapper Music & Entertainment presents the official video for Shuperu featuring Ayo Maff & Shoday\n\nAvailable to stream / download:https://dvpper.lnk.to/astreetkidsdiarydisk2\n\n\u00a9 2026 Dapper Music & Ent, Under exclusive license to Dvpper Digital Ltd.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/fEvkI5uBw4E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Tml Vibez",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "TML Vibez - Shuperu (official Video) Feat. Ayo Maff & Shoday",
-                    "description": "Dapper Music & Entertainment presents the official video for Shuperu featuring Ayo Maff & Shoday\n\nAvailable to stream / download:https://dvpper.lnk.to/astreetkidsdiarydisk2\n\n\u00a9 2026 Dapper Music & Ent, Under exclusive license to Dvpper Digital Ltd."
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "201558",
-                "likeCount": "2857",
-                "favoriteCount": "0",
-                "commentCount": "133"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "YJDqcB3DEHU1p9GNLWBXV8vChXs",
-            "id": "1_06nnD8ZPs",
-            "snippet": {
-                "publishedAt": "2026-10-07T11:50:42Z",
-                "channelId": "UCZ3pmGCRxEGnoaVQZSzqXXw",
-                "title": "Tele x Zikora | OFFICIAL MOVIE TRAILER | Mike Afolarin | Genoveva Umeh | Angel Unigwe",
-                "description": "Tele x Zikora is a Nigerian young adult campus movie set in a fictional University called Lagos Metropolitan University. It follows two young people from entirely different worlds whose lives collide on a university campus. \n\nTele x Zikora is set to release in cinemas on October 23, 2026.\n\nWritten, Produced and Directed by Adenike Adebayo-Esho\n\nProduction Companies:  Imagine Media Studios & MayDay Studios\n\nDistributor: Cinemaxng\n\n#Nollywood #nollywoodmovies #movieteaser",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "qhd": {
-                        "url": "https://i.ytimg.com/vi/1_06nnD8ZPs/qhddefault.jpg",
-                        "width": 2560,
-                        "height": 1440
-                    }
-                },
-                "channelTitle": "Imagine Media Studios",
-                "tags": [
-                    "Tele x Zikora",
-                    "Tele x Zikora Movie",
-                    "TXZ Movie",
-                    "Lagos Metropolitan University",
-                    "Nollywood Campus Movie",
-                    "Nollywood Movie",
-                    "Nigerian Campus Movie",
-                    "Angel Unigwe",
-                    "Mike Afolarin",
-                    "Eronini Osinachi"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Tele x Zikora | OFFICIAL MOVIE TRAILER | Mike Afolarin | Genoveva Umeh | Angel Unigwe",
-                    "description": "Tele x Zikora is a Nigerian young adult campus movie set in a fictional University called Lagos Metropolitan University. It follows two young people from entirely different worlds whose lives collide on a university campus. \n\nTele x Zikora is set to release in cinemas on October 23, 2026.\n\nWritten, Produced and Directed by Adenike Adebayo-Esho\n\nProduction Companies:  Imagine Media Studios & MayDay Studios\n\nDistributor: Cinemaxng\n\n#Nollywood #nollywoodmovies #movieteaser"
-                }
-            },
-            "statistics": {
-                "viewCount": "20729",
-                "likeCount": "343",
-                "favoriteCount": "0",
-                "commentCount": "24"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "vAzmplal-lLZvTTTKnk68MCrFfg",
-            "id": "VLwcqaXiNOA",
-            "snippet": {
-                "publishedAt": "2026-10-03T18:30:16Z",
-                "channelId": "UCh5mLn90vUaB1PbRRx_AiaA",
-                "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
-                "description": "\ud83c\udfa5 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n\ud83c\udf57: Order food NOW at: https://www.eatsides.com/\n\ud83c\udf79: XIX Vodka: https://www.xixvodka.com/\n\ud83d\udc49\ud83c\udffb: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts \ud83d\udc48\ud83c\udffb\n\ud83d\udc55: Sidemen Clothing: https://www.sidemenclothing.com\n\ud83d\udcf8: Sidemen Instagram: http://www.instagram.com/Sidemen\n\ud83d\udc24: Sidemen Twitter: http://www.twitter.com/Sidemen\n\ud83c\udccfHot House Games: https://www.hothousegames.com/\n\n\u25b6\ufe0f SIDEMEN \u25c0\ufe0f\n\n\ud83d\udd35 JOSH (Zerkaa)\n\u25cf http://www.youtube.com/Zerkaa\n\u25cf http://www.youtube.com/ZerkaaPlays\n\u25cf http://www.instagram.com/Zerkaa\n\u25cf http://www.twitter.com/ZerkaaHD\n\n\ud83d\udd34 HARRY (W2S)\n\u25cf http://www.youtube.com/W2S\n\u25cf http://www.youtube.com/W2SPlays\n\u25cf http://www.instagram.com/Wroetoshaw\n\u25cf http://www.twitter.com/Wroetoshaw\n\n\ud83d\udd35 VIK (Vikkstar123)\n\u25cf http://www.youtube.com/Vikkstar123\n\u25cf http://www.youtube.com/Vikkstar123HD\n\u25cf http://www.youtube.com/VikkstarPlays\n\u25cf https://www.instagram.com/vikkstar\n\u25cf http://www.twitter.com/Vikkstar123\n\n\ud83d\udd35 TOBI (Tobjizzle)\n\u25cf http://www.youtube.com/TBJZL\n\u25cf http://www.youtube.com/Editingaming\n\u25cf http://www.instagram.com/Tobjizzle\n\u25cf http://www.twitter.com/Tobjizzle\n\n\ud83d\udd34 ETHAN (Behzinga)\n\u25cf http://www.youtube.com/Behzinga\n\u25cf http://www.youtube.com/Beh2inga\n\u25cf http://www.instagram.com/Behzingagram\n\u25cf http://www.twitter.com/Behzinga\n\n\ud83d\udd35 SIMON (Miniminter)\n\u25cf http://www.youtube.com/Miniminter\n\u25cf http://www.youtube.com/MM7Games\n\u25cf http://www.instagram.com/Miniminter\n\u25cf http://www.twitter.com/Miniminter\n\nEdited by @chipfat",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MoreSidemen",
-                "tags": [
-                    "sidemen",
-                    "moresidemen",
-                    "miniminter",
-                    "zerkaa",
-                    "behzinga",
-                    "tbjzl",
-                    "vikkstar",
-                    "wroetoshaw"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
-                    "description": "\ud83c\udfa5 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n\ud83c\udf57: Order food NOW at: https://www.eatsides.com/\n\ud83c\udf79: XIX Vodka: https://www.xixvodka.com/\n\ud83d\udc49\ud83c\udffb: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts \ud83d\udc48\ud83c\udffb\n\ud83d\udc55: Sidemen Clothing: https://www.sidemenclothing.com\n\ud83d\udcf8: Sidemen Instagram: http://www.instagram.com/Sidemen\n\ud83d\udc24: Sidemen Twitter: http://www.twitter.com/Sidemen\n\ud83c\udccfHot House Games: https://www.hothousegames.com/\n\n\u25b6\ufe0f SIDEMEN \u25c0\ufe0f\n\n\ud83d\udd35 JOSH (Zerkaa)\n\u25cf http://www.youtube.com/Zerkaa\n\u25cf http://www.youtube.com/ZerkaaPlays\n\u25cf http://www.instagram.com/Zerkaa\n\u25cf http://www.twitter.com/ZerkaaHD\n\n\ud83d\udd34 HARRY (W2S)\n\u25cf http://www.youtube.com/W2S\n\u25cf http://www.youtube.com/W2SPlays\n\u25cf http://www.instagram.com/Wroetoshaw\n\u25cf http://www.twitter.com/Wroetoshaw\n\n\ud83d\udd35 VIK (Vikkstar123)\n\u25cf http://www.youtube.com/Vikkstar123\n\u25cf http://www.youtube.com/Vikkstar123HD\n\u25cf http://www.youtube.com/VikkstarPlays\n\u25cf https://www.instagram.com/vikkstar\n\u25cf http://www.twitter.com/Vikkstar123\n\n\ud83d\udd35 TOBI (Tobjizzle)\n\u25cf http://www.youtube.com/TBJZL\n\u25cf http://www.youtube.com/Editingaming\n\u25cf http://www.instagram.com/Tobjizzle\n\u25cf http://www.twitter.com/Tobjizzle\n\n\ud83d\udd34 ETHAN (Behzinga)\n\u25cf http://www.youtube.com/Behzinga\n\u25cf http://www.youtube.com/Beh2inga\n\u25cf http://www.instagram.com/Behzingagram\n\u25cf http://www.twitter.com/Behzinga\n\n\ud83d\udd35 SIMON (Miniminter)\n\u25cf http://www.youtube.com/Miniminter\n\u25cf http://www.youtube.com/MM7Games\n\u25cf http://www.instagram.com/Miniminter\n\u25cf http://www.twitter.com/Miniminter\n\nEdited by @chipfat"
-                },
-                "defaultAudioLanguage": "en-GB"
-            },
-            "statistics": {
-                "viewCount": "4106150",
-                "likeCount": "83291",
-                "favoriteCount": "0",
-                "commentCount": "6353"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Wo0Ruc5aRDhlOkslzaYWm0R8J2Q",
+            "etag": "kqIP1i6brYP8nBWNFbgK167zJyw",
             "id": "-i-zev10gbc",
             "snippet": {
                 "publishedAt": "2026-10-08T12:00:10Z",
@@ -2161,15 +2196,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "235149",
-                "likeCount": "5345",
+                "viewCount": "242274",
+                "likeCount": "5382",
                 "favoriteCount": "0",
-                "commentCount": "502"
+                "commentCount": "504"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EWGCd5WwipH0JaVhSasq9DPyr9I",
+            "etag": "zFcNF8rb9kptehparoItei6fnSM",
             "id": "5T6U5Fqq7w4",
             "snippet": {
                 "publishedAt": "2026-10-09T16:15:25Z",
@@ -2250,76 +2285,73 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1516634",
-                "likeCount": "37440",
+                "viewCount": "1531067",
+                "likeCount": "38115",
                 "favoriteCount": "0",
-                "commentCount": "1507"
+                "commentCount": "1515"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9_vl7SoIS2XWlul8gQpQKiy49F8",
-            "id": "T3iFHhpJ75o",
+            "etag": "eQ4xVs9Wm0im3bUL-LbQ8-37qIo",
+            "id": "45PZjTginRY",
             "snippet": {
-                "publishedAt": "2026-10-09T11:18:02Z",
-                "channelId": "UCEgMsDCpvDp3D6AewIX_aNg",
-                "title": "IS THE 1,500 COINS INTER MILAN PACK WORTH IT\ud83d\ude2c?\u2026",
-                "description": "Thanks For Watching!\n\nIf You are Enjoyed The Video Hit the Like button So That we Can Reach Efootball Lovers \ud83e\udd29 #efootball2027 #efootballmobile \n \nFollow My Socials:\n\nFacebook:\nhttps://www.facebook.com/profile.php?id=61554213784203&mibextid=ZbWKwL\n\nTikTok:\nhttps://www.tiktok.com/@efootballdude1?_r=1&_t=ZS-98UlFFl81Om\n\nInstagram:\nhttps://www.instagram.com/efootballdude?igsh=aG40dm93eGZ5c2lk&utm_source=qr\n\ntags:\nefootball Gameplay\nefootball 2027 mobile\nefootball 2027 mobile Today\nefootball 2027 mobile gameplay\nefootball 2027 Update\nShowtime MartinezEfootball 2027\nMarcelo Efootball 2027\nInter Milan Pack Efootball\nChristian Chivu Manager Efootball 2027\nHow To Efootball 2027\nDivision One Efootball",
+                "publishedAt": "2026-10-09T15:00:22Z",
+                "channelId": "UCoRjsuzMh-MqfRjvlqaVLPw",
+                "title": "Hiding Inside ITEMS To Troll My Friends In Rivals Hide & Seek...",
+                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/45PZjTginRY/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
                     }
                 },
-                "channelTitle": "Efootball Dude",
-                "tags": [
-                    "Efootball 2027",
-                    "Efootball mobile",
-                    "Christian Chivu Efootball",
-                    "Showtime Martinez Efootball",
-                    "Gameplay",
-                    "Inter Milan Pack Review"
-                ],
+                "channelTitle": "Techys",
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "IS THE 1,500 COINS INTER MILAN PACK WORTH IT\ud83d\ude2c?\u2026",
-                    "description": "Thanks For Watching!\n\nIf You are Enjoyed The Video Hit the Like button So That we Can Reach Efootball Lovers \ud83e\udd29 #efootball2027 #efootballmobile \n \nFollow My Socials:\n\nFacebook:\nhttps://www.facebook.com/profile.php?id=61554213784203&mibextid=ZbWKwL\n\nTikTok:\nhttps://www.tiktok.com/@efootballdude1?_r=1&_t=ZS-98UlFFl81Om\n\nInstagram:\nhttps://www.instagram.com/efootballdude?igsh=aG40dm93eGZ5c2lk&utm_source=qr\n\ntags:\nefootball Gameplay\nefootball 2027 mobile\nefootball 2027 mobile Today\nefootball 2027 mobile gameplay\nefootball 2027 Update\nShowtime MartinezEfootball 2027\nMarcelo Efootball 2027\nInter Milan Pack Efootball\nChristian Chivu Manager Efootball 2027\nHow To Efootball 2027\nDivision One Efootball"
+                    "title": "Hiding Inside ITEMS To Troll My Friends In Rivals Hide & Seek...",
+                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/3304336...\n\nSocials: https://solo.to/techys\n\n#Roblox"
                 },
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "68750",
-                "likeCount": "1934",
+                "viewCount": "305447",
+                "likeCount": "4029",
                 "favoriteCount": "0",
-                "commentCount": "141"
+                "commentCount": "362"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ok5EXLXVYizcF3PVjNPPKlWfY94",
+            "etag": "CC66Q-dKezxgzexzZc3wDqXDMgg",
             "id": "lV1DPjdLBOg",
             "snippet": {
                 "publishedAt": "2026-10-09T04:02:25Z",
@@ -2368,15 +2400,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "290367",
-                "likeCount": "13810",
+                "viewCount": "294066",
+                "likeCount": "13964",
                 "favoriteCount": "0",
-                "commentCount": "860"
+                "commentCount": "863"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9aED2S9S_H-3BMMGXi12qv2PH-o",
+            "etag": "iwdn1UxT8W3I0weq3197bL5fTmM",
             "id": "8YDCzBuzdQU",
             "snippet": {
                 "publishedAt": "2026-10-08T08:00:28Z",
@@ -2450,87 +2482,78 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "62916",
-                "likeCount": "488",
+                "viewCount": "63854",
+                "likeCount": "494",
                 "favoriteCount": "0",
                 "commentCount": "15"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ypGOWA4-nL-iP-i8yF3EtYqkv0U",
-            "id": "D4eBn659uJg",
+            "etag": "pE4tSQyFo44_VBvIN6KrM11-Igk",
+            "id": "VLwcqaXiNOA",
             "snippet": {
-                "publishedAt": "2026-10-07T11:29:24Z",
-                "channelId": "UCvzTJH6G9bH5nCQ1Hfb8nGg",
-                "title": "I TESTED FREE ERIC CANTONA 103 RATED! \ud83e\udd2f\ud83d\udd25 Is He Actually Good?",
-                "description": "Today I'm testing the FREE Eric Cantona in eFootball 2027! \ud83c\uddeb\ud83c\uddf7\ud83d\udd25\n\nHe's 102 rated in my build, so I took him into real matches to test his finishing, dribbling, physicality, movement, passing and overall gameplay.\n\nIs this FREE Cantona actually worth using? \ud83d\udc40\nWatch until the end for my final rating! \u26bd\ud83d\udd25\n\n\n#eFootball2027 #eFootball #EricCantona #eFootballMobile",
+                "publishedAt": "2026-10-03T18:30:16Z",
+                "channelId": "UCh5mLn90vUaB1PbRRx_AiaA",
+                "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
+                "description": "\ud83c\udfa5 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n\ud83c\udf57: Order food NOW at: https://www.eatsides.com/\n\ud83c\udf79: XIX Vodka: https://www.xixvodka.com/\n\ud83d\udc49\ud83c\udffb: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts \ud83d\udc48\ud83c\udffb\n\ud83d\udc55: Sidemen Clothing: https://www.sidemenclothing.com\n\ud83d\udcf8: Sidemen Instagram: http://www.instagram.com/Sidemen\n\ud83d\udc24: Sidemen Twitter: http://www.twitter.com/Sidemen\n\ud83c\udccfHot House Games: https://www.hothousegames.com/\n\n\u25b6\ufe0f SIDEMEN \u25c0\ufe0f\n\n\ud83d\udd35 JOSH (Zerkaa)\n\u25cf http://www.youtube.com/Zerkaa\n\u25cf http://www.youtube.com/ZerkaaPlays\n\u25cf http://www.instagram.com/Zerkaa\n\u25cf http://www.twitter.com/ZerkaaHD\n\n\ud83d\udd34 HARRY (W2S)\n\u25cf http://www.youtube.com/W2S\n\u25cf http://www.youtube.com/W2SPlays\n\u25cf http://www.instagram.com/Wroetoshaw\n\u25cf http://www.twitter.com/Wroetoshaw\n\n\ud83d\udd35 VIK (Vikkstar123)\n\u25cf http://www.youtube.com/Vikkstar123\n\u25cf http://www.youtube.com/Vikkstar123HD\n\u25cf http://www.youtube.com/VikkstarPlays\n\u25cf https://www.instagram.com/vikkstar\n\u25cf http://www.twitter.com/Vikkstar123\n\n\ud83d\udd35 TOBI (Tobjizzle)\n\u25cf http://www.youtube.com/TBJZL\n\u25cf http://www.youtube.com/Editingaming\n\u25cf http://www.instagram.com/Tobjizzle\n\u25cf http://www.twitter.com/Tobjizzle\n\n\ud83d\udd34 ETHAN (Behzinga)\n\u25cf http://www.youtube.com/Behzinga\n\u25cf http://www.youtube.com/Beh2inga\n\u25cf http://www.instagram.com/Behzingagram\n\u25cf http://www.twitter.com/Behzinga\n\n\ud83d\udd35 SIMON (Miniminter)\n\u25cf http://www.youtube.com/Miniminter\n\u25cf http://www.youtube.com/MM7Games\n\u25cf http://www.instagram.com/Miniminter\n\u25cf http://www.twitter.com/Miniminter\n\nEdited by @chipfat",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VLwcqaXiNOA/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "9AL Games",
+                "channelTitle": "MoreSidemen",
                 "tags": [
-                    "efootball 2027",
-                    "efootball 27",
-                    "efootball",
-                    "efootball mobile",
-                    "eric cantona",
-                    "cantona review",
-                    "cantona efootball 2027",
-                    "free cantona",
-                    "free eric cantona",
-                    "efootball cantona",
-                    "cantona gameplay",
-                    "efootball player review",
-                    "efootball review",
-                    "efootball free players",
-                    "efootball epic",
-                    "epic cantona",
-                    "efootball mobile review"
+                    "sidemen",
+                    "moresidemen",
+                    "miniminter",
+                    "zerkaa",
+                    "behzinga",
+                    "tbjzl",
+                    "vikkstar",
+                    "wroetoshaw"
                 ],
-                "categoryId": "20",
+                "categoryId": "24",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "I TESTED FREE ERIC CANTONA 103 RATED! \ud83e\udd2f\ud83d\udd25 Is He Actually Good?",
-                    "description": "Today I'm testing the FREE Eric Cantona in eFootball 2027! \ud83c\uddeb\ud83c\uddf7\ud83d\udd25\n\nHe's 102 rated in my build, so I took him into real matches to test his finishing, dribbling, physicality, movement, passing and overall gameplay.\n\nIs this FREE Cantona actually worth using? \ud83d\udc40\nWatch until the end for my final rating! \u26bd\ud83d\udd25\n\n\n#eFootball2027 #eFootball #EricCantona #eFootballMobile"
+                    "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
+                    "description": "\ud83c\udfa5 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n\ud83c\udf57: Order food NOW at: https://www.eatsides.com/\n\ud83c\udf79: XIX Vodka: https://www.xixvodka.com/\n\ud83d\udc49\ud83c\udffb: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts \ud83d\udc48\ud83c\udffb\n\ud83d\udc55: Sidemen Clothing: https://www.sidemenclothing.com\n\ud83d\udcf8: Sidemen Instagram: http://www.instagram.com/Sidemen\n\ud83d\udc24: Sidemen Twitter: http://www.twitter.com/Sidemen\n\ud83c\udccfHot House Games: https://www.hothousegames.com/\n\n\u25b6\ufe0f SIDEMEN \u25c0\ufe0f\n\n\ud83d\udd35 JOSH (Zerkaa)\n\u25cf http://www.youtube.com/Zerkaa\n\u25cf http://www.youtube.com/ZerkaaPlays\n\u25cf http://www.instagram.com/Zerkaa\n\u25cf http://www.twitter.com/ZerkaaHD\n\n\ud83d\udd34 HARRY (W2S)\n\u25cf http://www.youtube.com/W2S\n\u25cf http://www.youtube.com/W2SPlays\n\u25cf http://www.instagram.com/Wroetoshaw\n\u25cf http://www.twitter.com/Wroetoshaw\n\n\ud83d\udd35 VIK (Vikkstar123)\n\u25cf http://www.youtube.com/Vikkstar123\n\u25cf http://www.youtube.com/Vikkstar123HD\n\u25cf http://www.youtube.com/VikkstarPlays\n\u25cf https://www.instagram.com/vikkstar\n\u25cf http://www.twitter.com/Vikkstar123\n\n\ud83d\udd35 TOBI (Tobjizzle)\n\u25cf http://www.youtube.com/TBJZL\n\u25cf http://www.youtube.com/Editingaming\n\u25cf http://www.instagram.com/Tobjizzle\n\u25cf http://www.twitter.com/Tobjizzle\n\n\ud83d\udd34 ETHAN (Behzinga)\n\u25cf http://www.youtube.com/Behzinga\n\u25cf http://www.youtube.com/Beh2inga\n\u25cf http://www.instagram.com/Behzingagram\n\u25cf http://www.twitter.com/Behzinga\n\n\ud83d\udd35 SIMON (Miniminter)\n\u25cf http://www.youtube.com/Miniminter\n\u25cf http://www.youtube.com/MM7Games\n\u25cf http://www.instagram.com/Miniminter\n\u25cf http://www.twitter.com/Miniminter\n\nEdited by @chipfat"
                 },
-                "defaultAudioLanguage": "en"
+                "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "176725",
-                "likeCount": "6805",
+                "viewCount": "4111312",
+                "likeCount": "83344",
                 "favoriteCount": "0",
-                "commentCount": "373"
+                "commentCount": "6355"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "geBR2o8GgDOnmVMS7qR_dbF54go",
+            "etag": "audHZ01-YOtY3YSIwqoPQ-OZrLI",
             "id": "prqNqQUWXBE",
             "snippet": {
                 "publishedAt": "2026-10-10T09:00:09Z",
@@ -2580,15 +2603,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "120464",
-                "likeCount": "11031",
+                "viewCount": "134203",
+                "likeCount": "11834",
                 "favoriteCount": "0",
-                "commentCount": "897"
+                "commentCount": "927"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "__C8dCiTrHEYKgEMIgfvXR-O7ns",
+            "etag": "WhfRF9nuDjZhxzPc4gHF_tSoxBQ",
             "id": "nT8Mdw5nKd0",
             "snippet": {
                 "publishedAt": "2026-10-09T18:15:22Z",
@@ -2669,15 +2692,417 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "694171",
-                "likeCount": "9099",
+                "viewCount": "707310",
+                "likeCount": "9281",
                 "favoriteCount": "0",
-                "commentCount": "766"
+                "commentCount": "774"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oMJ47gYHwqKMJlED1bINaFH1tRM",
+            "etag": "ZQb1K8s6IerOhUSRg8hnAg4W4t0",
+            "id": "T3iFHhpJ75o",
+            "snippet": {
+                "publishedAt": "2026-10-09T11:18:02Z",
+                "channelId": "UCEgMsDCpvDp3D6AewIX_aNg",
+                "title": "IS THE 1,500 COINS INTER MILAN PACK WORTH IT\ud83d\ude2c?\u2026",
+                "description": "Thanks For Watching!\n\nIf You are Enjoyed The Video Hit the Like button So That we Can Reach Efootball Lovers \ud83e\udd29 #efootball2027 #efootballmobile \n \nFollow My Socials:\n\nFacebook:\nhttps://www.facebook.com/profile.php?id=61554213784203&mibextid=ZbWKwL\n\nTikTok:\nhttps://www.tiktok.com/@efootballdude1?_r=1&_t=ZS-98UlFFl81Om\n\nInstagram:\nhttps://www.instagram.com/efootballdude?igsh=aG40dm93eGZ5c2lk&utm_source=qr\n\ntags:\nefootball Gameplay\nefootball 2027 mobile\nefootball 2027 mobile Today\nefootball 2027 mobile gameplay\nefootball 2027 Update\nShowtime MartinezEfootball 2027\nMarcelo Efootball 2027\nInter Milan Pack Efootball\nChristian Chivu Manager Efootball 2027\nHow To Efootball 2027\nDivision One Efootball",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T3iFHhpJ75o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Efootball Dude",
+                "tags": [
+                    "Efootball 2027",
+                    "Efootball mobile",
+                    "Christian Chivu Efootball",
+                    "Showtime Martinez Efootball",
+                    "Gameplay",
+                    "Inter Milan Pack Review"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "IS THE 1,500 COINS INTER MILAN PACK WORTH IT\ud83d\ude2c?\u2026",
+                    "description": "Thanks For Watching!\n\nIf You are Enjoyed The Video Hit the Like button So That we Can Reach Efootball Lovers \ud83e\udd29 #efootball2027 #efootballmobile \n \nFollow My Socials:\n\nFacebook:\nhttps://www.facebook.com/profile.php?id=61554213784203&mibextid=ZbWKwL\n\nTikTok:\nhttps://www.tiktok.com/@efootballdude1?_r=1&_t=ZS-98UlFFl81Om\n\nInstagram:\nhttps://www.instagram.com/efootballdude?igsh=aG40dm93eGZ5c2lk&utm_source=qr\n\ntags:\nefootball Gameplay\nefootball 2027 mobile\nefootball 2027 mobile Today\nefootball 2027 mobile gameplay\nefootball 2027 Update\nShowtime MartinezEfootball 2027\nMarcelo Efootball 2027\nInter Milan Pack Efootball\nChristian Chivu Manager Efootball 2027\nHow To Efootball 2027\nDivision One Efootball"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "69814",
+                "likeCount": "1950",
+                "favoriteCount": "0",
+                "commentCount": "141"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "V-zmIimP6X5EdLi9v0YDQ2qWiXQ",
+            "id": "uB4sxQNleOc",
+            "snippet": {
+                "publishedAt": "2026-10-06T18:04:16Z",
+                "channelId": "UCFECsA2azbCUH533lUdgLxw",
+                "title": "Dare Daya",
+                "description": "Provided to YouTube by TuneCore\n\nDare Daya \u00b7 Nazir M Ahmad\n\nDare Daya\n\n\u2117 2026 Nazir m ahmad\n\nReleased on: 2026-10-05\n\nBanjo: Nazir M Ahmad\nGuitar: Nazir M Ahmad\nRap: Nazir M Ahmad\nVocals: Nazir M Ahmad\nComposer: Nazir M Ahmad\nLyricist: Nazir M Ahmad\nComposer Lyricist: Nazir M Ahmad\nSongwriter: Nazir M Ahmad\nProducer: Nazir M Ahmad\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Release - Topic",
+                "tags": [
+                    "Nazir M Ahmad",
+                    "Dare Daya"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Dare Daya",
+                    "description": "Provided to YouTube by TuneCore\n\nDare Daya \u00b7 Nazir M Ahmad\n\nDare Daya\n\n\u2117 2026 Nazir m ahmad\n\nReleased on: 2026-10-05\n\nBanjo: Nazir M Ahmad\nGuitar: Nazir M Ahmad\nRap: Nazir M Ahmad\nVocals: Nazir M Ahmad\nComposer: Nazir M Ahmad\nLyricist: Nazir M Ahmad\nComposer Lyricist: Nazir M Ahmad\nSongwriter: Nazir M Ahmad\nProducer: Nazir M Ahmad\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "80337",
+                "likeCount": "2019",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yQaXCXfb81OMYJjUeXHVaCKwLBc",
+            "id": "0y67MuLPAok",
+            "snippet": {
+                "publishedAt": "2026-10-09T09:04:01Z",
+                "channelId": "UCBmiT75HwsIk8mjP7i6wUXw",
+                "title": "ONILE OWO official trailer \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                "description": "\ud83d\udd25 THE WAIT IS OVER! \ud83d\udd25\n\nGet a glimpse of the drama, the suspense, and the unforgettable story waiting for you! \ud83c\udfac\u2764\ufe0f\n\n\ud83d\udce2 The FULL MOVIE premieres TODAY at 4 PM on ITELEDICONSTUDIO on YouTube!\n\nDon\u2019t miss it. Set your reminder, subscribe, and join us for this incredible cinematic experience. \ud83c\udf7f\ud83d\udd25",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Efun tv",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ONILE OWO official trailer \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                    "description": "\ud83d\udd25 THE WAIT IS OVER! \ud83d\udd25\n\nGet a glimpse of the drama, the suspense, and the unforgettable story waiting for you! \ud83c\udfac\u2764\ufe0f\n\n\ud83d\udce2 The FULL MOVIE premieres TODAY at 4 PM on ITELEDICONSTUDIO on YouTube!\n\nDon\u2019t miss it. Set your reminder, subscribe, and join us for this incredible cinematic experience. \ud83c\udf7f\ud83d\udd25"
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "statistics": {
+                "viewCount": "14329",
+                "likeCount": "132",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_KGIWQCjkHXOOLTp_0kACkf4V0c",
+            "id": "D4eBn659uJg",
+            "snippet": {
+                "publishedAt": "2026-10-07T11:29:24Z",
+                "channelId": "UCvzTJH6G9bH5nCQ1Hfb8nGg",
+                "title": "I TESTED FREE ERIC CANTONA 103 RATED! \ud83e\udd2f\ud83d\udd25 Is He Actually Good?",
+                "description": "Today I'm testing the FREE Eric Cantona in eFootball 2027! \ud83c\uddeb\ud83c\uddf7\ud83d\udd25\n\nHe's 102 rated in my build, so I took him into real matches to test his finishing, dribbling, physicality, movement, passing and overall gameplay.\n\nIs this FREE Cantona actually worth using? \ud83d\udc40\nWatch until the end for my final rating! \u26bd\ud83d\udd25\n\n\n#eFootball2027 #eFootball #EricCantona #eFootballMobile",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D4eBn659uJg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "9AL Games",
+                "tags": [
+                    "efootball 2027",
+                    "efootball 27",
+                    "efootball",
+                    "efootball mobile",
+                    "eric cantona",
+                    "cantona review",
+                    "cantona efootball 2027",
+                    "free cantona",
+                    "free eric cantona",
+                    "efootball cantona",
+                    "cantona gameplay",
+                    "efootball player review",
+                    "efootball review",
+                    "efootball free players",
+                    "efootball epic",
+                    "epic cantona",
+                    "efootball mobile review"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I TESTED FREE ERIC CANTONA 103 RATED! \ud83e\udd2f\ud83d\udd25 Is He Actually Good?",
+                    "description": "Today I'm testing the FREE Eric Cantona in eFootball 2027! \ud83c\uddeb\ud83c\uddf7\ud83d\udd25\n\nHe's 102 rated in my build, so I took him into real matches to test his finishing, dribbling, physicality, movement, passing and overall gameplay.\n\nIs this FREE Cantona actually worth using? \ud83d\udc40\nWatch until the end for my final rating! \u26bd\ud83d\udd25\n\n\n#eFootball2027 #eFootball #EricCantona #eFootballMobile"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "177184",
+                "likeCount": "6815",
+                "favoriteCount": "0",
+                "commentCount": "373"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "W0Htkvgsb5ECRw6pnA6uNBaVkLY",
+            "id": "nd-KNoSUE_c",
+            "snippet": {
+                "publishedAt": "2026-10-02T11:00:08Z",
+                "channelId": "UCySzzBJLlLcw8RCdSwQGZZw",
+                "title": "Sunmisola Agbebi \u2013 YAHWEH (The Conqueror\u2019s Anthem) [Official Video]",
+                "description": "Watch the Official Video for \u201cYahweh\u201d by Sunmisola Agbebi.\n\n\n\u201cYahweh\u201d is a heartfelt expression of worship, giving glory to God and acknowledging His greatness, faithfulness, and unfailing love. Through this song, Sunmisola Agbebi leads us into a place of praise, surrender, and victory, declaring the greatness of Yahweh.\n\nWatch, worship, and declare your victory with Sunmisola Agbebi.\n\n\nListen to \u201cYahweh\u201d here: https://madsol.ai/yahweh\n\n\n#SunmisolaAgbebi #Yahweh #OfficialVideo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SUNMISOLA AGBEBI",
+                "tags": [
+                    "Sunmisola Agbebi",
+                    "Yahweh",
+                    "Sunmisola Yahweh",
+                    "Yahweh Sunmisola Agbebi",
+                    "Yahweh Official Video",
+                    "Sunmisola Agbebi Official Video",
+                    "Sunmisola Agbebi new song",
+                    "Sunmisola new music",
+                    "Sunmisola Agbebi music",
+                    "Nigerian Gospel",
+                    "Nigerian Gospel Music",
+                    "Naija Gospel",
+                    "Gospel Music",
+                    "Gospel Songs",
+                    "Christian Music",
+                    "Christian Songs",
+                    "Worship Music",
+                    "Praise and Worship",
+                    "Gospel Praise",
+                    "Nigerian Worship",
+                    "African Gospel",
+                    "New Gospel Music",
+                    "Gospel Music 2026",
+                    "Sunmisola 2026",
+                    "Official Video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Sunmisola Agbebi \u2013 YAHWEH (The Conqueror\u2019s Anthem) [Official Video]",
+                    "description": "Watch the Official Video for \u201cYahweh\u201d by Sunmisola Agbebi.\n\n\n\u201cYahweh\u201d is a heartfelt expression of worship, giving glory to God and acknowledging His greatness, faithfulness, and unfailing love. Through this song, Sunmisola Agbebi leads us into a place of praise, surrender, and victory, declaring the greatness of Yahweh.\n\nWatch, worship, and declare your victory with Sunmisola Agbebi.\n\n\nListen to \u201cYahweh\u201d here: https://madsol.ai/yahweh\n\n\n#SunmisolaAgbebi #Yahweh #OfficialVideo"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "363789",
+                "likeCount": "21080",
+                "favoriteCount": "0",
+                "commentCount": "1083"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Lh5wi_vsYgFP2BHKuDz353Yq3IM",
+            "id": "ZkN2M4ODdys",
+            "snippet": {
+                "publishedAt": "2026-10-05T14:00:00Z",
+                "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "title": "Animals | Official Trailer #2 | Netflix",
+                "description": "Animals, in select theaters and on Netflix October 9.\n\nWatch on Netflix: https://www.netflix.com/title/81757047\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nAnimals | Official Trailer #2 | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Netflix",
+                "tags": [
+                    "Animals",
+                    "Animals Netflix",
+                    "Animals Trailer",
+                    "Animals Trailer 2",
+                    "Artists Equity",
+                    "Ben Affleck",
+                    "Drama Thriller",
+                    "Gillian Anderson",
+                    "Kerry Washington",
+                    "Kidnapping Thriller",
+                    "Los Angeles Thriller",
+                    "Luis Gerardo M\u00e9ndez",
+                    "Movie Trailer 2026",
+                    "Netflix",
+                    "Netflix 2026",
+                    "Netflix Movie",
+                    "Netflix New Releases 2026",
+                    "Netflix Trailer",
+                    "New Netflix Movies",
+                    "Official Trailer",
+                    "Political Thriller",
+                    "Ray Fisher",
+                    "Steven Yeun",
+                    "Thriller Movie"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Animals | Official Trailer #2 | Netflix",
+                    "description": "Animals, in select theaters and on Netflix October 9.\n\nWatch on Netflix: https://www.netflix.com/title/81757047\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nAnimals | Official Trailer #2 | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "1317712",
+                "likeCount": "2467",
+                "favoriteCount": "0",
+                "commentCount": "164"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tSZalPqnkKJ4qsiDjpg0m4n5b4c",
             "id": "4UrKthgu5BA",
             "snippet": {
                 "publishedAt": "2026-10-09T13:00:35Z",
@@ -2774,414 +3199,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "217149",
-                "likeCount": "2251",
+                "viewCount": "220020",
+                "likeCount": "2283",
                 "favoriteCount": "0",
-                "commentCount": "121"
+                "commentCount": "124"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ViPnx6P91ChRsP-PemQTeRqNBY0",
-            "id": "uB4sxQNleOc",
-            "snippet": {
-                "publishedAt": "2026-10-06T18:04:16Z",
-                "channelId": "UCFECsA2azbCUH533lUdgLxw",
-                "title": "Dare Daya",
-                "description": "Provided to YouTube by TuneCore\n\nDare Daya \u00b7 Nazir M Ahmad\n\nDare Daya\n\n\u2117 2026 Nazir m ahmad\n\nReleased on: 2026-10-05\n\nBanjo: Nazir M Ahmad\nGuitar: Nazir M Ahmad\nRap: Nazir M Ahmad\nVocals: Nazir M Ahmad\nComposer: Nazir M Ahmad\nLyricist: Nazir M Ahmad\nComposer Lyricist: Nazir M Ahmad\nSongwriter: Nazir M Ahmad\nProducer: Nazir M Ahmad\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uB4sxQNleOc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Release - Topic",
-                "tags": [
-                    "Nazir M Ahmad",
-                    "Dare Daya"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Dare Daya",
-                    "description": "Provided to YouTube by TuneCore\n\nDare Daya \u00b7 Nazir M Ahmad\n\nDare Daya\n\n\u2117 2026 Nazir m ahmad\n\nReleased on: 2026-10-05\n\nBanjo: Nazir M Ahmad\nGuitar: Nazir M Ahmad\nRap: Nazir M Ahmad\nVocals: Nazir M Ahmad\nComposer: Nazir M Ahmad\nLyricist: Nazir M Ahmad\nComposer Lyricist: Nazir M Ahmad\nSongwriter: Nazir M Ahmad\nProducer: Nazir M Ahmad\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "hi"
-            },
-            "statistics": {
-                "viewCount": "79438",
-                "likeCount": "2003",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "yYEGqYJJa5pqJOmzrLOw3ylF1LY",
-            "id": "0y67MuLPAok",
-            "snippet": {
-                "publishedAt": "2026-10-09T09:04:01Z",
-                "channelId": "UCBmiT75HwsIk8mjP7i6wUXw",
-                "title": "ONILE OWO official trailer \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-                "description": "\ud83d\udd25 THE WAIT IS OVER! \ud83d\udd25\n\nGet a glimpse of the drama, the suspense, and the unforgettable story waiting for you! \ud83c\udfac\u2764\ufe0f\n\n\ud83d\udce2 The FULL MOVIE premieres TODAY at 4 PM on ITELEDICONSTUDIO on YouTube!\n\nDon\u2019t miss it. Set your reminder, subscribe, and join us for this incredible cinematic experience. \ud83c\udf7f\ud83d\udd25",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/0y67MuLPAok/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Efun tv",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "ONILE OWO official trailer \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-                    "description": "\ud83d\udd25 THE WAIT IS OVER! \ud83d\udd25\n\nGet a glimpse of the drama, the suspense, and the unforgettable story waiting for you! \ud83c\udfac\u2764\ufe0f\n\n\ud83d\udce2 The FULL MOVIE premieres TODAY at 4 PM on ITELEDICONSTUDIO on YouTube!\n\nDon\u2019t miss it. Set your reminder, subscribe, and join us for this incredible cinematic experience. \ud83c\udf7f\ud83d\udd25"
-                },
-                "defaultAudioLanguage": "pt-PT"
-            },
-            "statistics": {
-                "viewCount": "14027",
-                "likeCount": "130",
-                "favoriteCount": "0",
-                "commentCount": "10"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "suXWYKqxV7_TgTizSEjF0ouFJpM",
-            "id": "nuwQHzlwTMc",
-            "snippet": {
-                "publishedAt": "2026-09-29T13:30:35Z",
-                "channelId": "UCsHJcio9sTizhxTZQ-FyF6w",
-                "title": "I SET THE PLANET ON FIRE \ud83d\udd25 | SOLER SMASH",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nuwQHzlwTMc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nuwQHzlwTMc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nuwQHzlwTMc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nuwQHzlwTMc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nuwQHzlwTMc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Mahi Karlwa2",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "I SET THE PLANET ON FIRE \ud83d\udd25 | SOLER SMASH",
-                    "description": ""
-                }
-            },
-            "statistics": {
-                "viewCount": "1872476",
-                "likeCount": "1120",
-                "favoriteCount": "0",
-                "commentCount": "18"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "hVy1cjjbME3K5RVX0xeD4fwWf-k",
-            "id": "nd-KNoSUE_c",
-            "snippet": {
-                "publishedAt": "2026-10-02T11:00:08Z",
-                "channelId": "UCySzzBJLlLcw8RCdSwQGZZw",
-                "title": "Sunmisola Agbebi \u2013 YAHWEH (The Conqueror\u2019s Anthem) [Official Video]",
-                "description": "Watch the Official Video for \u201cYahweh\u201d by Sunmisola Agbebi.\n\n\n\u201cYahweh\u201d is a heartfelt expression of worship, giving glory to God and acknowledging His greatness, faithfulness, and unfailing love. Through this song, Sunmisola Agbebi leads us into a place of praise, surrender, and victory, declaring the greatness of Yahweh.\n\nWatch, worship, and declare your victory with Sunmisola Agbebi.\n\n\nListen to \u201cYahweh\u201d here: https://madsol.ai/yahweh\n\n\n#SunmisolaAgbebi #Yahweh #OfficialVideo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nd-KNoSUE_c/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "SUNMISOLA AGBEBI",
-                "tags": [
-                    "Sunmisola Agbebi",
-                    "Yahweh",
-                    "Sunmisola Yahweh",
-                    "Yahweh Sunmisola Agbebi",
-                    "Yahweh Official Video",
-                    "Sunmisola Agbebi Official Video",
-                    "Sunmisola Agbebi new song",
-                    "Sunmisola new music",
-                    "Sunmisola Agbebi music",
-                    "Nigerian Gospel",
-                    "Nigerian Gospel Music",
-                    "Naija Gospel",
-                    "Gospel Music",
-                    "Gospel Songs",
-                    "Christian Music",
-                    "Christian Songs",
-                    "Worship Music",
-                    "Praise and Worship",
-                    "Gospel Praise",
-                    "Nigerian Worship",
-                    "African Gospel",
-                    "New Gospel Music",
-                    "Gospel Music 2026",
-                    "Sunmisola 2026",
-                    "Official Video"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Sunmisola Agbebi \u2013 YAHWEH (The Conqueror\u2019s Anthem) [Official Video]",
-                    "description": "Watch the Official Video for \u201cYahweh\u201d by Sunmisola Agbebi.\n\n\n\u201cYahweh\u201d is a heartfelt expression of worship, giving glory to God and acknowledging His greatness, faithfulness, and unfailing love. Through this song, Sunmisola Agbebi leads us into a place of praise, surrender, and victory, declaring the greatness of Yahweh.\n\nWatch, worship, and declare your victory with Sunmisola Agbebi.\n\n\nListen to \u201cYahweh\u201d here: https://madsol.ai/yahweh\n\n\n#SunmisolaAgbebi #Yahweh #OfficialVideo"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "363264",
-                "likeCount": "21059",
-                "favoriteCount": "0",
-                "commentCount": "1081"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "CHqr44fbfTw6hWfnNIL70B3SZx8",
-            "id": "ZkN2M4ODdys",
-            "snippet": {
-                "publishedAt": "2026-10-05T14:00:00Z",
-                "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-                "title": "Animals | Official Trailer #2 | Netflix",
-                "description": "Animals, in select theaters and on Netflix October 9.\n\nWatch on Netflix: https://www.netflix.com/title/81757047\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nAnimals | Official Trailer #2 | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ZkN2M4ODdys/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Netflix",
-                "tags": [
-                    "Animals",
-                    "Animals Netflix",
-                    "Animals Trailer",
-                    "Animals Trailer 2",
-                    "Artists Equity",
-                    "Ben Affleck",
-                    "Drama Thriller",
-                    "Gillian Anderson",
-                    "Kerry Washington",
-                    "Kidnapping Thriller",
-                    "Los Angeles Thriller",
-                    "Luis Gerardo M\u00e9ndez",
-                    "Movie Trailer 2026",
-                    "Netflix",
-                    "Netflix 2026",
-                    "Netflix Movie",
-                    "Netflix New Releases 2026",
-                    "Netflix Trailer",
-                    "New Netflix Movies",
-                    "Official Trailer",
-                    "Political Thriller",
-                    "Ray Fisher",
-                    "Steven Yeun",
-                    "Thriller Movie"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Animals | Official Trailer #2 | Netflix",
-                    "description": "Animals, in select theaters and on Netflix October 9.\n\nWatch on Netflix: https://www.netflix.com/title/81757047\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nAnimals | Official Trailer #2 | Netflix\nhttps://www.youtube.com/@Netflix\n\nWhen their son is kidnapped, an LA mayoral candidate and his wife scramble to raise the ransom while making choices that could tear their world apart."
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "1317712",
-                "likeCount": "2454",
-                "favoriteCount": "0",
-                "commentCount": "163"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "6hh88J6yil52kKiTKdrzc0Vt-r4",
-            "id": "j1q6fh03xVc",
-            "snippet": {
-                "publishedAt": "2026-10-09T18:06:55Z",
-                "channelId": "UCRkuUgtDAL4XSU5jB40J_wA",
-                "title": "ROBLOX HUSS VALLEY!",
-                "description": "Today I played Huss Valley in Roblox! Make sure you watch the whole video to find out what happens.\n\nMini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893\n\n6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It\u2019s unique in that practically everything on ROBLOX is designed and constructed by members of the community.  Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX \u2014 interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything \u2014 be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer \u201cCapture the Flag\u201d game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (\u201cRobux\u201d). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms.\n\n#Roblox #foltyn",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/j1q6fh03xVc/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Foltyn",
-                "tags": [
-                    "foltyn",
-                    "foltyn roblox",
-                    "roblox",
-                    "roblox foltyn",
-                    "foltyn family",
-                    "funny",
-                    "foltyn family roblox",
-                    "roblox foltyn family",
-                    "blade ball",
-                    "roblox blade ball",
-                    "foltyn blade ball",
-                    "roblox huss valley",
-                    "roblox steal an egg",
-                    "roblox keyboard escape",
-                    "foltyn and caylus",
-                    "foltyn and caylus playing roblox",
-                    "foltyn and caylus playing roblox together",
-                    "huss valley roblox"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "ROBLOX HUSS VALLEY!",
-                    "description": "Today I played Huss Valley in Roblox! Make sure you watch the whole video to find out what happens.\n\nMini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893\n\n6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#!/about\n\nRoblox Name: TheRealFoltyn\n\nInsta: https://www.instagram.com/realfoltyn/\n\nTwitter: https://twitter.com/Foltynnn\n\nWhat is Roblox? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It\u2019s unique in that practically everything on ROBLOX is designed and constructed by members of the community.  Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX \u2014 interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything \u2014 be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer \u201cCapture the Flag\u201d game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (\u201cRobux\u201d). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms.\n\n#Roblox #foltyn"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "361653",
-                "likeCount": "5109",
-                "favoriteCount": "0",
-                "commentCount": "1191"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "68B6kAC-FULK4OFeRvF3kg1i4pE",
+            "etag": "F_VYSkFkFrPuFhAZBFbulC2dr8c",
             "id": "kj-o0erPWPM",
             "snippet": {
                 "publishedAt": "2026-10-09T00:17:12Z",
@@ -3230,15 +3256,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "16304",
-                "likeCount": "442",
+                "viewCount": "16577",
+                "likeCount": "449",
                 "favoriteCount": "0",
                 "commentCount": "13"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hSvPVGnjJeGiIsWezXJLFd4HCO8",
+            "etag": "3JKAJ91yGlXoze5cc8i3dvhs6l0",
             "id": "9thrsn24BFs",
             "snippet": {
                 "publishedAt": "2026-09-20T19:30:00Z",
@@ -3283,10 +3309,10 @@
                 "defaultAudioLanguage": "ha"
             },
             "statistics": {
-                "viewCount": "214000",
-                "likeCount": "6490",
+                "viewCount": "214293",
+                "likeCount": "6510",
                 "favoriteCount": "0",
-                "commentCount": "227"
+                "commentCount": "228"
             }
         }
     ],

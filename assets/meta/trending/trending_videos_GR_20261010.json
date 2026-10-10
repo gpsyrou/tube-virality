@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "9tlVGBTXpwWp8-k0hf6keXXe7ig",
+    "etag": "DqfRGMvWYoJshh57y9LYxN_ivEQ",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "1kgjYykN2LbO_1TWLpvlu1Iw0vY",
+            "etag": "MpGbMU6fCvkh4puFG9NOx3uUSAk",
             "id": "4Xc6P3m3mtc",
             "snippet": {
                 "publishedAt": "2026-10-01T21:00:08Z",
@@ -72,15 +72,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "3913852",
-                "likeCount": "35326",
+                "viewCount": "3932236",
+                "likeCount": "35393",
                 "favoriteCount": "0",
-                "commentCount": "1351"
+                "commentCount": "1353"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vATsESnkpR2Eq2hfFtE9sQP9SnM",
+            "etag": "qhG6d4NWbJatHR8GgOfqEbr2Ifg",
             "id": "0uiHCFJQ75k",
             "snippet": {
                 "publishedAt": "2026-10-10T04:00:19Z",
@@ -155,14 +155,14 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "8622",
+                "viewCount": "9086",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8npxsfaHK4PAWANZ7f1mwxXCbAw",
+            "etag": "5v20lgzWeqtkvUdZkISS8IrqWKo",
             "id": "kn4d3EwDaP4",
             "snippet": {
                 "publishedAt": "2026-10-08T12:00:35Z",
@@ -207,15 +207,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "126702",
-                "likeCount": "5680",
+                "viewCount": "127614",
+                "likeCount": "5687",
                 "favoriteCount": "0",
                 "commentCount": "192"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "c7JjPIZND19I0GQQhYFQcaB4kgQ",
+            "etag": "us7ay5U_7x-zHgzKOBUzBly-En0",
             "id": "SvOBT9qGBIo",
             "snippet": {
                 "publishedAt": "2026-10-02T14:00:09Z",
@@ -294,15 +294,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "108550",
-                "likeCount": "1999",
+                "viewCount": "108950",
+                "likeCount": "2010",
                 "favoriteCount": "0",
-                "commentCount": "642"
+                "commentCount": "670"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uVWC4yh6QDjw1i-pHncru4x-AwU",
+            "etag": "MECuZH7Nb8OPLULnJOtVGtnud0Q",
             "id": "iIEYfH-jg1Y",
             "snippet": {
                 "publishedAt": "2026-10-09T22:31:45Z",
@@ -352,15 +352,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "2058042",
-                "likeCount": "37969",
+                "viewCount": "2148459",
+                "likeCount": "39449",
                 "favoriteCount": "0",
-                "commentCount": "3160"
+                "commentCount": "3243"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K9ZOLDiwn6Yr6lCbbcAay5pmdZw",
+            "etag": "C_fyH_tTfO2mxtOMsd_p2JplNgY",
             "id": "VgIjYumEyGk",
             "snippet": {
                 "publishedAt": "2026-10-08T11:20:15Z",
@@ -429,15 +429,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "103920",
-                "likeCount": "3399",
+                "viewCount": "105071",
+                "likeCount": "3417",
                 "favoriteCount": "0",
                 "commentCount": "113"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "SHlSloy6RLQPCJEG_wiZ-V087Z0",
+            "etag": "FwlOqtiq3iRNmqhjVKo0Lw0Al_U",
             "id": "y262dp3nqKY",
             "snippet": {
                 "publishedAt": "2026-10-03T15:00:11Z",
@@ -519,15 +519,15 @@
                 "defaultAudioLanguage": "sq"
             },
             "statistics": {
-                "viewCount": "1961966",
-                "likeCount": "11138",
+                "viewCount": "1977676",
+                "likeCount": "11179",
                 "favoriteCount": "0",
                 "commentCount": "144"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JA_mXfMnOK0IfE6lCa5tQSHQjnE",
+            "etag": "GE4tff4AnfNShxkU2iXJ9SUvmD0",
             "id": "sXKnmgmbkoE",
             "snippet": {
                 "publishedAt": "2026-10-01T16:00:21Z",
@@ -581,15 +581,205 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "20792516",
-                "likeCount": "251102",
+                "viewCount": "20805002",
+                "likeCount": "251212",
                 "favoriteCount": "0",
-                "commentCount": "8803"
+                "commentCount": "8805"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RZ5cQHMCtMimhnYgq5-F91V03y0",
+            "etag": "k0VrR4tMFTiVm8zPmTzEU9uO1qE",
+            "id": "hOT-CoqHHGA",
+            "snippet": {
+                "publishedAt": "2026-10-09T11:14:10Z",
+                "channelId": "UC9sP6AFEI3tGeoDGZk2DByw",
+                "title": "\u03a0\u0391\u03a9 \u03a3\u03a4\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE!",
+                "description": "\ud83e\udddf\ud83c\udfeb\u2623\ufe0f \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03ac\u03c9 \u03c3\u03c4\u03bf \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE! \ud83e\udddf\ud83c\udfeb\u2623\ufe0f\n\n\ud83d\udecd\ufe0f \u03a0\u0391\u03a1\u0395 \u03a4\u039f MERCH \u039c\u039f\u03a5 \u0395\u0394\u03a9 \ud83d\udc49 https://blockshop.gr\n\n\ud83d\udd25 \u039c\u0397\u039d \u039e\u0395\u03a7\u0391\u03a3\u0395\u0399\u03a3\n\ud83d\udc4d \u039a\u03ac\u03bd\u03b5 LIKE \u03c3\u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udd14 \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 \u03c3\u03c4\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03ac\u03bd\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udcac \u0393\u03c1\u03ac\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03cc\u03bb\u03b9\u03b1 \u03c0\u03bf\u03b9\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03bf\u03c5 \u03ac\u03c1\u03b5\u03c3\u03b5 \u03a0\u0395\u03a1\u0399\u03a3\u03a3\u039f\u03a4\u0395\u03a1\u039f!\n\n\u2693 \u0397 \u03a0\u0391\u03a1\u0395\u0391 \u2693\n\n\u25ba Siaman: https://www.youtube.com/Siaman\n\n\u25ba Ninja: https://www.youtube.com/Ninja2die\n\n\u25ba Stavros: https://www.youtube.com/MCPCMStavros\n\n\u25ba Koala: https://www.youtube.com/KoalaGamingGr\n\n\ud83d\udce9 Business Inquiries / \u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2\n\u2709\ufe0f captainpanez@gmail.com\n\n\ud83d\udcf8 \u0391\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03ad \u03bc\u03b5 \u03c3\u03c4\u03bf Instagram\n\u27f6 https://www.instagram.com/captainpanez/\n\n\ud83c\udff4\u200d\u2620\ufe0f \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 & \u0393\u03af\u03bd\u03b5 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0397\u03a3\n\u27f6 http://bit.ly/1cKduWn\n\n\n#Minecraft\n#\u03c3\u03c7\u03bf\u03bb\u03b5\u03b9\u03bfzombie\n#captainpanez",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "CaptainPanez",
+                "tags": [
+                    "Minecraft",
+                    "panez",
+                    "captainpanez",
+                    "\u03bc\u03b1\u03b9\u03bd\u03ba\u03c1\u03b1\u03c6\u03c4",
+                    "one block minecraft",
+                    "panez one block",
+                    "one block \u03b6\u03c9\u03b1",
+                    "animals one block"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "el",
+                "localized": {
+                    "title": "\u03a0\u0391\u03a9 \u03a3\u03a4\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE!",
+                    "description": "\ud83e\udddf\ud83c\udfeb\u2623\ufe0f \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03ac\u03c9 \u03c3\u03c4\u03bf \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE! \ud83e\udddf\ud83c\udfeb\u2623\ufe0f\n\n\ud83d\udecd\ufe0f \u03a0\u0391\u03a1\u0395 \u03a4\u039f MERCH \u039c\u039f\u03a5 \u0395\u0394\u03a9 \ud83d\udc49 https://blockshop.gr\n\n\ud83d\udd25 \u039c\u0397\u039d \u039e\u0395\u03a7\u0391\u03a3\u0395\u0399\u03a3\n\ud83d\udc4d \u039a\u03ac\u03bd\u03b5 LIKE \u03c3\u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udd14 \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 \u03c3\u03c4\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03ac\u03bd\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udcac \u0393\u03c1\u03ac\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03cc\u03bb\u03b9\u03b1 \u03c0\u03bf\u03b9\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03bf\u03c5 \u03ac\u03c1\u03b5\u03c3\u03b5 \u03a0\u0395\u03a1\u0399\u03a3\u03a3\u039f\u03a4\u0395\u03a1\u039f!\n\n\u2693 \u0397 \u03a0\u0391\u03a1\u0395\u0391 \u2693\n\n\u25ba Siaman: https://www.youtube.com/Siaman\n\n\u25ba Ninja: https://www.youtube.com/Ninja2die\n\n\u25ba Stavros: https://www.youtube.com/MCPCMStavros\n\n\u25ba Koala: https://www.youtube.com/KoalaGamingGr\n\n\ud83d\udce9 Business Inquiries / \u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2\n\u2709\ufe0f captainpanez@gmail.com\n\n\ud83d\udcf8 \u0391\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03ad \u03bc\u03b5 \u03c3\u03c4\u03bf Instagram\n\u27f6 https://www.instagram.com/captainpanez/\n\n\ud83c\udff4\u200d\u2620\ufe0f \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 & \u0393\u03af\u03bd\u03b5 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0397\u03a3\n\u27f6 http://bit.ly/1cKduWn\n\n\n#Minecraft\n#\u03c3\u03c7\u03bf\u03bb\u03b5\u03b9\u03bfzombie\n#captainpanez"
+                },
+                "defaultAudioLanguage": "el"
+            },
+            "statistics": {
+                "viewCount": "65923",
+                "likeCount": "1980",
+                "favoriteCount": "0",
+                "commentCount": "216"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XYV5fSDMgPfKiYByJlxMO3yODxk",
+            "id": "dHTXvr-mW3Y",
+            "snippet": {
+                "publishedAt": "2026-10-07T15:00:06Z",
+                "channelId": "UCnosjAJ345ht80kkVxt16EA",
+                "title": "Saske, Eleni Foureira - PARAPANO (Official Audio)",
+                "description": "Saske, Eleni Foureira - PARAPANO (Official Audio)\n\nStream/Download: https://orcd.co/saske_i_tried\n\nSUBSCRIBE: https://linkbite.io/obr-yt\n\nFollow The Official Offbeat Records Playlist on Spotify\nhttps://linkbite.io/obr-play\n\nFollow Saske's Official Playlist on Spotify\nhttps://linkbite.io/saske-play\n\nBe one of us, join the official OBR Telegram Channels\nAnnouncements: https://t.me/offbeatrecords\n\nRead More: https://offbeat.gr\n\nFOLLOW OffBeat Records | OBR :\nhttps://offbeat.gr\nhttps://linkbite.io/obr-ig\nhttps://linkbite.io/obr-tiktok\nhttps://linkbite.io/obr-spotify\nhttps://linkbite.io/obr-yt\nhttps://linkbite.io/obr-fb\n\nOFFICIAL SASKE SOCIAL MEDIA:\nhttps://linkbite.io/saske-ig\nhttps://linkbite.io/saske-tiktok\nhttps://linkbite.io/saske-spotify\nhttps://linkbite.io/saske-yt\nhttps://linkbite.io/saske-fb\n\nOFFICIAL ELENI FOUREIRA SOCIAL MEDIA:\n\u25ba Spotify: https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2\n\u25ba Instagram: https://www.instagram.com/foureira\n\u25ba TikTok: https://www.tiktok.com/@iamfoureira\n\u25ba Facebook: http://facebook.elenifoureira.gr\n\u25ba Website: www.elenifoureira.gr\n\nLyrics by Saske\nVocals by Saske, Eleni Foureira\nMusic Production by Destiny, Kest, Adams\nMixed by Logothetic, Kyriakos Asteriou\nMastered by Kyriakos Asteriou\nRecorded by Kest, Logothetic\nExecutive Produced by\n\nProduced by @crystalviewfilms  \nhttps://crystalview.gr\n\nFor Booking/Live Contact: bookings@offbeat.gr\n\nDiscover fresh sounds, new artists, and your next favorite track - updated weekly. \nHit Save & Follow on Spotify!\n\nGreek Rap CAVIAR | https://linkbite.io/greek-rap-caviar\nGreek Rap RADAR | https://linkbite.io/greek-rap-radar\nFRESH Greek Rap | https://linkbite.io/greek-rap-fresh\nGreek Rap ESSENTIALS |  https://linkbite.io/greek-rap-essentials\nGreek Rap WAVES | https://linkbite.io/greek-rap-waves\n\n2026 \u00a9 & \u2117  @offbeatrecordsgr , under exclusive license to  @stayindependent  \n\n#Saske #EleniFoureira #PARAPANO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "OffBeat Records",
+                "tags": [
+                    "Offbeat",
+                    "Offbeat Records",
+                    "OBR",
+                    "obr"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Saske, Eleni Foureira - PARAPANO (Official Audio)",
+                    "description": "Saske, Eleni Foureira - PARAPANO (Official Audio)\n\nStream/Download: https://orcd.co/saske_i_tried\n\nSUBSCRIBE: https://linkbite.io/obr-yt\n\nFollow The Official Offbeat Records Playlist on Spotify\nhttps://linkbite.io/obr-play\n\nFollow Saske's Official Playlist on Spotify\nhttps://linkbite.io/saske-play\n\nBe one of us, join the official OBR Telegram Channels\nAnnouncements: https://t.me/offbeatrecords\n\nRead More: https://offbeat.gr\n\nFOLLOW OffBeat Records | OBR :\nhttps://offbeat.gr\nhttps://linkbite.io/obr-ig\nhttps://linkbite.io/obr-tiktok\nhttps://linkbite.io/obr-spotify\nhttps://linkbite.io/obr-yt\nhttps://linkbite.io/obr-fb\n\nOFFICIAL SASKE SOCIAL MEDIA:\nhttps://linkbite.io/saske-ig\nhttps://linkbite.io/saske-tiktok\nhttps://linkbite.io/saske-spotify\nhttps://linkbite.io/saske-yt\nhttps://linkbite.io/saske-fb\n\nOFFICIAL ELENI FOUREIRA SOCIAL MEDIA:\n\u25ba Spotify: https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2\n\u25ba Instagram: https://www.instagram.com/foureira\n\u25ba TikTok: https://www.tiktok.com/@iamfoureira\n\u25ba Facebook: http://facebook.elenifoureira.gr\n\u25ba Website: www.elenifoureira.gr\n\nLyrics by Saske\nVocals by Saske, Eleni Foureira\nMusic Production by Destiny, Kest, Adams\nMixed by Logothetic, Kyriakos Asteriou\nMastered by Kyriakos Asteriou\nRecorded by Kest, Logothetic\nExecutive Produced by\n\nProduced by @crystalviewfilms  \nhttps://crystalview.gr\n\nFor Booking/Live Contact: bookings@offbeat.gr\n\nDiscover fresh sounds, new artists, and your next favorite track - updated weekly. \nHit Save & Follow on Spotify!\n\nGreek Rap CAVIAR | https://linkbite.io/greek-rap-caviar\nGreek Rap RADAR | https://linkbite.io/greek-rap-radar\nFRESH Greek Rap | https://linkbite.io/greek-rap-fresh\nGreek Rap ESSENTIALS |  https://linkbite.io/greek-rap-essentials\nGreek Rap WAVES | https://linkbite.io/greek-rap-waves\n\n2026 \u00a9 & \u2117  @offbeatrecordsgr , under exclusive license to  @stayindependent  \n\n#Saske #EleniFoureira #PARAPANO"
+                },
+                "defaultAudioLanguage": "el"
+            },
+            "statistics": {
+                "viewCount": "31923",
+                "likeCount": "438",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0nGFgHay640QXTUQochBsqE-6vo",
+            "id": "nTOf1FIsBcs",
+            "snippet": {
+                "publishedAt": "2026-10-01T15:00:03Z",
+                "channelId": "UCrRttZIypNTA1Mrfwo745Sg",
+                "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
+                "description": "Some things get better with age. \nSeason 2 of Dexter: Resurrection premieres October 30 only on the Paramount+ Premium Plan.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X:  https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME\u00ae including exclusive originals, live sports, and news.\n\nPlus, you can count on Paramount+ for the most iconic movies and the latest in live sports and news with your local CBS station, CBS News, CBS Sports HQ, and Mixible.\n\nSubscribe now and get streaming! https://bit.ly/SubscribeToPPlus\n\n#Dexter #DexterResurrection #ParamountPlus",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Paramount Plus",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
+                    "description": "Some things get better with age. \nSeason 2 of Dexter: Resurrection premieres October 30 only on the Paramount+ Premium Plan.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X:  https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME\u00ae including exclusive originals, live sports, and news.\n\nPlus, you can count on Paramount+ for the most iconic movies and the latest in live sports and news with your local CBS station, CBS News, CBS Sports HQ, and Mixible.\n\nSubscribe now and get streaming! https://bit.ly/SubscribeToPPlus\n\n#Dexter #DexterResurrection #ParamountPlus"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "13565886",
+                "likeCount": "58551",
+                "favoriteCount": "0",
+                "commentCount": "3575"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "W4ee1-T7YnmkhthM8D_hW3qvWfQ",
             "id": "DrN_6D-9Pkw",
             "snippet": {
                 "publishedAt": "2026-10-05T12:00:04Z",
@@ -671,205 +861,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "144652",
-                "likeCount": "3031",
+                "viewCount": "145235",
+                "likeCount": "3036",
                 "favoriteCount": "0",
-                "commentCount": "178"
+                "commentCount": "179"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yBrxvv2jvnM6nKwvs6vDnbnCi-w",
-            "id": "dHTXvr-mW3Y",
-            "snippet": {
-                "publishedAt": "2026-10-07T15:00:06Z",
-                "channelId": "UCnosjAJ345ht80kkVxt16EA",
-                "title": "Saske, Eleni Foureira - PARAPANO (Official Audio)",
-                "description": "Saske, Eleni Foureira - PARAPANO (Official Audio)\n\nStream/Download: https://orcd.co/saske_i_tried\n\nSUBSCRIBE: https://linkbite.io/obr-yt\n\nFollow The Official Offbeat Records Playlist on Spotify\nhttps://linkbite.io/obr-play\n\nFollow Saske's Official Playlist on Spotify\nhttps://linkbite.io/saske-play\n\nBe one of us, join the official OBR Telegram Channels\nAnnouncements: https://t.me/offbeatrecords\n\nRead More: https://offbeat.gr\n\nFOLLOW OffBeat Records | OBR :\nhttps://offbeat.gr\nhttps://linkbite.io/obr-ig\nhttps://linkbite.io/obr-tiktok\nhttps://linkbite.io/obr-spotify\nhttps://linkbite.io/obr-yt\nhttps://linkbite.io/obr-fb\n\nOFFICIAL SASKE SOCIAL MEDIA:\nhttps://linkbite.io/saske-ig\nhttps://linkbite.io/saske-tiktok\nhttps://linkbite.io/saske-spotify\nhttps://linkbite.io/saske-yt\nhttps://linkbite.io/saske-fb\n\nOFFICIAL ELENI FOUREIRA SOCIAL MEDIA:\n\u25ba Spotify: https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2\n\u25ba Instagram: https://www.instagram.com/foureira\n\u25ba TikTok: https://www.tiktok.com/@iamfoureira\n\u25ba Facebook: http://facebook.elenifoureira.gr\n\u25ba Website: www.elenifoureira.gr\n\nLyrics by Saske\nVocals by Saske, Eleni Foureira\nMusic Production by Destiny, Kest, Adams\nMixed by Logothetic, Kyriakos Asteriou\nMastered by Kyriakos Asteriou\nRecorded by Kest, Logothetic\nExecutive Produced by\n\nProduced by @crystalviewfilms  \nhttps://crystalview.gr\n\nFor Booking/Live Contact: bookings@offbeat.gr\n\nDiscover fresh sounds, new artists, and your next favorite track - updated weekly. \nHit Save & Follow on Spotify!\n\nGreek Rap CAVIAR | https://linkbite.io/greek-rap-caviar\nGreek Rap RADAR | https://linkbite.io/greek-rap-radar\nFRESH Greek Rap | https://linkbite.io/greek-rap-fresh\nGreek Rap ESSENTIALS |  https://linkbite.io/greek-rap-essentials\nGreek Rap WAVES | https://linkbite.io/greek-rap-waves\n\n2026 \u00a9 & \u2117  @offbeatrecordsgr , under exclusive license to  @stayindependent  \n\n#Saske #EleniFoureira #PARAPANO",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/dHTXvr-mW3Y/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "OffBeat Records",
-                "tags": [
-                    "Offbeat",
-                    "Offbeat Records",
-                    "OBR",
-                    "obr"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Saske, Eleni Foureira - PARAPANO (Official Audio)",
-                    "description": "Saske, Eleni Foureira - PARAPANO (Official Audio)\n\nStream/Download: https://orcd.co/saske_i_tried\n\nSUBSCRIBE: https://linkbite.io/obr-yt\n\nFollow The Official Offbeat Records Playlist on Spotify\nhttps://linkbite.io/obr-play\n\nFollow Saske's Official Playlist on Spotify\nhttps://linkbite.io/saske-play\n\nBe one of us, join the official OBR Telegram Channels\nAnnouncements: https://t.me/offbeatrecords\n\nRead More: https://offbeat.gr\n\nFOLLOW OffBeat Records | OBR :\nhttps://offbeat.gr\nhttps://linkbite.io/obr-ig\nhttps://linkbite.io/obr-tiktok\nhttps://linkbite.io/obr-spotify\nhttps://linkbite.io/obr-yt\nhttps://linkbite.io/obr-fb\n\nOFFICIAL SASKE SOCIAL MEDIA:\nhttps://linkbite.io/saske-ig\nhttps://linkbite.io/saske-tiktok\nhttps://linkbite.io/saske-spotify\nhttps://linkbite.io/saske-yt\nhttps://linkbite.io/saske-fb\n\nOFFICIAL ELENI FOUREIRA SOCIAL MEDIA:\n\u25ba Spotify: https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2\n\u25ba Instagram: https://www.instagram.com/foureira\n\u25ba TikTok: https://www.tiktok.com/@iamfoureira\n\u25ba Facebook: http://facebook.elenifoureira.gr\n\u25ba Website: www.elenifoureira.gr\n\nLyrics by Saske\nVocals by Saske, Eleni Foureira\nMusic Production by Destiny, Kest, Adams\nMixed by Logothetic, Kyriakos Asteriou\nMastered by Kyriakos Asteriou\nRecorded by Kest, Logothetic\nExecutive Produced by\n\nProduced by @crystalviewfilms  \nhttps://crystalview.gr\n\nFor Booking/Live Contact: bookings@offbeat.gr\n\nDiscover fresh sounds, new artists, and your next favorite track - updated weekly. \nHit Save & Follow on Spotify!\n\nGreek Rap CAVIAR | https://linkbite.io/greek-rap-caviar\nGreek Rap RADAR | https://linkbite.io/greek-rap-radar\nFRESH Greek Rap | https://linkbite.io/greek-rap-fresh\nGreek Rap ESSENTIALS |  https://linkbite.io/greek-rap-essentials\nGreek Rap WAVES | https://linkbite.io/greek-rap-waves\n\n2026 \u00a9 & \u2117  @offbeatrecordsgr , under exclusive license to  @stayindependent  \n\n#Saske #EleniFoureira #PARAPANO"
-                },
-                "defaultAudioLanguage": "el"
-            },
-            "statistics": {
-                "viewCount": "31504",
-                "likeCount": "431",
-                "favoriteCount": "0",
-                "commentCount": "13"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "8UwQZTczNPN_TKprpwKtCW3K1TQ",
-            "id": "nTOf1FIsBcs",
-            "snippet": {
-                "publishedAt": "2026-10-01T15:00:03Z",
-                "channelId": "UCrRttZIypNTA1Mrfwo745Sg",
-                "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
-                "description": "Some things get better with age. \nSeason 2 of Dexter: Resurrection premieres October 30 only on the Paramount+ Premium Plan.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X:  https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME\u00ae including exclusive originals, live sports, and news.\n\nPlus, you can count on Paramount+ for the most iconic movies and the latest in live sports and news with your local CBS station, CBS News, CBS Sports HQ, and Mixible.\n\nSubscribe now and get streaming! https://bit.ly/SubscribeToPPlus\n\n#Dexter #DexterResurrection #ParamountPlus",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/nTOf1FIsBcs/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Paramount Plus",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
-                    "description": "Some things get better with age. \nSeason 2 of Dexter: Resurrection premieres October 30 only on the Paramount+ Premium Plan.\n\nLike Paramount+ on Facebook: https://bit.ly/PPlusFacebook    \nFollow Paramount+ on X:  https://bit.ly/PPlusOnX     \nFollow Paramount+ on Instagram: https://bit.ly/PPlusInstagram \nFollow Paramount+ on Threads: https://bit.ly/PPlusThreads \nFollow Paramount+ on TikTok: https://bit.ly/PPlusTikTok     \n\nWith Paramount+ you can stream over 40,000 episodes and movies from CBS, BET, Comedy Central, MTV, Nickelodeon, Smithsonian Channel, Paramount Pictures, and SHOWTIME\u00ae including exclusive originals, live sports, and news.\n\nPlus, you can count on Paramount+ for the most iconic movies and the latest in live sports and news with your local CBS station, CBS News, CBS Sports HQ, and Mixible.\n\nSubscribe now and get streaming! https://bit.ly/SubscribeToPPlus\n\n#Dexter #DexterResurrection #ParamountPlus"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "13564725",
-                "likeCount": "58528",
-                "favoriteCount": "0",
-                "commentCount": "3574"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "LVkZn0CDIqbsZCGN2D0HWt1GQpc",
-            "id": "hOT-CoqHHGA",
-            "snippet": {
-                "publishedAt": "2026-10-09T11:14:10Z",
-                "channelId": "UC9sP6AFEI3tGeoDGZk2DByw",
-                "title": "\u03a0\u0391\u03a9 \u03a3\u03a4\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE!",
-                "description": "\ud83e\udddf\ud83c\udfeb\u2623\ufe0f \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03ac\u03c9 \u03c3\u03c4\u03bf \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE! \ud83e\udddf\ud83c\udfeb\u2623\ufe0f\n\n\ud83d\udecd\ufe0f \u03a0\u0391\u03a1\u0395 \u03a4\u039f MERCH \u039c\u039f\u03a5 \u0395\u0394\u03a9 \ud83d\udc49 https://blockshop.gr\n\n\ud83d\udd25 \u039c\u0397\u039d \u039e\u0395\u03a7\u0391\u03a3\u0395\u0399\u03a3\n\ud83d\udc4d \u039a\u03ac\u03bd\u03b5 LIKE \u03c3\u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udd14 \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 \u03c3\u03c4\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03ac\u03bd\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udcac \u0393\u03c1\u03ac\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03cc\u03bb\u03b9\u03b1 \u03c0\u03bf\u03b9\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03bf\u03c5 \u03ac\u03c1\u03b5\u03c3\u03b5 \u03a0\u0395\u03a1\u0399\u03a3\u03a3\u039f\u03a4\u0395\u03a1\u039f!\n\n\u2693 \u0397 \u03a0\u0391\u03a1\u0395\u0391 \u2693\n\n\u25ba Siaman: https://www.youtube.com/Siaman\n\n\u25ba Ninja: https://www.youtube.com/Ninja2die\n\n\u25ba Stavros: https://www.youtube.com/MCPCMStavros\n\n\u25ba Koala: https://www.youtube.com/KoalaGamingGr\n\n\ud83d\udce9 Business Inquiries / \u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2\n\u2709\ufe0f captainpanez@gmail.com\n\n\ud83d\udcf8 \u0391\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03ad \u03bc\u03b5 \u03c3\u03c4\u03bf Instagram\n\u27f6 https://www.instagram.com/captainpanez/\n\n\ud83c\udff4\u200d\u2620\ufe0f \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 & \u0393\u03af\u03bd\u03b5 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0397\u03a3\n\u27f6 http://bit.ly/1cKduWn\n\n\n#Minecraft\n#\u03c3\u03c7\u03bf\u03bb\u03b5\u03b9\u03bfzombie\n#captainpanez",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/hOT-CoqHHGA/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "CaptainPanez",
-                "tags": [
-                    "Minecraft",
-                    "panez",
-                    "captainpanez",
-                    "\u03bc\u03b1\u03b9\u03bd\u03ba\u03c1\u03b1\u03c6\u03c4",
-                    "one block minecraft",
-                    "panez one block",
-                    "one block \u03b6\u03c9\u03b1",
-                    "animals one block"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "el",
-                "localized": {
-                    "title": "\u03a0\u0391\u03a9 \u03a3\u03a4\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE!",
-                    "description": "\ud83e\udddf\ud83c\udfeb\u2623\ufe0f \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03ac\u03c9 \u03c3\u03c4\u03bf \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f \u0391\u03a0\u039f\u039a\u0391\u039b\u03a5\u03a8\u0397\u03a3 ZOMBIE! \ud83e\udddf\ud83c\udfeb\u2623\ufe0f\n\n\ud83d\udecd\ufe0f \u03a0\u0391\u03a1\u0395 \u03a4\u039f MERCH \u039c\u039f\u03a5 \u0395\u0394\u03a9 \ud83d\udc49 https://blockshop.gr\n\n\ud83d\udd25 \u039c\u0397\u039d \u039e\u0395\u03a7\u0391\u03a3\u0395\u0399\u03a3\n\ud83d\udc4d \u039a\u03ac\u03bd\u03b5 LIKE \u03c3\u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udd14 \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 \u03c3\u03c4\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03ac\u03bd\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\ud83d\udcac \u0393\u03c1\u03ac\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03cc\u03bb\u03b9\u03b1 \u03c0\u03bf\u03b9\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03bf\u03c5 \u03ac\u03c1\u03b5\u03c3\u03b5 \u03a0\u0395\u03a1\u0399\u03a3\u03a3\u039f\u03a4\u0395\u03a1\u039f!\n\n\u2693 \u0397 \u03a0\u0391\u03a1\u0395\u0391 \u2693\n\n\u25ba Siaman: https://www.youtube.com/Siaman\n\n\u25ba Ninja: https://www.youtube.com/Ninja2die\n\n\u25ba Stavros: https://www.youtube.com/MCPCMStavros\n\n\u25ba Koala: https://www.youtube.com/KoalaGamingGr\n\n\ud83d\udce9 Business Inquiries / \u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2\n\u2709\ufe0f captainpanez@gmail.com\n\n\ud83d\udcf8 \u0391\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03ad \u03bc\u03b5 \u03c3\u03c4\u03bf Instagram\n\u27f6 https://www.instagram.com/captainpanez/\n\n\ud83c\udff4\u200d\u2620\ufe0f \u039a\u03ac\u03bd\u03b5 \u0395\u0393\u0393\u03a1\u0391\u03a6\u0397 & \u0393\u03af\u03bd\u03b5 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0397\u03a3\n\u27f6 http://bit.ly/1cKduWn\n\n\n#Minecraft\n#\u03c3\u03c7\u03bf\u03bb\u03b5\u03b9\u03bfzombie\n#captainpanez"
-                },
-                "defaultAudioLanguage": "el"
-            },
-            "statistics": {
-                "viewCount": "64747",
-                "likeCount": "1971",
-                "favoriteCount": "0",
-                "commentCount": "216"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "axDkYLvu-2zL1y5Yxrp27H9mfK0",
+            "etag": "34tEXp2Fec60lMUcY05RL152vRQ",
             "id": "2PnyZdgKBOE",
             "snippet": {
                 "publishedAt": "2026-10-09T12:00:06Z",
@@ -936,15 +936,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "30542",
-                "likeCount": "1450",
+                "viewCount": "31128",
+                "likeCount": "1468",
                 "favoriteCount": "0",
-                "commentCount": "72"
+                "commentCount": "74"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "G5d_67SEfqohSuBezCTsI1Yrudo",
+            "etag": "lZuhv5MNWDfv0FzznU2YYEWnII4",
             "id": "lARiBU25bBo",
             "snippet": {
                 "publishedAt": "2026-09-27T18:24:49Z",
@@ -1012,15 +1012,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "8223754",
-                "likeCount": "34666",
+                "viewCount": "8236930",
+                "likeCount": "34733",
                 "favoriteCount": "0",
-                "commentCount": "3710"
+                "commentCount": "3715"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "E5bWR1Q9WOUUwnmcWsRckV13I8g",
+            "etag": "azFKE0pB0MGmSerBIcpVUWU_Nhg",
             "id": "GvTE70JuARM",
             "snippet": {
                 "publishedAt": "2026-10-06T10:30:18Z",
@@ -1087,71 +1087,72 @@
                 }
             },
             "statistics": {
-                "viewCount": "96541",
-                "likeCount": "2848",
+                "viewCount": "96990",
+                "likeCount": "2851",
                 "favoriteCount": "0",
                 "commentCount": "66"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9fVftOSkliKUH01bGTVmw8l481M",
-            "id": "dLYVkDgtiew",
+            "etag": "pUwGMsTaqhd7C-0Rm-OcT66mrnM",
+            "id": "lwBVVh2LdYU",
             "snippet": {
-                "publishedAt": "2026-10-05T21:11:08Z",
-                "channelId": "UCNbRhcdwH96PaHwMHYeOh5A",
-                "title": "Cllevio - 44 Mure",
-                "description": "OUT NOW \ud83c\udfa7 \u201cCllevio - 44 Mure\u201d\n\n\ud83c\udfb5 Listen now:\nApple Music / iTunes: https://music.apple.com/us/album/44-mure-single/6819648943\nSpotify: https://open.spotify.com/album/1rFzI9zkh52arnKDKitdbX\n\nSubscribe to CLLEVIO\u2019s Official YouTube Channel and turn on notifications \ud83d\udd14\n\n\ud83d\udcdd Lyrics: Cllevio\n\ud83c\udfbc Produced by: \u00c7elik\n\ud83c\udf9a\ufe0f Studio & Beat: KD Records\n\n\u00a9 CLLEVIO. All Rights Reserved. - Acromax Media GmbH\n\n\ud83d\udd17 Follow Cllevio on social media for the latest music, videos and updates.\n\n#Cllevio #44Mure #Acromax",
+                "publishedAt": "2026-10-09T11:00:20Z",
+                "channelId": "UC8dk6H5BR0IcNqEezsjNWkg",
+                "title": "\u03a0\u03ad\u03b3\u03ba\u03c5 \u0396\u03ae\u03bd\u03b1 - \u0388\u03c1\u03c9\u03c4\u03b1\u03c2 \u039c\u03b9\u03ba\u03c1\u03cc\u03c2 - Official Music Video",
+                "description": "Stream here: https://bfan.link/erotas-mikros\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b7\u03c2 \n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0395\u03bb\u03ad\u03bd\u03b7 \u0393\u03b9\u03b1\u03bd\u03bd\u03b1\u03c4\u03c3\u03bf\u03cd\u03bb\u03b9\u03b1 \n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u0397\u03bb\u03af\u03b1\u03c2 \u039c\u03c0\u03b5\u03bd\u03ad\u03c4\u03bf\u03c2 \n\u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7 - production: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 \n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac\u03c2, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac\u03c2\n\n\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf\n\n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03ba\u03b9\u03b8\u03ac\u03c1\u03b5\u03c2\n\n\u03a6\u03c9\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac: \u0386\u03ba\u03b7\u03c2 \u0394\u03b5\u03af\u03be\u03b9\u03bc\u03bf\u03c2\n\nRecording: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nVocal recording: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\nMixing, Mastering: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\n\nDirected by Konstantinos Rigos \nStyling: Lila Koutsioumari\nHair: Stefanos Vasilakis \nMake up: Eirini Kotsaki",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Cllevio Masoni 44 Official",
-                "tags": [
-                    "cllevio mure"
-                ],
-                "categoryId": "24",
+                "channelTitle": "PZinaOfficialChannel",
+                "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "el",
                 "localized": {
-                    "title": "Cllevio - 44 Mure",
-                    "description": "OUT NOW \ud83c\udfa7 \u201cCllevio - 44 Mure\u201d\n\n\ud83c\udfb5 Listen now:\nApple Music / iTunes: https://music.apple.com/us/album/44-mure-single/6819648943\nSpotify: https://open.spotify.com/album/1rFzI9zkh52arnKDKitdbX\n\nSubscribe to CLLEVIO\u2019s Official YouTube Channel and turn on notifications \ud83d\udd14\n\n\ud83d\udcdd Lyrics: Cllevio\n\ud83c\udfbc Produced by: \u00c7elik\n\ud83c\udf9a\ufe0f Studio & Beat: KD Records\n\n\u00a9 CLLEVIO. All Rights Reserved. - Acromax Media GmbH\n\n\ud83d\udd17 Follow Cllevio on social media for the latest music, videos and updates.\n\n#Cllevio #44Mure #Acromax"
-                },
-                "defaultAudioLanguage": "sq"
+                    "title": "\u03a0\u03ad\u03b3\u03ba\u03c5 \u0396\u03ae\u03bd\u03b1 - \u0388\u03c1\u03c9\u03c4\u03b1\u03c2 \u039c\u03b9\u03ba\u03c1\u03cc\u03c2 - Official Music Video",
+                    "description": "Stream here: https://bfan.link/erotas-mikros\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b7\u03c2 \n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0395\u03bb\u03ad\u03bd\u03b7 \u0393\u03b9\u03b1\u03bd\u03bd\u03b1\u03c4\u03c3\u03bf\u03cd\u03bb\u03b9\u03b1 \n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u0397\u03bb\u03af\u03b1\u03c2 \u039c\u03c0\u03b5\u03bd\u03ad\u03c4\u03bf\u03c2 \n\u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7 - production: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 \n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac\u03c2, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac\u03c2\n\n\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf\n\n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03ba\u03b9\u03b8\u03ac\u03c1\u03b5\u03c2\n\n\u03a6\u03c9\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac: \u0386\u03ba\u03b7\u03c2 \u0394\u03b5\u03af\u03be\u03b9\u03bc\u03bf\u03c2\n\nRecording: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nVocal recording: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\nMixing, Mastering: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\n\nDirected by Konstantinos Rigos \nStyling: Lila Koutsioumari\nHair: Stefanos Vasilakis \nMake up: Eirini Kotsaki"
+                }
             },
             "statistics": {
-                "viewCount": "687674",
-                "likeCount": "7169",
+                "viewCount": "21368",
+                "likeCount": "910",
                 "favoriteCount": "0",
-                "commentCount": "260"
+                "commentCount": "100"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EWGCd5WwipH0JaVhSasq9DPyr9I",
+            "etag": "zFcNF8rb9kptehparoItei6fnSM",
             "id": "5T6U5Fqq7w4",
             "snippet": {
                 "publishedAt": "2026-10-09T16:15:25Z",
@@ -1232,15 +1233,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1516634",
-                "likeCount": "37440",
+                "viewCount": "1531067",
+                "likeCount": "38115",
                 "favoriteCount": "0",
-                "commentCount": "1507"
+                "commentCount": "1515"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "u-UdW47Ym7Gf9H238Cu6x2iSsyE",
+            "etag": "hABSb8Rz96ACvEnt7tDMHqwtwPk",
             "id": "xGRY1-mTRuo",
             "snippet": {
                 "publishedAt": "2026-10-09T12:00:09Z",
@@ -1294,72 +1295,71 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "44315",
-                "likeCount": "1155",
+                "viewCount": "45218",
+                "likeCount": "1165",
                 "favoriteCount": "0",
                 "commentCount": "78"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rkb7r7spGEIuGAI04Yk-4ZBSoAE",
-            "id": "lwBVVh2LdYU",
+            "etag": "Q6oEpqZ9ceqJhVsuBo0-KpYNpVw",
+            "id": "dLYVkDgtiew",
             "snippet": {
-                "publishedAt": "2026-10-09T11:00:20Z",
-                "channelId": "UC8dk6H5BR0IcNqEezsjNWkg",
-                "title": "\u03a0\u03ad\u03b3\u03ba\u03c5 \u0396\u03ae\u03bd\u03b1 - \u0388\u03c1\u03c9\u03c4\u03b1\u03c2 \u039c\u03b9\u03ba\u03c1\u03cc\u03c2 - Official Music Video",
-                "description": "Stream here: https://bfan.link/erotas-mikros\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b7\u03c2 \n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0395\u03bb\u03ad\u03bd\u03b7 \u0393\u03b9\u03b1\u03bd\u03bd\u03b1\u03c4\u03c3\u03bf\u03cd\u03bb\u03b9\u03b1 \n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u0397\u03bb\u03af\u03b1\u03c2 \u039c\u03c0\u03b5\u03bd\u03ad\u03c4\u03bf\u03c2 \n\u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7 - production: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 \n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac\u03c2, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac\u03c2\n\n\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf\n\n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03ba\u03b9\u03b8\u03ac\u03c1\u03b5\u03c2\n\n\u03a6\u03c9\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac: \u0386\u03ba\u03b7\u03c2 \u0394\u03b5\u03af\u03be\u03b9\u03bc\u03bf\u03c2\n\nRecording: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nVocal recording: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\nMixing, Mastering: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\n\nDirected by Konstantinos Rigos \nStyling: Lila Koutsioumari\nHair: Stefanos Vasilakis \nMake up: Eirini Kotsaki",
+                "publishedAt": "2026-10-05T21:11:08Z",
+                "channelId": "UCNbRhcdwH96PaHwMHYeOh5A",
+                "title": "Cllevio - 44 Mure",
+                "description": "OUT NOW \ud83c\udfa7 \u201cCllevio - 44 Mure\u201d\n\n\ud83c\udfb5 Listen now:\nApple Music / iTunes: https://music.apple.com/us/album/44-mure-single/6819648943\nSpotify: https://open.spotify.com/album/1rFzI9zkh52arnKDKitdbX\n\nSubscribe to CLLEVIO\u2019s Official YouTube Channel and turn on notifications \ud83d\udd14\n\n\ud83d\udcdd Lyrics: Cllevio\n\ud83c\udfbc Produced by: \u00c7elik\n\ud83c\udf9a\ufe0f Studio & Beat: KD Records\n\n\u00a9 CLLEVIO. All Rights Reserved. - Acromax Media GmbH\n\n\ud83d\udd17 Follow Cllevio on social media for the latest music, videos and updates.\n\n#Cllevio #44Mure #Acromax",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dLYVkDgtiew/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/lwBVVh2LdYU/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "PZinaOfficialChannel",
-                "categoryId": "10",
+                "channelTitle": "Cllevio Masoni 44 Official",
+                "tags": [
+                    "cllevio mure"
+                ],
+                "categoryId": "24",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "el",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "\u03a0\u03ad\u03b3\u03ba\u03c5 \u0396\u03ae\u03bd\u03b1 - \u0388\u03c1\u03c9\u03c4\u03b1\u03c2 \u039c\u03b9\u03ba\u03c1\u03cc\u03c2 - Official Music Video",
-                    "description": "Stream here: https://bfan.link/erotas-mikros\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b7\u03c2 \n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0395\u03bb\u03ad\u03bd\u03b7 \u0393\u03b9\u03b1\u03bd\u03bd\u03b1\u03c4\u03c3\u03bf\u03cd\u03bb\u03b9\u03b1 \n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u0397\u03bb\u03af\u03b1\u03c2 \u039c\u03c0\u03b5\u03bd\u03ad\u03c4\u03bf\u03c2 \n\u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7 - production: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 \n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac\u03c2, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac\u03c2\n\n\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf\n\n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03ba\u03b9\u03b8\u03ac\u03c1\u03b5\u03c2\n\n\u03a6\u03c9\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac: \u0386\u03ba\u03b7\u03c2 \u0394\u03b5\u03af\u03be\u03b9\u03bc\u03bf\u03c2\n\nRecording: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nVocal recording: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\nMixing, Mastering: \u03a4\u03ac\u03ba\u03b7\u03c2 \u0391\u03c1\u03b3\u03c5\u03c1\u03af\u03bf\u03c5 @ Studio 111  Argyriou Recordings\n\nDirected by Konstantinos Rigos \nStyling: Lila Koutsioumari\nHair: Stefanos Vasilakis \nMake up: Eirini Kotsaki"
-                }
+                    "title": "Cllevio - 44 Mure",
+                    "description": "OUT NOW \ud83c\udfa7 \u201cCllevio - 44 Mure\u201d\n\n\ud83c\udfb5 Listen now:\nApple Music / iTunes: https://music.apple.com/us/album/44-mure-single/6819648943\nSpotify: https://open.spotify.com/album/1rFzI9zkh52arnKDKitdbX\n\nSubscribe to CLLEVIO\u2019s Official YouTube Channel and turn on notifications \ud83d\udd14\n\n\ud83d\udcdd Lyrics: Cllevio\n\ud83c\udfbc Produced by: \u00c7elik\n\ud83c\udf9a\ufe0f Studio & Beat: KD Records\n\n\u00a9 CLLEVIO. All Rights Reserved. - Acromax Media GmbH\n\n\ud83d\udd17 Follow Cllevio on social media for the latest music, videos and updates.\n\n#Cllevio #44Mure #Acromax"
+                },
+                "defaultAudioLanguage": "sq"
             },
             "statistics": {
-                "viewCount": "21033",
-                "likeCount": "888",
+                "viewCount": "694086",
+                "likeCount": "7191",
                 "favoriteCount": "0",
-                "commentCount": "97"
+                "commentCount": "261"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "r1NtME-gw-O_fhZtco1MwqsXUpE",
+            "etag": "WhfRF9nuDjZhxzPc4gHF_tSoxBQ",
             "id": "nT8Mdw5nKd0",
             "snippet": {
                 "publishedAt": "2026-10-09T18:15:22Z",
@@ -1440,15 +1440,236 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "694171",
-                "likeCount": "9097",
+                "viewCount": "707310",
+                "likeCount": "9281",
                 "favoriteCount": "0",
-                "commentCount": "766"
+                "commentCount": "774"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WZuo_AqR2c3b6qW5g1kYrYc11lg",
+            "etag": "Th5LVPAPPHviEVD5jPIEavS2Rs8",
+            "id": "V77yMQ4viuw",
+            "snippet": {
+                "publishedAt": "2026-10-08T10:30:01Z",
+                "channelId": "UCPgaR6E8Oz7LLW1um06dw6Q",
+                "title": "\u03a4\u03a1\u0395\u039b\u039f\u0399 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
+                "description": "\ud83d\udfe0\u0395\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 24-25 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5 : https://www.more.com/gr-el/tickets/theater/children/festival/aidonakia-halloween-festival-2026/\n\ud83d\ude0d \u0392\u03c1\u03ad\u03c2 \u03c4\u03b1 \u03a1\u039f\u03a5\u03a7\u0391 \u03bc\u03bf\u03c5 \u03b5\u03b4\u03ce https://creatorshop.gr/pdt-yt \ud83d\ude0d \n\n\ud83d\udd35W1ndz \u03b5\u03b4\u03c9 https://www.youtube.com/@W1ndzOfficial\n\u2b50\u0395\u03b1\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 Games \u03ba\u03ac\u03bd\u03c4\u03b5 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03b5\u03b4\u03ce : https://goo.gl/05KOZo\n\n\u2605\u2605\u0394\u03b5\u03b9\u03c4\u03b5 \u03c4\u03b1 Social Media \u03bc\u03bf\u03c5 \u2605\u2605\n\ud83d\udfe0Instagram https://goo.gl/8UWzry\n\u26abTikTok : https://rebrand.ly/TikTok-Panos-\n\ud83d\udfe3Discord Server : https://discord.gg/pdtproject\n\n\ud83d\udd34\u0393\u0399\u039d\u0395 \u039c\u0395\u039b\u039f\u03a3 \u0395\u0394\u03a9 : https://www.youtube.com/channel/UCPgaR6E8Oz7LLW1um06dw6Q/join \u03ba\u03b1\u03b9 \u03bc\u03b7\u03bd \u03c7\u03b1\u03c3\u03b5\u03b9\u03c2 \n1)Emoji \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 PDT \u03b4\u03b9\u03c0\u03bb\u03b1 \u03b1\u03c0\u03bf \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03c3\u03bf\u03c5\n2)\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03b7 \u03c3\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03b1 Livestream \u03b3\u03b9\u03b1 \u03bc\u03b5\u03bb\u03b7 \u03ba\u03b1\u03b9 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03c5\u03c3\u03b5\u03b9\u03c2\n3)\u039e\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03bf Room \u03b3\u03b9\u03b1 \u039c\u03b5\u03bb\u03b7 \u03c3\u03c4\u03bf\u03bd Discord Server !! \n\n\ud83c\udfae \u03a4\u0391 \u03a0\u0395\u03a1\u0399\u03a6\u0395\u03a1\u0399\u039a\u0391 \u039c\u039f\u03a5 \ud83c\udfae\nMOUSE : Logitech G502 X Plus Wireless \nKEYBOARD : Logitech G Pro  \nHEADSET : BeyerDynamic DT 990 Pro\n\u039c\u03af\u03ba\u03c4\u03b7\u03c2  : GoXLR \n\n#PanosDent  #TABS #Challenge",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PanosDentGames",
+                "tags": [
+                    "Panosdentgames",
+                    "panosdent",
+                    "panos games",
+                    "gaming",
+                    "greek",
+                    "greek gamer",
+                    "\u03c0\u03b1\u03bd\u03bf\u03c2\u03b4\u03b5\u03bd\u03c4\u03b3\u03b1\u03bc\u03b5\u03c2",
+                    "\u03c0\u03b1\u03bd\u03bf\u03c2 \u03b4\u03b5\u03bd\u03c4",
+                    "\u03c0\u03b1\u03bd\u03bf\u03c2 \u03b3\u03b1\u03bc\u03b5\u03c2",
+                    "4\u03ba 60fps",
+                    "4k gaming",
+                    "\u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
+                    "tabs",
+                    "total accurate battle simulator",
+                    "w1ndz",
+                    "challenge"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "el",
+                "localized": {
+                    "title": "\u03a4\u03a1\u0395\u039b\u039f\u0399 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
+                    "description": "\ud83d\udfe0\u0395\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 24-25 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5 : https://www.more.com/gr-el/tickets/theater/children/festival/aidonakia-halloween-festival-2026/\n\ud83d\ude0d \u0392\u03c1\u03ad\u03c2 \u03c4\u03b1 \u03a1\u039f\u03a5\u03a7\u0391 \u03bc\u03bf\u03c5 \u03b5\u03b4\u03ce https://creatorshop.gr/pdt-yt \ud83d\ude0d \n\n\ud83d\udd35W1ndz \u03b5\u03b4\u03c9 https://www.youtube.com/@W1ndzOfficial\n\u2b50\u0395\u03b1\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 Games \u03ba\u03ac\u03bd\u03c4\u03b5 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03b5\u03b4\u03ce : https://goo.gl/05KOZo\n\n\u2605\u2605\u0394\u03b5\u03b9\u03c4\u03b5 \u03c4\u03b1 Social Media \u03bc\u03bf\u03c5 \u2605\u2605\n\ud83d\udfe0Instagram https://goo.gl/8UWzry\n\u26abTikTok : https://rebrand.ly/TikTok-Panos-\n\ud83d\udfe3Discord Server : https://discord.gg/pdtproject\n\n\ud83d\udd34\u0393\u0399\u039d\u0395 \u039c\u0395\u039b\u039f\u03a3 \u0395\u0394\u03a9 : https://www.youtube.com/channel/UCPgaR6E8Oz7LLW1um06dw6Q/join \u03ba\u03b1\u03b9 \u03bc\u03b7\u03bd \u03c7\u03b1\u03c3\u03b5\u03b9\u03c2 \n1)Emoji \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 PDT \u03b4\u03b9\u03c0\u03bb\u03b1 \u03b1\u03c0\u03bf \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03c3\u03bf\u03c5\n2)\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03b7 \u03c3\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03b1 Livestream \u03b3\u03b9\u03b1 \u03bc\u03b5\u03bb\u03b7 \u03ba\u03b1\u03b9 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03c5\u03c3\u03b5\u03b9\u03c2\n3)\u039e\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03bf Room \u03b3\u03b9\u03b1 \u039c\u03b5\u03bb\u03b7 \u03c3\u03c4\u03bf\u03bd Discord Server !! \n\n\ud83c\udfae \u03a4\u0391 \u03a0\u0395\u03a1\u0399\u03a6\u0395\u03a1\u0399\u039a\u0391 \u039c\u039f\u03a5 \ud83c\udfae\nMOUSE : Logitech G502 X Plus Wireless \nKEYBOARD : Logitech G Pro  \nHEADSET : BeyerDynamic DT 990 Pro\n\u039c\u03af\u03ba\u03c4\u03b7\u03c2  : GoXLR \n\n#PanosDent  #TABS #Challenge"
+                },
+                "defaultAudioLanguage": "el"
+            },
+            "statistics": {
+                "viewCount": "40502",
+                "likeCount": "1334",
+                "favoriteCount": "0",
+                "commentCount": "48"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "39aEgxNCO9zYCzCxXnvl-04Zpdw",
+            "id": "EPOFDWnbffM",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:00:34Z",
+                "channelId": "UCP8dWXxd3pGUG8S8DiHQDVg",
+                "title": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 - \u0394\u03b5\u03bd \u0388\u03c7\u03b5\u03b9 \u039d\u03b1 \u03a0\u03ac\u03b5\u03b9 \u03a0\u03bf\u03c5\u03b8\u03b5\u03bd\u03ac - Official Audio Release",
+                "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03b7\u03c2 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5: www.youtube.com/@KaterinaLioliouOfficial\nStream here: https://bfan.link/2100-gen-eta\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a6\u03b1\u03ba\u03af\u03bd\u03bf\u03c2\n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0398\u03bf\u03b4\u03c9\u03c1\u03ae\u03c2 \u039c\u03ac\u03ba\u03c1\u03b1\u03c2\n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5, \u03a7\u03ac\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c4\u03b6\u03b1\u03bd\u03ae\u03c2 \n\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae & \u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2\n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03ba\u03b9\u03b8\u03ac\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac, \u03bf\u03cd\u03c4\u03b9, cumpus \n\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03b1\u03c2 \u03a4\u03b6\u03af\u03c4\u03b6\u03bf\u03c2: \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1 \n\u039d\u03af\u03ba\u03bf\u03c2 \u03a0\u03b9\u03c0\u03b5\u03c1\u03ac\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf \n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03b1\u03ba.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b5\u03c2 \n\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a0\u03b5\u03c1\u03b4\u03b9\u03ba\u03ac\u03c1\u03b7\u03c2: \u03b7\u03bb.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b1 \n\u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03ba\u03c1\u03bf\u03c5\u03c3\u03c4\u03ac\n\u0391\u03bb\u03b5\u03be \u039c\u03b9\u03c7\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2: \u03ba\u03bb\u03b1\u03c1\u03af\u03bd\u03bf, \u03bd\u03ad\u03c5 \n\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5: \u03c4\u03c1\u03bf\u03bc\u03c0\u03cc\u03bd\u03b9, \u03c4\u03c1\u03bf\u03bc\u03c0\u03ad\u03c4\u03b1 \n\nRecording, mixing: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nMastering: \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5\n\n\n\u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 \u03c3\u03c4\u03bf:\nSpotify: https://spoti.fi/3X9x0Ko\nInstagram: https://www.instagram.com/katerinalioliouofficial\nTikTok: https://www.tiktok.com/@katerinalioliou\nFaceBook: https://www.facebook.com/katerina.lioliou.official\nTwitter: https://x.com/KaterinaLioliou\n\nENTER THE PANIK WORLD\n\u2605 http://bit.ly/PanikRecords_Facebook\n\u2605 http://bit.ly/PanikRecords_YouTube\n\u2605 http://bit.ly/PanikRecords_Twitter\n\u2605 http://bit.ly/PanikRecords_Instagram\n\u2605 http://bit.ly/PanikRecords_GooglePlus\n\u2605 http://bit.ly/PanikRecords_Website",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Katerina Lioliou Official",
+                "tags": [
+                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1",
+                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
+                    "katerina lioliou den exei na paei pouthena",
+                    "den exei na paei pouthena katerina lioliou",
+                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1",
+                    "den exei na paei pouthena",
+                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
+                    "katerina lioliou",
+                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03b1\u03bb\u03bc\u03c0\u03bf\u03c5\u03bc",
+                    "katerina lioliou album",
+                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1 \u03c3\u03c4\u03b9\u03c7\u03bf\u03b9",
+                    "den exei na paei pouthena stixoi",
+                    "\u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
+                    "\u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03c3",
+                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 live",
+                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 the voice",
+                    "panik records"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "el",
+                "localized": {
+                    "title": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 - \u0394\u03b5\u03bd \u0388\u03c7\u03b5\u03b9 \u039d\u03b1 \u03a0\u03ac\u03b5\u03b9 \u03a0\u03bf\u03c5\u03b8\u03b5\u03bd\u03ac - Official Audio Release",
+                    "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03b7\u03c2 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5: www.youtube.com/@KaterinaLioliouOfficial\nStream here: https://bfan.link/2100-gen-eta\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a6\u03b1\u03ba\u03af\u03bd\u03bf\u03c2\n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0398\u03bf\u03b4\u03c9\u03c1\u03ae\u03c2 \u039c\u03ac\u03ba\u03c1\u03b1\u03c2\n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5, \u03a7\u03ac\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c4\u03b6\u03b1\u03bd\u03ae\u03c2 \n\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae & \u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2\n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03ba\u03b9\u03b8\u03ac\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac, \u03bf\u03cd\u03c4\u03b9, cumpus \n\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03b1\u03c2 \u03a4\u03b6\u03af\u03c4\u03b6\u03bf\u03c2: \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1 \n\u039d\u03af\u03ba\u03bf\u03c2 \u03a0\u03b9\u03c0\u03b5\u03c1\u03ac\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf \n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03b1\u03ba.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b5\u03c2 \n\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a0\u03b5\u03c1\u03b4\u03b9\u03ba\u03ac\u03c1\u03b7\u03c2: \u03b7\u03bb.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b1 \n\u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03ba\u03c1\u03bf\u03c5\u03c3\u03c4\u03ac\n\u0391\u03bb\u03b5\u03be \u039c\u03b9\u03c7\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2: \u03ba\u03bb\u03b1\u03c1\u03af\u03bd\u03bf, \u03bd\u03ad\u03c5 \n\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5: \u03c4\u03c1\u03bf\u03bc\u03c0\u03cc\u03bd\u03b9, \u03c4\u03c1\u03bf\u03bc\u03c0\u03ad\u03c4\u03b1 \n\nRecording, mixing: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nMastering: \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5\n\n\n\u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 \u03c3\u03c4\u03bf:\nSpotify: https://spoti.fi/3X9x0Ko\nInstagram: https://www.instagram.com/katerinalioliouofficial\nTikTok: https://www.tiktok.com/@katerinalioliou\nFaceBook: https://www.facebook.com/katerina.lioliou.official\nTwitter: https://x.com/KaterinaLioliou\n\nENTER THE PANIK WORLD\n\u2605 http://bit.ly/PanikRecords_Facebook\n\u2605 http://bit.ly/PanikRecords_YouTube\n\u2605 http://bit.ly/PanikRecords_Twitter\n\u2605 http://bit.ly/PanikRecords_Instagram\n\u2605 http://bit.ly/PanikRecords_GooglePlus\n\u2605 http://bit.ly/PanikRecords_Website"
+                },
+                "defaultAudioLanguage": "el"
+            },
+            "statistics": {
+                "viewCount": "12259",
+                "likeCount": "435",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "l1t-a6YN23bqcoFXxqTGUWPsPNc",
+            "id": "_iM1AOFxoDI",
+            "snippet": {
+                "publishedAt": "2026-09-29T12:00:00Z",
+                "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "title": "The One About Matthew Perry | Official Trailer | Netflix",
+                "description": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. Watch The One About Matthew Perry on October 27, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81970499\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nThe One About Matthew Perry | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nThis documentary series chronicles the Hollywood success, outspoken advocacy and tragic death of the beloved \"Friends\" star, as told by his inner circle.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Netflix",
+                "tags": [
+                    "Chandler Bing",
+                    "Documentary",
+                    "Friends",
+                    "Friends TV Show",
+                    "Matthew Perry",
+                    "Matthew Perry Addiction",
+                    "Matthew Perry Documentary",
+                    "Matthew Perry Friends",
+                    "Matthew Perry Legacy",
+                    "Matthew Perry Netflix",
+                    "Matthew Perry Netflix Documentary",
+                    "Matthew Perry Trailer",
+                    "Matthew Perry Tribute",
+                    "Netflix",
+                    "Netflix Documentaries",
+                    "Netflix Documentary",
+                    "The One About Matthew Perry",
+                    "The One About Matthew Perry Trailer"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The One About Matthew Perry | Official Trailer | Netflix",
+                    "description": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. Watch The One About Matthew Perry on October 27, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81970499\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nThe One About Matthew Perry | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nThis documentary series chronicles the Hollywood success, outspoken advocacy and tragic death of the beloved \"Friends\" star, as told by his inner circle."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "3685614",
+                "likeCount": "41480",
+                "favoriteCount": "0",
+                "commentCount": "1936"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "P1VshYpV9UKA7lKyuXF6hlKSFig",
             "id": "oiuywBDOArM",
             "snippet": {
                 "publishedAt": "2026-10-08T11:00:01Z",
@@ -1527,236 +1748,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "71422",
-                "likeCount": "3210",
+                "viewCount": "71862",
+                "likeCount": "3221",
                 "favoriteCount": "0",
-                "commentCount": "56"
+                "commentCount": "57"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mML5S33S7rjicM7YSWqh9jG_LMU",
-            "id": "EPOFDWnbffM",
-            "snippet": {
-                "publishedAt": "2026-10-09T21:00:34Z",
-                "channelId": "UCP8dWXxd3pGUG8S8DiHQDVg",
-                "title": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 - \u0394\u03b5\u03bd \u0388\u03c7\u03b5\u03b9 \u039d\u03b1 \u03a0\u03ac\u03b5\u03b9 \u03a0\u03bf\u03c5\u03b8\u03b5\u03bd\u03ac - Official Audio Release",
-                "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03b7\u03c2 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5: www.youtube.com/@KaterinaLioliouOfficial\nStream here: https://bfan.link/2100-gen-eta\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a6\u03b1\u03ba\u03af\u03bd\u03bf\u03c2\n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0398\u03bf\u03b4\u03c9\u03c1\u03ae\u03c2 \u039c\u03ac\u03ba\u03c1\u03b1\u03c2\n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5, \u03a7\u03ac\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c4\u03b6\u03b1\u03bd\u03ae\u03c2 \n\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae & \u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2\n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03ba\u03b9\u03b8\u03ac\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac, \u03bf\u03cd\u03c4\u03b9, cumpus \n\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03b1\u03c2 \u03a4\u03b6\u03af\u03c4\u03b6\u03bf\u03c2: \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1 \n\u039d\u03af\u03ba\u03bf\u03c2 \u03a0\u03b9\u03c0\u03b5\u03c1\u03ac\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf \n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03b1\u03ba.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b5\u03c2 \n\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a0\u03b5\u03c1\u03b4\u03b9\u03ba\u03ac\u03c1\u03b7\u03c2: \u03b7\u03bb.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b1 \n\u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03ba\u03c1\u03bf\u03c5\u03c3\u03c4\u03ac\n\u0391\u03bb\u03b5\u03be \u039c\u03b9\u03c7\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2: \u03ba\u03bb\u03b1\u03c1\u03af\u03bd\u03bf, \u03bd\u03ad\u03c5 \n\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5: \u03c4\u03c1\u03bf\u03bc\u03c0\u03cc\u03bd\u03b9, \u03c4\u03c1\u03bf\u03bc\u03c0\u03ad\u03c4\u03b1 \n\nRecording, mixing: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nMastering: \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5\n\n\n\u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 \u03c3\u03c4\u03bf:\nSpotify: https://spoti.fi/3X9x0Ko\nInstagram: https://www.instagram.com/katerinalioliouofficial\nTikTok: https://www.tiktok.com/@katerinalioliou\nFaceBook: https://www.facebook.com/katerina.lioliou.official\nTwitter: https://x.com/KaterinaLioliou\n\nENTER THE PANIK WORLD\n\u2605 http://bit.ly/PanikRecords_Facebook\n\u2605 http://bit.ly/PanikRecords_YouTube\n\u2605 http://bit.ly/PanikRecords_Twitter\n\u2605 http://bit.ly/PanikRecords_Instagram\n\u2605 http://bit.ly/PanikRecords_GooglePlus\n\u2605 http://bit.ly/PanikRecords_Website",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/EPOFDWnbffM/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Katerina Lioliou Official",
-                "tags": [
-                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1",
-                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
-                    "katerina lioliou den exei na paei pouthena",
-                    "den exei na paei pouthena katerina lioliou",
-                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1",
-                    "den exei na paei pouthena",
-                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
-                    "katerina lioliou",
-                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03b1\u03bb\u03bc\u03c0\u03bf\u03c5\u03bc",
-                    "katerina lioliou album",
-                    "\u03b4\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03c0\u03bf\u03c5\u03b8\u03b5\u03bd\u03b1 \u03c3\u03c4\u03b9\u03c7\u03bf\u03b9",
-                    "den exei na paei pouthena stixoi",
-                    "\u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5",
-                    "\u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03c3",
-                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 live",
-                    "\u03ba\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bb\u03b9\u03bf\u03c5 the voice",
-                    "panik records"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "el",
-                "localized": {
-                    "title": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 - \u0394\u03b5\u03bd \u0388\u03c7\u03b5\u03b9 \u039d\u03b1 \u03a0\u03ac\u03b5\u03b9 \u03a0\u03bf\u03c5\u03b8\u03b5\u03bd\u03ac - Official Audio Release",
-                    "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03b7\u03c2 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5: www.youtube.com/@KaterinaLioliouOfficial\nStream here: https://bfan.link/2100-gen-eta\n\nCredits\n\n\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae: \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a6\u03b1\u03ba\u03af\u03bd\u03bf\u03c2\n\u03a3\u03c4\u03af\u03c7\u03bf\u03b9: \u0398\u03bf\u03b4\u03c9\u03c1\u03ae\u03c2 \u039c\u03ac\u03ba\u03c1\u03b1\u03c2\n\n\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2: \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5, \u03a7\u03ac\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c4\u03b6\u03b1\u03bd\u03ae\u03c2 \n\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae & \u0395\u03bd\u03bf\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03c9\u03c3\u03b7: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2\n\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1\u03bd \u03bf\u03b9 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03bf\u03af:\n\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2: programming, \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1, \u03ba\u03b9\u03b8\u03ac\u03c1\u03b1, \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9, \u03c4\u03b6\u03bf\u03c5\u03c1\u03ac, \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac, \u03bf\u03cd\u03c4\u03b9, cumpus \n\u039b\u03b5\u03c9\u03bd\u03af\u03b4\u03b1\u03c2 \u03a4\u03b6\u03af\u03c4\u03b6\u03bf\u03c2: \u03c0\u03bb\u03ae\u03ba\u03c4\u03c1\u03b1 \n\u039d\u03af\u03ba\u03bf\u03c2 \u03a0\u03b9\u03c0\u03b5\u03c1\u03ac\u03c2: \u03c4\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1\n\u0397\u03bb\u03af\u03b1\u03c2 \u03a4\u03c3\u03b1\u03c0\u03b1\u03c4\u03c3\u03ac\u03c1\u03b7\u03c2: \u03bc\u03c0\u03ac\u03c3\u03bf \n\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a1\u03b5\u03c4\u03af\u03ba\u03b1\u03c2: \u03b1\u03ba.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b5\u03c2 \n\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a0\u03b5\u03c1\u03b4\u03b9\u03ba\u03ac\u03c1\u03b7\u03c2: \u03b7\u03bb.\u03ba\u03b9\u03b8\u03b1\u03c1\u03b1 \n\u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03ba\u03c1\u03bf\u03c5\u03c3\u03c4\u03ac\n\u0391\u03bb\u03b5\u03be \u039c\u03b9\u03c7\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2: \u03ba\u03bb\u03b1\u03c1\u03af\u03bd\u03bf, \u03bd\u03ad\u03c5 \n\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5: \u03c4\u03c1\u03bf\u03bc\u03c0\u03cc\u03bd\u03b9, \u03c4\u03c1\u03bf\u03bc\u03c0\u03ad\u03c4\u03b1 \n\nRecording, mixing: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03c0\u03c1\u03b1\u03ba\u03bf\u03cd\u03bb\u03b9\u03b1\u03c2 @ Track Factory Music Productions\nMastering: \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03bf\u03c5\n\n\n\u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u039b\u03b9\u03cc\u03bb\u03b9\u03bf\u03c5 \u03c3\u03c4\u03bf:\nSpotify: https://spoti.fi/3X9x0Ko\nInstagram: https://www.instagram.com/katerinalioliouofficial\nTikTok: https://www.tiktok.com/@katerinalioliou\nFaceBook: https://www.facebook.com/katerina.lioliou.official\nTwitter: https://x.com/KaterinaLioliou\n\nENTER THE PANIK WORLD\n\u2605 http://bit.ly/PanikRecords_Facebook\n\u2605 http://bit.ly/PanikRecords_YouTube\n\u2605 http://bit.ly/PanikRecords_Twitter\n\u2605 http://bit.ly/PanikRecords_Instagram\n\u2605 http://bit.ly/PanikRecords_GooglePlus\n\u2605 http://bit.ly/PanikRecords_Website"
-                },
-                "defaultAudioLanguage": "el"
-            },
-            "statistics": {
-                "viewCount": "11600",
-                "likeCount": "414",
-                "favoriteCount": "0",
-                "commentCount": "19"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "HKt1TN43OwdX2_7ihSnKFncGx-o",
-            "id": "_iM1AOFxoDI",
-            "snippet": {
-                "publishedAt": "2026-09-29T12:00:00Z",
-                "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-                "title": "The One About Matthew Perry | Official Trailer | Netflix",
-                "description": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. Watch The One About Matthew Perry on October 27, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81970499\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nThe One About Matthew Perry | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nThis documentary series chronicles the Hollywood success, outspoken advocacy and tragic death of the beloved \"Friends\" star, as told by his inner circle.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/_iM1AOFxoDI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Netflix",
-                "tags": [
-                    "Chandler Bing",
-                    "Documentary",
-                    "Friends",
-                    "Friends TV Show",
-                    "Matthew Perry",
-                    "Matthew Perry Addiction",
-                    "Matthew Perry Documentary",
-                    "Matthew Perry Friends",
-                    "Matthew Perry Legacy",
-                    "Matthew Perry Netflix",
-                    "Matthew Perry Netflix Documentary",
-                    "Matthew Perry Trailer",
-                    "Matthew Perry Tribute",
-                    "Netflix",
-                    "Netflix Documentaries",
-                    "Netflix Documentary",
-                    "The One About Matthew Perry",
-                    "The One About Matthew Perry Trailer"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "The One About Matthew Perry | Official Trailer | Netflix",
-                    "description": "Told through intimate testimonies from close family and friends, The One About Matthew Perry reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. Watch The One About Matthew Perry on October 27, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81970499\n\nAbout Netflix:\nNetflix is one of the world\u2019s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. \n\nThe One About Matthew Perry | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nThis documentary series chronicles the Hollywood success, outspoken advocacy and tragic death of the beloved \"Friends\" star, as told by his inner circle."
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "3684639",
-                "likeCount": "41469",
-                "favoriteCount": "0",
-                "commentCount": "1935"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "IUj88vEUH1K0bs29O_AXEhT_6VQ",
-            "id": "V77yMQ4viuw",
-            "snippet": {
-                "publishedAt": "2026-10-08T10:30:01Z",
-                "channelId": "UCPgaR6E8Oz7LLW1um06dw6Q",
-                "title": "\u03a4\u03a1\u0395\u039b\u039f\u0399 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
-                "description": "\ud83d\udfe0\u0395\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 24-25 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5 : https://www.more.com/gr-el/tickets/theater/children/festival/aidonakia-halloween-festival-2026/\n\ud83d\ude0d \u0392\u03c1\u03ad\u03c2 \u03c4\u03b1 \u03a1\u039f\u03a5\u03a7\u0391 \u03bc\u03bf\u03c5 \u03b5\u03b4\u03ce https://creatorshop.gr/pdt-yt \ud83d\ude0d \n\n\ud83d\udd35W1ndz \u03b5\u03b4\u03c9 https://www.youtube.com/@W1ndzOfficial\n\u2b50\u0395\u03b1\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 Games \u03ba\u03ac\u03bd\u03c4\u03b5 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03b5\u03b4\u03ce : https://goo.gl/05KOZo\n\n\u2605\u2605\u0394\u03b5\u03b9\u03c4\u03b5 \u03c4\u03b1 Social Media \u03bc\u03bf\u03c5 \u2605\u2605\n\ud83d\udfe0Instagram https://goo.gl/8UWzry\n\u26abTikTok : https://rebrand.ly/TikTok-Panos-\n\ud83d\udfe3Discord Server : https://discord.gg/pdtproject\n\n\ud83d\udd34\u0393\u0399\u039d\u0395 \u039c\u0395\u039b\u039f\u03a3 \u0395\u0394\u03a9 : https://www.youtube.com/channel/UCPgaR6E8Oz7LLW1um06dw6Q/join \u03ba\u03b1\u03b9 \u03bc\u03b7\u03bd \u03c7\u03b1\u03c3\u03b5\u03b9\u03c2 \n1)Emoji \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 PDT \u03b4\u03b9\u03c0\u03bb\u03b1 \u03b1\u03c0\u03bf \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03c3\u03bf\u03c5\n2)\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03b7 \u03c3\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03b1 Livestream \u03b3\u03b9\u03b1 \u03bc\u03b5\u03bb\u03b7 \u03ba\u03b1\u03b9 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03c5\u03c3\u03b5\u03b9\u03c2\n3)\u039e\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03bf Room \u03b3\u03b9\u03b1 \u039c\u03b5\u03bb\u03b7 \u03c3\u03c4\u03bf\u03bd Discord Server !! \n\n\ud83c\udfae \u03a4\u0391 \u03a0\u0395\u03a1\u0399\u03a6\u0395\u03a1\u0399\u039a\u0391 \u039c\u039f\u03a5 \ud83c\udfae\nMOUSE : Logitech G502 X Plus Wireless \nKEYBOARD : Logitech G Pro  \nHEADSET : BeyerDynamic DT 990 Pro\n\u039c\u03af\u03ba\u03c4\u03b7\u03c2  : GoXLR \n\n#PanosDent  #TABS #Challenge",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/V77yMQ4viuw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "PanosDentGames",
-                "tags": [
-                    "Panosdentgames",
-                    "panosdent",
-                    "panos games",
-                    "gaming",
-                    "greek",
-                    "greek gamer",
-                    "\u03c0\u03b1\u03bd\u03bf\u03c2\u03b4\u03b5\u03bd\u03c4\u03b3\u03b1\u03bc\u03b5\u03c2",
-                    "\u03c0\u03b1\u03bd\u03bf\u03c2 \u03b4\u03b5\u03bd\u03c4",
-                    "\u03c0\u03b1\u03bd\u03bf\u03c2 \u03b3\u03b1\u03bc\u03b5\u03c2",
-                    "4\u03ba 60fps",
-                    "4k gaming",
-                    "\u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
-                    "tabs",
-                    "total accurate battle simulator",
-                    "w1ndz",
-                    "challenge"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "el",
-                "localized": {
-                    "title": "\u03a4\u03a1\u0395\u039b\u039f\u0399 \u03a0\u0395\u0399\u03a1\u0391\u03a4\u0395\u03a3 VS \u0394\u0391\u0399\u039c\u039f\u039d\u0395\u03a3 \u039c\u0395 \u03a4\u039f\u039d W1NDZ !!!",
-                    "description": "\ud83d\udfe0\u0395\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 24-25 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5 : https://www.more.com/gr-el/tickets/theater/children/festival/aidonakia-halloween-festival-2026/\n\ud83d\ude0d \u0392\u03c1\u03ad\u03c2 \u03c4\u03b1 \u03a1\u039f\u03a5\u03a7\u0391 \u03bc\u03bf\u03c5 \u03b5\u03b4\u03ce https://creatorshop.gr/pdt-yt \ud83d\ude0d \n\n\ud83d\udd35W1ndz \u03b5\u03b4\u03c9 https://www.youtube.com/@W1ndzOfficial\n\u2b50\u0395\u03b1\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 Games \u03ba\u03ac\u03bd\u03c4\u03b5 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03b5\u03b4\u03ce : https://goo.gl/05KOZo\n\n\u2605\u2605\u0394\u03b5\u03b9\u03c4\u03b5 \u03c4\u03b1 Social Media \u03bc\u03bf\u03c5 \u2605\u2605\n\ud83d\udfe0Instagram https://goo.gl/8UWzry\n\u26abTikTok : https://rebrand.ly/TikTok-Panos-\n\ud83d\udfe3Discord Server : https://discord.gg/pdtproject\n\n\ud83d\udd34\u0393\u0399\u039d\u0395 \u039c\u0395\u039b\u039f\u03a3 \u0395\u0394\u03a9 : https://www.youtube.com/channel/UCPgaR6E8Oz7LLW1um06dw6Q/join \u03ba\u03b1\u03b9 \u03bc\u03b7\u03bd \u03c7\u03b1\u03c3\u03b5\u03b9\u03c2 \n1)Emoji \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 PDT \u03b4\u03b9\u03c0\u03bb\u03b1 \u03b1\u03c0\u03bf \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03c3\u03bf\u03c5\n2)\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03b7 \u03c3\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03b1 Livestream \u03b3\u03b9\u03b1 \u03bc\u03b5\u03bb\u03b7 \u03ba\u03b1\u03b9 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03c5\u03c3\u03b5\u03b9\u03c2\n3)\u039e\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03bf Room \u03b3\u03b9\u03b1 \u039c\u03b5\u03bb\u03b7 \u03c3\u03c4\u03bf\u03bd Discord Server !! \n\n\ud83c\udfae \u03a4\u0391 \u03a0\u0395\u03a1\u0399\u03a6\u0395\u03a1\u0399\u039a\u0391 \u039c\u039f\u03a5 \ud83c\udfae\nMOUSE : Logitech G502 X Plus Wireless \nKEYBOARD : Logitech G Pro  \nHEADSET : BeyerDynamic DT 990 Pro\n\u039c\u03af\u03ba\u03c4\u03b7\u03c2  : GoXLR \n\n#PanosDent  #TABS #Challenge"
-                },
-                "defaultAudioLanguage": "el"
-            },
-            "statistics": {
-                "viewCount": "40157",
-                "likeCount": "1329",
-                "favoriteCount": "0",
-                "commentCount": "46"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "EoK_uuG5MHwGbutZrVvt8Xr3hkQ",
+            "etag": "iZfv5fO2MyHm577azgNAf5XrnOY",
             "id": "2Cc1YMvcIy4",
             "snippet": {
                 "publishedAt": "2026-09-28T11:30:06Z",
@@ -1808,15 +1808,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "130057",
-                "likeCount": "1637",
+                "viewCount": "130248",
+                "likeCount": "1639",
                 "favoriteCount": "0",
                 "commentCount": "45"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hmd0gi1mhIdqJsce9XnrOwAxOEk",
+            "etag": "CKBWaWEiCrw9-h1HNsQXe_Ldfic",
             "id": "bhKKR5He_Fo",
             "snippet": {
                 "publishedAt": "2026-09-24T15:05:06Z",
@@ -1896,15 +1896,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "13099532",
-                "likeCount": "60029",
+                "viewCount": "13102243",
+                "likeCount": "60043",
                 "favoriteCount": "0",
-                "commentCount": "4925"
+                "commentCount": "4926"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "69JBQe5TBRFYb_yL6vAM9lNt_Sw",
+            "etag": "tmV467ruy-jRlb4GMPcV5ScSOlQ",
             "id": "neUmO-061qI",
             "snippet": {
                 "publishedAt": "2026-10-02T10:30:05Z",
@@ -1975,15 +1975,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "128371",
-                "likeCount": "3218",
+                "viewCount": "128650",
+                "likeCount": "3225",
                 "favoriteCount": "0",
                 "commentCount": "137"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6Hhy80_0k38p0DbvX10QZzgpD98",
+            "etag": "bOiJ3J2cNgo5twNbU01y8-NBKDg",
             "id": "zOLxTZgX-hE",
             "snippet": {
                 "publishedAt": "2026-09-30T22:00:06Z",
@@ -2066,15 +2066,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "957413",
-                "likeCount": "2801",
+                "viewCount": "961938",
+                "likeCount": "2820",
                 "favoriteCount": "0",
                 "commentCount": "38"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qBEas-2jJMdvJnoqE-2ixlqfDU8",
+            "etag": "8ZDnM-6bLYaBIELfbkTGUf_vpy8",
             "id": "5lddZVFmxaw",
             "snippet": {
                 "publishedAt": "2026-09-29T13:00:00Z",
@@ -2127,15 +2127,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "3560571",
-                "likeCount": "111092",
+                "viewCount": "3562318",
+                "likeCount": "111113",
                 "favoriteCount": "0",
                 "commentCount": "6847"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vLg1uZtZO1ZyoKhtdAFztRK-xtE",
+            "etag": "MxcthEsx8XX4KIaj3fG9rRmuE6g",
             "id": "JkLnv4QV3XY",
             "snippet": {
                 "publishedAt": "2026-10-08T16:30:06Z",
@@ -2198,15 +2198,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "51532",
-                "likeCount": "1726",
+                "viewCount": "51767",
+                "likeCount": "1732",
                 "favoriteCount": "0",
                 "commentCount": "79"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2LSdka2C4RFEWINYZiNv0Pcv3Vc",
+            "etag": "aZJFMQAAeXj61uXaxm1eAA2hc3U",
             "id": "iMq3_hzUHVQ",
             "snippet": {
                 "publishedAt": "2026-09-24T15:00:06Z",
@@ -2283,15 +2283,15 @@
                 "defaultAudioLanguage": "sq"
             },
             "statistics": {
-                "viewCount": "1502227",
-                "likeCount": "13216",
+                "viewCount": "1505411",
+                "likeCount": "13229",
                 "favoriteCount": "0",
                 "commentCount": "505"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "KLmxwsDWkN-m1PTj8pG-FkuGQHc",
+            "etag": "gZJVFjIzSkyPEahclvFrgnD1tAQ",
             "id": "Ih6DVdyQn3I",
             "snippet": {
                 "publishedAt": "2026-10-05T17:00:23Z",
@@ -2345,15 +2345,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "625087",
-                "likeCount": "20159",
+                "viewCount": "625250",
+                "likeCount": "20162",
                 "favoriteCount": "0",
                 "commentCount": "1943"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ZUjZIyEVdIe1PEw0jOopLoh3QuM",
+            "etag": "BK_RH7WnZnVPx6quGpZ1Dkcymno",
             "id": "XNm4iItvIEo",
             "snippet": {
                 "publishedAt": "2026-10-07T11:28:09Z",
@@ -2430,15 +2430,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "61293",
-                "likeCount": "1941",
+                "viewCount": "61586",
+                "likeCount": "1944",
                 "favoriteCount": "0",
                 "commentCount": "113"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UCKDIQdHbuXWcOVhd-Vr0_LHRw4",
+            "etag": "Ug0UfhAWGOsBsb_xD21yZcOqWf4",
             "id": "EvYwBfYh3zA",
             "snippet": {
                 "publishedAt": "2026-10-07T11:15:34Z",
@@ -2493,15 +2493,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "23540",
-                "likeCount": "1027",
+                "viewCount": "23632",
+                "likeCount": "1031",
                 "favoriteCount": "0",
                 "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eCpERGzgKmOMP5VnfjxcJL4G_SE",
+            "etag": "7uSztqT4NZPCm-4V4UAy1aB9AAU",
             "id": "CL1EFACsWag",
             "snippet": {
                 "publishedAt": "2026-09-26T15:00:07Z",
@@ -2571,15 +2571,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "14388038",
-                "likeCount": "66671",
+                "viewCount": "14389042",
+                "likeCount": "66680",
                 "favoriteCount": "0",
-                "commentCount": "4549"
+                "commentCount": "4550"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Q8KjiYWWOqHR115h_19nbPtVeHA",
+            "etag": "tR4cco8EhWAcHWnpv8G7GTs9iZQ",
             "id": "_Ju2j1NSt9w",
             "snippet": {
                 "publishedAt": "2026-10-09T11:05:24Z",
@@ -2653,15 +2653,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1859175",
-                "likeCount": "20630",
+                "viewCount": "1914314",
+                "likeCount": "21201",
                 "favoriteCount": "0",
-                "commentCount": "231"
+                "commentCount": "239"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "p5DsPtZeV_s8cQrb1ze8lA91Q3Y",
+            "etag": "tVl8Cr_qPMzQdcUR1Qu1IALqOKc",
             "id": "m1TksupocXg",
             "snippet": {
                 "publishedAt": "2026-09-21T10:02:04Z",
@@ -2709,15 +2709,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "141205",
-                "likeCount": "2282",
+                "viewCount": "141414",
+                "likeCount": "2285",
                 "favoriteCount": "0",
                 "commentCount": "107"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "7_Ehrm0h8FUiLXD4UxWkH9nkkRA",
+            "etag": "DKQcMCaziYPztdvnVEQySFNp4u0",
             "id": "6ifgtTCexgs",
             "snippet": {
                 "publishedAt": "2026-09-30T13:30:17Z",
@@ -2783,15 +2783,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "4029123",
-                "likeCount": "26305",
+                "viewCount": "4031684",
+                "likeCount": "26318",
                 "favoriteCount": "0",
                 "commentCount": "502"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6kHeBxdgbpKooPyGLqo2py5Un7g",
+            "etag": "0KKWp-s3PHZrmZkFtPR1LwUg3KE",
             "id": "hY4Hk8gydR0",
             "snippet": {
                 "publishedAt": "2026-10-09T11:15:36Z",
@@ -2851,15 +2851,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "36344",
-                "likeCount": "1573",
+                "viewCount": "36591",
+                "likeCount": "1580",
                 "favoriteCount": "0",
                 "commentCount": "14"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-y8TyCaT6bCkenkIyuapwjgdeTo",
+            "etag": "y03PXEAkVz4T2hd73hufhkiyxR4",
             "id": "C1XICXKTrOw",
             "snippet": {
                 "publishedAt": "2026-09-24T16:18:10Z",
@@ -2934,15 +2934,15 @@
                 "defaultAudioLanguage": "sq"
             },
             "statistics": {
-                "viewCount": "496089",
-                "likeCount": "2738",
+                "viewCount": "497098",
+                "likeCount": "2742",
                 "favoriteCount": "0",
                 "commentCount": "137"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eV7YldN1UBtDbxTKPkQE8zTMdJo",
+            "etag": "ioCPNC7i1hI3eaIniLcD5fHZdis",
             "id": "HvW_N5p1q44",
             "snippet": {
                 "publishedAt": "2026-09-23T13:00:14Z",
@@ -3006,15 +3006,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "15670412",
-                "likeCount": "76838",
+                "viewCount": "15671777",
+                "likeCount": "76848",
                 "favoriteCount": "0",
                 "commentCount": "6682"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Fhp9hQMQ2ZbSQ0_aupiaIkSn8fg",
+            "etag": "hB0F7ru16Uoc0os-Y1Zs9GxwSVU",
             "id": "D-EgFgTJOgk",
             "snippet": {
                 "publishedAt": "2026-10-01T08:00:30Z",
@@ -3073,15 +3073,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "16316127",
-                "likeCount": "203375",
+                "viewCount": "16337541",
+                "likeCount": "203605",
                 "favoriteCount": "0",
-                "commentCount": "6401"
+                "commentCount": "6403"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UW2DMPD_3o9V7J5SDxelqUs2pj4",
+            "etag": "MpL6U0uRbpRHns-4Kt0tQkxgkGY",
             "id": "C9OmyNRyz4E",
             "snippet": {
                 "publishedAt": "2026-10-10T03:47:32Z",
@@ -3134,15 +3134,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "7484365",
-                "likeCount": "456903",
+                "viewCount": "8171434",
+                "likeCount": "474709",
                 "favoriteCount": "0",
-                "commentCount": "72615"
+                "commentCount": "74819"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xHUnENjyxAIsBrs1PshCF_7RTLg",
+            "etag": "AOJRzzIihioLDeGC9o_F5cEjNbQ",
             "id": "4-sO_dp1fkE",
             "snippet": {
                 "publishedAt": "2026-09-23T19:00:39Z",
@@ -3213,15 +3213,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "5594826",
-                "likeCount": "268883",
+                "viewCount": "5598138",
+                "likeCount": "268986",
                 "favoriteCount": "0",
-                "commentCount": "12089"
+                "commentCount": "12090"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JPfS5ehYbEKpRVjIi77_jqllrf0",
+            "etag": "iyEvdXozMMDy0FtXh63T_1kNE1o",
             "id": "n2zoEZmx92s",
             "snippet": {
                 "publishedAt": "2026-10-06T11:00:12Z",
@@ -3304,15 +3304,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "43358",
-                "likeCount": "1535",
+                "viewCount": "43542",
+                "likeCount": "1538",
                 "favoriteCount": "0",
                 "commentCount": "127"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WdJ4qLKXTUBzjlvKe39lkbZtMA0",
+            "etag": "aW8gyyXmx8ig4xnYFLVlIgweOdU",
             "id": "DLnfKFgF6AE",
             "snippet": {
                 "publishedAt": "2026-09-18T10:00:06Z",
@@ -3362,15 +3362,15 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "1110456",
-                "likeCount": "4891",
+                "viewCount": "1112156",
+                "likeCount": "4897",
                 "favoriteCount": "0",
-                "commentCount": "1142"
+                "commentCount": "1143"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JQGYiZoCz705K97V-EfihOIUEHA",
+            "etag": "zzmZdCsEykZaNdVU97CQJyFQZ7Y",
             "id": "KCR-rz0YfD4",
             "snippet": {
                 "publishedAt": "2026-09-24T13:00:11Z",
@@ -3437,151 +3437,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "15260183",
-                "likeCount": "114632",
+                "viewCount": "15261558",
+                "likeCount": "114645",
                 "favoriteCount": "0",
                 "commentCount": "5063"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vMDpfkbBongAunIT1KCo-Jq9XwU",
-            "id": "ewPO22O8AWE",
-            "snippet": {
-                "publishedAt": "2026-10-03T07:30:24Z",
-                "channelId": "UC3pGbuzgVb4Kvf6wi4P1GjA",
-                "title": "\u03a0\u03a1\u039f\u03a3\u03a0\u0391\u0398\u03a9 \u039d\u0391 \u039c\u0397\u039d \u03a0\u0395\u0398\u0391\u039d\u03a9 \u03a3\u0395 \u0391\u03a5\u03a4\u039f \u03a4\u039f \u0392\u0399\u039d\u03a4\u0395\u039f!",
-                "description": "\ud83d\udd25 Official Merch   \u279d  https://creatorshop.gr/mrantouon/\n\ud83c\udfae Gaming \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9   \u279d https://www.youtube.com/@MrAntouon\n\ud83d\ude08 2o Reaction \u039a\u03b1\u03bd\u03ac\u03bb\u03b9  \u279d https://www.youtube.com/@MrAntouonReacts\n\ud83d\udc7d 3o IRL \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d https://www.youtube.com/@MrAntouonIRL  \n\ud83d\udca3 4o Extra \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d  https://www.youtube.com/@MrAntouonPlus\n\n\u0393\u03af\u03bd\u03b5 member \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c0\u03b9\u03bf \u03bd\u03c9\u03c1\u03af\u03c2! \u279d\nhttps://www.youtube.com/channel/UC3pGbuzgVb4Kvf6wi4P1GjA/join\n\n\u0395\u0393\u0399\u039d\u0391 \u039f \u03a7\u0395\u0399\u03a1\u039f\u03a4\u0395\u03a1\u039f\u03a3 \u039c\u03a0\u0391\u039c\u03a0\u0391\u03a3 \u03a4\u039f\u03a5 \u039a\u039f\u03a3\u039c\u039f\u03a5!\n\u0397 \u03a0\u0399\u039f \u03a7\u0391\u039f\u03a4\u0399\u039a\u0397 \u039a\u039f\u03a5\u03a1\u03a3\u0391 \u039c\u0395 \u03a0\u039f\u0394\u0397\u039b\u0391\u03a4\u039f \u03a0\u039f\u03a5 \u0398\u0391 \u0394\u0395\u0399\u03a4\u0395 \u03a0\u039f\u03a4\u0395!\n\u03a0\u03a1\u039f\u03a3\u03a0\u0391\u0398\u03a9 \u039d\u0391 \u039c\u0397\u039d \u03a0\u0395\u0398\u0391\u039d\u03a9 \u03a3\u0395 \u0391\u03a5\u03a4\u039f \u03a4\u039f \u0392\u0399\u039d\u03a4\u0395\u039f!\n\u0391\u03a5\u03a4\u039f \u03a4\u039f \u03a0\u0391\u0399\u03a7\u039d\u0399\u0394\u0399 \u039c\u039f\u03a5 \u039a\u0391\u039d\u0395\u0399 RAGEBAIT!\n\n\ud83d\udc54 Business Inquiries: \u279d  mrantouon555@gmail.com\n\ud83d\udcf8 Instagram      \u279d    https://www.instagram.com/mrantouon/\n \ud83d\udcf1  Tiktok             \u279d    https://www.tiktok.com/@mr.antouon\n\ud83d\udcb5 Donate    \u279d   https://streamlabs.com/antonisx007gr1/tip\n\ud83d\udca9 Discord          \u279d     https://discord.gg/yvCgRwv\n\n#mrantouon",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ewPO22O8AWE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ewPO22O8AWE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ewPO22O8AWE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ewPO22O8AWE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ewPO22O8AWE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MrAntouonPlus",
-                "tags": [
-                    "\u03bc\u03b9\u03c3\u03c4\u03b5\u03c1 \u03b1\u03bd\u03c4\u03bf\u03c5\u03b1\u03bd",
-                    "\u03b1\u03bd\u03c4\u03bf\u03bd\u03b9\u03c3\u03c7007\u03b3\u03c1",
-                    "mrantouon",
-                    "\u03bc\u03c1\u03b1\u03bd\u03c4\u03bf\u03c5\u03bf\u03bd",
-                    "mrantouon fnaf",
-                    "antonisx007gr minecraft",
-                    "skiouros",
-                    "mrantouon horror",
-                    "mrantouon poppy playtime",
-                    "horror games greek",
-                    "fnaf greek",
-                    "poppy playtime greek",
-                    "garten of banban greek",
-                    "mrantouon garten of banban",
-                    "mrantouon \u03c4\u03c1\u03bf\u03bc\u03b1\u03c7\u03c4\u03b9\u03ba\u03b1 \u03c0\u03b1\u03b9\u03c7\u03bd\u03b9\u03b4\u03b9\u03b1",
-                    "\u03b1\u03bd\u03c4\u03b5\u03c7\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b3\u03b5\u03bb\u03b1\u03c3\u03b5\u03b9\u03c2",
-                    "mrantouon reacts",
-                    "\u03bf\u03b9 \u03c0\u03b9\u03bf \u03c4\u03c5\u03c7\u03b5\u03c1\u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9",
-                    "hello neighbor greek",
-                    "poppy playtime chapter 5 greek",
-                    "garten of banban 8 gr",
-                    "mrantouonplus",
-                    "mrantouonIRL",
-                    "skiouros mrantouon"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "el",
-                "localized": {
-                    "title": "\u03a0\u03a1\u039f\u03a3\u03a0\u0391\u0398\u03a9 \u039d\u0391 \u039c\u0397\u039d \u03a0\u0395\u0398\u0391\u039d\u03a9 \u03a3\u0395 \u0391\u03a5\u03a4\u039f \u03a4\u039f \u0392\u0399\u039d\u03a4\u0395\u039f!",
-                    "description": "\ud83d\udd25 Official Merch   \u279d  https://creatorshop.gr/mrantouon/\n\ud83c\udfae Gaming \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9   \u279d https://www.youtube.com/@MrAntouon\n\ud83d\ude08 2o Reaction \u039a\u03b1\u03bd\u03ac\u03bb\u03b9  \u279d https://www.youtube.com/@MrAntouonReacts\n\ud83d\udc7d 3o IRL \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d https://www.youtube.com/@MrAntouonIRL  \n\ud83d\udca3 4o Extra \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d  https://www.youtube.com/@MrAntouonPlus\n\n\u0393\u03af\u03bd\u03b5 member \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c0\u03b9\u03bf \u03bd\u03c9\u03c1\u03af\u03c2! \u279d\nhttps://www.youtube.com/channel/UC3pGbuzgVb4Kvf6wi4P1GjA/join\n\n\u0395\u0393\u0399\u039d\u0391 \u039f \u03a7\u0395\u0399\u03a1\u039f\u03a4\u0395\u03a1\u039f\u03a3 \u039c\u03a0\u0391\u039c\u03a0\u0391\u03a3 \u03a4\u039f\u03a5 \u039a\u039f\u03a3\u039c\u039f\u03a5!\n\u0397 \u03a0\u0399\u039f \u03a7\u0391\u039f\u03a4\u0399\u039a\u0397 \u039a\u039f\u03a5\u03a1\u03a3\u0391 \u039c\u0395 \u03a0\u039f\u0394\u0397\u039b\u0391\u03a4\u039f \u03a0\u039f\u03a5 \u0398\u0391 \u0394\u0395\u0399\u03a4\u0395 \u03a0\u039f\u03a4\u0395!\n\u03a0\u03a1\u039f\u03a3\u03a0\u0391\u0398\u03a9 \u039d\u0391 \u039c\u0397\u039d \u03a0\u0395\u0398\u0391\u039d\u03a9 \u03a3\u0395 \u0391\u03a5\u03a4\u039f \u03a4\u039f \u0392\u0399\u039d\u03a4\u0395\u039f!\n\u0391\u03a5\u03a4\u039f \u03a4\u039f \u03a0\u0391\u0399\u03a7\u039d\u0399\u0394\u0399 \u039c\u039f\u03a5 \u039a\u0391\u039d\u0395\u0399 RAGEBAIT!\n\n\ud83d\udc54 Business Inquiries: \u279d  mrantouon555@gmail.com\n\ud83d\udcf8 Instagram      \u279d    https://www.instagram.com/mrantouon/\n \ud83d\udcf1  Tiktok             \u279d    https://www.tiktok.com/@mr.antouon\n\ud83d\udcb5 Donate    \u279d   https://streamlabs.com/antonisx007gr1/tip\n\ud83d\udca9 Discord          \u279d     https://discord.gg/yvCgRwv\n\n#mrantouon"
-                }
-            },
-            "statistics": {
-                "viewCount": "70373",
-                "likeCount": "2767",
-                "favoriteCount": "0",
-                "commentCount": "61"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "zv4T80e83_Olofvm5G7NqDaLnwQ",
-            "id": "mw3kSNIxjqo",
-            "snippet": {
-                "publishedAt": "2026-09-29T22:00:19Z",
-                "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
-                "title": "Taylor Swift - Patient Zero (Official Music Video)",
-                "description": "The official music video for \u201cPatient Zero\u201d by Taylor Swift, from The Life of a Showgirl: The Encore. \n\nStream/download \u2018The Life of a Showgirl: The Encore': https://taylor.lnk.to/TSTLOASTheEncore\n\n\u25baSubscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe\n\u25baShop Merch: http://taylorswift.lnk.to/store\n\n\u25baFollow Taylor Swift Online: \nTikTok: http://tiktok.com/@taylorswift \nInstagram: http://instagram.com/taylorswift \nTwitter: http://twitter.com/taylorswift13 \nSnapchat: http://snapchat.com/add/taylorswift \nFacebook: http://facebook.com/taylorswift \nTumblr: http://taylorswift.tumblr.com \nWebsite: http://www.taylorswift.com \n\n\u25baFollow Taylor Nation Online:\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com\n\nCredits:\nDirection - Taylor Swift\nCinematography - Emmanuel Lubezki\nProducer - Jil Hardin\nEditing - Chancler Haynes\nProduction Design - Ethan Tobman\n1st AD - Eric Topper\nVisual Effects - parliament\nProduction Company - Merman & Taylor Swift Productions\n\n\n#TaylorSwift #TheLifeofaShowgirlTheEncore #PatientZero",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Taylor Swift",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Taylor Swift - Patient Zero (Official Music Video)",
-                    "description": "The official music video for \u201cPatient Zero\u201d by Taylor Swift, from The Life of a Showgirl: The Encore. \n\nStream/download \u2018The Life of a Showgirl: The Encore': https://taylor.lnk.to/TSTLOASTheEncore\n\n\u25baSubscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe\n\u25baShop Merch: http://taylorswift.lnk.to/store\n\n\u25baFollow Taylor Swift Online: \nTikTok: http://tiktok.com/@taylorswift \nInstagram: http://instagram.com/taylorswift \nTwitter: http://twitter.com/taylorswift13 \nSnapchat: http://snapchat.com/add/taylorswift \nFacebook: http://facebook.com/taylorswift \nTumblr: http://taylorswift.tumblr.com \nWebsite: http://www.taylorswift.com \n\n\u25baFollow Taylor Nation Online:\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com\n\nCredits:\nDirection - Taylor Swift\nCinematography - Emmanuel Lubezki\nProducer - Jil Hardin\nEditing - Chancler Haynes\nProduction Design - Ethan Tobman\n1st AD - Eric Topper\nVisual Effects - parliament\nProduction Company - Merman & Taylor Swift Productions\n\n\n#TaylorSwift #TheLifeofaShowgirlTheEncore #PatientZero"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "statistics": {
-                "viewCount": "17441319",
-                "likeCount": "409882",
-                "favoriteCount": "0",
-                "commentCount": "19211"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "41ZG6DK9-JzjPDLmfsVwhKaHb4k",
+            "etag": "hxa6UrDBW1f5K8-8RrL6C8An6VY",
             "id": "vkKA143PkSg",
             "snippet": {
                 "publishedAt": "2026-10-10T11:00:25Z",
@@ -3660,10 +3524,146 @@
                 "defaultAudioLanguage": "el"
             },
             "statistics": {
-                "viewCount": "25949",
-                "likeCount": "1461",
+                "viewCount": "31230",
+                "likeCount": "1582",
                 "favoriteCount": "0",
-                "commentCount": "72"
+                "commentCount": "77"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NztJibLPTxRvOxxCFpOPpZwjLyE",
+            "id": "mw3kSNIxjqo",
+            "snippet": {
+                "publishedAt": "2026-09-29T22:00:19Z",
+                "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+                "title": "Taylor Swift - Patient Zero (Official Music Video)",
+                "description": "The official music video for \u201cPatient Zero\u201d by Taylor Swift, from The Life of a Showgirl: The Encore. \n\nStream/download \u2018The Life of a Showgirl: The Encore': https://taylor.lnk.to/TSTLOASTheEncore\n\n\u25baSubscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe\n\u25baShop Merch: http://taylorswift.lnk.to/store\n\n\u25baFollow Taylor Swift Online: \nTikTok: http://tiktok.com/@taylorswift \nInstagram: http://instagram.com/taylorswift \nTwitter: http://twitter.com/taylorswift13 \nSnapchat: http://snapchat.com/add/taylorswift \nFacebook: http://facebook.com/taylorswift \nTumblr: http://taylorswift.tumblr.com \nWebsite: http://www.taylorswift.com \n\n\u25baFollow Taylor Nation Online:\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com\n\nCredits:\nDirection - Taylor Swift\nCinematography - Emmanuel Lubezki\nProducer - Jil Hardin\nEditing - Chancler Haynes\nProduction Design - Ethan Tobman\n1st AD - Eric Topper\nVisual Effects - parliament\nProduction Company - Merman & Taylor Swift Productions\n\n\n#TaylorSwift #TheLifeofaShowgirlTheEncore #PatientZero",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/mw3kSNIxjqo/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Taylor Swift",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Taylor Swift - Patient Zero (Official Music Video)",
+                    "description": "The official music video for \u201cPatient Zero\u201d by Taylor Swift, from The Life of a Showgirl: The Encore. \n\nStream/download \u2018The Life of a Showgirl: The Encore': https://taylor.lnk.to/TSTLOASTheEncore\n\n\u25baSubscribe to Taylor Swift on YouTube: https://ts.lnk.to/subscribe\n\u25baShop Merch: http://taylorswift.lnk.to/store\n\n\u25baFollow Taylor Swift Online: \nTikTok: http://tiktok.com/@taylorswift \nInstagram: http://instagram.com/taylorswift \nTwitter: http://twitter.com/taylorswift13 \nSnapchat: http://snapchat.com/add/taylorswift \nFacebook: http://facebook.com/taylorswift \nTumblr: http://taylorswift.tumblr.com \nWebsite: http://www.taylorswift.com \n\n\u25baFollow Taylor Nation Online:\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com\n\nCredits:\nDirection - Taylor Swift\nCinematography - Emmanuel Lubezki\nProducer - Jil Hardin\nEditing - Chancler Haynes\nProduction Design - Ethan Tobman\n1st AD - Eric Topper\nVisual Effects - parliament\nProduction Company - Merman & Taylor Swift Productions\n\n\n#TaylorSwift #TheLifeofaShowgirlTheEncore #PatientZero"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "17465141",
+                "likeCount": "410272",
+                "favoriteCount": "0",
+                "commentCount": "19240"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1-yyjpJI2Tefje0S2jIaFaIW5EQ",
+            "id": "ms_PTHoqX9U",
+            "snippet": {
+                "publishedAt": "2026-10-08T11:00:18Z",
+                "channelId": "UC3pGbuzgVb4Kvf6wi4P1GjA",
+                "title": "o FREDDY \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ad\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bc\u03b5 \u03a3\u039a\u039f\u03a4\u03a9\u03a3\u039f\u03a5\u039d!",
+                "description": "\u0392\u03ac\u03bb\u03c4\u03b5 sac MRANTOUON \u03c3\u03c4\u03bf item store \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03b9\u03be\u03b5\u03c4\u03b5 \u03c0\u03bf\u03bb\u03bb\u03b1 \u03b1\u03c4\u03bf\u03bc\u03b1 \u03b8\u03b1 \u03b4\u03bf\u03c5\u03bc\u03b5 fortnite \u03c0\u03b9\u03bf \u03c3\u03c5\u03bd\u03c4\u03bf\u03bc\u03b1!\n\ud83d\udd25 Official Merch   \u279d  https://creatorshop.gr/mrantouon/\n\ud83c\udfae Gaming \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9   \u279d https://www.youtube.com/@MrAntouon\n\ud83d\ude08 2o Reaction \u039a\u03b1\u03bd\u03ac\u03bb\u03b9  \u279d https://www.youtube.com/@MrAntouonReacts\n\ud83d\udc7d 3o IRL \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d https://www.youtube.com/@MrAntouonIRL  \n\ud83d\udca3 4o Extra \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d  https://www.youtube.com/@MrAntouonPlus\n\no FREDDY \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ad\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bc\u03b5 \u03a3\u039a\u039f\u03a4\u03a9\u03a3\u039f\u03a5\u039d!\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1 \u03c4\u03bf FNAF \u03c3\u03c4\u03bf FORTNITE \u03ba\u03b1\u03b9 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c5\u03c4\u03cc...\n\n\n\u0393\u03af\u03bd\u03b5 member \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c0\u03b9\u03bf \u03bd\u03c9\u03c1\u03af\u03c2! \u279d\nhttps://www.youtube.com/channel/UC3pGbuzgVb4Kvf6wi4P1GjA/join\n\n\ud83d\udc54 Business Inquiries: \u279d  mrantouon555@gmail.com\n\ud83d\udcf8 Instagram      \u279d    https://www.instagram.com/mrantouon/\n \ud83d\udcf1  Tiktok             \u279d    https://www.tiktok.com/@mr.antouon\n\ud83d\udcb5 Donate    \u279d   https://streamlabs.com/antonisx007gr1/tip\n\ud83d\udca9 Discord          \u279d     https://discord.gg/yvCgRwv\n\n#mrantouon",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ms_PTHoqX9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ms_PTHoqX9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ms_PTHoqX9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ms_PTHoqX9U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ms_PTHoqX9U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrAntouonPlus",
+                "tags": [
+                    "\u03bc\u03b9\u03c3\u03c4\u03b5\u03c1 \u03b1\u03bd\u03c4\u03bf\u03c5\u03b1\u03bd",
+                    "\u03b1\u03bd\u03c4\u03bf\u03bd\u03b9\u03c3\u03c7007\u03b3\u03c1",
+                    "mrantouon",
+                    "\u03bc\u03c1\u03b1\u03bd\u03c4\u03bf\u03c5\u03bf\u03bd",
+                    "mrantouon fnaf",
+                    "antonisx007gr minecraft",
+                    "skiouros",
+                    "mrantouon horror",
+                    "mrantouon poppy playtime",
+                    "horror games greek",
+                    "fnaf greek",
+                    "poppy playtime greek",
+                    "garten of banban greek",
+                    "mrantouon garten of banban",
+                    "mrantouon \u03c4\u03c1\u03bf\u03bc\u03b1\u03c7\u03c4\u03b9\u03ba\u03b1 \u03c0\u03b1\u03b9\u03c7\u03bd\u03b9\u03b4\u03b9\u03b1",
+                    "\u03b1\u03bd\u03c4\u03b5\u03c7\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b3\u03b5\u03bb\u03b1\u03c3\u03b5\u03b9\u03c2",
+                    "mrantouon reacts",
+                    "\u03bf\u03b9 \u03c0\u03b9\u03bf \u03c4\u03c5\u03c7\u03b5\u03c1\u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9",
+                    "hello neighbor greek",
+                    "poppy playtime chapter 5 greek",
+                    "garten of banban 8 gr",
+                    "mrantouonplus",
+                    "mrantouonIRL",
+                    "skiouros mrantouon"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "el",
+                "localized": {
+                    "title": "o FREDDY \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ad\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bc\u03b5 \u03a3\u039a\u039f\u03a4\u03a9\u03a3\u039f\u03a5\u039d!",
+                    "description": "\u0392\u03ac\u03bb\u03c4\u03b5 sac MRANTOUON \u03c3\u03c4\u03bf item store \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03b9\u03be\u03b5\u03c4\u03b5 \u03c0\u03bf\u03bb\u03bb\u03b1 \u03b1\u03c4\u03bf\u03bc\u03b1 \u03b8\u03b1 \u03b4\u03bf\u03c5\u03bc\u03b5 fortnite \u03c0\u03b9\u03bf \u03c3\u03c5\u03bd\u03c4\u03bf\u03bc\u03b1!\n\ud83d\udd25 Official Merch   \u279d  https://creatorshop.gr/mrantouon/\n\ud83c\udfae Gaming \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9   \u279d https://www.youtube.com/@MrAntouon\n\ud83d\ude08 2o Reaction \u039a\u03b1\u03bd\u03ac\u03bb\u03b9  \u279d https://www.youtube.com/@MrAntouonReacts\n\ud83d\udc7d 3o IRL \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d https://www.youtube.com/@MrAntouonIRL  \n\ud83d\udca3 4o Extra \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u279d  https://www.youtube.com/@MrAntouonPlus\n\no FREDDY \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ad\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bc\u03b5 \u03a3\u039a\u039f\u03a4\u03a9\u03a3\u039f\u03a5\u039d!\n\u0388\u03c0\u03b1\u03b9\u03be\u03b1 \u03c4\u03bf FNAF \u03c3\u03c4\u03bf FORTNITE \u03ba\u03b1\u03b9 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c5\u03c4\u03cc...\n\n\n\u0393\u03af\u03bd\u03b5 member \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c0\u03b9\u03bf \u03bd\u03c9\u03c1\u03af\u03c2! \u279d\nhttps://www.youtube.com/channel/UC3pGbuzgVb4Kvf6wi4P1GjA/join\n\n\ud83d\udc54 Business Inquiries: \u279d  mrantouon555@gmail.com\n\ud83d\udcf8 Instagram      \u279d    https://www.instagram.com/mrantouon/\n \ud83d\udcf1  Tiktok             \u279d    https://www.tiktok.com/@mr.antouon\n\ud83d\udcb5 Donate    \u279d   https://streamlabs.com/antonisx007gr1/tip\n\ud83d\udca9 Discord          \u279d     https://discord.gg/yvCgRwv\n\n#mrantouon"
+                }
+            },
+            "statistics": {
+                "viewCount": "38771",
+                "likeCount": "2072",
+                "favoriteCount": "0",
+                "commentCount": "90"
             }
         }
     ],

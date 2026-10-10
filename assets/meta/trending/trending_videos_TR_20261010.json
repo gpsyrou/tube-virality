@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "HerGMw6NB5ty-3ItL09ipNbJ_jc",
+    "etag": "VtCUjO2eXrv-kFbKWgcQPX0S_Xo",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "tPrqqg8a1pWyvwx0_Va9rp99dFQ",
+            "etag": "Fele6ECIOw_ldehDJQqPyrB9LcU",
             "id": "0rW7Fbm4S7g",
             "snippet": {
                 "publishedAt": "2026-10-08T21:00:09Z",
@@ -81,15 +81,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "10466699",
-                "likeCount": "447875",
+                "viewCount": "10664210",
+                "likeCount": "450943",
                 "favoriteCount": "0",
-                "commentCount": "69334"
+                "commentCount": "69862"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1z0dNzfOGUFpOBIadT-qibD3chI",
+            "etag": "dm5xzDop-5NgVq5hg8ufzH0S3Gc",
             "id": "rTghq7VrUIc",
             "snippet": {
                 "publishedAt": "2026-10-09T15:25:20Z",
@@ -158,15 +158,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "534500",
-                "likeCount": "5952",
+                "viewCount": "544448",
+                "likeCount": "6042",
                 "favoriteCount": "0",
-                "commentCount": "694"
+                "commentCount": "700"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2xLqsrDniJQAcFRlYq9bZHca1RU",
+            "etag": "Nr6ooQrEphQ3Sesu8kEnzco-aLE",
             "id": "67nj-oPW8NE",
             "snippet": {
                 "publishedAt": "2026-10-08T21:00:06Z",
@@ -220,15 +220,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "677325",
-                "likeCount": "24741",
+                "viewCount": "690586",
+                "likeCount": "25027",
                 "favoriteCount": "0",
-                "commentCount": "4015"
+                "commentCount": "4032"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YNxZ8ucSZyLpXZZ-JhYPcGFuIbQ",
+            "etag": "OynU99YroF9PnVFURg24AMYwWOI",
             "id": "bmnymPklRQs",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:06Z",
@@ -297,15 +297,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "699933",
-                "likeCount": "23450",
+                "viewCount": "715304",
+                "likeCount": "23876",
                 "favoriteCount": "0",
-                "commentCount": "1765"
+                "commentCount": "1788"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lGJpdzcANWj5qNJ3Gahs6mT5Dts",
+            "etag": "Zvy4hWC8uVKkkcMZCnkcEdkyhgo",
             "id": "jVEyQbuo-YM",
             "snippet": {
                 "publishedAt": "2026-10-08T10:03:34Z",
@@ -357,15 +357,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "184283",
-                "likeCount": "2668",
+                "viewCount": "190370",
+                "likeCount": "2733",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xtwcW5ajAJy8aegnM8BqvUy_Dbo",
+            "etag": "DC7e4lU5ft55HlxuaMFbx3ekU4k",
             "id": "zgAXeuuBhi4",
             "snippet": {
                 "publishedAt": "2026-10-10T08:00:39Z",
@@ -437,15 +437,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "346814",
-                "likeCount": "16821",
+                "viewCount": "371243",
+                "likeCount": "17670",
                 "favoriteCount": "0",
-                "commentCount": "1429"
+                "commentCount": "1465"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "n6BQblD3Qq9vrB5tcl1By10T9c4",
+            "etag": "rDPWkgfPkYi1sSD1N8-s3-x9gtQ",
             "id": "rJ9GXBT9NRI",
             "snippet": {
                 "publishedAt": "2026-10-07T17:44:08Z",
@@ -495,15 +495,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "372752",
-                "likeCount": "2577",
+                "viewCount": "376976",
+                "likeCount": "2602",
                 "favoriteCount": "0",
                 "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9qttJItNqkEZUnnI7LHytHir5BE",
+            "etag": "vi2gvhvfoo6XxI86RtOSxG2Z7Dk",
             "id": "eKsyaf-ZAwc",
             "snippet": {
                 "publishedAt": "2026-10-09T13:44:17Z",
@@ -561,15 +561,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "334768",
-                "likeCount": "11920",
+                "viewCount": "341305",
+                "likeCount": "12095",
                 "favoriteCount": "0",
-                "commentCount": "1222"
+                "commentCount": "1237"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Y3a-9mvER7CQCVIR0_i0vz-dp8Y",
+            "etag": "9z2ObZ6IEBvmhtFMyoSVk_jeOaI",
             "id": "HSsy_7aqXEA",
             "snippet": {
                 "publishedAt": "2026-10-08T19:16:47Z",
@@ -633,15 +633,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "541918",
-                "likeCount": "12657",
+                "viewCount": "551358",
+                "likeCount": "12754",
                 "favoriteCount": "0",
-                "commentCount": "525"
+                "commentCount": "538"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GGGDCqLPAqO4D1UyMZkT-Z0kkts",
+            "etag": "YgFxPklLcKUj7ZwxdH82o4BEW8Y",
             "id": "b2VKR0wl2x8",
             "snippet": {
                 "publishedAt": "2026-10-10T07:00:08Z",
@@ -715,15 +715,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "102630",
-                "likeCount": "755",
+                "viewCount": "106937",
+                "likeCount": "786",
                 "favoriteCount": "0",
-                "commentCount": "240"
+                "commentCount": "248"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6fv23HLHC0NedSzRuS9064bppFE",
+            "etag": "PB7TWAjw837uSBY9lHYyUIWKook",
             "id": "Px8d04TXUb4",
             "snippet": {
                 "publishedAt": "2026-10-05T08:25:44Z",
@@ -781,15 +781,157 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "1378808",
-                "likeCount": "13613",
+                "viewCount": "1397880",
+                "likeCount": "13757",
                 "favoriteCount": "0",
                 "commentCount": "62"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vUNWOq-5IYj-K-VnBxQ02WR1C1g",
+            "etag": "SbOaB6yw1FgMxgk8cIOFqCh8GAc",
+            "id": "UPGEvyX8iwc",
+            "snippet": {
+                "publishedAt": "2026-10-10T07:30:01Z",
+                "channelId": "UCoBL6aCpzksBQNt5fDjr6ig",
+                "title": "S\u00dcPER AYI ARABAYI AYI K\u00d6Y\u00dcNE GET\u0130RD\u0130! N\u0130NETALUS \u015eOK! \ud83d\ude31\ud83d\udc3b",
+                "description": "Bug\u00fcn Super Bear Adventure yani s\u00fcper ay\u0131 oyununu oynuyoruz. Bu oyunda s\u00fcper ay\u0131 ay\u0131 k\u00f6y\u00fcne araba getirdi ve s\u00fcrd\u00fc. Farkl\u0131 e\u011flenceli mobil oyunlar\u0131n gelmesini istiyorsan\u0131z be\u011fenmeyi ve kanala abone olmay\u0131 unutmay\u0131n. !!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "YED SHOW",
+                "tags": [
+                    "e\u011flenceli oyun",
+                    "e\u011flenceli komik oyun",
+                    "basit oyun",
+                    "ka\u00e7\u0131\u015f oyunu",
+                    "oyun",
+                    "mobil oyun",
+                    "tablet oyunlar\u0131",
+                    "en iyi mobil oyunlar",
+                    "mobil oyunlar",
+                    "\u00fccretsiz mobil oyunlar",
+                    "internetsiz mobil oyunlar",
+                    "e\u011flenceli oyunlar",
+                    "e\u011flenceli oyunlar mobil",
+                    "oyun videolar\u0131",
+                    "e\u011flenceli video",
+                    "a\u015f\u0131r\u0131 e\u011flenceli oyun",
+                    "yed show",
+                    "oyun videosu",
+                    "super bear adventure",
+                    "s\u00fcper ay\u0131",
+                    "s\u00fcper ay\u0131 oyunu",
+                    "super bear adventure t\u00fcrk\u00e7e",
+                    "s\u00fcper ay\u0131 araba",
+                    "s\u00fcper ay\u0131 mod"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "S\u00dcPER AYI ARABAYI AYI K\u00d6Y\u00dcNE GET\u0130RD\u0130! N\u0130NETALUS \u015eOK! \ud83d\ude31\ud83d\udc3b",
+                    "description": "Bug\u00fcn Super Bear Adventure yani s\u00fcper ay\u0131 oyununu oynuyoruz. Bu oyunda s\u00fcper ay\u0131 ay\u0131 k\u00f6y\u00fcne araba getirdi ve s\u00fcrd\u00fc. Farkl\u0131 e\u011flenceli mobil oyunlar\u0131n gelmesini istiyorsan\u0131z be\u011fenmeyi ve kanala abone olmay\u0131 unutmay\u0131n. !!"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "90211",
+                "likeCount": "642",
+                "favoriteCount": "0",
+                "commentCount": "69"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "B3YnpessgqV4FSGi88eZ4mdI9xU",
+            "id": "efzm4nKsb8o",
+            "snippet": {
+                "publishedAt": "2026-10-08T10:03:39Z",
+                "channelId": "UC84E3OmrzcrHT8zNDKRdbyQ",
+                "title": "Beni Kendine Ba\u011flad\u0131",
+                "description": "Provided to YouTube by ONErpm\n\nBeni Kendine Ba\u011flad\u0131 \u00b7 S\u0131la \u015eahin \u00b7 Samet Karde\u015fler\n\nBeni Kendine Ba\u011flad\u0131\n\n\u2117 S\u0131la x Samet\n\nReleased on: 2026-10-09\n\nComposer Lyricist: S\u0131la \u015eahin\nComposer Lyricist: Samet Karde\u015fler\nMusician: S\u0131la \u015eahin\nMusician: Samet Karde\u015fler\nStudio Producer: Cem Dikici\nMixing Engineer: Bu\u011fra Kunt\nMastering Engineer: Bu\u011fra Kunt\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "S\u0131la \u015eahin - Topic",
+                "tags": [
+                    "S\u0131la \u015eahin",
+                    "Samet Karde\u015fler",
+                    "Beni Kendine Ba\u011flad\u0131"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Beni Kendine Ba\u011flad\u0131",
+                    "description": "Provided to YouTube by ONErpm\n\nBeni Kendine Ba\u011flad\u0131 \u00b7 S\u0131la \u015eahin \u00b7 Samet Karde\u015fler\n\nBeni Kendine Ba\u011flad\u0131\n\n\u2117 S\u0131la x Samet\n\nReleased on: 2026-10-09\n\nComposer Lyricist: S\u0131la \u015eahin\nComposer Lyricist: Samet Karde\u015fler\nMusician: S\u0131la \u015eahin\nMusician: Samet Karde\u015fler\nStudio Producer: Cem Dikici\nMixing Engineer: Bu\u011fra Kunt\nMastering Engineer: Bu\u011fra Kunt\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "157185",
+                "likeCount": "1857",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MtfLECqDCaZ02sXTIUShMJQfqvk",
             "id": "mEx4wx0OPpM",
             "snippet": {
                 "publishedAt": "2026-10-08T14:30:19Z",
@@ -854,73 +996,72 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "301549",
-                "likeCount": "12531",
+                "viewCount": "305215",
+                "likeCount": "12594",
                 "favoriteCount": "0",
-                "commentCount": "1717"
+                "commentCount": "1728"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "a5nu2xq196hgFZxgbq2urQ3RcaY",
-            "id": "efzm4nKsb8o",
+            "etag": "SzHyvvK0DruKZNW5RkxNX30jzh8",
+            "id": "m0FBDx4XKJ0",
             "snippet": {
-                "publishedAt": "2026-10-08T10:03:39Z",
-                "channelId": "UC84E3OmrzcrHT8zNDKRdbyQ",
-                "title": "Beni Kendine Ba\u011flad\u0131",
-                "description": "Provided to YouTube by ONErpm\n\nBeni Kendine Ba\u011flad\u0131 \u00b7 S\u0131la \u015eahin \u00b7 Samet Karde\u015fler\n\nBeni Kendine Ba\u011flad\u0131\n\n\u2117 S\u0131la x Samet\n\nReleased on: 2026-10-09\n\nComposer Lyricist: S\u0131la \u015eahin\nComposer Lyricist: Samet Karde\u015fler\nMusician: S\u0131la \u015eahin\nMusician: Samet Karde\u015fler\nStudio Producer: Cem Dikici\nMixing Engineer: Bu\u011fra Kunt\nMastering Engineer: Bu\u011fra Kunt\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-09T14:52:59Z",
+                "channelId": "UClXDnFkShjIDpBbX6d4xp3g",
+                "title": "Bir Hu\u0308zu\u0308n \u00dclkesiyim",
+                "description": "Provided to YouTube by Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim \u00b7 Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim\n\n\u2117 Hirai Zerd\u00fc\u015f\n\nReleased on: 2026-10-09\n\nProducer: Hirai Zerd\u00fc\u015f\nComposer: Hirai Zerd\u00fc\u015f\nLyricist: Hirai Zerd\u00fc\u015f\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/efzm4nKsb8o/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "S\u0131la \u015eahin - Topic",
+                "channelTitle": "Hirai Zerd\u00fc\u015f - Topic",
                 "tags": [
-                    "S\u0131la \u015eahin",
-                    "Samet Karde\u015fler",
-                    "Beni Kendine Ba\u011flad\u0131"
+                    "Hirai Zerd\u00fc\u015f",
+                    "Bir Hu\u0308zu\u0308n \u00dclkesiyim"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Beni Kendine Ba\u011flad\u0131",
-                    "description": "Provided to YouTube by ONErpm\n\nBeni Kendine Ba\u011flad\u0131 \u00b7 S\u0131la \u015eahin \u00b7 Samet Karde\u015fler\n\nBeni Kendine Ba\u011flad\u0131\n\n\u2117 S\u0131la x Samet\n\nReleased on: 2026-10-09\n\nComposer Lyricist: S\u0131la \u015eahin\nComposer Lyricist: Samet Karde\u015fler\nMusician: S\u0131la \u015eahin\nMusician: Samet Karde\u015fler\nStudio Producer: Cem Dikici\nMixing Engineer: Bu\u011fra Kunt\nMastering Engineer: Bu\u011fra Kunt\n\nAuto-generated by YouTube."
+                    "title": "Bir Hu\u0308zu\u0308n \u00dclkesiyim",
+                    "description": "Provided to YouTube by Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim \u00b7 Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim\n\n\u2117 Hirai Zerd\u00fc\u015f\n\nReleased on: 2026-10-09\n\nProducer: Hirai Zerd\u00fc\u015f\nComposer: Hirai Zerd\u00fc\u015f\nLyricist: Hirai Zerd\u00fc\u015f\n\nAuto-generated by YouTube."
                 },
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "153009",
-                "likeCount": "1800",
+                "viewCount": "67123",
+                "likeCount": "425",
                 "favoriteCount": "0",
-                "commentCount": "24"
+                "commentCount": "15"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oGEDZROTKl7Dut3lRJDhKV-vGWw",
+            "etag": "sFLtvnmtGsWUaWhiFZuqddyk0nI",
             "id": "pvcatuDNeMU",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:02Z",
@@ -997,156 +1138,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "175931",
-                "likeCount": "1950",
+                "viewCount": "179479",
+                "likeCount": "1970",
                 "favoriteCount": "0",
-                "commentCount": "307"
+                "commentCount": "314"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "BCU1Fp9svzptjK3e4DkKPjhMf9o",
-            "id": "m0FBDx4XKJ0",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:52:59Z",
-                "channelId": "UClXDnFkShjIDpBbX6d4xp3g",
-                "title": "Bir Hu\u0308zu\u0308n \u00dclkesiyim",
-                "description": "Provided to YouTube by Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim \u00b7 Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim\n\n\u2117 Hirai Zerd\u00fc\u015f\n\nReleased on: 2026-10-09\n\nProducer: Hirai Zerd\u00fc\u015f\nComposer: Hirai Zerd\u00fc\u015f\nLyricist: Hirai Zerd\u00fc\u015f\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/m0FBDx4XKJ0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Hirai Zerd\u00fc\u015f - Topic",
-                "tags": [
-                    "Hirai Zerd\u00fc\u015f",
-                    "Bir Hu\u0308zu\u0308n \u00dclkesiyim"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Bir Hu\u0308zu\u0308n \u00dclkesiyim",
-                    "description": "Provided to YouTube by Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim \u00b7 Hirai Zerd\u00fc\u015f\n\nBir Hu\u0308zu\u0308n \u00dclkesiyim\n\n\u2117 Hirai Zerd\u00fc\u015f\n\nReleased on: 2026-10-09\n\nProducer: Hirai Zerd\u00fc\u015f\nComposer: Hirai Zerd\u00fc\u015f\nLyricist: Hirai Zerd\u00fc\u015f\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "65313",
-                "likeCount": "416",
-                "favoriteCount": "0",
-                "commentCount": "15"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "RBgwy4xeWpOjmCrkHB26bMx7Ojs",
-            "id": "UPGEvyX8iwc",
-            "snippet": {
-                "publishedAt": "2026-10-10T07:30:01Z",
-                "channelId": "UCoBL6aCpzksBQNt5fDjr6ig",
-                "title": "S\u00dcPER AYI ARABAYI AYI K\u00d6Y\u00dcNE GET\u0130RD\u0130! N\u0130NETALUS \u015eOK! \ud83d\ude31\ud83d\udc3b",
-                "description": "Bug\u00fcn Super Bear Adventure yani s\u00fcper ay\u0131 oyununu oynuyoruz. Bu oyunda s\u00fcper ay\u0131 ay\u0131 k\u00f6y\u00fcne araba getirdi ve s\u00fcrd\u00fc. Farkl\u0131 e\u011flenceli mobil oyunlar\u0131n gelmesini istiyorsan\u0131z be\u011fenmeyi ve kanala abone olmay\u0131 unutmay\u0131n. !!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/UPGEvyX8iwc/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "YED SHOW",
-                "tags": [
-                    "e\u011flenceli oyun",
-                    "e\u011flenceli komik oyun",
-                    "basit oyun",
-                    "ka\u00e7\u0131\u015f oyunu",
-                    "oyun",
-                    "mobil oyun",
-                    "tablet oyunlar\u0131",
-                    "en iyi mobil oyunlar",
-                    "mobil oyunlar",
-                    "\u00fccretsiz mobil oyunlar",
-                    "internetsiz mobil oyunlar",
-                    "e\u011flenceli oyunlar",
-                    "e\u011flenceli oyunlar mobil",
-                    "oyun videolar\u0131",
-                    "e\u011flenceli video",
-                    "a\u015f\u0131r\u0131 e\u011flenceli oyun",
-                    "yed show",
-                    "oyun videosu",
-                    "super bear adventure",
-                    "s\u00fcper ay\u0131",
-                    "s\u00fcper ay\u0131 oyunu",
-                    "super bear adventure t\u00fcrk\u00e7e",
-                    "s\u00fcper ay\u0131 araba",
-                    "s\u00fcper ay\u0131 mod"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "S\u00dcPER AYI ARABAYI AYI K\u00d6Y\u00dcNE GET\u0130RD\u0130! N\u0130NETALUS \u015eOK! \ud83d\ude31\ud83d\udc3b",
-                    "description": "Bug\u00fcn Super Bear Adventure yani s\u00fcper ay\u0131 oyununu oynuyoruz. Bu oyunda s\u00fcper ay\u0131 ay\u0131 k\u00f6y\u00fcne araba getirdi ve s\u00fcrd\u00fc. Farkl\u0131 e\u011flenceli mobil oyunlar\u0131n gelmesini istiyorsan\u0131z be\u011fenmeyi ve kanala abone olmay\u0131 unutmay\u0131n. !!"
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "84059",
-                "likeCount": "612",
-                "favoriteCount": "0",
-                "commentCount": "68"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "oYyseqVpFl17AjEnOBl_CKn3ZY4",
+            "etag": "GiAXZAw_xoLucMSwus5NQK3obi8",
             "id": "S7rdkKL4rhs",
             "snippet": {
                 "publishedAt": "2026-10-08T21:00:06Z",
@@ -1209,15 +1209,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "326360",
-                "likeCount": "20893",
+                "viewCount": "329587",
+                "likeCount": "20987",
                 "favoriteCount": "0",
-                "commentCount": "2947"
+                "commentCount": "2952"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "O-7NwDKaZZ7t4moMCp73QomHtTo",
+            "etag": "vc5EGO_Lmhnn5qeYvQ_IoqEPSa0",
             "id": "3vRYAeT5N50",
             "snippet": {
                 "publishedAt": "2026-10-09T14:44:48Z",
@@ -1302,15 +1302,15 @@
                 "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "208197",
-                "likeCount": "12814",
+                "viewCount": "211395",
+                "likeCount": "12948",
                 "favoriteCount": "0",
-                "commentCount": "774"
+                "commentCount": "775"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hIOpydXi0H-oqlT3gN2skSGX64U",
+            "etag": "NsjvN_qRtCeikXFE2mvve-mV3N8",
             "id": "QEB8bPpnZ2s",
             "snippet": {
                 "publishedAt": "2026-10-09T05:30:26Z",
@@ -1360,15 +1360,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "108333",
-                "likeCount": "376",
+                "viewCount": "109735",
+                "likeCount": "382",
                 "favoriteCount": "0",
-                "commentCount": "7"
+                "commentCount": "8"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "i09fRDchbLKblpKJw40uQhqr8Vo",
+            "etag": "hk3q45HzoOvcJ2CthFu_KjFjawo",
             "id": "co1y0UKFeVE",
             "snippet": {
                 "publishedAt": "2026-10-08T13:00:32Z",
@@ -1424,15 +1424,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "256022",
-                "likeCount": "2956",
+                "viewCount": "258080",
+                "likeCount": "2979",
                 "favoriteCount": "0",
-                "commentCount": "295"
+                "commentCount": "296"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-YnvddymofvXyE9_GLzjM4TesUk",
+            "etag": "GmaPY-e3KGZdscAu5Ux54kV84ps",
             "id": "uwncF8oTOGU",
             "snippet": {
                 "publishedAt": "2026-10-07T07:38:33Z",
@@ -1480,15 +1480,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "394986",
-                "likeCount": "3776",
+                "viewCount": "401236",
+                "likeCount": "3850",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "BU2yS042dGnHo6WkaayFXSPTf8s",
+            "etag": "WCjo1xng08mjt4RyTErLPrIVuI4",
             "id": "EEvGkmo3btA",
             "snippet": {
                 "publishedAt": "2026-10-09T15:14:19Z",
@@ -1566,15 +1566,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "173992",
-                "likeCount": "2679",
+                "viewCount": "177107",
+                "likeCount": "2700",
                 "favoriteCount": "0",
-                "commentCount": "379"
+                "commentCount": "381"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PV2-fezQV0wlS_3g4i_4hajzXCY",
+            "etag": "N2U2WQsBs2G_FFoeA5xDQl9VO3s",
             "id": "QyBFKx6Fu6o",
             "snippet": {
                 "publishedAt": "2026-10-08T10:02:38Z",
@@ -1623,295 +1623,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "91266",
-                "likeCount": "389",
+                "viewCount": "92694",
+                "likeCount": "398",
                 "favoriteCount": "0",
                 "commentCount": "7"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "zEuH0FN-CijH20hTUkDIU7AcaF0",
-            "id": "apXGlS1VQW8",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:10:16Z",
-                "channelId": "UCpNTW8srrmmDcR9y8IPBmvg",
-                "title": "KORKUN\u00c7 A\u0130LE Berca'y\u0131 Evlat Edindi! - Minecraft",
-                "description": "Di\u011fer Videolar\u0131m: https://youtube.com/playlist?list=PLqzGFVjQAA30MZ4gJhEatO8ET6iqOnTNx\n#berca #minecraft #oyun\n\nMerhaba arkada\u015flar ben Berca videolar\u0131mdan an\u0131nda haberder olmak i\u00e7in bildirimleri a\u00e7may\u0131 ve videoyu be\u011fenirseniz like at\u0131p yorum yazmay\u0131 l\u00fctfen unutmay\u0131n.\n\n\u2714 Sponsorluk veya i\u015fbirli\u011fi i\u00e7in: bercailetisim@gmail.com\n\nBu kanalda T\u00fcrk\u00e7e dilinde e\u011flenceli Minecraft videolar\u0131 bulabilirsiniz. Bu videolar yeti\u015fkin bireyler i\u00e7in haz\u0131rlanm\u0131\u015f videolard\u0131r. #zenginfakir hayat\u0131n\u0131 ve onlar\u0131n maceralar\u0131n\u0131 bulabilirsiniz.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Berca",
-                "tags": [
-                    "minecraft",
-                    "minecraft videolar\u0131",
-                    "minecraft mod",
-                    "minecraft animasyon",
-                    "t\u00fcrk\u00e7e minecraft",
-                    "minecraft izle",
-                    "minecraft oyna",
-                    "zengin vs fakir",
-                    "berca",
-                    "minecraft k\u0131z",
-                    "berca minecraft",
-                    "minecraft video",
-                    "minecraft zengin vs fakir",
-                    "berca mayk\u0131raft",
-                    "berca vs minecraft",
-                    "minecraft berca",
-                    "berca abla",
-                    "berca oyun",
-                    "berca izle",
-                    "berca vs",
-                    "k\u0131z bebek sonic",
-                    "berca vs k\u0131z bebek sonic",
-                    "korkun\u00e7 anne baba",
-                    "minecraft anne baba",
-                    "berca anne baba",
-                    "berca bebek",
-                    "bebek",
-                    "aile",
-                    "berca aile",
-                    "korkun\u00e7 aile",
-                    "korkun\u00e7"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "KORKUN\u00c7 A\u0130LE Berca'y\u0131 Evlat Edindi! - Minecraft",
-                    "description": "Di\u011fer Videolar\u0131m: https://youtube.com/playlist?list=PLqzGFVjQAA30MZ4gJhEatO8ET6iqOnTNx\n#berca #minecraft #oyun\n\nMerhaba arkada\u015flar ben Berca videolar\u0131mdan an\u0131nda haberder olmak i\u00e7in bildirimleri a\u00e7may\u0131 ve videoyu be\u011fenirseniz like at\u0131p yorum yazmay\u0131 l\u00fctfen unutmay\u0131n.\n\n\u2714 Sponsorluk veya i\u015fbirli\u011fi i\u00e7in: bercailetisim@gmail.com\n\nBu kanalda T\u00fcrk\u00e7e dilinde e\u011flenceli Minecraft videolar\u0131 bulabilirsiniz. Bu videolar yeti\u015fkin bireyler i\u00e7in haz\u0131rlanm\u0131\u015f videolard\u0131r. #zenginfakir hayat\u0131n\u0131 ve onlar\u0131n maceralar\u0131n\u0131 bulabilirsiniz."
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "99304",
-                "likeCount": "686",
-                "favoriteCount": "0",
-                "commentCount": "51"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "lPhyDoe__e0j11S7iIYJNt9762Y",
-            "id": "FJnJSrxnDCo",
-            "snippet": {
-                "publishedAt": "2026-10-08T10:00:32Z",
-                "channelId": "UCKFOu0j-yMwWQbuOsNsYElQ",
-                "title": "Karak\u0131\u015f",
-                "description": "Provided to YouTube by Virgin Music Group\n\nKarak\u0131\u015f \u00b7 Mert Demir \u00b7 Kibariye\n\nKarak\u0131\u015f\n\n\u2117 2026 Pale Records\n\nReleased on: 2026-10-09\n\nMixing Engineer, Mastering Engineer: Emre Malikler\nProducer: Mert Demir\nProducer: Ali Cem Bilgili\nComposer Lyricist: Mert Demir\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Mert Demir - Topic",
-                "tags": [
-                    "Mert Demir",
-                    "Kibariye",
-                    "Karak\u0131\u015f"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "Karak\u0131\u015f",
-                    "description": "Provided to YouTube by Virgin Music Group\n\nKarak\u0131\u015f \u00b7 Mert Demir \u00b7 Kibariye\n\nKarak\u0131\u015f\n\n\u2117 2026 Pale Records\n\nReleased on: 2026-10-09\n\nMixing Engineer, Mastering Engineer: Emre Malikler\nProducer: Mert Demir\nProducer: Ali Cem Bilgili\nComposer Lyricist: Mert Demir\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "79605",
-                "likeCount": "1427",
-                "favoriteCount": "0",
-                "commentCount": "25"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ZywCagYXzDcWr3oor0D6iV_Mt2A",
-            "id": "javQvZ0ADx0",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:00:08Z",
-                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
-                "title": "skibidi toilet 82",
-                "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "skibidi",
-                "tags": [
-                    "skibidi toilet 82",
-                    "skibidi toilet",
-                    "skibidi",
-                    "82",
-                    "skibidi 82",
-                    "skibidi toilet episode 82",
-                    "episode 82",
-                    "skibidi toilet new episode",
-                    "g-toilet",
-                    "g toilet",
-                    "\uc2a4\ud0a4\ube44\ub514 \ud1a0\uc77c\ub81b",
-                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30c8\u30a4\u30ec",
-                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30fb\u30c8\u30a4\u30ec",
-                    "\u0e2a\u0e01\u0e35\u0e1a\u0e35\u0e14\u0e35\u0e49\u0e17\u0e2d\u0e22\u0e40\u0e25\u0e47\u0e15",
-                    "esquibidi do toilet",
-                    "skippy toilet",
-                    "skippity toilet",
-                    "toilet",
-                    "skibidi toilet season 27"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "skibidi toilet 82",
-                    "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "4784921",
-                "likeCount": "212536",
-                "favoriteCount": "0",
-                "commentCount": "27785"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "yv3XiXrED8_HQkIHD2tcFP9pzZQ",
-            "id": "vCK6HguM_zc",
-            "snippet": {
-                "publishedAt": "2026-10-09T10:00:25Z",
-                "channelId": "UCEwoDxL1dCw-f9Zpl9jSX3g",
-                "title": "KUPL\u0130",
-                "description": "Provided to YouTube by Y\u00fcksel Baltac\u0131\n\nKUPL\u0130 \u00b7 Y\u00fcksel Baltac\u0131\n\nKUPL\u0130\n\n\u2117 Y\u00fcksel Baltac\u0131\n\nReleased on: 2026-10-10\n\nProducer: Y\u00fcksel Baltac\u0131\nSound Engineer: Y\u00fcksel Baltac\u0131\nComposer: Y\u00fcksel Baltac\u0131\nLyricist: Y\u00fcksel Baltac\u0131\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Y\u00fcksel Baltac\u0131 - Topic",
-                "tags": [
-                    "Y\u00fcksel Baltac\u0131",
-                    "KUPL\u0130"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "KUPL\u0130",
-                    "description": "Provided to YouTube by Y\u00fcksel Baltac\u0131\n\nKUPL\u0130 \u00b7 Y\u00fcksel Baltac\u0131\n\nKUPL\u0130\n\n\u2117 Y\u00fcksel Baltac\u0131\n\nReleased on: 2026-10-10\n\nProducer: Y\u00fcksel Baltac\u0131\nSound Engineer: Y\u00fcksel Baltac\u0131\nComposer: Y\u00fcksel Baltac\u0131\nLyricist: Y\u00fcksel Baltac\u0131\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "43502",
-                "likeCount": "985",
-                "favoriteCount": "0",
-                "commentCount": "34"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "peVAdMpjLJdnjY9NlDP7yfGHaMA",
+            "etag": "yARixFsUObAsCpL6iR2ItdOgBOk",
             "id": "8U9TzKtxQ6w",
             "snippet": {
                 "publishedAt": "2026-10-10T08:00:00Z",
@@ -1995,15 +1715,295 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "88857",
-                "likeCount": "1476",
+                "viewCount": "94988",
+                "likeCount": "1563",
                 "favoriteCount": "0",
-                "commentCount": "138"
+                "commentCount": "144"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yMBT9Hj9Dc-iXVma7IMfjWfoTD4",
+            "etag": "Ne1_Z8JvprgEN74DXT8zdwi_gNY",
+            "id": "FJnJSrxnDCo",
+            "snippet": {
+                "publishedAt": "2026-10-08T10:00:32Z",
+                "channelId": "UCKFOu0j-yMwWQbuOsNsYElQ",
+                "title": "Karak\u0131\u015f",
+                "description": "Provided to YouTube by Virgin Music Group\n\nKarak\u0131\u015f \u00b7 Mert Demir \u00b7 Kibariye\n\nKarak\u0131\u015f\n\n\u2117 2026 Pale Records\n\nReleased on: 2026-10-09\n\nMixing Engineer, Mastering Engineer: Emre Malikler\nProducer: Mert Demir\nProducer: Ali Cem Bilgili\nComposer Lyricist: Mert Demir\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FJnJSrxnDCo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mert Demir - Topic",
+                "tags": [
+                    "Mert Demir",
+                    "Kibariye",
+                    "Karak\u0131\u015f"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Karak\u0131\u015f",
+                    "description": "Provided to YouTube by Virgin Music Group\n\nKarak\u0131\u015f \u00b7 Mert Demir \u00b7 Kibariye\n\nKarak\u0131\u015f\n\n\u2117 2026 Pale Records\n\nReleased on: 2026-10-09\n\nMixing Engineer, Mastering Engineer: Emre Malikler\nProducer: Mert Demir\nProducer: Ali Cem Bilgili\nComposer Lyricist: Mert Demir\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "82000",
+                "likeCount": "1471",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ge8YjV7sk5X5QKXb-VWApUeT-58",
+            "id": "apXGlS1VQW8",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:10:16Z",
+                "channelId": "UCpNTW8srrmmDcR9y8IPBmvg",
+                "title": "KORKUN\u00c7 A\u0130LE Berca'y\u0131 Evlat Edindi! - Minecraft",
+                "description": "Di\u011fer Videolar\u0131m: https://youtube.com/playlist?list=PLqzGFVjQAA30MZ4gJhEatO8ET6iqOnTNx\n#berca #minecraft #oyun\n\nMerhaba arkada\u015flar ben Berca videolar\u0131mdan an\u0131nda haberder olmak i\u00e7in bildirimleri a\u00e7may\u0131 ve videoyu be\u011fenirseniz like at\u0131p yorum yazmay\u0131 l\u00fctfen unutmay\u0131n.\n\n\u2714 Sponsorluk veya i\u015fbirli\u011fi i\u00e7in: bercailetisim@gmail.com\n\nBu kanalda T\u00fcrk\u00e7e dilinde e\u011flenceli Minecraft videolar\u0131 bulabilirsiniz. Bu videolar yeti\u015fkin bireyler i\u00e7in haz\u0131rlanm\u0131\u015f videolard\u0131r. #zenginfakir hayat\u0131n\u0131 ve onlar\u0131n maceralar\u0131n\u0131 bulabilirsiniz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/apXGlS1VQW8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Berca",
+                "tags": [
+                    "minecraft",
+                    "minecraft videolar\u0131",
+                    "minecraft mod",
+                    "minecraft animasyon",
+                    "t\u00fcrk\u00e7e minecraft",
+                    "minecraft izle",
+                    "minecraft oyna",
+                    "zengin vs fakir",
+                    "berca",
+                    "minecraft k\u0131z",
+                    "berca minecraft",
+                    "minecraft video",
+                    "minecraft zengin vs fakir",
+                    "berca mayk\u0131raft",
+                    "berca vs minecraft",
+                    "minecraft berca",
+                    "berca abla",
+                    "berca oyun",
+                    "berca izle",
+                    "berca vs",
+                    "k\u0131z bebek sonic",
+                    "berca vs k\u0131z bebek sonic",
+                    "korkun\u00e7 anne baba",
+                    "minecraft anne baba",
+                    "berca anne baba",
+                    "berca bebek",
+                    "bebek",
+                    "aile",
+                    "berca aile",
+                    "korkun\u00e7 aile",
+                    "korkun\u00e7"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "KORKUN\u00c7 A\u0130LE Berca'y\u0131 Evlat Edindi! - Minecraft",
+                    "description": "Di\u011fer Videolar\u0131m: https://youtube.com/playlist?list=PLqzGFVjQAA30MZ4gJhEatO8ET6iqOnTNx\n#berca #minecraft #oyun\n\nMerhaba arkada\u015flar ben Berca videolar\u0131mdan an\u0131nda haberder olmak i\u00e7in bildirimleri a\u00e7may\u0131 ve videoyu be\u011fenirseniz like at\u0131p yorum yazmay\u0131 l\u00fctfen unutmay\u0131n.\n\n\u2714 Sponsorluk veya i\u015fbirli\u011fi i\u00e7in: bercailetisim@gmail.com\n\nBu kanalda T\u00fcrk\u00e7e dilinde e\u011flenceli Minecraft videolar\u0131 bulabilirsiniz. Bu videolar yeti\u015fkin bireyler i\u00e7in haz\u0131rlanm\u0131\u015f videolard\u0131r. #zenginfakir hayat\u0131n\u0131 ve onlar\u0131n maceralar\u0131n\u0131 bulabilirsiniz."
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "101299",
+                "likeCount": "705",
+                "favoriteCount": "0",
+                "commentCount": "52"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iDXn766mDXdQHO_rCKYXJtC-oJo",
+            "id": "vCK6HguM_zc",
+            "snippet": {
+                "publishedAt": "2026-10-09T10:00:25Z",
+                "channelId": "UCEwoDxL1dCw-f9Zpl9jSX3g",
+                "title": "KUPL\u0130",
+                "description": "Provided to YouTube by Y\u00fcksel Baltac\u0131\n\nKUPL\u0130 \u00b7 Y\u00fcksel Baltac\u0131\n\nKUPL\u0130\n\n\u2117 Y\u00fcksel Baltac\u0131\n\nReleased on: 2026-10-10\n\nProducer: Y\u00fcksel Baltac\u0131\nSound Engineer: Y\u00fcksel Baltac\u0131\nComposer: Y\u00fcksel Baltac\u0131\nLyricist: Y\u00fcksel Baltac\u0131\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vCK6HguM_zc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Y\u00fcksel Baltac\u0131 - Topic",
+                "tags": [
+                    "Y\u00fcksel Baltac\u0131",
+                    "KUPL\u0130"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "KUPL\u0130",
+                    "description": "Provided to YouTube by Y\u00fcksel Baltac\u0131\n\nKUPL\u0130 \u00b7 Y\u00fcksel Baltac\u0131\n\nKUPL\u0130\n\n\u2117 Y\u00fcksel Baltac\u0131\n\nReleased on: 2026-10-10\n\nProducer: Y\u00fcksel Baltac\u0131\nSound Engineer: Y\u00fcksel Baltac\u0131\nComposer: Y\u00fcksel Baltac\u0131\nLyricist: Y\u00fcksel Baltac\u0131\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "45736",
+                "likeCount": "1051",
+                "favoriteCount": "0",
+                "commentCount": "36"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Dmd5r4EGIOJDgRt2g1PKqWyL4Oo",
+            "id": "javQvZ0ADx0",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:00:08Z",
+                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+                "title": "skibidi toilet 82",
+                "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/javQvZ0ADx0/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "skibidi",
+                "tags": [
+                    "skibidi toilet 82",
+                    "skibidi toilet",
+                    "skibidi",
+                    "82",
+                    "skibidi 82",
+                    "skibidi toilet episode 82",
+                    "episode 82",
+                    "skibidi toilet new episode",
+                    "g-toilet",
+                    "g toilet",
+                    "\uc2a4\ud0a4\ube44\ub514 \ud1a0\uc77c\ub81b",
+                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30c8\u30a4\u30ec",
+                    "\u30b9\u30ad\u30d3\u30c7\u30a3\u30fb\u30c8\u30a4\u30ec",
+                    "\u0e2a\u0e01\u0e35\u0e1a\u0e35\u0e14\u0e35\u0e49\u0e17\u0e2d\u0e22\u0e40\u0e25\u0e47\u0e15",
+                    "esquibidi do toilet",
+                    "skippy toilet",
+                    "skippity toilet",
+                    "toilet",
+                    "skibidi toilet season 27"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "skibidi toilet 82",
+                    "description": "the truth?\n\nskibidi dop dop dop yes yes\n\nseries created by DaFuq!?Boom!\n\nskibidi toilet 82 by:\nStrider - @StriderZ47 \nVirlance - @Virlance \nAchi - @y4pch1 \nFluid Script Studios - @FluidScriptStudios \n\nadditional credits:\nadditional particles - @HoovyTube \n\nCreated using the Source\u00ae Filmmaker. \u00a9 Valve 2026.\nAssets used in the video may include, but not limited to: Steam Workshop, SFMLab and other Downloadable Asset resource websites, including Non-Source.\n\njoin the discord:\nhttps://discord.gg/skibidi \n\ncontact:\nskibidi.biz@invisiblenarratives.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "4849735",
+                "likeCount": "214346",
+                "favoriteCount": "0",
+                "commentCount": "27922"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gMOkKFOBdd3MbRweKNjnvrUi8FY",
             "id": "hFGUjeDu1AA",
             "snippet": {
                 "publishedAt": "2026-10-08T10:03:58Z",
@@ -2052,15 +2052,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "59290",
-                "likeCount": "372",
+                "viewCount": "60781",
+                "likeCount": "380",
                 "favoriteCount": "0",
                 "commentCount": "5"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3lqDcobj7M07MTyAlq1bV9QKMPI",
+            "etag": "aw64KXHGiQHVnhxzIp9vnbhver4",
             "id": "NvYcd0V9TQA",
             "snippet": {
                 "publishedAt": "2026-10-08T14:00:08Z",
@@ -2139,15 +2139,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "303884",
-                "likeCount": "14111",
+                "viewCount": "306031",
+                "likeCount": "14147",
                 "favoriteCount": "0",
-                "commentCount": "1092"
+                "commentCount": "1094"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Qqx0iSGCYWOoXWp1ZON1J8i4QdI",
+            "etag": "8PFVyxrNaunmdVueLjF5LDwJFTM",
             "id": "nTOdNtNkteM",
             "snippet": {
                 "publishedAt": "2026-10-07T19:49:58Z",
@@ -2192,15 +2192,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "129663",
-                "likeCount": "2067",
+                "viewCount": "131884",
+                "likeCount": "2085",
                 "favoriteCount": "0",
-                "commentCount": "258"
+                "commentCount": "263"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wmPfLBdpUn41dikjiT5P8aouPdE",
+            "etag": "OzqRIiTu85Opc1n8XPku_1ugpF4",
             "id": "KfhEwXuD5WM",
             "snippet": {
                 "publishedAt": "2026-10-06T16:00:36Z",
@@ -2255,15 +2255,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "986935",
-                "likeCount": "49226",
+                "viewCount": "993092",
+                "likeCount": "49432",
                 "favoriteCount": "0",
-                "commentCount": "3518"
+                "commentCount": "3525"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6lIatpaH26XWgBuIWlgiFrl7Bfo",
+            "etag": "8JRFQlaHpRoA-wrPx6g_g1HIccY",
             "id": "Mp2Q1Zc6DRI",
             "snippet": {
                 "publishedAt": "2026-10-08T10:03:14Z",
@@ -2313,15 +2313,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "43738",
-                "likeCount": "271",
+                "viewCount": "44862",
+                "likeCount": "274",
                 "favoriteCount": "0",
                 "commentCount": "6"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xlpESE3zrVoLOIxEmgZc8DumAd0",
+            "etag": "Lgz-dk7ur3Z4tC7DurQ0np7xiig",
             "id": "WE3Y3OyErVQ",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:21Z",
@@ -2366,15 +2366,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "111297",
-                "likeCount": "6211",
+                "viewCount": "113585",
+                "likeCount": "6285",
                 "favoriteCount": "0",
-                "commentCount": "875"
+                "commentCount": "881"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "dNoU9MUVG5b36CyGIRHWyRe-yWM",
+            "etag": "Hi1qSRCk4ZVGD0ix-Gf8EDcw8sU",
             "id": "XTdU5RSodZ4",
             "snippet": {
                 "publishedAt": "2026-10-01T21:00:07Z",
@@ -2419,160 +2419,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "4713498",
-                "likeCount": "42646",
+                "viewCount": "4731683",
+                "likeCount": "42715",
                 "favoriteCount": "0",
-                "commentCount": "1538"
+                "commentCount": "1540"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hTk8bXFuwcY9BUqdTLwYD-YHXhk",
-            "id": "6eySXwnOFEk",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:01:10Z",
-                "channelId": "UCazpvRS7wM8k1ItMd-EgCKw",
-                "title": "KAPI\u015eMA L\u0130G\u0130NDE LAM\u0130NE YAMAL DUELLO! B\u0130R\u0130 S\u0130L\u0130ND\u0130! SESEGEL vs EMRECAN!",
-                "description": "Kap\u0131\u015fma ligi 2026 7. hafta ma\u00e7\u0131m\u0131zda bu kez rakibimiz F\u0131rt\u0131nag\u00fcc\u00fc ve  EMRECAN ile duello yap\u0131yoruz. Lamine Yamal kartlar\u0131n\u0131 ortaya koyduk ve birisi silindi!\n\nV\u0130DEO \u0130\u00c7ER\u0130\u011e\u0130:\nY\u0131llar sonra kap\u0131\u015fma ligi yeniden ba\u015flad\u0131. 4'l\u00fc lig'de Emrecan, \u00dcmidi, ben ve Batu var. Kendi evimizdeyiz bu kez lamine yamal duello yap\u0131yoruz.\nG\u00fcncel Puan durumu i\u00e7in instagramdan beni takip edin: hasanmustan\nNot: adcubes.com i\u015f birli\u011fi ile sanal \u00fcr\u00fcn yerle\u015ftirmesi vard\u0131r.\n\neFootball 2027 KAPI\u015eMA L\u0130G\u0130\nTANTUN\u0130SPOR\nFIRTINAG\u00dcC\u00dc\n\u015eAPLAKC\u0130TY\nBATUNGHAM\n\nBEN\u0130 TAK\u0130P ED\u0130N\u25bc\nINSTAGRAM\u25bahttp://www.instagram.com/hasanmustan\nT\u0130KTOK\u25bahttps://www.tiktok.com/@mustanhasan",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "SeseGel",
-                "tags": [
-                    "sesegel",
-                    "hasan mustan",
-                    "e\u011flenceli video",
-                    "gaming",
-                    "efootball 2027",
-                    "kap\u0131\u015fma ligi",
-                    "\u015faplakcity",
-                    "tantunispor",
-                    "emrecan \u00f6nal",
-                    "efsane goller",
-                    "sesegel pes",
-                    "sesegel vs emrecan",
-                    "f\u0131rt\u0131nag\u00fcc\u00fc",
-                    "gereksiz oda",
-                    "f\u0131rt\u0131nag\u00fcc\u00fc mar\u015f",
-                    "insigne bomba gol",
-                    "lamine yamal \u00e7al\u0131m",
-                    "direk k\u0131rma rekoru",
-                    "duello"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "KAPI\u015eMA L\u0130G\u0130NDE LAM\u0130NE YAMAL DUELLO! B\u0130R\u0130 S\u0130L\u0130ND\u0130! SESEGEL vs EMRECAN!",
-                    "description": "Kap\u0131\u015fma ligi 2026 7. hafta ma\u00e7\u0131m\u0131zda bu kez rakibimiz F\u0131rt\u0131nag\u00fcc\u00fc ve  EMRECAN ile duello yap\u0131yoruz. Lamine Yamal kartlar\u0131n\u0131 ortaya koyduk ve birisi silindi!\n\nV\u0130DEO \u0130\u00c7ER\u0130\u011e\u0130:\nY\u0131llar sonra kap\u0131\u015fma ligi yeniden ba\u015flad\u0131. 4'l\u00fc lig'de Emrecan, \u00dcmidi, ben ve Batu var. Kendi evimizdeyiz bu kez lamine yamal duello yap\u0131yoruz.\nG\u00fcncel Puan durumu i\u00e7in instagramdan beni takip edin: hasanmustan\nNot: adcubes.com i\u015f birli\u011fi ile sanal \u00fcr\u00fcn yerle\u015ftirmesi vard\u0131r.\n\neFootball 2027 KAPI\u015eMA L\u0130G\u0130\nTANTUN\u0130SPOR\nFIRTINAG\u00dcC\u00dc\n\u015eAPLAKC\u0130TY\nBATUNGHAM\n\nBEN\u0130 TAK\u0130P ED\u0130N\u25bc\nINSTAGRAM\u25bahttp://www.instagram.com/hasanmustan\nT\u0130KTOK\u25bahttps://www.tiktok.com/@mustanhasan"
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "196667",
-                "likeCount": "9031",
-                "favoriteCount": "0",
-                "commentCount": "351"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "2TV7X8c5sZZJ700csNlxPsHq4hg",
-            "id": "EQyuKThNXwk",
-            "snippet": {
-                "publishedAt": "2026-10-08T21:00:25Z",
-                "channelId": "UCGiNTp07wVFktvVL9G3RGSg",
-                "title": "K\u00d6K$VL & Sir Speedy - ZIPLA (Official Music Video)",
-                "description": "Author: K\u00d6K$VL, Sir Speedy\nComposer: Furkan Karak\u0131l\u0131\u00e7, DJ Blass\nMixing:Tub0, Furkan Karak\u0131l\u0131\u00e7\nMastering: Furkan Karak\u0131l\u0131\u00e7, Tub0\n\nFollow K\u00d6K$VL on Instagram: https://www.instagram.com/koksalinthehood/\nFollow K\u00d6K$VL on TikTok:https://www.tiktok.com/@koksalinthehood\n\nFollow Sir Speedy on Instagram: https://www.instagram.com/srspeedy/\nFollow Sir Speedy on TikTok: https://www.tiktok.com/@srspeedy\n\nProducer: G\u00f6kay Kara \"El Turco\"\nExecutive Producer: Eren K\u00f6ksal, Erdin\u00e7 Olga\u00e7\n\nFilm by EMRAN\nProduction Company: Northside Records\n\nDirector: EMRAN\nAssistant Director: Ezgican Menek\u015fe\n2nd Assistant Director: Abdullah Kay\u0131\u015f\nDirector of Photography (DOP): Kemal \u00c7etinkaya\nDIT: Deniz Efe Ku\u015fsesi\nCreative Director: Bedirhan Bodur\nDrone Operator:  Bar\u0131\u015f Bayrak\u00e7eken\nCamera Assistant:  Deniz Efe Ku\u015fsesi\nGaffer: \u00d6zkan Elverir\nBest Boy: U\u011fur Can Dereli\nLighting Assistant: \u00d6zkan Elverir\nLighting Assistant: Bar\u0131\u015f Bayrak\u00e7eken\nEditor: Sedat Ta\u015fdemir\nColorist: Ozan Okay\nVFX: Khadior\nMotion Graphics Artist: Khadior\nTitle Designer: \u0130brahim Alp (alps4works)\nBTS Videographer: Musa \u015eahin\nUnit Photographer: Ezgican Menek\u015fe\n\nCover Art / Artwork: \u0130brahim Alp (alps4works)\n\nDigital Marketing & Promotion: Eren K\u00f6ksal, Musa \u015eahin & Mert Mete\nSocial Media Campaign: Eren K\u00f6ksal & Mert Mete\nSocial Media Content Producer: Musa \u015eahin\nMaking of Editor: Musa \u015eahin\n\nTravel Coordinators. Eren K\u00f6ksal & Erdin\u00e7 Olga\u00e7\nTransportation Coordinator: G\u00f6kay Kara\n\nSpecial Thanks: Edirne Valili\u011fi & Edirne Belediyesi\n\n(C) Northside Records",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "K\u00d6KSVL",
-                "tags": [
-                    "k\u00f6ksal sirspeedy",
-                    "k\u00f6ksal",
-                    "sirspeedy",
-                    "sir speedy",
-                    "k\u00f6ksal z\u0131pla",
-                    "z\u0131pla",
-                    "benim tarz\u0131m enteresan",
-                    "tarz\u0131m enteresan aaaa",
-                    "k\u00f6ksal aaauuuaaaa",
-                    "k\u00f6ksal vamos alla",
-                    "k\u00f6ksal c\u0131stak"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "K\u00d6K$VL & Sir Speedy - ZIPLA (Official Music Video)",
-                    "description": "Author: K\u00d6K$VL, Sir Speedy\nComposer: Furkan Karak\u0131l\u0131\u00e7, DJ Blass\nMixing:Tub0, Furkan Karak\u0131l\u0131\u00e7\nMastering: Furkan Karak\u0131l\u0131\u00e7, Tub0\n\nFollow K\u00d6K$VL on Instagram: https://www.instagram.com/koksalinthehood/\nFollow K\u00d6K$VL on TikTok:https://www.tiktok.com/@koksalinthehood\n\nFollow Sir Speedy on Instagram: https://www.instagram.com/srspeedy/\nFollow Sir Speedy on TikTok: https://www.tiktok.com/@srspeedy\n\nProducer: G\u00f6kay Kara \"El Turco\"\nExecutive Producer: Eren K\u00f6ksal, Erdin\u00e7 Olga\u00e7\n\nFilm by EMRAN\nProduction Company: Northside Records\n\nDirector: EMRAN\nAssistant Director: Ezgican Menek\u015fe\n2nd Assistant Director: Abdullah Kay\u0131\u015f\nDirector of Photography (DOP): Kemal \u00c7etinkaya\nDIT: Deniz Efe Ku\u015fsesi\nCreative Director: Bedirhan Bodur\nDrone Operator:  Bar\u0131\u015f Bayrak\u00e7eken\nCamera Assistant:  Deniz Efe Ku\u015fsesi\nGaffer: \u00d6zkan Elverir\nBest Boy: U\u011fur Can Dereli\nLighting Assistant: \u00d6zkan Elverir\nLighting Assistant: Bar\u0131\u015f Bayrak\u00e7eken\nEditor: Sedat Ta\u015fdemir\nColorist: Ozan Okay\nVFX: Khadior\nMotion Graphics Artist: Khadior\nTitle Designer: \u0130brahim Alp (alps4works)\nBTS Videographer: Musa \u015eahin\nUnit Photographer: Ezgican Menek\u015fe\n\nCover Art / Artwork: \u0130brahim Alp (alps4works)\n\nDigital Marketing & Promotion: Eren K\u00f6ksal, Musa \u015eahin & Mert Mete\nSocial Media Campaign: Eren K\u00f6ksal & Mert Mete\nSocial Media Content Producer: Musa \u015eahin\nMaking of Editor: Musa \u015eahin\n\nTravel Coordinators. Eren K\u00f6ksal & Erdin\u00e7 Olga\u00e7\nTransportation Coordinator: G\u00f6kay Kara\n\nSpecial Thanks: Edirne Valili\u011fi & Edirne Belediyesi\n\n(C) Northside Records"
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "84360",
-                "likeCount": "3604",
-                "favoriteCount": "0",
-                "commentCount": "360"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "SxwMe8QZTqNqAw8wrQCXmsW9F9E",
+            "etag": "BFTgtTRd3TCm0LwZ7ico0Isj3IQ",
             "id": "cwdqZryJ5QE",
             "snippet": {
                 "publishedAt": "2026-10-09T11:00:11Z",
@@ -2648,15 +2503,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "116595",
-                "likeCount": "3058",
+                "viewCount": "118295",
+                "likeCount": "3133",
                 "favoriteCount": "0",
                 "commentCount": "72"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Iq9c2NZxqohwXOpumn5up_nR3uA",
+            "etag": "2PF2JVsPq8OA2_IjeJT_oYiMYA8",
             "id": "pcWBI8IirUA",
             "snippet": {
                 "publishedAt": "2026-10-09T11:00:08Z",
@@ -2733,15 +2588,160 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "45549",
-                "likeCount": "614",
+                "viewCount": "47212",
+                "likeCount": "623",
                 "favoriteCount": "0",
                 "commentCount": "340"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "feT0-SQmqvjC2Bkslf24rC91QJw",
+            "etag": "_cAi-RpirxhMG_oIKWSRXFVIXPg",
+            "id": "6eySXwnOFEk",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:01:10Z",
+                "channelId": "UCazpvRS7wM8k1ItMd-EgCKw",
+                "title": "KAPI\u015eMA L\u0130G\u0130NDE LAM\u0130NE YAMAL DUELLO! B\u0130R\u0130 S\u0130L\u0130ND\u0130! SESEGEL vs EMRECAN!",
+                "description": "Kap\u0131\u015fma ligi 2026 7. hafta ma\u00e7\u0131m\u0131zda bu kez rakibimiz F\u0131rt\u0131nag\u00fcc\u00fc ve  EMRECAN ile duello yap\u0131yoruz. Lamine Yamal kartlar\u0131n\u0131 ortaya koyduk ve birisi silindi!\n\nV\u0130DEO \u0130\u00c7ER\u0130\u011e\u0130:\nY\u0131llar sonra kap\u0131\u015fma ligi yeniden ba\u015flad\u0131. 4'l\u00fc lig'de Emrecan, \u00dcmidi, ben ve Batu var. Kendi evimizdeyiz bu kez lamine yamal duello yap\u0131yoruz.\nG\u00fcncel Puan durumu i\u00e7in instagramdan beni takip edin: hasanmustan\nNot: adcubes.com i\u015f birli\u011fi ile sanal \u00fcr\u00fcn yerle\u015ftirmesi vard\u0131r.\n\neFootball 2027 KAPI\u015eMA L\u0130G\u0130\nTANTUN\u0130SPOR\nFIRTINAG\u00dcC\u00dc\n\u015eAPLAKC\u0130TY\nBATUNGHAM\n\nBEN\u0130 TAK\u0130P ED\u0130N\u25bc\nINSTAGRAM\u25bahttp://www.instagram.com/hasanmustan\nT\u0130KTOK\u25bahttps://www.tiktok.com/@mustanhasan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/6eySXwnOFEk/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "SeseGel",
+                "tags": [
+                    "sesegel",
+                    "hasan mustan",
+                    "e\u011flenceli video",
+                    "gaming",
+                    "efootball 2027",
+                    "kap\u0131\u015fma ligi",
+                    "\u015faplakcity",
+                    "tantunispor",
+                    "emrecan \u00f6nal",
+                    "efsane goller",
+                    "sesegel pes",
+                    "sesegel vs emrecan",
+                    "f\u0131rt\u0131nag\u00fcc\u00fc",
+                    "gereksiz oda",
+                    "f\u0131rt\u0131nag\u00fcc\u00fc mar\u015f",
+                    "insigne bomba gol",
+                    "lamine yamal \u00e7al\u0131m",
+                    "direk k\u0131rma rekoru",
+                    "duello"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "KAPI\u015eMA L\u0130G\u0130NDE LAM\u0130NE YAMAL DUELLO! B\u0130R\u0130 S\u0130L\u0130ND\u0130! SESEGEL vs EMRECAN!",
+                    "description": "Kap\u0131\u015fma ligi 2026 7. hafta ma\u00e7\u0131m\u0131zda bu kez rakibimiz F\u0131rt\u0131nag\u00fcc\u00fc ve  EMRECAN ile duello yap\u0131yoruz. Lamine Yamal kartlar\u0131n\u0131 ortaya koyduk ve birisi silindi!\n\nV\u0130DEO \u0130\u00c7ER\u0130\u011e\u0130:\nY\u0131llar sonra kap\u0131\u015fma ligi yeniden ba\u015flad\u0131. 4'l\u00fc lig'de Emrecan, \u00dcmidi, ben ve Batu var. Kendi evimizdeyiz bu kez lamine yamal duello yap\u0131yoruz.\nG\u00fcncel Puan durumu i\u00e7in instagramdan beni takip edin: hasanmustan\nNot: adcubes.com i\u015f birli\u011fi ile sanal \u00fcr\u00fcn yerle\u015ftirmesi vard\u0131r.\n\neFootball 2027 KAPI\u015eMA L\u0130G\u0130\nTANTUN\u0130SPOR\nFIRTINAG\u00dcC\u00dc\n\u015eAPLAKC\u0130TY\nBATUNGHAM\n\nBEN\u0130 TAK\u0130P ED\u0130N\u25bc\nINSTAGRAM\u25bahttp://www.instagram.com/hasanmustan\nT\u0130KTOK\u25bahttps://www.tiktok.com/@mustanhasan"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "198937",
+                "likeCount": "9100",
+                "favoriteCount": "0",
+                "commentCount": "351"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qg-Lp4H6CbA5vFrO575fUVZ8BFw",
+            "id": "EQyuKThNXwk",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:00:25Z",
+                "channelId": "UCGiNTp07wVFktvVL9G3RGSg",
+                "title": "K\u00d6K$VL & Sir Speedy - ZIPLA (Official Music Video)",
+                "description": "Author: K\u00d6K$VL, Sir Speedy\nComposer: Furkan Karak\u0131l\u0131\u00e7, DJ Blass\nMixing:Tub0, Furkan Karak\u0131l\u0131\u00e7\nMastering: Furkan Karak\u0131l\u0131\u00e7, Tub0\n\nFollow K\u00d6K$VL on Instagram: https://www.instagram.com/koksalinthehood/\nFollow K\u00d6K$VL on TikTok:https://www.tiktok.com/@koksalinthehood\n\nFollow Sir Speedy on Instagram: https://www.instagram.com/srspeedy/\nFollow Sir Speedy on TikTok: https://www.tiktok.com/@srspeedy\n\nProducer: G\u00f6kay Kara \"El Turco\"\nExecutive Producer: Eren K\u00f6ksal, Erdin\u00e7 Olga\u00e7\n\nFilm by EMRAN\nProduction Company: Northside Records\n\nDirector: EMRAN\nAssistant Director: Ezgican Menek\u015fe\n2nd Assistant Director: Abdullah Kay\u0131\u015f\nDirector of Photography (DOP): Kemal \u00c7etinkaya\nDIT: Deniz Efe Ku\u015fsesi\nCreative Director: Bedirhan Bodur\nDrone Operator:  Bar\u0131\u015f Bayrak\u00e7eken\nCamera Assistant:  Deniz Efe Ku\u015fsesi\nGaffer: \u00d6zkan Elverir\nBest Boy: U\u011fur Can Dereli\nLighting Assistant: \u00d6zkan Elverir\nLighting Assistant: Bar\u0131\u015f Bayrak\u00e7eken\nEditor: Sedat Ta\u015fdemir\nColorist: Ozan Okay\nVFX: Khadior\nMotion Graphics Artist: Khadior\nTitle Designer: \u0130brahim Alp (alps4works)\nBTS Videographer: Musa \u015eahin\nUnit Photographer: Ezgican Menek\u015fe\n\nCover Art / Artwork: \u0130brahim Alp (alps4works)\n\nDigital Marketing & Promotion: Eren K\u00f6ksal, Musa \u015eahin & Mert Mete\nSocial Media Campaign: Eren K\u00f6ksal & Mert Mete\nSocial Media Content Producer: Musa \u015eahin\nMaking of Editor: Musa \u015eahin\n\nTravel Coordinators. Eren K\u00f6ksal & Erdin\u00e7 Olga\u00e7\nTransportation Coordinator: G\u00f6kay Kara\n\nSpecial Thanks: Edirne Valili\u011fi & Edirne Belediyesi\n\n(C) Northside Records",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EQyuKThNXwk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K\u00d6KSVL",
+                "tags": [
+                    "k\u00f6ksal sirspeedy",
+                    "k\u00f6ksal",
+                    "sirspeedy",
+                    "sir speedy",
+                    "k\u00f6ksal z\u0131pla",
+                    "z\u0131pla",
+                    "benim tarz\u0131m enteresan",
+                    "tarz\u0131m enteresan aaaa",
+                    "k\u00f6ksal aaauuuaaaa",
+                    "k\u00f6ksal vamos alla",
+                    "k\u00f6ksal c\u0131stak"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "K\u00d6K$VL & Sir Speedy - ZIPLA (Official Music Video)",
+                    "description": "Author: K\u00d6K$VL, Sir Speedy\nComposer: Furkan Karak\u0131l\u0131\u00e7, DJ Blass\nMixing:Tub0, Furkan Karak\u0131l\u0131\u00e7\nMastering: Furkan Karak\u0131l\u0131\u00e7, Tub0\n\nFollow K\u00d6K$VL on Instagram: https://www.instagram.com/koksalinthehood/\nFollow K\u00d6K$VL on TikTok:https://www.tiktok.com/@koksalinthehood\n\nFollow Sir Speedy on Instagram: https://www.instagram.com/srspeedy/\nFollow Sir Speedy on TikTok: https://www.tiktok.com/@srspeedy\n\nProducer: G\u00f6kay Kara \"El Turco\"\nExecutive Producer: Eren K\u00f6ksal, Erdin\u00e7 Olga\u00e7\n\nFilm by EMRAN\nProduction Company: Northside Records\n\nDirector: EMRAN\nAssistant Director: Ezgican Menek\u015fe\n2nd Assistant Director: Abdullah Kay\u0131\u015f\nDirector of Photography (DOP): Kemal \u00c7etinkaya\nDIT: Deniz Efe Ku\u015fsesi\nCreative Director: Bedirhan Bodur\nDrone Operator:  Bar\u0131\u015f Bayrak\u00e7eken\nCamera Assistant:  Deniz Efe Ku\u015fsesi\nGaffer: \u00d6zkan Elverir\nBest Boy: U\u011fur Can Dereli\nLighting Assistant: \u00d6zkan Elverir\nLighting Assistant: Bar\u0131\u015f Bayrak\u00e7eken\nEditor: Sedat Ta\u015fdemir\nColorist: Ozan Okay\nVFX: Khadior\nMotion Graphics Artist: Khadior\nTitle Designer: \u0130brahim Alp (alps4works)\nBTS Videographer: Musa \u015eahin\nUnit Photographer: Ezgican Menek\u015fe\n\nCover Art / Artwork: \u0130brahim Alp (alps4works)\n\nDigital Marketing & Promotion: Eren K\u00f6ksal, Musa \u015eahin & Mert Mete\nSocial Media Campaign: Eren K\u00f6ksal & Mert Mete\nSocial Media Content Producer: Musa \u015eahin\nMaking of Editor: Musa \u015eahin\n\nTravel Coordinators. Eren K\u00f6ksal & Erdin\u00e7 Olga\u00e7\nTransportation Coordinator: G\u00f6kay Kara\n\nSpecial Thanks: Edirne Valili\u011fi & Edirne Belediyesi\n\n(C) Northside Records"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "86587",
+                "likeCount": "3637",
+                "favoriteCount": "0",
+                "commentCount": "366"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dOlCn_rgbqjEdSsgR22LoVBXWXM",
             "id": "vzy7P5q0E9k",
             "snippet": {
                 "publishedAt": "2026-10-09T14:04:54Z",
@@ -2815,88 +2815,68 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "261090",
-                "likeCount": "18958",
+                "viewCount": "266366",
+                "likeCount": "19294",
                 "favoriteCount": "0",
-                "commentCount": "1246"
+                "commentCount": "1267"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6JnPQFTo6cWskIlXTE9GKiDZpGw",
-            "id": "epZOYjYJtFE",
+            "etag": "rkeEHiCwJCIfp1H1vWI0pyOeu-0",
+            "id": "GLZXBHpgZ2g",
             "snippet": {
-                "publishedAt": "2026-10-08T21:00:36Z",
-                "channelId": "UCQyjggD_Z0py1yMCe7tj5LQ",
-                "title": "Joker x Allame - Gri | lyric video",
-                "description": "S\u00f6z: Mete Erpek \u2018Joker\u2019, Hamza G\u00fcl \u2018Allame\u2019\nM\u00fczik: Hamza G\u00fcl \u2018Allame\u2019\nAranje: Hamza G\u00fcl \u2018Allame'\nMixing & Mastering: Kurtulu\u015f G\u00fcven \u2018Ses Kurdu\u2019\nYap\u0131m: Hiphopjobz\n\nhttp://www.instagram.com/jokerresmi\nhttp://www.instagram.com/allame\nhttp://www.instagram.com/seskurdu\nhttp://www.instagram.com/hiphopjobzofficial\n\nMerch: https://blackbork.com.tr/en/collections/joker\n\nMusic Video performing by Joker x Allame\nHIPHOPJOBZ\u00a9\n\n#joker #allame #hiphopjobz #gri #travma",
+                "publishedAt": "2026-10-08T22:00:06Z",
+                "channelId": "UCd3cOeSgmAwBR5dJONqKHnA",
+                "title": "ANIL \u00d6ZGEN - M\u00fclevves (Official Video)",
+                "description": "\ud83c\udfb5 M\u00dcLEVVES'i Spotify'da dinle ve \u00e7alma listene ekle:\nhttps://open.spotify.com/album/7a4YP7Gn2Y3B9gfcokbElk\n\n\n\u2b50\ufe0fAn\u0131l\u2019\u0131 sosyal medya hesaplar\u0131ndan takip etmeyi unutmay\u0131n!\nhttps://www.instagram.com/aniloffiziell\nhttps://www.tiktok.com/@anilozg\n\n\n\nMusic/Lyrics: An\u0131l Mahmut \u00d6zgen\nBeat,Mix&Recording: Rafil al-Soudi\nVideo: 8tm.films\nMaster: Ludwig Maier\nExecutive: Halil Bulut\nDijital Strateji St\u00fcdyosu: Miracs\nDijital Stratejist: Mira\u00e7 Aslan & Kadir Arda Hac\u0131\nInstruments: Rhapsody Strings Istanbul\nCover Art: Sharp Dsgn\n\n\n\u2117 & \u00a9 2026 No Fear Records. All Rights Reserved.\n\n\n\n\n\u015eark\u0131 S\u00f6zleri:\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \n\nBu muydu h\u00fczn\u00fcn sesi\nYaraland\u0131m \n\u00dc\u015f\u00fcrs\u00fcn diye sard\u0131m \nYand\u0131m teninde\n\nYinede sanc\u0131m ge\u00e7er sand\u0131m\nBir bilsen \nKalmaz ki buda yan\u0131na\n\u00c7ekti\u011fim senden \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma \n\nG\u00f6zlerin yine\n\u00c7\u0131kmaz akl\u0131mdan\nMasum bak\u0131\u015f\u0131n bana\nYaland\u0131 y\u00e2rim \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "Joker Resmi",
-                "tags": [
-                    "joker",
-                    "jokzilla",
-                    "mete",
-                    "rap",
-                    "t\u00fcrk\u00e7e rap",
-                    "hiphop",
-                    "yeni",
-                    "eski\u015fehir",
-                    "t\u00fcrkiye",
-                    "m\u00fczik",
-                    "hiphopjobz",
-                    "rhyme",
-                    "battle"
-                ],
+                "channelTitle": "An\u0131l",
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "tr",
                 "localized": {
-                    "title": "Joker x Allame - Gri | lyric video",
-                    "description": "S\u00f6z: Mete Erpek \u2018Joker\u2019, Hamza G\u00fcl \u2018Allame\u2019\nM\u00fczik: Hamza G\u00fcl \u2018Allame\u2019\nAranje: Hamza G\u00fcl \u2018Allame'\nMixing & Mastering: Kurtulu\u015f G\u00fcven \u2018Ses Kurdu\u2019\nYap\u0131m: Hiphopjobz\n\nhttp://www.instagram.com/jokerresmi\nhttp://www.instagram.com/allame\nhttp://www.instagram.com/seskurdu\nhttp://www.instagram.com/hiphopjobzofficial\n\nMerch: https://blackbork.com.tr/en/collections/joker\n\nMusic Video performing by Joker x Allame\nHIPHOPJOBZ\u00a9\n\n#joker #allame #hiphopjobz #gri #travma"
+                    "title": "ANIL \u00d6ZGEN - M\u00fclevves (Official Video)",
+                    "description": "\ud83c\udfb5 M\u00dcLEVVES'i Spotify'da dinle ve \u00e7alma listene ekle:\nhttps://open.spotify.com/album/7a4YP7Gn2Y3B9gfcokbElk\n\n\n\u2b50\ufe0fAn\u0131l\u2019\u0131 sosyal medya hesaplar\u0131ndan takip etmeyi unutmay\u0131n!\nhttps://www.instagram.com/aniloffiziell\nhttps://www.tiktok.com/@anilozg\n\n\n\nMusic/Lyrics: An\u0131l Mahmut \u00d6zgen\nBeat,Mix&Recording: Rafil al-Soudi\nVideo: 8tm.films\nMaster: Ludwig Maier\nExecutive: Halil Bulut\nDijital Strateji St\u00fcdyosu: Miracs\nDijital Stratejist: Mira\u00e7 Aslan & Kadir Arda Hac\u0131\nInstruments: Rhapsody Strings Istanbul\nCover Art: Sharp Dsgn\n\n\n\u2117 & \u00a9 2026 No Fear Records. All Rights Reserved.\n\n\n\n\n\u015eark\u0131 S\u00f6zleri:\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \n\nBu muydu h\u00fczn\u00fcn sesi\nYaraland\u0131m \n\u00dc\u015f\u00fcrs\u00fcn diye sard\u0131m \nYand\u0131m teninde\n\nYinede sanc\u0131m ge\u00e7er sand\u0131m\nBir bilsen \nKalmaz ki buda yan\u0131na\n\u00c7ekti\u011fim senden \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma \n\nG\u00f6zlerin yine\n\u00c7\u0131kmaz akl\u0131mdan\nMasum bak\u0131\u015f\u0131n bana\nYaland\u0131 y\u00e2rim \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma"
                 },
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "93600",
-                "likeCount": "4346",
+                "viewCount": "66796",
+                "likeCount": "2047",
                 "favoriteCount": "0",
-                "commentCount": "345"
+                "commentCount": "208"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-dEZzDoVODE9DtK8M74G0ZhzCxI",
+            "etag": "hjIWLlzFfomkDb2kxM5nZ2tWJdg",
             "id": "kCZu7dmw1bs",
             "snippet": {
                 "publishedAt": "2026-10-09T11:00:21Z",
@@ -2979,68 +2959,72 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "129739",
-                "likeCount": "1823",
+                "viewCount": "131152",
+                "likeCount": "1836",
                 "favoriteCount": "0",
-                "commentCount": "130"
+                "commentCount": "132"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3xhjoGixqRviHaKJhEcMZ25X5HY",
-            "id": "GLZXBHpgZ2g",
+            "etag": "8VjF6-JH0qPuodRHUXns91NQt2g",
+            "id": "wWu26O_BFAE",
             "snippet": {
-                "publishedAt": "2026-10-08T22:00:06Z",
-                "channelId": "UCd3cOeSgmAwBR5dJONqKHnA",
-                "title": "ANIL \u00d6ZGEN - M\u00fclevves (Official Video)",
-                "description": "\ud83c\udfb5 M\u00dcLEVVES'i Spotify'da dinle ve \u00e7alma listene ekle:\nhttps://open.spotify.com/album/7a4YP7Gn2Y3B9gfcokbElk\n\n\n\u2b50\ufe0fAn\u0131l\u2019\u0131 sosyal medya hesaplar\u0131ndan takip etmeyi unutmay\u0131n!\nhttps://www.instagram.com/aniloffiziell\nhttps://www.tiktok.com/@anilozg\n\n\n\nMusic/Lyrics: An\u0131l Mahmut \u00d6zgen\nBeat,Mix&Recording: Rafil al-Soudi\nVideo: 8tm.films\nMaster: Ludwig Maier\nExecutive: Halil Bulut\nDijital Strateji St\u00fcdyosu: Miracs\nDijital Stratejist: Mira\u00e7 Aslan & Kadir Arda Hac\u0131\nInstruments: Rhapsody Strings Istanbul\nCover Art: Sharp Dsgn\n\n\n\u2117 & \u00a9 2026 No Fear Records. All Rights Reserved.\n\n\n\n\n\u015eark\u0131 S\u00f6zleri:\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \n\nBu muydu h\u00fczn\u00fcn sesi\nYaraland\u0131m \n\u00dc\u015f\u00fcrs\u00fcn diye sard\u0131m \nYand\u0131m teninde\n\nYinede sanc\u0131m ge\u00e7er sand\u0131m\nBir bilsen \nKalmaz ki buda yan\u0131na\n\u00c7ekti\u011fim senden \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma \n\nG\u00f6zlerin yine\n\u00c7\u0131kmaz akl\u0131mdan\nMasum bak\u0131\u015f\u0131n bana\nYaland\u0131 y\u00e2rim \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma",
+                "publishedAt": "2026-10-08T20:40:24Z",
+                "channelId": "UCrsRdVp42gxu2XP1ZWrj2Tg",
+                "title": "aman\u0131N",
+                "description": "Provided to YouTube by DistroKid\n\naman\u0131N \u00b7 Zoermod\n\naman\u0131N\n\n\u2117 Zoermod\n\nReleased on: 2026-10-08\n\nComposer: GenerativeAI\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/GLZXBHpgZ2g/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "An\u0131l",
+                "channelTitle": "Zoermod - Topic",
+                "tags": [
+                    "Zoermod",
+                    "aman\u0131N"
+                ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "ANIL \u00d6ZGEN - M\u00fclevves (Official Video)",
-                    "description": "\ud83c\udfb5 M\u00dcLEVVES'i Spotify'da dinle ve \u00e7alma listene ekle:\nhttps://open.spotify.com/album/7a4YP7Gn2Y3B9gfcokbElk\n\n\n\u2b50\ufe0fAn\u0131l\u2019\u0131 sosyal medya hesaplar\u0131ndan takip etmeyi unutmay\u0131n!\nhttps://www.instagram.com/aniloffiziell\nhttps://www.tiktok.com/@anilozg\n\n\n\nMusic/Lyrics: An\u0131l Mahmut \u00d6zgen\nBeat,Mix&Recording: Rafil al-Soudi\nVideo: 8tm.films\nMaster: Ludwig Maier\nExecutive: Halil Bulut\nDijital Strateji St\u00fcdyosu: Miracs\nDijital Stratejist: Mira\u00e7 Aslan & Kadir Arda Hac\u0131\nInstruments: Rhapsody Strings Istanbul\nCover Art: Sharp Dsgn\n\n\n\u2117 & \u00a9 2026 No Fear Records. All Rights Reserved.\n\n\n\n\n\u015eark\u0131 S\u00f6zleri:\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \n\nBu muydu h\u00fczn\u00fcn sesi\nYaraland\u0131m \n\u00dc\u015f\u00fcrs\u00fcn diye sard\u0131m \nYand\u0131m teninde\n\nYinede sanc\u0131m ge\u00e7er sand\u0131m\nBir bilsen \nKalmaz ki buda yan\u0131na\n\u00c7ekti\u011fim senden \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma  \nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma \n\nG\u00f6zlerin yine\n\u00c7\u0131kmaz akl\u0131mdan\nMasum bak\u0131\u015f\u0131n bana\nYaland\u0131 y\u00e2rim \n\nSa\u00e7\u0131n boyam\u0131\u015fs\u0131n karaya \nBeni sard\u0131n belaya\nEle sevdalanm\u0131\u015fs\u0131n \nM\u00fclevves, insafs\u0131zs\u0131n \nB\u0131rakt\u0131n tek ba\u015f\u0131ma"
+                    "title": "aman\u0131N",
+                    "description": "Provided to YouTube by DistroKid\n\naman\u0131N \u00b7 Zoermod\n\naman\u0131N\n\n\u2117 Zoermod\n\nReleased on: 2026-10-08\n\nComposer: GenerativeAI\n\nAuto-generated by YouTube."
                 },
-                "defaultAudioLanguage": "tr"
+                "defaultAudioLanguage": "ar"
             },
             "statistics": {
-                "viewCount": "65481",
-                "likeCount": "2018",
+                "viewCount": "48228",
+                "likeCount": "565",
                 "favoriteCount": "0",
-                "commentCount": "206"
+                "commentCount": "16"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hsSnXLz8K1H7FaAr6Bhnx0Y5D_s",
+            "etag": "WqmeSoi4EGNRB7q01NC0T22aEls",
             "id": "slhSPuL5vdw",
             "snippet": {
                 "publishedAt": "2026-10-10T05:01:38Z",
@@ -3099,7 +3083,7 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "321010",
+                "viewCount": "321329",
                 "likeCount": "3515",
                 "favoriteCount": "0",
                 "commentCount": "10"
@@ -3107,7 +3091,247 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "vBbHKYkye-PF79ilRAu3iGLqvxc",
+            "etag": "vVk3gnutYlCzMvcZIqeKM3WqzT4",
+            "id": "epZOYjYJtFE",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:00:36Z",
+                "channelId": "UCQyjggD_Z0py1yMCe7tj5LQ",
+                "title": "Joker x Allame - Gri | lyric video",
+                "description": "S\u00f6z: Mete Erpek \u2018Joker\u2019, Hamza G\u00fcl \u2018Allame\u2019\nM\u00fczik: Hamza G\u00fcl \u2018Allame\u2019\nAranje: Hamza G\u00fcl \u2018Allame'\nMixing & Mastering: Kurtulu\u015f G\u00fcven \u2018Ses Kurdu\u2019\nYap\u0131m: Hiphopjobz\n\nhttp://www.instagram.com/jokerresmi\nhttp://www.instagram.com/allame\nhttp://www.instagram.com/seskurdu\nhttp://www.instagram.com/hiphopjobzofficial\n\nMerch: https://blackbork.com.tr/en/collections/joker\n\nMusic Video performing by Joker x Allame\nHIPHOPJOBZ\u00a9\n\n#joker #allame #hiphopjobz #gri #travma",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/epZOYjYJtFE/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Joker Resmi",
+                "tags": [
+                    "joker",
+                    "jokzilla",
+                    "mete",
+                    "rap",
+                    "t\u00fcrk\u00e7e rap",
+                    "hiphop",
+                    "yeni",
+                    "eski\u015fehir",
+                    "t\u00fcrkiye",
+                    "m\u00fczik",
+                    "hiphopjobz",
+                    "rhyme",
+                    "battle"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Joker x Allame - Gri | lyric video",
+                    "description": "S\u00f6z: Mete Erpek \u2018Joker\u2019, Hamza G\u00fcl \u2018Allame\u2019\nM\u00fczik: Hamza G\u00fcl \u2018Allame\u2019\nAranje: Hamza G\u00fcl \u2018Allame'\nMixing & Mastering: Kurtulu\u015f G\u00fcven \u2018Ses Kurdu\u2019\nYap\u0131m: Hiphopjobz\n\nhttp://www.instagram.com/jokerresmi\nhttp://www.instagram.com/allame\nhttp://www.instagram.com/seskurdu\nhttp://www.instagram.com/hiphopjobzofficial\n\nMerch: https://blackbork.com.tr/en/collections/joker\n\nMusic Video performing by Joker x Allame\nHIPHOPJOBZ\u00a9\n\n#joker #allame #hiphopjobz #gri #travma"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "94188",
+                "likeCount": "4364",
+                "favoriteCount": "0",
+                "commentCount": "345"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ALzEhDUHZl72WdyGq7nlhvIboRo",
+            "id": "xHk1lacqThA",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:00:39Z",
+                "channelId": "UC6H1K6ynL8dcItSsB3p36Dw",
+                "title": "ISHALKEN OSURMAMALISIN...",
+                "description": "abi nolur mayk\u0131l ceks\u0131n\u0131 aramay\u0131n...\n\nishalken osurmamal\u0131s\u0131n:https://gamebanana.com/mods/710471\nnolur mayk\u0131l ceks\u0131n\u0131 arama:https://gamebanana.com/mods/713918\nBUNUN TADINA BAK!:https://gamebanana.com/mods/703690\n\n\n---------------------------------------\n\ud83c\udfa9Kick (Extra Yay\u0131nlar) | https://kick.com/ds187-orhan\n-------------------------------------\n\n\ud83c\udfad\u0130nstagram | https://www.instagram.com/ds187_orhan/?hl=tr\n\n\ud83d\udea9Twitter | https://twitter.com/DS_Studios_187\n\n\ud83c\udfa1Tiktok | https://www.tiktok.com/@ds187_orhan\n\n\ud83e\udde7DS Studios Kanal\u0131m\u0131z: https://www.youtube.com/channel/UCSl6uSpLeBfIXvU12K6Ddlg\n\n \ud83c\udf81 Roblox Grubumuz | https://www.roblox.com/groups/16915221/DS-187-Ekibi#!/about\n\n\ud83e\udd1d\u0130\u015fbirli\u011fi Sponsorluk Taleplerimiz \u0130\u00e7in | ds.studios.sup@gmail.com \n\n\ud83c\udfaeDaha Fazlas\u0131 \u0130\u00e7in Takipte Kalmay\u0131 Unutmay\u0131n!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u300a DS_187 \u300b",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "ISHALKEN OSURMAMALISIN...",
+                    "description": "abi nolur mayk\u0131l ceks\u0131n\u0131 aramay\u0131n...\n\nishalken osurmamal\u0131s\u0131n:https://gamebanana.com/mods/710471\nnolur mayk\u0131l ceks\u0131n\u0131 arama:https://gamebanana.com/mods/713918\nBUNUN TADINA BAK!:https://gamebanana.com/mods/703690\n\n\n---------------------------------------\n\ud83c\udfa9Kick (Extra Yay\u0131nlar) | https://kick.com/ds187-orhan\n-------------------------------------\n\n\ud83c\udfad\u0130nstagram | https://www.instagram.com/ds187_orhan/?hl=tr\n\n\ud83d\udea9Twitter | https://twitter.com/DS_Studios_187\n\n\ud83c\udfa1Tiktok | https://www.tiktok.com/@ds187_orhan\n\n\ud83e\udde7DS Studios Kanal\u0131m\u0131z: https://www.youtube.com/channel/UCSl6uSpLeBfIXvU12K6Ddlg\n\n \ud83c\udf81 Roblox Grubumuz | https://www.roblox.com/groups/16915221/DS-187-Ekibi#!/about\n\n\ud83e\udd1d\u0130\u015fbirli\u011fi Sponsorluk Taleplerimiz \u0130\u00e7in | ds.studios.sup@gmail.com \n\n\ud83c\udfaeDaha Fazlas\u0131 \u0130\u00e7in Takipte Kalmay\u0131 Unutmay\u0131n!"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "130339",
+                "likeCount": "5955",
+                "favoriteCount": "0",
+                "commentCount": "889"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ypBDsyxTTtL14zzGLjsP3PTeqis",
+            "id": "IWJ-4A6TAoc",
+            "snippet": {
+                "publishedAt": "2026-10-07T14:53:53Z",
+                "channelId": "UCYVwt_KFcDesqe1xIDsJ0zQ",
+                "title": "Sabah\u0131n Be\u015fi (Remix)",
+                "description": "Provided to YouTube by DistroKid\n\nSabah\u0131n Be\u015fi (Remix) \u00b7 HALE VERDA\n\nSabah\u0131n Be\u015fi (Remix)\n\n\u2117 2731883 Records DK\n\nReleased on: 2026-10-07\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HALE VERDA - Topic",
+                "tags": [
+                    "HALE VERDA",
+                    "Sabah\u0131n Be\u015fi (Remix)"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "az",
+                "localized": {
+                    "title": "Sabah\u0131n Be\u015fi (Remix)",
+                    "description": "Provided to YouTube by DistroKid\n\nSabah\u0131n Be\u015fi (Remix) \u00b7 HALE VERDA\n\nSabah\u0131n Be\u015fi (Remix)\n\n\u2117 2731883 Records DK\n\nReleased on: 2026-10-07\n\nAuto-generated by YouTube."
+                }
+            },
+            "statistics": {
+                "viewCount": "95007",
+                "likeCount": "438",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pCAlxlAjGVpONqFIs8mC5K0XMvs",
+            "id": "kH07Gq1jY4A",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:00:31Z",
+                "channelId": "UCB0mJ4uPQzKbnHC2FSoq3DA",
+                "title": "DU\u0308NYA BI\u0307RI\u0307NCI\u0307SI\u0307NI\u0307N DESTESI\u0307",
+                "description": "\ud83d\udc51  *Dik telefon pozisyonu tavsiye edilir.*\n\ud83d\udc80 *Her g\u00fcn 17.00 video saatimiz.*\n\nINSTAGRAM GRUBUMUZ: https://www.instagram.com/channel/AbaF2ILhG8OGw2TO/\n\nSeeOk Ma\u011fazam\u0131z: https://shop.semihseeok.com/\n\nDo\u011frudan ileti\u015fim: contact@semihseeok.com\n\nBen Semih, Clash Royale'de esporcuyum. Bu kanalda d\u00fczenli olarak \u00fcst d\u00fczey ma\u00e7lar, en iyi desteler, yeni g\u00fcncellemeler ve challenge videolar\u0131 ile bir araya geldi\u011fimiz bir ortam\u0131m\u0131z var. E\u011fer video kalitesinde problem ya\u015farsan\u0131z ayarlardan d\u00fczeltebilirsiniz arkada\u015flar. \u0130yi seyirler.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "SeeOk",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "DU\u0308NYA BI\u0307RI\u0307NCI\u0307SI\u0307NI\u0307N DESTESI\u0307",
+                    "description": "\ud83d\udc51  *Dik telefon pozisyonu tavsiye edilir.*\n\ud83d\udc80 *Her g\u00fcn 17.00 video saatimiz.*\n\nINSTAGRAM GRUBUMUZ: https://www.instagram.com/channel/AbaF2ILhG8OGw2TO/\n\nSeeOk Ma\u011fazam\u0131z: https://shop.semihseeok.com/\n\nDo\u011frudan ileti\u015fim: contact@semihseeok.com\n\nBen Semih, Clash Royale'de esporcuyum. Bu kanalda d\u00fczenli olarak \u00fcst d\u00fczey ma\u00e7lar, en iyi desteler, yeni g\u00fcncellemeler ve challenge videolar\u0131 ile bir araya geldi\u011fimiz bir ortam\u0131m\u0131z var. E\u011fer video kalitesinde problem ya\u015farsan\u0131z ayarlardan d\u00fczeltebilirsiniz arkada\u015flar. \u0130yi seyirler."
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "statistics": {
+                "viewCount": "181213",
+                "likeCount": "8655",
+                "favoriteCount": "0",
+                "commentCount": "587"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ybc_QOXmFEQHHc9SrsdEKouD85c",
             "id": "rZWeR8bQlaE",
             "snippet": {
                 "publishedAt": "2026-10-02T21:00:30Z",
@@ -3205,239 +3429,15 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "3970398",
-                "likeCount": "31167",
+                "viewCount": "4004717",
+                "likeCount": "31385",
                 "favoriteCount": "0",
-                "commentCount": "607"
+                "commentCount": "608"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0yAgmrDmNXhfHzpQpBlnHELk7kY",
-            "id": "xHk1lacqThA",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:00:39Z",
-                "channelId": "UC6H1K6ynL8dcItSsB3p36Dw",
-                "title": "ISHALKEN OSURMAMALISIN...",
-                "description": "abi nolur mayk\u0131l ceks\u0131n\u0131 aramay\u0131n...\n\nishalken osurmamal\u0131s\u0131n:https://gamebanana.com/mods/710471\nnolur mayk\u0131l ceks\u0131n\u0131 arama:https://gamebanana.com/mods/713918\nBUNUN TADINA BAK!:https://gamebanana.com/mods/703690\n\n\n---------------------------------------\n\ud83c\udfa9Kick (Extra Yay\u0131nlar) | https://kick.com/ds187-orhan\n-------------------------------------\n\n\ud83c\udfad\u0130nstagram | https://www.instagram.com/ds187_orhan/?hl=tr\n\n\ud83d\udea9Twitter | https://twitter.com/DS_Studios_187\n\n\ud83c\udfa1Tiktok | https://www.tiktok.com/@ds187_orhan\n\n\ud83e\udde7DS Studios Kanal\u0131m\u0131z: https://www.youtube.com/channel/UCSl6uSpLeBfIXvU12K6Ddlg\n\n \ud83c\udf81 Roblox Grubumuz | https://www.roblox.com/groups/16915221/DS-187-Ekibi#!/about\n\n\ud83e\udd1d\u0130\u015fbirli\u011fi Sponsorluk Taleplerimiz \u0130\u00e7in | ds.studios.sup@gmail.com \n\n\ud83c\udfaeDaha Fazlas\u0131 \u0130\u00e7in Takipte Kalmay\u0131 Unutmay\u0131n!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/xHk1lacqThA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "\u300a DS_187 \u300b",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "ISHALKEN OSURMAMALISIN...",
-                    "description": "abi nolur mayk\u0131l ceks\u0131n\u0131 aramay\u0131n...\n\nishalken osurmamal\u0131s\u0131n:https://gamebanana.com/mods/710471\nnolur mayk\u0131l ceks\u0131n\u0131 arama:https://gamebanana.com/mods/713918\nBUNUN TADINA BAK!:https://gamebanana.com/mods/703690\n\n\n---------------------------------------\n\ud83c\udfa9Kick (Extra Yay\u0131nlar) | https://kick.com/ds187-orhan\n-------------------------------------\n\n\ud83c\udfad\u0130nstagram | https://www.instagram.com/ds187_orhan/?hl=tr\n\n\ud83d\udea9Twitter | https://twitter.com/DS_Studios_187\n\n\ud83c\udfa1Tiktok | https://www.tiktok.com/@ds187_orhan\n\n\ud83e\udde7DS Studios Kanal\u0131m\u0131z: https://www.youtube.com/channel/UCSl6uSpLeBfIXvU12K6Ddlg\n\n \ud83c\udf81 Roblox Grubumuz | https://www.roblox.com/groups/16915221/DS-187-Ekibi#!/about\n\n\ud83e\udd1d\u0130\u015fbirli\u011fi Sponsorluk Taleplerimiz \u0130\u00e7in | ds.studios.sup@gmail.com \n\n\ud83c\udfaeDaha Fazlas\u0131 \u0130\u00e7in Takipte Kalmay\u0131 Unutmay\u0131n!"
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "127435",
-                "likeCount": "5904",
-                "favoriteCount": "0",
-                "commentCount": "883"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "wOOfJdOlEWhze6iBo0xQwXfxg-k",
-            "id": "wWu26O_BFAE",
-            "snippet": {
-                "publishedAt": "2026-10-08T20:40:24Z",
-                "channelId": "UCrsRdVp42gxu2XP1ZWrj2Tg",
-                "title": "aman\u0131N",
-                "description": "Provided to YouTube by DistroKid\n\naman\u0131N \u00b7 Zoermod\n\naman\u0131N\n\n\u2117 Zoermod\n\nReleased on: 2026-10-08\n\nComposer: GenerativeAI\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/wWu26O_BFAE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Zoermod - Topic",
-                "tags": [
-                    "Zoermod",
-                    "aman\u0131N"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "aman\u0131N",
-                    "description": "Provided to YouTube by DistroKid\n\naman\u0131N \u00b7 Zoermod\n\naman\u0131N\n\n\u2117 Zoermod\n\nReleased on: 2026-10-08\n\nComposer: GenerativeAI\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "ar"
-            },
-            "statistics": {
-                "viewCount": "47333",
-                "likeCount": "552",
-                "favoriteCount": "0",
-                "commentCount": "16"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "E2UT5mrh7Qy-UVx0cBvtBYj3ktc",
-            "id": "kH07Gq1jY4A",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:00:31Z",
-                "channelId": "UCB0mJ4uPQzKbnHC2FSoq3DA",
-                "title": "DU\u0308NYA BI\u0307RI\u0307NCI\u0307SI\u0307NI\u0307N DESTESI\u0307",
-                "description": "\ud83d\udc51  *Dik telefon pozisyonu tavsiye edilir.*\n\ud83d\udc80 *Her g\u00fcn 17.00 video saatimiz.*\n\nINSTAGRAM GRUBUMUZ: https://www.instagram.com/channel/AbaF2ILhG8OGw2TO/\n\nSeeOk Ma\u011fazam\u0131z: https://shop.semihseeok.com/\n\nDo\u011frudan ileti\u015fim: contact@semihseeok.com\n\nBen Semih, Clash Royale'de esporcuyum. Bu kanalda d\u00fczenli olarak \u00fcst d\u00fczey ma\u00e7lar, en iyi desteler, yeni g\u00fcncellemeler ve challenge videolar\u0131 ile bir araya geldi\u011fimiz bir ortam\u0131m\u0131z var. E\u011fer video kalitesinde problem ya\u015farsan\u0131z ayarlardan d\u00fczeltebilirsiniz arkada\u015flar. \u0130yi seyirler.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/kH07Gq1jY4A/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "SeeOk",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "tr",
-                "localized": {
-                    "title": "DU\u0308NYA BI\u0307RI\u0307NCI\u0307SI\u0307NI\u0307N DESTESI\u0307",
-                    "description": "\ud83d\udc51  *Dik telefon pozisyonu tavsiye edilir.*\n\ud83d\udc80 *Her g\u00fcn 17.00 video saatimiz.*\n\nINSTAGRAM GRUBUMUZ: https://www.instagram.com/channel/AbaF2ILhG8OGw2TO/\n\nSeeOk Ma\u011fazam\u0131z: https://shop.semihseeok.com/\n\nDo\u011frudan ileti\u015fim: contact@semihseeok.com\n\nBen Semih, Clash Royale'de esporcuyum. Bu kanalda d\u00fczenli olarak \u00fcst d\u00fczey ma\u00e7lar, en iyi desteler, yeni g\u00fcncellemeler ve challenge videolar\u0131 ile bir araya geldi\u011fimiz bir ortam\u0131m\u0131z var. E\u011fer video kalitesinde problem ya\u015farsan\u0131z ayarlardan d\u00fczeltebilirsiniz arkada\u015flar. \u0130yi seyirler."
-                },
-                "defaultAudioLanguage": "tr"
-            },
-            "statistics": {
-                "viewCount": "178577",
-                "likeCount": "8565",
-                "favoriteCount": "0",
-                "commentCount": "586"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Cb1V7DBm6kCp1nh5UpjiFUeWixA",
-            "id": "IWJ-4A6TAoc",
-            "snippet": {
-                "publishedAt": "2026-10-07T14:53:53Z",
-                "channelId": "UCYVwt_KFcDesqe1xIDsJ0zQ",
-                "title": "Sabah\u0131n Be\u015fi (Remix)",
-                "description": "Provided to YouTube by DistroKid\n\nSabah\u0131n Be\u015fi (Remix) \u00b7 HALE VERDA\n\nSabah\u0131n Be\u015fi (Remix)\n\n\u2117 2731883 Records DK\n\nReleased on: 2026-10-07\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/IWJ-4A6TAoc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "HALE VERDA - Topic",
-                "tags": [
-                    "HALE VERDA",
-                    "Sabah\u0131n Be\u015fi (Remix)"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "az",
-                "localized": {
-                    "title": "Sabah\u0131n Be\u015fi (Remix)",
-                    "description": "Provided to YouTube by DistroKid\n\nSabah\u0131n Be\u015fi (Remix) \u00b7 HALE VERDA\n\nSabah\u0131n Be\u015fi (Remix)\n\n\u2117 2731883 Records DK\n\nReleased on: 2026-10-07\n\nAuto-generated by YouTube."
-                }
-            },
-            "statistics": {
-                "viewCount": "92258",
-                "likeCount": "430",
-                "favoriteCount": "0",
-                "commentCount": "12"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "bvDBB-5l1MINKFoRw0mXLz3DlXM",
+            "etag": "lqPb3rBUJb2wzYT-IPT3gH3CquM",
             "id": "8K7G3w5rYms",
             "snippet": {
                 "publishedAt": "2026-10-09T17:00:28Z",
@@ -3482,10 +3482,10 @@
                 "defaultAudioLanguage": "tr"
             },
             "statistics": {
-                "viewCount": "175552",
-                "likeCount": "7623",
+                "viewCount": "180198",
+                "likeCount": "7739",
                 "favoriteCount": "0",
-                "commentCount": "837"
+                "commentCount": "843"
             }
         }
     ],

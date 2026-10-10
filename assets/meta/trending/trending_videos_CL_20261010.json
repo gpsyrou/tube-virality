@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "1eHPmAtRnml72X_jsSgQt8gBfiU",
+    "etag": "BnzJGobYOZdGMGMOhYVOxO5IrRw",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "RA9OMTLDgzpjKZdyKi65TT9Av1M",
+            "etag": "RvjAkFZ4f-4dgwjhI47HXAtl3eo",
             "id": "3juuih0WdH8",
             "snippet": {
                 "publishedAt": "2026-10-09T19:04:30Z",
@@ -64,15 +64,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1819056",
-                "likeCount": "193961",
+                "viewCount": "1875158",
+                "likeCount": "197090",
                 "favoriteCount": "0",
-                "commentCount": "11570"
+                "commentCount": "11716"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3x76vL61Pwskz72bLOTURmUMgQU",
+            "etag": "6KNfBHQ-ITQW5CRShRarB9hiJs8",
             "id": "gg33XSAtdZM",
             "snippet": {
                 "publishedAt": "2026-10-10T02:59:18Z",
@@ -126,15 +126,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "310696",
-                "likeCount": "44462",
+                "viewCount": "327754",
+                "likeCount": "46519",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0CJOGLlsN7L4WbRAS3LLAHmQ32Y",
+            "etag": "snIo7ppke1hY6Pwfyh-3Z2t9HMs",
             "id": "qdqI62D6lQA",
             "snippet": {
                 "publishedAt": "2026-10-09T18:06:14Z",
@@ -184,15 +184,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "784012",
-                "likeCount": "7630",
+                "viewCount": "818404",
+                "likeCount": "7992",
                 "favoriteCount": "0",
-                "commentCount": "394"
+                "commentCount": "407"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JqZEi9VhrimzPuHVKiAWi_S7eoc",
+            "etag": "3TKhqH_pdHp5F2f7iijK5akczic",
             "id": "ZfdwnCz-kiA",
             "snippet": {
                 "publishedAt": "2026-10-08T21:51:18Z",
@@ -252,15 +252,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2567544",
-                "likeCount": "108102",
+                "viewCount": "2605028",
+                "likeCount": "109571",
                 "favoriteCount": "0",
-                "commentCount": "10333"
+                "commentCount": "10414"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QmhPCc4JpgoVWgaFrtgz-9eEZGw",
+            "etag": "GZkDpXD6tWR0aE061wZjVKo6knE",
             "id": "QEwlcDXFkiA",
             "snippet": {
                 "publishedAt": "2026-10-09T22:54:22Z",
@@ -329,15 +329,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "114192",
-                "likeCount": "2064",
+                "viewCount": "116806",
+                "likeCount": "2157",
                 "favoriteCount": "0",
-                "commentCount": "203"
+                "commentCount": "207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YLmdReIHkvfXO-sNzi5C0acooBk",
+            "etag": "d7dYvCm6v-USI59loV2lP3hC0x4",
             "id": "YWlb1OMbmOQ",
             "snippet": {
                 "publishedAt": "2026-10-09T17:16:13Z",
@@ -414,15 +414,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1402167",
-                "likeCount": "35839",
+                "viewCount": "1422493",
+                "likeCount": "36510",
                 "favoriteCount": "0",
-                "commentCount": "1239"
+                "commentCount": "1253"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DJFr9XXzlAnAWejbcnZF3ewSobo",
+            "etag": "jsPMXQgx2k-kPVjK-BLiGnTKyMQ",
             "id": "La4g9CSXvus",
             "snippet": {
                 "publishedAt": "2026-10-09T21:04:04Z",
@@ -467,15 +467,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "322817",
-                "likeCount": "24822",
+                "viewCount": "335785",
+                "likeCount": "25783",
                 "favoriteCount": "0",
-                "commentCount": "1778"
+                "commentCount": "1821"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5f5rq7vTJxJGvAuw50g5NH4nuUI",
+            "etag": "UIjKtu_2H3ZMm8XOhQzOI3fxRs4",
             "id": "2KPFnP1othM",
             "snippet": {
                 "publishedAt": "2026-10-08T20:06:09Z",
@@ -534,15 +534,15 @@
                 "defaultAudioLanguage": "ja"
             },
             "statistics": {
-                "viewCount": "4010484",
-                "likeCount": "130965",
+                "viewCount": "4059184",
+                "likeCount": "133004",
                 "favoriteCount": "0",
-                "commentCount": "2656"
+                "commentCount": "2696"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "I_J7VqE6nK4szpelWS2C101kQCc",
+            "etag": "DCTXAXDostrE4yHz39l-ZJp9rfg",
             "id": "javQvZ0ADx0",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:08Z",
@@ -613,15 +613,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "4784921",
-                "likeCount": "212532",
+                "viewCount": "4849735",
+                "likeCount": "214339",
                 "favoriteCount": "0",
-                "commentCount": "27785"
+                "commentCount": "27922"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "pE4EAVKpE7lUa_IwwC6jOEUSYUM",
+            "etag": "VQJ7Tfk-9Nhqn43SRmILDHrkRf0",
             "id": "r8TrLanqnzI",
             "snippet": {
                 "publishedAt": "2026-10-09T23:00:06Z",
@@ -693,15 +693,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "23901",
-                "likeCount": "2291",
+                "viewCount": "24882",
+                "likeCount": "2373",
                 "favoriteCount": "0",
-                "commentCount": "334"
+                "commentCount": "343"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UEzS4po3ItJflpU_yLwG8GS-tc4",
+            "etag": "WAsEtbzFEVfDBARO1kSWnNkgmUo",
             "id": "6ywoVjl07Rc",
             "snippet": {
                 "publishedAt": "2026-10-09T17:05:09Z",
@@ -762,15 +762,15 @@
                 "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "390538",
-                "likeCount": "10420",
+                "viewCount": "392745",
+                "likeCount": "10495",
                 "favoriteCount": "0",
-                "commentCount": "1356"
+                "commentCount": "1369"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "euxFc_FB9DC0fLH2s3wYYHEIrek",
+            "etag": "-eaNimohOp4996I3vSTzhkGYGRc",
             "id": "DGwYk6Usv3I",
             "snippet": {
                 "publishedAt": "2026-10-10T05:59:52Z",
@@ -857,15 +857,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "402818",
-                "likeCount": "9136",
+                "viewCount": "408157",
+                "likeCount": "9308",
                 "favoriteCount": "0",
-                "commentCount": "80"
+                "commentCount": "84"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RJljwlWFukBDMlwNtbSBdPVXRrE",
+            "etag": "Q3Bz4p-OU2YW4--bXr2o4O_KKh4",
             "id": "TXv0smb7wqI",
             "snippet": {
                 "publishedAt": "2026-10-06T17:30:00Z",
@@ -932,15 +932,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "105069",
-                "likeCount": "284",
+                "viewCount": "107038",
+                "likeCount": "288",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EWGCd5WwipH0JaVhSasq9DPyr9I",
+            "etag": "zFcNF8rb9kptehparoItei6fnSM",
             "id": "5T6U5Fqq7w4",
             "snippet": {
                 "publishedAt": "2026-10-09T16:15:25Z",
@@ -1021,15 +1021,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1516634",
-                "likeCount": "37440",
+                "viewCount": "1531067",
+                "likeCount": "38115",
                 "favoriteCount": "0",
-                "commentCount": "1507"
+                "commentCount": "1515"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "h_Erzeeu2Fr-S3ARdMZiweeZa3s",
+            "etag": "iIsR_Qy8MzKv2OW9OvTsCm_v5Gk",
             "id": "GYEXSoJrv78",
             "snippet": {
                 "publishedAt": "2026-10-09T21:30:31Z",
@@ -1102,15 +1102,156 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "271463",
-                "likeCount": "11440",
+                "viewCount": "278805",
+                "likeCount": "11779",
                 "favoriteCount": "0",
-                "commentCount": "350"
+                "commentCount": "352"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "_c_Oi15Cw6zjX_ggvEdVW5PeyVU",
+            "etag": "G3R_IVhHSu_BYcMFSEntJZXhOPk",
+            "id": "5flyIBwg7t0",
+            "snippet": {
+                "publishedAt": "2026-10-09T04:03:19Z",
+                "channelId": "UCbi3g1_GzsPtf4b30DFtHcw",
+                "title": "BOTZ",
+                "description": "Provided to YouTube by AOP\n\nBOTZ \u00b7 Daddy Yankee\n\nBOTZ\n\n\u2117 2026 DY Records\n\nReleased on: 2026-10-09\n\nProducer: Jeremy Ayala\nProducer: L.e.x.v.z\nProducer: DUP\nProducer: Xound\nMastering Engineer: Ricardo Sangiao\nRecording Engineer: OMB\nMixing Engineer: Gaby Music\nVocals: Daddy Yankee\nLyricist: Ram\u00f3n Luis Ayala Rodr\u00edguez\nLyricist: Kevyn Mauricio Cruz Moreno\nComposer: Ram\u00f3n Luis Ayala Rodr\u00edguez\nComposer: Kevyn Mauricio Cruz Moreno\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Release - Topic",
+                "tags": [
+                    "Daddy Yankee",
+                    "BOTZ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "BOTZ",
+                    "description": "Provided to YouTube by AOP\n\nBOTZ \u00b7 Daddy Yankee\n\nBOTZ\n\n\u2117 2026 DY Records\n\nReleased on: 2026-10-09\n\nProducer: Jeremy Ayala\nProducer: L.e.x.v.z\nProducer: DUP\nProducer: Xound\nMastering Engineer: Ricardo Sangiao\nRecording Engineer: OMB\nMixing Engineer: Gaby Music\nVocals: Daddy Yankee\nLyricist: Ram\u00f3n Luis Ayala Rodr\u00edguez\nLyricist: Kevyn Mauricio Cruz Moreno\nComposer: Ram\u00f3n Luis Ayala Rodr\u00edguez\nComposer: Kevyn Mauricio Cruz Moreno\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "146599",
+                "likeCount": "3340",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "x4Kfe5bzC24WmytxvGkZnsw-umA",
+            "id": "YwsPNUiK5aQ",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:05:06Z",
+                "channelId": "UColTsB6zogXWooPbeO67Wgw",
+                "title": "MINECRAFT PERO LA TIERRA ME DA COSAS OP!\ud83c\udf0e",
+                "description": "Apoyame convirtiendote en un miembro de mi canal por tan solo 1 Dolar! \u2764\nhttps://www.youtube.com/channel/UColTsB6zogXWooPbeO67Wgw\n\u25baINSTAGRAM: https://www.instagram.com/elabrahaham\n\u25baTIKTOK: https://www.tiktok.com/@elabrahaham?lang=es\n\u25baTWITCH: https://www.twitch.tv/elabrahaham\n\u25baFACEBOOK: https://www.facebook.com/ElAbrahaham/\n#ElAbrahaham #AbrahahamFlores",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ElAbrahaham",
+                "tags": [
+                    "abrahahamflores",
+                    "stream",
+                    "entretenimiento",
+                    "divertido",
+                    "risa",
+                    "gracioso",
+                    "gamer",
+                    "videojuegos",
+                    "elabrahaham",
+                    "copilacion",
+                    "videos graciosos",
+                    "antes vs ahora",
+                    "mexico vs usa",
+                    "abrahaham",
+                    "directos",
+                    "shorts",
+                    "tiktoks",
+                    "streams",
+                    "twitch",
+                    "reaccion",
+                    "reacciones",
+                    "roblox",
+                    "brainrots",
+                    "gameplays",
+                    "random",
+                    "terror",
+                    "los bros",
+                    "bros",
+                    "bros roblox"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-MX",
+                "localized": {
+                    "title": "MINECRAFT PERO LA TIERRA ME DA COSAS OP!\ud83c\udf0e",
+                    "description": "Apoyame convirtiendote en un miembro de mi canal por tan solo 1 Dolar! \u2764\nhttps://www.youtube.com/channel/UColTsB6zogXWooPbeO67Wgw\n\u25baINSTAGRAM: https://www.instagram.com/elabrahaham\n\u25baTIKTOK: https://www.tiktok.com/@elabrahaham?lang=es\n\u25baTWITCH: https://www.twitch.tv/elabrahaham\n\u25baFACEBOOK: https://www.facebook.com/ElAbrahaham/\n#ElAbrahaham #AbrahahamFlores"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "480559",
+                "likeCount": "14772",
+                "favoriteCount": "0",
+                "commentCount": "1093"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Rp7hAJijR4x-dZXK4ZAT5B7SBYE",
             "id": "VUIgT-E4IS0",
             "snippet": {
                 "publishedAt": "2026-10-08T16:00:10Z",
@@ -1190,156 +1331,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "2422128",
-                "likeCount": "132772",
+                "viewCount": "2473666",
+                "likeCount": "134038",
                 "favoriteCount": "0",
-                "commentCount": "6700"
+                "commentCount": "6747"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2jlUpcPR2PZH8RTpldB34rajEHk",
-            "id": "YwsPNUiK5aQ",
-            "snippet": {
-                "publishedAt": "2026-10-09T21:05:06Z",
-                "channelId": "UColTsB6zogXWooPbeO67Wgw",
-                "title": "MINECRAFT PERO LA TIERRA ME DA COSAS OP!\ud83c\udf0e",
-                "description": "Apoyame convirtiendote en un miembro de mi canal por tan solo 1 Dolar! \u2764\nhttps://www.youtube.com/channel/UColTsB6zogXWooPbeO67Wgw\n\u25baINSTAGRAM: https://www.instagram.com/elabrahaham\n\u25baTIKTOK: https://www.tiktok.com/@elabrahaham?lang=es\n\u25baTWITCH: https://www.twitch.tv/elabrahaham\n\u25baFACEBOOK: https://www.facebook.com/ElAbrahaham/\n#ElAbrahaham #AbrahahamFlores",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/YwsPNUiK5aQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ElAbrahaham",
-                "tags": [
-                    "abrahahamflores",
-                    "stream",
-                    "entretenimiento",
-                    "divertido",
-                    "risa",
-                    "gracioso",
-                    "gamer",
-                    "videojuegos",
-                    "elabrahaham",
-                    "copilacion",
-                    "videos graciosos",
-                    "antes vs ahora",
-                    "mexico vs usa",
-                    "abrahaham",
-                    "directos",
-                    "shorts",
-                    "tiktoks",
-                    "streams",
-                    "twitch",
-                    "reaccion",
-                    "reacciones",
-                    "roblox",
-                    "brainrots",
-                    "gameplays",
-                    "random",
-                    "terror",
-                    "los bros",
-                    "bros",
-                    "bros roblox"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-MX",
-                "localized": {
-                    "title": "MINECRAFT PERO LA TIERRA ME DA COSAS OP!\ud83c\udf0e",
-                    "description": "Apoyame convirtiendote en un miembro de mi canal por tan solo 1 Dolar! \u2764\nhttps://www.youtube.com/channel/UColTsB6zogXWooPbeO67Wgw\n\u25baINSTAGRAM: https://www.instagram.com/elabrahaham\n\u25baTIKTOK: https://www.tiktok.com/@elabrahaham?lang=es\n\u25baTWITCH: https://www.twitch.tv/elabrahaham\n\u25baFACEBOOK: https://www.facebook.com/ElAbrahaham/\n#ElAbrahaham #AbrahahamFlores"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "466462",
-                "likeCount": "14235",
-                "favoriteCount": "0",
-                "commentCount": "1082"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "1l_fYheGdpxvYx4oASywiQ4U52U",
-            "id": "5flyIBwg7t0",
-            "snippet": {
-                "publishedAt": "2026-10-09T04:03:19Z",
-                "channelId": "UCbi3g1_GzsPtf4b30DFtHcw",
-                "title": "BOTZ",
-                "description": "Provided to YouTube by AOP\n\nBOTZ \u00b7 Daddy Yankee\n\nBOTZ\n\n\u2117 2026 DY Records\n\nReleased on: 2026-10-09\n\nProducer: Jeremy Ayala\nProducer: L.e.x.v.z\nProducer: DUP\nProducer: Xound\nMastering Engineer: Ricardo Sangiao\nRecording Engineer: OMB\nMixing Engineer: Gaby Music\nVocals: Daddy Yankee\nLyricist: Ram\u00f3n Luis Ayala Rodr\u00edguez\nLyricist: Kevyn Mauricio Cruz Moreno\nComposer: Ram\u00f3n Luis Ayala Rodr\u00edguez\nComposer: Kevyn Mauricio Cruz Moreno\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/5flyIBwg7t0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Release - Topic",
-                "tags": [
-                    "Daddy Yankee",
-                    "BOTZ"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "BOTZ",
-                    "description": "Provided to YouTube by AOP\n\nBOTZ \u00b7 Daddy Yankee\n\nBOTZ\n\n\u2117 2026 DY Records\n\nReleased on: 2026-10-09\n\nProducer: Jeremy Ayala\nProducer: L.e.x.v.z\nProducer: DUP\nProducer: Xound\nMastering Engineer: Ricardo Sangiao\nRecording Engineer: OMB\nMixing Engineer: Gaby Music\nVocals: Daddy Yankee\nLyricist: Ram\u00f3n Luis Ayala Rodr\u00edguez\nLyricist: Kevyn Mauricio Cruz Moreno\nComposer: Ram\u00f3n Luis Ayala Rodr\u00edguez\nComposer: Kevyn Mauricio Cruz Moreno\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "143527",
-                "likeCount": "3250",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "rH7-UtLcQkgJU798U6jDA538QFs",
+            "etag": "6S5JQfWSs3D6UHDe_OKzDYgwiag",
             "id": "uoIjRSL-E8I",
             "snippet": {
                 "publishedAt": "2026-10-09T23:43:21Z",
@@ -1384,15 +1384,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "212364",
-                "likeCount": "4220",
+                "viewCount": "226180",
+                "likeCount": "4419",
                 "favoriteCount": "0",
-                "commentCount": "572"
+                "commentCount": "583"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "B5xl63XfbLU1yo1zNf56QUnfokc",
+            "etag": "QtuktmwdsDgAJNtGPEqFEej5NMQ",
             "id": "j31L0iIwdmE",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:29Z",
@@ -1444,15 +1444,157 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "662975",
-                "likeCount": "46464",
+                "viewCount": "670574",
+                "likeCount": "46805",
                 "favoriteCount": "0",
-                "commentCount": "2406"
+                "commentCount": "2408"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mjLFt71rVYCQfjU29My9wDIv-dY",
+            "etag": "j5xPqdihbVoptVYMuAgVi2dWNLk",
+            "id": "DSRM8dCKB6o",
+            "snippet": {
+                "publishedAt": "2026-10-09T16:10:02Z",
+                "channelId": "UCeQ6j5aC9g6cey-6s9C8T3A",
+                "title": "\u00bfAl nuevo SILENT HILL le falta ACCI\u00d3N?",
+                "description": "A veces juego en KICK: https://kick.com/CRITICAS_QLS \nTambien reacciono en twitch:https://www.twitch.tv/criticas_qls\nHablo de peliculas y series en: https://www.youtube.com/@Criticas_QLS\nEscribi un libro y un par de comics: https://productosqls.com/\nSigame en  https://www.instagram.com/criticas_qls/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Videojuegos QLS",
+                "tags": [
+                    "criticas qls",
+                    "juegos qls",
+                    "transmisiones qls",
+                    "cesar huispe"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "\u00bfAl nuevo SILENT HILL le falta ACCI\u00d3N?",
+                    "description": "A veces juego en KICK: https://kick.com/CRITICAS_QLS \nTambien reacciono en twitch:https://www.twitch.tv/criticas_qls\nHablo de peliculas y series en: https://www.youtube.com/@Criticas_QLS\nEscribi un libro y un par de comics: https://productosqls.com/\nSigame en  https://www.instagram.com/criticas_qls/"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "65882",
+                "likeCount": "2641",
+                "favoriteCount": "0",
+                "commentCount": "184"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rvxgP0Hkk7FlzT0DgU2AEUVCTdE",
+            "id": "0pXfi_-jGeQ",
+            "snippet": {
+                "publishedAt": "2026-10-07T17:00:09Z",
+                "channelId": "UCQIsOHQ7sEAk9r_VUEscviQ",
+                "title": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz (Video Oficial)",
+                "description": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz\n\nEscucha D\u00e9jate Llevar (Remix) en tu plataforma favorita: \nhttps://orcd.co/dejatellevaremix\n\nS\u00edgueme en mis Redes Sociales: \nhttps://www.instagram.com/elbai.official/\nhttps://www.tiktok.com/@elbai.officiaal \n\nS\u00edgue a  @JereKlein en sus Redes Sociales: \nhttps://www.instagram.com/jere.klein/\nhttps://www.tiktok.com/@jerekleeiin \n\nSigue a @simonpizzarro  en sus Redes Sociales: \nhttps://www.instagram.com/simonpizarro/\nhttps://www.tiktok.com/@simonpizarro10\n\nSigue a @MATEOONTHEBEATZ.OFICIAL  en sus Redes Sociales: \nhttps://www.instagram.com/mateoonthebeatz/\nhttps://www.instagram.com/mateoonthebeatz/\n\nCR\u00c9DITOS VIDEOCLIP\nDirecci\u00f3n & Montaje: https://www.instagram.com/zetapi_vfx \nAsis. Producci\u00f3n: https://www.instagram.com/l_sinn3r/\nC\u00e1mara Vhs: https://www.instagram.com/l_sinn3r/\nColor: https://www.instagram.com/p0pin_\nDOP: Alfonso\nPM & Dise\u00f1o Gr\u00e1fico: https://www.instagram.com/sellancillo/\n\n*Letra Oficial D\u00e9jate Llevar Remix*\n\nCu\u00e1nto tiempo te estar\u00e9 esperando\nEse d\u00eda que te vi en la disco\nSolita viajando\nAndo pens\u00e1ndote\nSolo dime cu\u00e1ndo\nYo te puedo pasar a buscar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nT\u00fa, Gat\u00fabela, yo tu Batman\nTe busco si en la noche\nAndas en soledad\n\nQu\u00edtame la combi Dolce\nQuiero darte acapela, la-la\nY si se porta lindo\nRegalito de Maison Margiela\n\nT\u00fa siempre con ese truco, tu po \nTe encanta c\u00f3mo luzco en el cuco\nMi Nena fichu, Farruko\nComo Coscu y Nicki, dime si te busco\n\nY yo no s\u00e9 qu\u00e9 pasa con ese culito NASA\nMe tiene en el espacio, como ella es tan escasa\nSu pelito liso y en el cuello una casa\nElla es mi tesoro, soy el ladr\u00f3n que la caza\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY nada malo te va a pasar\n\nD\u00e9jate llevar\nAh, ah, ah, ah\nQue t\u00fa andas conmigo\nY nada malo te va a pasar\n\nYo s\u00e9 que te acuerdas de m\u00ed\nPa' cuidarte est\u00e1 la semi\nTen\u00eda ganas de verte\nPor eso te traje el remix\n\nSe lo hago escuchando Lento\nY tomando un flemi\nElla es blanquita, Rosenthal como Denise\n\nMami, ponte tenis\nNo te pongas taco\nChilenita, ese culo est\u00e1 berraco\n\nSu ex era un bobo\nSe asust\u00f3 cuando me vio con los aparatos\nLlegando con todos mis diablos\nDile que por ti yo mato\n\nNo s\u00e9 si ser\u00e1 su pelo que me envicia\nMe eleva con un beso\nY bajo con una caricia\nManejar sus curvas es una primicia\nTenerla desnudita, ay, qu\u00e9 delicia\n\nPadre nuestro, vamos pa' dentro\nYo te secuestro, lo doy en el centro\nDisc\u00falpame, shorty, dame un momento\nQu\u00edtate la ropa y toma asiento\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nMami, t\u00fa tranquila\nQue nada malo va a pasarte\n\nNos protege Dios\nY el peine 32 que tengo\nPa' que salte reclamante\nPa' que sepan\n\nY esta vez, Baje\nCon Sim\u00f3n Pizarro pa' hacerte este hit\nD\u00edmelo, Francis, la mente\n\nEl cocodrilo con el antip\u00e1tico\nEl antip\u00e1tico con el cocodrilo\nPa' que sepan\n\nDe ac\u00e1 arriba ustedes no se escuchan\nEstamos muy adelantados al time\nOtros niveles de m\u00fasica, loco\n6-5, mi amor\n\n#jereklein #elbai #d\u00e9jatellevar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "qhd": {
+                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/qhddefault.jpg",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "El Bai",
+                "tags": [
+                    "D\u00e9jate Llevar",
+                    "Jere Klein",
+                    "El Bai",
+                    "mateo on the beatz",
+                    "Jere klein D\u00e9jate Lleva",
+                    "El Bai D\u00e9jate Llevar",
+                    "Jere Klein Mix",
+                    "D\u00e9jate Llevar Remix",
+                    "Genero Urbano",
+                    "simonpizarro",
+                    "Mateo on the Beatz D\u00e9jate Llevar Remix",
+                    "Jere klein Milloneta",
+                    "Jere Klein todo k ver",
+                    "Jere klein ANDO",
+                    "Jere Klein dubai",
+                    "Pensandote",
+                    "Cris mj pensandote",
+                    "Masoquista jere klein"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz (Video Oficial)",
+                    "description": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz\n\nEscucha D\u00e9jate Llevar (Remix) en tu plataforma favorita: \nhttps://orcd.co/dejatellevaremix\n\nS\u00edgueme en mis Redes Sociales: \nhttps://www.instagram.com/elbai.official/\nhttps://www.tiktok.com/@elbai.officiaal \n\nS\u00edgue a  @JereKlein en sus Redes Sociales: \nhttps://www.instagram.com/jere.klein/\nhttps://www.tiktok.com/@jerekleeiin \n\nSigue a @simonpizzarro  en sus Redes Sociales: \nhttps://www.instagram.com/simonpizarro/\nhttps://www.tiktok.com/@simonpizarro10\n\nSigue a @MATEOONTHEBEATZ.OFICIAL  en sus Redes Sociales: \nhttps://www.instagram.com/mateoonthebeatz/\nhttps://www.instagram.com/mateoonthebeatz/\n\nCR\u00c9DITOS VIDEOCLIP\nDirecci\u00f3n & Montaje: https://www.instagram.com/zetapi_vfx \nAsis. Producci\u00f3n: https://www.instagram.com/l_sinn3r/\nC\u00e1mara Vhs: https://www.instagram.com/l_sinn3r/\nColor: https://www.instagram.com/p0pin_\nDOP: Alfonso\nPM & Dise\u00f1o Gr\u00e1fico: https://www.instagram.com/sellancillo/\n\n*Letra Oficial D\u00e9jate Llevar Remix*\n\nCu\u00e1nto tiempo te estar\u00e9 esperando\nEse d\u00eda que te vi en la disco\nSolita viajando\nAndo pens\u00e1ndote\nSolo dime cu\u00e1ndo\nYo te puedo pasar a buscar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nT\u00fa, Gat\u00fabela, yo tu Batman\nTe busco si en la noche\nAndas en soledad\n\nQu\u00edtame la combi Dolce\nQuiero darte acapela, la-la\nY si se porta lindo\nRegalito de Maison Margiela\n\nT\u00fa siempre con ese truco, tu po \nTe encanta c\u00f3mo luzco en el cuco\nMi Nena fichu, Farruko\nComo Coscu y Nicki, dime si te busco\n\nY yo no s\u00e9 qu\u00e9 pasa con ese culito NASA\nMe tiene en el espacio, como ella es tan escasa\nSu pelito liso y en el cuello una casa\nElla es mi tesoro, soy el ladr\u00f3n que la caza\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY nada malo te va a pasar\n\nD\u00e9jate llevar\nAh, ah, ah, ah\nQue t\u00fa andas conmigo\nY nada malo te va a pasar\n\nYo s\u00e9 que te acuerdas de m\u00ed\nPa' cuidarte est\u00e1 la semi\nTen\u00eda ganas de verte\nPor eso te traje el remix\n\nSe lo hago escuchando Lento\nY tomando un flemi\nElla es blanquita, Rosenthal como Denise\n\nMami, ponte tenis\nNo te pongas taco\nChilenita, ese culo est\u00e1 berraco\n\nSu ex era un bobo\nSe asust\u00f3 cuando me vio con los aparatos\nLlegando con todos mis diablos\nDile que por ti yo mato\n\nNo s\u00e9 si ser\u00e1 su pelo que me envicia\nMe eleva con un beso\nY bajo con una caricia\nManejar sus curvas es una primicia\nTenerla desnudita, ay, qu\u00e9 delicia\n\nPadre nuestro, vamos pa' dentro\nYo te secuestro, lo doy en el centro\nDisc\u00falpame, shorty, dame un momento\nQu\u00edtate la ropa y toma asiento\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nMami, t\u00fa tranquila\nQue nada malo va a pasarte\n\nNos protege Dios\nY el peine 32 que tengo\nPa' que salte reclamante\nPa' que sepan\n\nY esta vez, Baje\nCon Sim\u00f3n Pizarro pa' hacerte este hit\nD\u00edmelo, Francis, la mente\n\nEl cocodrilo con el antip\u00e1tico\nEl antip\u00e1tico con el cocodrilo\nPa' que sepan\n\nDe ac\u00e1 arriba ustedes no se escuchan\nEstamos muy adelantados al time\nOtros niveles de m\u00fasica, loco\n6-5, mi amor\n\n#jereklein #elbai #d\u00e9jatellevar"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "409300",
+                "likeCount": "9173",
+                "favoriteCount": "0",
+                "commentCount": "263"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TBfFVgd3NtKZtWG0m_yFDOQiHRw",
             "id": "mlFxxNsExJc",
             "snippet": {
                 "publishedAt": "2026-10-09T00:55:10Z",
@@ -1540,157 +1682,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "7138100",
-                "likeCount": "233215",
+                "viewCount": "7198195",
+                "likeCount": "234656",
                 "favoriteCount": "0",
-                "commentCount": "14499"
+                "commentCount": "14546"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oZe_Af11M0mvaMT65P7HflbOUZs",
-            "id": "0pXfi_-jGeQ",
-            "snippet": {
-                "publishedAt": "2026-10-07T17:00:09Z",
-                "channelId": "UCQIsOHQ7sEAk9r_VUEscviQ",
-                "title": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz (Video Oficial)",
-                "description": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz\n\nEscucha D\u00e9jate Llevar (Remix) en tu plataforma favorita: \nhttps://orcd.co/dejatellevaremix\n\nS\u00edgueme en mis Redes Sociales: \nhttps://www.instagram.com/elbai.official/\nhttps://www.tiktok.com/@elbai.officiaal \n\nS\u00edgue a  @JereKlein en sus Redes Sociales: \nhttps://www.instagram.com/jere.klein/\nhttps://www.tiktok.com/@jerekleeiin \n\nSigue a @simonpizzarro  en sus Redes Sociales: \nhttps://www.instagram.com/simonpizarro/\nhttps://www.tiktok.com/@simonpizarro10\n\nSigue a @MATEOONTHEBEATZ.OFICIAL  en sus Redes Sociales: \nhttps://www.instagram.com/mateoonthebeatz/\nhttps://www.instagram.com/mateoonthebeatz/\n\nCR\u00c9DITOS VIDEOCLIP\nDirecci\u00f3n & Montaje: https://www.instagram.com/zetapi_vfx \nAsis. Producci\u00f3n: https://www.instagram.com/l_sinn3r/\nC\u00e1mara Vhs: https://www.instagram.com/l_sinn3r/\nColor: https://www.instagram.com/p0pin_\nDOP: Alfonso\nPM & Dise\u00f1o Gr\u00e1fico: https://www.instagram.com/sellancillo/\n\n*Letra Oficial D\u00e9jate Llevar Remix*\n\nCu\u00e1nto tiempo te estar\u00e9 esperando\nEse d\u00eda que te vi en la disco\nSolita viajando\nAndo pens\u00e1ndote\nSolo dime cu\u00e1ndo\nYo te puedo pasar a buscar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nT\u00fa, Gat\u00fabela, yo tu Batman\nTe busco si en la noche\nAndas en soledad\n\nQu\u00edtame la combi Dolce\nQuiero darte acapela, la-la\nY si se porta lindo\nRegalito de Maison Margiela\n\nT\u00fa siempre con ese truco, tu po \nTe encanta c\u00f3mo luzco en el cuco\nMi Nena fichu, Farruko\nComo Coscu y Nicki, dime si te busco\n\nY yo no s\u00e9 qu\u00e9 pasa con ese culito NASA\nMe tiene en el espacio, como ella es tan escasa\nSu pelito liso y en el cuello una casa\nElla es mi tesoro, soy el ladr\u00f3n que la caza\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY nada malo te va a pasar\n\nD\u00e9jate llevar\nAh, ah, ah, ah\nQue t\u00fa andas conmigo\nY nada malo te va a pasar\n\nYo s\u00e9 que te acuerdas de m\u00ed\nPa' cuidarte est\u00e1 la semi\nTen\u00eda ganas de verte\nPor eso te traje el remix\n\nSe lo hago escuchando Lento\nY tomando un flemi\nElla es blanquita, Rosenthal como Denise\n\nMami, ponte tenis\nNo te pongas taco\nChilenita, ese culo est\u00e1 berraco\n\nSu ex era un bobo\nSe asust\u00f3 cuando me vio con los aparatos\nLlegando con todos mis diablos\nDile que por ti yo mato\n\nNo s\u00e9 si ser\u00e1 su pelo que me envicia\nMe eleva con un beso\nY bajo con una caricia\nManejar sus curvas es una primicia\nTenerla desnudita, ay, qu\u00e9 delicia\n\nPadre nuestro, vamos pa' dentro\nYo te secuestro, lo doy en el centro\nDisc\u00falpame, shorty, dame un momento\nQu\u00edtate la ropa y toma asiento\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nMami, t\u00fa tranquila\nQue nada malo va a pasarte\n\nNos protege Dios\nY el peine 32 que tengo\nPa' que salte reclamante\nPa' que sepan\n\nY esta vez, Baje\nCon Sim\u00f3n Pizarro pa' hacerte este hit\nD\u00edmelo, Francis, la mente\n\nEl cocodrilo con el antip\u00e1tico\nEl antip\u00e1tico con el cocodrilo\nPa' que sepan\n\nDe ac\u00e1 arriba ustedes no se escuchan\nEstamos muy adelantados al time\nOtros niveles de m\u00fasica, loco\n6-5, mi amor\n\n#jereklein #elbai #d\u00e9jatellevar",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "qhd": {
-                        "url": "https://i.ytimg.com/vi/0pXfi_-jGeQ/qhddefault.jpg",
-                        "width": 2560,
-                        "height": 1440
-                    }
-                },
-                "channelTitle": "El Bai",
-                "tags": [
-                    "D\u00e9jate Llevar",
-                    "Jere Klein",
-                    "El Bai",
-                    "mateo on the beatz",
-                    "Jere klein D\u00e9jate Lleva",
-                    "El Bai D\u00e9jate Llevar",
-                    "Jere Klein Mix",
-                    "D\u00e9jate Llevar Remix",
-                    "Genero Urbano",
-                    "simonpizarro",
-                    "Mateo on the Beatz D\u00e9jate Llevar Remix",
-                    "Jere klein Milloneta",
-                    "Jere Klein todo k ver",
-                    "Jere klein ANDO",
-                    "Jere Klein dubai",
-                    "Pensandote",
-                    "Cris mj pensandote",
-                    "Masoquista jere klein"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz (Video Oficial)",
-                    "description": "D\u00e9jate Llevar (Remix) - El Bai x Jere Klein x Simonpizarro x Mateo on the Beatz\n\nEscucha D\u00e9jate Llevar (Remix) en tu plataforma favorita: \nhttps://orcd.co/dejatellevaremix\n\nS\u00edgueme en mis Redes Sociales: \nhttps://www.instagram.com/elbai.official/\nhttps://www.tiktok.com/@elbai.officiaal \n\nS\u00edgue a  @JereKlein en sus Redes Sociales: \nhttps://www.instagram.com/jere.klein/\nhttps://www.tiktok.com/@jerekleeiin \n\nSigue a @simonpizzarro  en sus Redes Sociales: \nhttps://www.instagram.com/simonpizarro/\nhttps://www.tiktok.com/@simonpizarro10\n\nSigue a @MATEOONTHEBEATZ.OFICIAL  en sus Redes Sociales: \nhttps://www.instagram.com/mateoonthebeatz/\nhttps://www.instagram.com/mateoonthebeatz/\n\nCR\u00c9DITOS VIDEOCLIP\nDirecci\u00f3n & Montaje: https://www.instagram.com/zetapi_vfx \nAsis. Producci\u00f3n: https://www.instagram.com/l_sinn3r/\nC\u00e1mara Vhs: https://www.instagram.com/l_sinn3r/\nColor: https://www.instagram.com/p0pin_\nDOP: Alfonso\nPM & Dise\u00f1o Gr\u00e1fico: https://www.instagram.com/sellancillo/\n\n*Letra Oficial D\u00e9jate Llevar Remix*\n\nCu\u00e1nto tiempo te estar\u00e9 esperando\nEse d\u00eda que te vi en la disco\nSolita viajando\nAndo pens\u00e1ndote\nSolo dime cu\u00e1ndo\nYo te puedo pasar a buscar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nT\u00fa, Gat\u00fabela, yo tu Batman\nTe busco si en la noche\nAndas en soledad\n\nQu\u00edtame la combi Dolce\nQuiero darte acapela, la-la\nY si se porta lindo\nRegalito de Maison Margiela\n\nT\u00fa siempre con ese truco, tu po \nTe encanta c\u00f3mo luzco en el cuco\nMi Nena fichu, Farruko\nComo Coscu y Nicki, dime si te busco\n\nY yo no s\u00e9 qu\u00e9 pasa con ese culito NASA\nMe tiene en el espacio, como ella es tan escasa\nSu pelito liso y en el cuello una casa\nElla es mi tesoro, soy el ladr\u00f3n que la caza\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY nada malo te va a pasar\n\nD\u00e9jate llevar\nAh, ah, ah, ah\nQue t\u00fa andas conmigo\nY nada malo te va a pasar\n\nYo s\u00e9 que te acuerdas de m\u00ed\nPa' cuidarte est\u00e1 la semi\nTen\u00eda ganas de verte\nPor eso te traje el remix\n\nSe lo hago escuchando Lento\nY tomando un flemi\nElla es blanquita, Rosenthal como Denise\n\nMami, ponte tenis\nNo te pongas taco\nChilenita, ese culo est\u00e1 berraco\n\nSu ex era un bobo\nSe asust\u00f3 cuando me vio con los aparatos\nLlegando con todos mis diablos\nDile que por ti yo mato\n\nNo s\u00e9 si ser\u00e1 su pelo que me envicia\nMe eleva con un beso\nY bajo con una caricia\nManejar sus curvas es una primicia\nTenerla desnudita, ay, qu\u00e9 delicia\n\nPadre nuestro, vamos pa' dentro\nYo te secuestro, lo doy en el centro\nDisc\u00falpame, shorty, dame un momento\nQu\u00edtate la ropa y toma asiento\n\nPonte c\u00f3moda, todo rico y buena vol\u00e1\nHacerte volar, fuma y queda vol\u00e1\nMe tienes como loco esper\u00e1ndola\nAndo a fueguillo sete\u00e1ndola\n\nD\u00e9jate llevar\nQue ahora andas conmigo\nY na\" malo te va a pasar\n\nMami, t\u00fa tranquila\nQue nada malo va a pasarte\n\nNos protege Dios\nY el peine 32 que tengo\nPa' que salte reclamante\nPa' que sepan\n\nY esta vez, Baje\nCon Sim\u00f3n Pizarro pa' hacerte este hit\nD\u00edmelo, Francis, la mente\n\nEl cocodrilo con el antip\u00e1tico\nEl antip\u00e1tico con el cocodrilo\nPa' que sepan\n\nDe ac\u00e1 arriba ustedes no se escuchan\nEstamos muy adelantados al time\nOtros niveles de m\u00fasica, loco\n6-5, mi amor\n\n#jereklein #elbai #d\u00e9jatellevar"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "405779",
-                "likeCount": "9096",
-                "favoriteCount": "0",
-                "commentCount": "263"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "yXm932R4U6JBnSAs33UkOwJBAhc",
-            "id": "DSRM8dCKB6o",
-            "snippet": {
-                "publishedAt": "2026-10-09T16:10:02Z",
-                "channelId": "UCeQ6j5aC9g6cey-6s9C8T3A",
-                "title": "\u00bfAl nuevo SILENT HILL le falta ACCI\u00d3N?",
-                "description": "A veces juego en KICK: https://kick.com/CRITICAS_QLS \nTambien reacciono en twitch:https://www.twitch.tv/criticas_qls\nHablo de peliculas y series en: https://www.youtube.com/@Criticas_QLS\nEscribi un libro y un par de comics: https://productosqls.com/\nSigame en  https://www.instagram.com/criticas_qls/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/DSRM8dCKB6o/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Videojuegos QLS",
-                "tags": [
-                    "criticas qls",
-                    "juegos qls",
-                    "transmisiones qls",
-                    "cesar huispe"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "\u00bfAl nuevo SILENT HILL le falta ACCI\u00d3N?",
-                    "description": "A veces juego en KICK: https://kick.com/CRITICAS_QLS \nTambien reacciono en twitch:https://www.twitch.tv/criticas_qls\nHablo de peliculas y series en: https://www.youtube.com/@Criticas_QLS\nEscribi un libro y un par de comics: https://productosqls.com/\nSigame en  https://www.instagram.com/criticas_qls/"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "64640",
-                "likeCount": "2597",
-                "favoriteCount": "0",
-                "commentCount": "184"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "PNaonqobzcji1iW7e674o5E5XdY",
+            "etag": "IUPG5qkBjJs4MVGCFZKR_89eOfM",
             "id": "VO6P8lipLO8",
             "snippet": {
                 "publishedAt": "2026-10-08T23:00:09Z",
@@ -1748,15 +1748,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "50517",
-                "likeCount": "2603",
+                "viewCount": "50997",
+                "likeCount": "2618",
                 "favoriteCount": "0",
-                "commentCount": "3022"
+                "commentCount": "3038"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Csa0OXdjOKmxItNdT34SAhJCMLs",
+            "etag": "CV2m9Stz3pHDWFxv2cA0jPJEC_E",
             "id": "yfH5nzS3s_4",
             "snippet": {
                 "publishedAt": "2026-10-09T13:00:23Z",
@@ -1806,15 +1806,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "442370",
-                "likeCount": "16601",
+                "viewCount": "446968",
+                "likeCount": "16800",
                 "favoriteCount": "0",
-                "commentCount": "676"
+                "commentCount": "677"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "S93JkGavSaXIF3dltfizhloWQHU",
+            "etag": "U1TadyeHoMZigebLaFyIpGFRoto",
             "id": "InRfwHxrD7s",
             "snippet": {
                 "publishedAt": "2026-10-09T00:10:07Z",
@@ -1885,98 +1885,68 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "50496",
-                "likeCount": "1271",
+                "viewCount": "51684",
+                "likeCount": "1288",
                 "favoriteCount": "0",
-                "commentCount": "106"
+                "commentCount": "107"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4DeroTpRcCbje8bGt5_OWGY9oE8",
-            "id": "Oelfh3QU9-8",
+            "etag": "CgN3jM_IZsVa_JR6_wPxUuNwDmc",
+            "id": "lZYD0aqAvIU",
             "snippet": {
-                "publishedAt": "2026-10-09T17:15:11Z",
-                "channelId": "UC7jtSuXXamDt0eKFfYfGLDQ",
-                "title": "la PESADILLA CREEPER | DEDsafioMinecraft4\ud83d\udc80 D\u00eda 15",
-                "description": "\ud83d\udd25 Juegos -70% DESCUENTO: https://ene.ba/Aquino\n\ud83d\udd25 Mi colecci\u00f3n Exclusiva: https://ene.ba/Aquino-Top-List\n\n\u2022 Directos: https://kick.com/aquino\n\n\u2022 Mi Instagram: https://www.instagram.com/aquinoby2002_/\n\n\u2022 Mi Twitter: https://twitter.com/AQUINOby_02\n\n\u2022 Correo de Contacto/Negocio: aquino@mtymedia.de",
+                "publishedAt": "2026-10-10T01:30:26Z",
+                "channelId": "UCaHEdZtk6k7SVP-umnzifmQ",
+                "title": "REACCIONANDO A MI PRIMERA VEZ LLEGANDO A HEROICO Y A GRAN MAESTRO EN FREE FIRE !! - TheDonato",
+                "description": "Vota aqui : https://esportsawards.com/vote/\n\n#FreeFire",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
                     }
                 },
-                "channelTitle": "AQUISI",
-                "tags": [
-                    "aquisi",
-                    "aquino",
-                    "aquinoby2002",
-                    "la pesadilla",
-                    "creeper",
-                    "dedsafio 4",
-                    "minecraft",
-                    "dia 15",
-                    "hardcore",
-                    "extremo",
-                    "dificil",
-                    "dedsafio 4 aquino",
-                    "aquisi dedsafio 4",
-                    "serie de streamers",
-                    "una vida",
-                    "explosion",
-                    "mobs",
-                    "creepers",
-                    "pesadilla",
-                    "casi muerte",
-                    "reviil",
-                    "webones",
-                    "aquino dedsafio 4"
-                ],
+                "channelTitle": "TheDonato",
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "la PESADILLA CREEPER | DEDsafioMinecraft4\ud83d\udc80 D\u00eda 15",
-                    "description": "\ud83d\udd25 Juegos -70% DESCUENTO: https://ene.ba/Aquino\n\ud83d\udd25 Mi colecci\u00f3n Exclusiva: https://ene.ba/Aquino-Top-List\n\n\u2022 Directos: https://kick.com/aquino\n\n\u2022 Mi Instagram: https://www.instagram.com/aquinoby2002_/\n\n\u2022 Mi Twitter: https://twitter.com/AQUINOby_02\n\n\u2022 Correo de Contacto/Negocio: aquino@mtymedia.de"
+                    "title": "REACCIONANDO A MI PRIMERA VEZ LLEGANDO A HEROICO Y A GRAN MAESTRO EN FREE FIRE !! - TheDonato",
+                    "description": "Vota aqui : https://esportsawards.com/vote/\n\n#FreeFire"
                 },
-                "defaultAudioLanguage": "es-419"
+                "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "229806",
-                "likeCount": "11260",
+                "viewCount": "434766",
+                "likeCount": "17883",
                 "favoriteCount": "0",
-                "commentCount": "636"
+                "commentCount": "602"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GPPF8H5SlwcvGwa9-rT8bxCZ9UU",
+            "etag": "WJnsXdLjXaaj1i17wSRbCA36mJ8",
             "id": "HxhNoEolpEg",
             "snippet": {
                 "publishedAt": "2026-10-08T23:04:53Z",
@@ -2025,140 +1995,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "27366",
-                "likeCount": "578",
+                "viewCount": "28044",
+                "likeCount": "592",
                 "favoriteCount": "0",
                 "commentCount": "32"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OzkwKRGl_KdgRAzDyCxmTGBUtj0",
-            "id": "ut41JSexyzo",
-            "snippet": {
-                "publishedAt": "2026-10-09T21:15:19Z",
-                "channelId": "UCrppUjIbcQjh2Drz8UyuRVg",
-                "title": "EL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
-                "description": "El d\u00eda de hoy vamos a ver El Oscuro Secreto de Cocardo en Roblox, porque entraremos a Cocardo la Heladeria en Roblox, as\u00ed es Toda la Historia de Cocardo \u00bfConseguiremos Sobrevivir?\n\nVen y conoceme este 17 y 18 de Octubre: https://glnk.io/10pm4/feverxchuymine7zr\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Canal Principal:  https://www.youtube.com/@ChuuyMine\n\n\u279c Canal de Reacciones:  https://www.youtube.com/@ChuyMineR\n\n\u279c Canal de Memes: https://www.youtube.com/@TheChuyMine\n\n\u279c Canal de Shorts:  https://www.youtube.com/@ChuyMineVt\n\n\u279c Twitter: https://x.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nEL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Chuy Mine",
-                "tags": [
-                    "chuymine",
-                    "chuy mine",
-                    "EL OSCURO SECRETO DE COCARDO COMPLETO",
-                    "OSCURO SECRETO DE COCARDO",
-                    "OSCURO SECRETO",
-                    "SECRETO DE COCARDO",
-                    "COCARDO",
-                    "COCARDO LA HELADERIA ROBLOX",
-                    "COCARDO LA HELADERIA",
-                    "ROBLOX"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "EL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
-                    "description": "El d\u00eda de hoy vamos a ver El Oscuro Secreto de Cocardo en Roblox, porque entraremos a Cocardo la Heladeria en Roblox, as\u00ed es Toda la Historia de Cocardo \u00bfConseguiremos Sobrevivir?\n\nVen y conoceme este 17 y 18 de Octubre: https://glnk.io/10pm4/feverxchuymine7zr\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Canal Principal:  https://www.youtube.com/@ChuuyMine\n\n\u279c Canal de Reacciones:  https://www.youtube.com/@ChuyMineR\n\n\u279c Canal de Memes: https://www.youtube.com/@TheChuyMine\n\n\u279c Canal de Shorts:  https://www.youtube.com/@ChuyMineVt\n\n\u279c Twitter: https://x.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nEL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "635947",
-                "likeCount": "4377",
-                "favoriteCount": "0",
-                "commentCount": "156"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "6oTf2EDMkSzECn9_SoSSls7hjSc",
-            "id": "ZxdLVdS-yr4",
-            "snippet": {
-                "publishedAt": "2026-10-09T16:00:10Z",
-                "channelId": "UCpXMiGQlzxA9AWaviDmQjXw",
-                "title": "Milo J, Silvana Estrada - Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f)",
-                "description": "Music video by Milo J, Silvana Estrada performing Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f).(C) 2026 Sony Music Entertainment US Latin LLC, under exclusive license from Milo J",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MILOJVEVO",
-                "tags": [
-                    "Cuando El Agua Hirviendo",
-                    "Emotional",
-                    "Latin Pop",
-                    "Live",
-                    "Milo Silvana Estrada"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Milo J, Silvana Estrada - Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f)",
-                    "description": "Music video by Milo J, Silvana Estrada performing Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f).(C) 2026 Sony Music Entertainment US Latin LLC, under exclusive license from Milo J"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "313941",
-                "likeCount": "19335",
-                "favoriteCount": "0",
-                "commentCount": "736"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "YBioRfgammduPp_Pou0aN1Cc1-I",
+            "etag": "DxqdL5eeQQaTkXYO8LJ7BURiM0M",
             "id": "sDDlz3t-JxA",
             "snippet": {
                 "publishedAt": "2026-10-09T23:06:03Z",
@@ -2238,15 +2083,595 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "327003",
-                "likeCount": "26948",
+                "viewCount": "342443",
+                "likeCount": "28069",
                 "favoriteCount": "0",
-                "commentCount": "1691"
+                "commentCount": "1736"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qBu1X2iAYMRlfXtH3qYsxu3TGlg",
+            "etag": "7uaDtc4MTM0yHFG8SYl8-b8U_fE",
+            "id": "ZxdLVdS-yr4",
+            "snippet": {
+                "publishedAt": "2026-10-09T16:00:10Z",
+                "channelId": "UCpXMiGQlzxA9AWaviDmQjXw",
+                "title": "Milo J, Silvana Estrada - Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f)",
+                "description": "Music video by Milo J, Silvana Estrada performing Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f).(C) 2026 Sony Music Entertainment US Latin LLC, under exclusive license from Milo J",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZxdLVdS-yr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MILOJVEVO",
+                "tags": [
+                    "Cuando El Agua Hirviendo",
+                    "Emotional",
+                    "Latin Pop",
+                    "Live",
+                    "Milo Silvana Estrada"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Milo J, Silvana Estrada - Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f)",
+                    "description": "Music video by Milo J, Silvana Estrada performing Cuando El Agua Hirviendo (En Vivo desde Colombia/ColombiaFanClub\u2764\ufe0f).(C) 2026 Sony Music Entertainment US Latin LLC, under exclusive license from Milo J"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "320499",
+                "likeCount": "19722",
+                "favoriteCount": "0",
+                "commentCount": "742"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3wGa7x2YSJuK_EXcIT5tBFrJjQM",
+            "id": "ut41JSexyzo",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:15:19Z",
+                "channelId": "UCrppUjIbcQjh2Drz8UyuRVg",
+                "title": "EL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
+                "description": "El d\u00eda de hoy vamos a ver El Oscuro Secreto de Cocardo en Roblox, porque entraremos a Cocardo la Heladeria en Roblox, as\u00ed es Toda la Historia de Cocardo \u00bfConseguiremos Sobrevivir?\n\nVen y conoceme este 17 y 18 de Octubre: https://glnk.io/10pm4/feverxchuymine7zr\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Canal Principal:  https://www.youtube.com/@ChuuyMine\n\n\u279c Canal de Reacciones:  https://www.youtube.com/@ChuyMineR\n\n\u279c Canal de Memes: https://www.youtube.com/@TheChuyMine\n\n\u279c Canal de Shorts:  https://www.youtube.com/@ChuyMineVt\n\n\u279c Twitter: https://x.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nEL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ut41JSexyzo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Chuy Mine",
+                "tags": [
+                    "chuymine",
+                    "chuy mine",
+                    "EL OSCURO SECRETO DE COCARDO COMPLETO",
+                    "OSCURO SECRETO DE COCARDO",
+                    "OSCURO SECRETO",
+                    "SECRETO DE COCARDO",
+                    "COCARDO",
+                    "COCARDO LA HELADERIA ROBLOX",
+                    "COCARDO LA HELADERIA",
+                    "ROBLOX"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "EL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)",
+                    "description": "El d\u00eda de hoy vamos a ver El Oscuro Secreto de Cocardo en Roblox, porque entraremos a Cocardo la Heladeria en Roblox, as\u00ed es Toda la Historia de Cocardo \u00bfConseguiremos Sobrevivir?\n\nVen y conoceme este 17 y 18 de Octubre: https://glnk.io/10pm4/feverxchuymine7zr\n\n\u279c Mi Libro Multiverso ChuyMine: https://a.co/d/djnow4m\n\n\u279c Todo esto se grabo aqu\u00ed: https://www.twitch.tv/chuymine\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u279c Canal Principal:  https://www.youtube.com/@ChuuyMine\n\n\u279c Canal de Reacciones:  https://www.youtube.com/@ChuyMineR\n\n\u279c Canal de Memes: https://www.youtube.com/@TheChuyMine\n\n\u279c Canal de Shorts:  https://www.youtube.com/@ChuyMineVt\n\n\u279c Twitter: https://x.com/TheChuyMine\n\n\u279c Instagram: https://www.instagram.com/chuymine/\n\n\u279c Discord: https://discord.gg/4gU3A52UE4\n\ncontacto: thechuymine@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nEL OSCURO SECRETO DE COCARDO COMPLETO (COCARDO LA HELADERIA ROBLOX)"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "688448",
+                "likeCount": "4721",
+                "favoriteCount": "0",
+                "commentCount": "171"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nk2Z-vPe1dMBkFskb4XQhRlh-y4",
+            "id": "LHyLPSU5l64",
+            "snippet": {
+                "publishedAt": "2026-10-06T16:00:10Z",
+                "channelId": "UC80-pD8usP8Z277k2E6QhZQ",
+                "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
+                "description": "\ud83c\udfb6 \u00a1Disfruta de la letra de \u2018BbY WOW\u2019 de KAROL G, Judeline y rusowsky!\n\nD\u00e9jate llevar por el ritmo y no olvides suscribirte y activar las notificaciones para no perderte ning\u00fan video nuevo \ud83e\ude76\n\n\ud83d\udcad Si te gust\u00f3 este video, puedes dejarnos un like y un comentario con tu opini\u00f3n. \u00a1Lo apreciar\u00edamos much\u00edsimo!\n\n\ud83c\udf1f Sigue a KAROL G:\nSpotify: https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla?si=I2ugsgXPRPibkYpm6PaxgA\nApple Music: https://music.apple.com/us/artist/karol-g/290814601\n\n\ud83d\udce9 Consultas: asoniq05@gmail.com\n\n\ud83c\udfa4 Icono de micr\u00f3fono creado por Freepik: https://www.flaticon.com/free-icons/microphone\n\n______________________________\n\nSing along and don\u2019t forget to subscribe and turn on notifications so you don't miss any new content \ud83e\ude76\n\n\ud83d\udcad You can give us a like if you liked this video! Also, you are welcome to leave a comment with your thoughts. We would really appreciate it.\n\n\ud83d\udce9 Inquiries: asoniq05@gmail.com\n\n\ud83c\udfa4 Microphone icon created by Freepik: https://www.flaticon.com/free-icons/microphone\n\nLyrics:\n[Intro: rusowsky & KAROL G]\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\nEy\n\n[Pre-Coro: KAROL G, KAROL G & Judeline, rusowsky, Judeline]\n\u00bfTerapia pa' qu\u00e9?\u2005\u00bfPa'\u2005qu\u00e9 sacarte del\u2005pecho? (Ah)\nSi ni queriendo yo me\u2005olvido de ti\n\u00bfArreglo de qu\u00e9? Yo quiero estar pecho a pecho (Ah)\nComo la noche en la que te conoc\u00ed\nHoy te vi, las ganas siguen ah\u00ed (Uh-uh, woh-oh, ah-ah), baby\n\n[Coro: KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llama'o\n\n[Post-Coro: KAROL G, KAROL G & Judeline, KAROL G & rusowsky]\nBaby, wow, me gustas demasia'o\nBeb\u00e9\nBaby, wow, te pienso demasia'o\n\n[Verso 1: rusowsky & KAROL G]\n\u00bfY ahora d\u00f3nde est\u00e1 ella? Bella como ninguna\nDime, dime, baby, c\u00f3mo hacer que tu boca\nSe acerque a m\u00ed, oh, woh, ah\nHay algo en ti, no s\u00e9 disimular, oh, woh, ah\nMaldici\u00f3n, yo no s\u00e9 escapar\nSuenan mil vac\u00edos a los que me has empuja'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nUh, baby, wow\nMe gustas demasia'o (Yeah, yeah, oh)\n\n[Verso 2: KAROL G]\nDe noche y de d\u00eda te pasas rondando mi mente\nLa disco est\u00e1 llena, se siente vac\u00eda\nPorque no est\u00e1 el que yo quer\u00eda\nQu\u00e9 rico t\u00fa, esos ojitos, beb\u00e9\nEsa boquita, es que t\u00fa ere' my dream come true\nSi la pasamo' hijuepu, es que la pasamo' bien\nSi esto era pa' siempre\nPa' estar juntos en verano y tambi\u00e9n en diciembre\nYo s\u00e9 que t\u00fa no lo dices, pero est\u00e1s pendiente\nVamo' a darnos otro chance, puede que haya suerte\nDime si lo siente', es que yo\n\n[Pre-Coro: Judeline]\nVoy manejando por la ciudad\nPor si nos vemo' de casualidad\nLlama pa' ver si volvemo' a empezar, baby\n\n[Coro: rusowsky & KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed, a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llamao'\n\n[Post-Coro: KAROL G, Judeline & rusowsky]\nBaby, wow, me gustas demasia'o\nWow (Me gustas demasia'o)\nBeb\u00e9\nBaby, wow, te pienso demasia'o\nOh, woh, ah\n\n[Outro: Judeline]\nWow, baby, me gustas demasia'o\nBaby, wow, yo te tengo choca'o\nBaby, wow, me gustas demasia'o\nMe gustas demasia'o, -a'o, -a'o\n\n#KAROLG #Judeline #rusowsky #BbYWOW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "Asoniq",
+                "tags": [
+                    "lyrics",
+                    "lyric video",
+                    "sing along",
+                    "karaoke",
+                    "music lyrics",
+                    "song lyrics",
+                    "asoniq",
+                    "official lyrics",
+                    "on screen lyrics",
+                    "lyric videos",
+                    "music video",
+                    "new music",
+                    "trending music",
+                    "letra",
+                    "letras",
+                    "canciones",
+                    "viral",
+                    "summer",
+                    "karol g",
+                    "judeline",
+                    "rusowsky",
+                    "bby wow"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
+                    "description": "\ud83c\udfb6 \u00a1Disfruta de la letra de \u2018BbY WOW\u2019 de KAROL G, Judeline y rusowsky!\n\nD\u00e9jate llevar por el ritmo y no olvides suscribirte y activar las notificaciones para no perderte ning\u00fan video nuevo \ud83e\ude76\n\n\ud83d\udcad Si te gust\u00f3 este video, puedes dejarnos un like y un comentario con tu opini\u00f3n. \u00a1Lo apreciar\u00edamos much\u00edsimo!\n\n\ud83c\udf1f Sigue a KAROL G:\nSpotify: https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla?si=I2ugsgXPRPibkYpm6PaxgA\nApple Music: https://music.apple.com/us/artist/karol-g/290814601\n\n\ud83d\udce9 Consultas: asoniq05@gmail.com\n\n\ud83c\udfa4 Icono de micr\u00f3fono creado por Freepik: https://www.flaticon.com/free-icons/microphone\n\n______________________________\n\nSing along and don\u2019t forget to subscribe and turn on notifications so you don't miss any new content \ud83e\ude76\n\n\ud83d\udcad You can give us a like if you liked this video! Also, you are welcome to leave a comment with your thoughts. We would really appreciate it.\n\n\ud83d\udce9 Inquiries: asoniq05@gmail.com\n\n\ud83c\udfa4 Microphone icon created by Freepik: https://www.flaticon.com/free-icons/microphone\n\nLyrics:\n[Intro: rusowsky & KAROL G]\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\nEy\n\n[Pre-Coro: KAROL G, KAROL G & Judeline, rusowsky, Judeline]\n\u00bfTerapia pa' qu\u00e9?\u2005\u00bfPa'\u2005qu\u00e9 sacarte del\u2005pecho? (Ah)\nSi ni queriendo yo me\u2005olvido de ti\n\u00bfArreglo de qu\u00e9? Yo quiero estar pecho a pecho (Ah)\nComo la noche en la que te conoc\u00ed\nHoy te vi, las ganas siguen ah\u00ed (Uh-uh, woh-oh, ah-ah), baby\n\n[Coro: KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llama'o\n\n[Post-Coro: KAROL G, KAROL G & Judeline, KAROL G & rusowsky]\nBaby, wow, me gustas demasia'o\nBeb\u00e9\nBaby, wow, te pienso demasia'o\n\n[Verso 1: rusowsky & KAROL G]\n\u00bfY ahora d\u00f3nde est\u00e1 ella? Bella como ninguna\nDime, dime, baby, c\u00f3mo hacer que tu boca\nSe acerque a m\u00ed, oh, woh, ah\nHay algo en ti, no s\u00e9 disimular, oh, woh, ah\nMaldici\u00f3n, yo no s\u00e9 escapar\nSuenan mil vac\u00edos a los que me has empuja'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nUh, baby, wow\nMe gustas demasia'o (Yeah, yeah, oh)\n\n[Verso 2: KAROL G]\nDe noche y de d\u00eda te pasas rondando mi mente\nLa disco est\u00e1 llena, se siente vac\u00eda\nPorque no est\u00e1 el que yo quer\u00eda\nQu\u00e9 rico t\u00fa, esos ojitos, beb\u00e9\nEsa boquita, es que t\u00fa ere' my dream come true\nSi la pasamo' hijuepu, es que la pasamo' bien\nSi esto era pa' siempre\nPa' estar juntos en verano y tambi\u00e9n en diciembre\nYo s\u00e9 que t\u00fa no lo dices, pero est\u00e1s pendiente\nVamo' a darnos otro chance, puede que haya suerte\nDime si lo siente', es que yo\n\n[Pre-Coro: Judeline]\nVoy manejando por la ciudad\nPor si nos vemo' de casualidad\nLlama pa' ver si volvemo' a empezar, baby\n\n[Coro: rusowsky & KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed, a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llamao'\n\n[Post-Coro: KAROL G, Judeline & rusowsky]\nBaby, wow, me gustas demasia'o\nWow (Me gustas demasia'o)\nBeb\u00e9\nBaby, wow, te pienso demasia'o\nOh, woh, ah\n\n[Outro: Judeline]\nWow, baby, me gustas demasia'o\nBaby, wow, yo te tengo choca'o\nBaby, wow, me gustas demasia'o\nMe gustas demasia'o, -a'o, -a'o\n\n#KAROLG #Judeline #rusowsky #BbYWOW"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "203733",
+                "likeCount": "525",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pQ0ZWxr8-fxcAy0Ak_m2XFNgghE",
+            "id": "Oelfh3QU9-8",
+            "snippet": {
+                "publishedAt": "2026-10-09T17:15:11Z",
+                "channelId": "UC7jtSuXXamDt0eKFfYfGLDQ",
+                "title": "la PESADILLA CREEPER | DEDsafioMinecraft4\ud83d\udc80 D\u00eda 15",
+                "description": "\ud83d\udd25 Juegos -70% DESCUENTO: https://ene.ba/Aquino\n\ud83d\udd25 Mi colecci\u00f3n Exclusiva: https://ene.ba/Aquino-Top-List\n\n\u2022 Directos: https://kick.com/aquino\n\n\u2022 Mi Instagram: https://www.instagram.com/aquinoby2002_/\n\n\u2022 Mi Twitter: https://twitter.com/AQUINOby_02\n\n\u2022 Correo de Contacto/Negocio: aquino@mtymedia.de",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/Oelfh3QU9-8/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "AQUISI",
+                "tags": [
+                    "aquisi",
+                    "aquino",
+                    "aquinoby2002",
+                    "la pesadilla",
+                    "creeper",
+                    "dedsafio 4",
+                    "minecraft",
+                    "dia 15",
+                    "hardcore",
+                    "extremo",
+                    "dificil",
+                    "dedsafio 4 aquino",
+                    "aquisi dedsafio 4",
+                    "serie de streamers",
+                    "una vida",
+                    "explosion",
+                    "mobs",
+                    "creepers",
+                    "pesadilla",
+                    "casi muerte",
+                    "reviil",
+                    "webones",
+                    "aquino dedsafio 4"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "la PESADILLA CREEPER | DEDsafioMinecraft4\ud83d\udc80 D\u00eda 15",
+                    "description": "\ud83d\udd25 Juegos -70% DESCUENTO: https://ene.ba/Aquino\n\ud83d\udd25 Mi colecci\u00f3n Exclusiva: https://ene.ba/Aquino-Top-List\n\n\u2022 Directos: https://kick.com/aquino\n\n\u2022 Mi Instagram: https://www.instagram.com/aquinoby2002_/\n\n\u2022 Mi Twitter: https://twitter.com/AQUINOby_02\n\n\u2022 Correo de Contacto/Negocio: aquino@mtymedia.de"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "233656",
+                "likeCount": "11442",
+                "favoriteCount": "0",
+                "commentCount": "636"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hqoMkNnqYzENRjoTz59qGtzb_yY",
+            "id": "aB0U2WdJOPQ",
+            "snippet": {
+                "publishedAt": "2026-10-06T20:49:40Z",
+                "channelId": "UC3Zx1_6F_jU62RjPoaWlolg",
+                "title": "Ozuna & Omar Courtz - ZIZI (Letra/Lyrics)",
+                "description": "#ozuna #letra #lyrics #viral #latinmusic #trending #omarcourtz \nOzuna & Omar Courtz - ZIZI (Letra/Lyrics)\n\napoya a ozuna:\n@Ozuna \n\nRedes:\n\nhttps://www.instagram.com/ozuna/\nhttps://www.facebook.com/ozunapr/\n\n(Letra):\n[Intro: Omar Courtz & Ozuna]\nBASSYY, haha\nUh-uh, uh-uh\nBellaquita\nWoh-oh-oh, baby\nBellaquita\nYeah-yeah\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa\u2019 verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna, Ambos]\nSi te tengo 'e frente y empieza el bellaqueo (Yeah-yeah)\nAh\u00ed es que la mente maquinea (Ey, ah-ah-ah)\nDespacito por atr\u00e1' yo me le pego (Me le pego)\nYo te deseo, t\u00fa me desea\u2019\n\n[Verso 1: Ozuna]\nSi tu marido no te quiere\nBaja pa' la mansion, mami, con to' los podere' (Los podere')\nT\u00fa 't\u00e1s con el Ozu pa' que subas los nivele'\nVo\u2019a prenderla con la baby, \u00bfque t\u00fa quiere\u2019? (\u00bfQu\u00e9 t\u00fa quiere'?)\nOzuna\n\n[Refr\u00e1n: Ozuna]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere\u2019 mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\nSi te aloca\u2019\nTe hago na-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\n\n[Coro: Omar Courtz, Omar Courtz & Ozuna]\nY si te aloca', empieza el bellaqueo\nAh\u00ed es que la mente maquinea, ey\nDespacito por detr\u00e1' yo me le pego (Uh)\nYo te deseo, t\u00fa me desea' (Ey, yeah-yeah, bellaquita)\n\n[Verso 2: Omar Courtz]\nOusi con El Ozo, un perreo asqueroso\nToa' las nenas salen si salen los poderoso'\nHay luna llena y la nena se suelta, ey\nMami-Mami, \u00bfqu\u00e9 tiene ese cu? Que me tiene d\u00e1ndole zoom\n\u00bfSer\u00e1 la carita de pu, bebecita? \u00bfO la manera en que lo hicimo'? (Lo hicimo')\nYeah-yeah, s\u00ed\nC\u00f3mo conectamos, siempre se me va la mano por donde se mete el gistro\nSe pasa en la disco\nPonle Plan B pa' que vea' a ese culo dando brinco' (Yeah-yeah; uh), s\u00ed\nSi t\u00fa no te quita', mami, no me quito\n\u00bfC\u00f3mo va' a dejarme en visto si en cuatro te he visto?\nNoche 'e travesura', Nicky, de sexo un quickie\nLa noche est\u00e1 pa' que te ponga' freaky\nAqu\u00ed se dice \"el yipi\" pa' que le demo' el repeat\nEso me sale easy, llevarte para el cielo, ma\n[Refr\u00e1n: Omar Courtz, Ozuna & Ambos]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nUn perre\u00edto', mami, 'e sexo con ropa\nY si te aloca'\nTe hago na-na-na-na-na-na-na-eh' (Na-eh')\nT\u00fa ere' mi baby, t\u00fa ere' mi loca\nUn perre\u00edto', mami, 'e sexo con ropa\nSi te aloca'\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa' verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna]\nSi te tengo 'e frente y empieza el be\u2014\n\n[Outro: Ozuna & Omar Courtz]\nEy, yeah-yeah\nEl Negrito Ojos Claro'\nOzuna\nEl Ousi\nCon El Ozo, jaja\nHi Music Hi Flow\nK.A.R. Beats, ja\nWoh-oh-oh\nBaby, yeah\nEs El Negrito Ojos Claro'\nAh, ah, ah",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Caguama",
+                "tags": [
+                    "ZIZI Letra",
+                    "ZIZI Ozuna",
+                    "Ozuna ZIZI",
+                    "Si te tengo 'e frente y empieza el bellaqueo",
+                    "Ah\u00ed es que la mente maquinea",
+                    "Despacito por atr\u00e1' yo me le pego",
+                    "Yo te deseo t\u00fa me desea\u2019",
+                    "ZIZI Ozuna Letra",
+                    "Ozuna ZIZI Letra",
+                    "ZIZI Letra Ozuna",
+                    "Ozuna Letra ZIZI",
+                    "Omar Courtz ZIZI",
+                    "ZIZI Omar Courtz",
+                    "ZIZI",
+                    "zizi ozuna letra",
+                    "ozuna zizi letra",
+                    "zizi letra ozuna",
+                    "ozuna letra zizi",
+                    "omar courtz zizi",
+                    "zizi omar courtz",
+                    "zizi",
+                    "zizi letra",
+                    "zizi ozuna",
+                    "ozuna zizi",
+                    "Zizi letra",
+                    "Zizi ozuna",
+                    "Ozuna zizi"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Ozuna & Omar Courtz - ZIZI (Letra/Lyrics)",
+                    "description": "#ozuna #letra #lyrics #viral #latinmusic #trending #omarcourtz \nOzuna & Omar Courtz - ZIZI (Letra/Lyrics)\n\napoya a ozuna:\n@Ozuna \n\nRedes:\n\nhttps://www.instagram.com/ozuna/\nhttps://www.facebook.com/ozunapr/\n\n(Letra):\n[Intro: Omar Courtz & Ozuna]\nBASSYY, haha\nUh-uh, uh-uh\nBellaquita\nWoh-oh-oh, baby\nBellaquita\nYeah-yeah\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa\u2019 verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna, Ambos]\nSi te tengo 'e frente y empieza el bellaqueo (Yeah-yeah)\nAh\u00ed es que la mente maquinea (Ey, ah-ah-ah)\nDespacito por atr\u00e1' yo me le pego (Me le pego)\nYo te deseo, t\u00fa me desea\u2019\n\n[Verso 1: Ozuna]\nSi tu marido no te quiere\nBaja pa' la mansion, mami, con to' los podere' (Los podere')\nT\u00fa 't\u00e1s con el Ozu pa' que subas los nivele'\nVo\u2019a prenderla con la baby, \u00bfque t\u00fa quiere\u2019? (\u00bfQu\u00e9 t\u00fa quiere'?)\nOzuna\n\n[Refr\u00e1n: Ozuna]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere\u2019 mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\nSi te aloca\u2019\nTe hago na-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\n\n[Coro: Omar Courtz, Omar Courtz & Ozuna]\nY si te aloca', empieza el bellaqueo\nAh\u00ed es que la mente maquinea, ey\nDespacito por detr\u00e1' yo me le pego (Uh)\nYo te deseo, t\u00fa me desea' (Ey, yeah-yeah, bellaquita)\n\n[Verso 2: Omar Courtz]\nOusi con El Ozo, un perreo asqueroso\nToa' las nenas salen si salen los poderoso'\nHay luna llena y la nena se suelta, ey\nMami-Mami, \u00bfqu\u00e9 tiene ese cu? Que me tiene d\u00e1ndole zoom\n\u00bfSer\u00e1 la carita de pu, bebecita? \u00bfO la manera en que lo hicimo'? (Lo hicimo')\nYeah-yeah, s\u00ed\nC\u00f3mo conectamos, siempre se me va la mano por donde se mete el gistro\nSe pasa en la disco\nPonle Plan B pa' que vea' a ese culo dando brinco' (Yeah-yeah; uh), s\u00ed\nSi t\u00fa no te quita', mami, no me quito\n\u00bfC\u00f3mo va' a dejarme en visto si en cuatro te he visto?\nNoche 'e travesura', Nicky, de sexo un quickie\nLa noche est\u00e1 pa' que te ponga' freaky\nAqu\u00ed se dice \"el yipi\" pa' que le demo' el repeat\nEso me sale easy, llevarte para el cielo, ma\n[Refr\u00e1n: Omar Courtz, Ozuna & Ambos]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nUn perre\u00edto', mami, 'e sexo con ropa\nY si te aloca'\nTe hago na-na-na-na-na-na-na-eh' (Na-eh')\nT\u00fa ere' mi baby, t\u00fa ere' mi loca\nUn perre\u00edto', mami, 'e sexo con ropa\nSi te aloca'\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa' verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna]\nSi te tengo 'e frente y empieza el be\u2014\n\n[Outro: Ozuna & Omar Courtz]\nEy, yeah-yeah\nEl Negrito Ojos Claro'\nOzuna\nEl Ousi\nCon El Ozo, jaja\nHi Music Hi Flow\nK.A.R. Beats, ja\nWoh-oh-oh\nBaby, yeah\nEs El Negrito Ojos Claro'\nAh, ah, ah"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "90166",
+                "likeCount": "180",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SWdq1PAgTzubM42TQY1YbXOPESA",
+            "id": "2LrIvlhVq-Y",
+            "snippet": {
+                "publishedAt": "2026-10-08T21:27:01Z",
+                "channelId": "UCYiGq8XF7YQD00x7wAd62Zg",
+                "title": "NO DESCANSARE HASTA ENCONTRAR LA AGUJA!!",
+                "description": "\ud83d\udd39Sigueme en IG: https://bit.ly/GermanGarmendiaIG\n\n\u2b50\ufe0f Mi canal de Musica: https://bit.ly/GermanMusica \u2b50\ufe0f\n\ud83d\udd25 SPOTIFY: https://spoti.fi/3p1iTSB \ud83d\udd25\n\n-------------------------------------- \n\n\ud83d\udc41 Tik Tok: https://www.tiktok.com/@germangarmendia\n\ud83d\udd39Facebook: https://www.facebook.com/germangarmendia\n\n-------------------------------------\n\nEdici\u00f3n: \nMiniatura:\n\nABRAZOOOOOS!!!\n\n:'D",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "JuegaGerman",
+                "tags": [
+                    "juegagerman",
+                    "juega",
+                    "german",
+                    "holasoygerman",
+                    "hola soy german",
+                    "juega german"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "NO DESCANSARE HASTA ENCONTRAR LA AGUJA!!",
+                    "description": "\ud83d\udd39Sigueme en IG: https://bit.ly/GermanGarmendiaIG\n\n\u2b50\ufe0f Mi canal de Musica: https://bit.ly/GermanMusica \u2b50\ufe0f\n\ud83d\udd25 SPOTIFY: https://spoti.fi/3p1iTSB \ud83d\udd25\n\n-------------------------------------- \n\n\ud83d\udc41 Tik Tok: https://www.tiktok.com/@germangarmendia\n\ud83d\udd39Facebook: https://www.facebook.com/germangarmendia\n\n-------------------------------------\n\nEdici\u00f3n: \nMiniatura:\n\nABRAZOOOOOS!!!\n\n:'D"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "959975",
+                "likeCount": "36225",
+                "favoriteCount": "0",
+                "commentCount": "1344"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "phtP2bHpYHKr28hfas8MQ0fyEnE",
+            "id": "bqpgERKrVsU",
+            "snippet": {
+                "publishedAt": "2026-10-08T00:05:47Z",
+                "channelId": "UCCbat_U-ZzVEbQvQrh_VDUw",
+                "title": "7 Maravillas",
+                "description": "Provided to YouTube by WM Chile\n\n7 Maravillas \u00b7 Gino Mella \u00b7 Jairo Vera \u00b7 Ag Daddy\n\n7 Maravillas\n\n\u2117 2026 Anthony Sly S.P.A.\n\nBeats: Ag Daddy\nMasterer, Mixer, Producer: Ag Daddy\nVocals: Gino Mella\nVocals: Jairo Vera\nComposer, Lyricist: Danilo Bahamondes\nComposer, Lyricist: Gino Mella Acosta\nComposer, Lyricist: Jonathan Jairo Mellado Vera\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gino Mella - Topic",
+                "tags": [
+                    "Gino Mella",
+                    "Jairo Vera",
+                    "Ag Daddy",
+                    "7 Maravillas"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "7 Maravillas",
+                    "description": "Provided to YouTube by WM Chile\n\n7 Maravillas \u00b7 Gino Mella \u00b7 Jairo Vera \u00b7 Ag Daddy\n\n7 Maravillas\n\n\u2117 2026 Anthony Sly S.P.A.\n\nBeats: Ag Daddy\nMasterer, Mixer, Producer: Ag Daddy\nVocals: Gino Mella\nVocals: Jairo Vera\nComposer, Lyricist: Danilo Bahamondes\nComposer, Lyricist: Gino Mella Acosta\nComposer, Lyricist: Jonathan Jairo Mellado Vera\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "73229",
+                "likeCount": "1935",
+                "favoriteCount": "0",
+                "commentCount": "61"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KSGyAd4vaa5XgECbMKvIJvGYpUc",
+            "id": "qtrWQ6x1iTo",
+            "snippet": {
+                "publishedAt": "2026-10-09T20:50:14Z",
+                "channelId": "UCcRpW9GxA3KFipksgwEXtEA",
+                "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
+                "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nukleo Plus",
+                "tags": [
+                    "roba un huevo",
+                    "steal an egg",
+                    "roblox",
+                    "nukleo",
+                    "roba un huevo roblox",
+                    "steal an egg roblox",
+                    "top 1 roba un huevo",
+                    "top 1 mundial roba un huevo",
+                    "jugador numero 1 roba un huevo",
+                    "mejor mascota roba un huevo",
+                    "fusion roba un huevo",
+                    "nueva fusion roba un huevo",
+                    "fusion mas rota roba un huevo",
+                    "ballena divina",
+                    "royal skywhale",
+                    "leon eterno",
+                    "celestial sunlion",
+                    "mascota mas op roba un huevo",
+                    "steal an egg fusion",
+                    "steal an egg best pet",
+                    "steal an egg update",
+                    "top mundial roba un huevo",
+                    "roblox espa\u00f1ol"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
+                    "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "269577",
+                "likeCount": "4768",
+                "favoriteCount": "0",
+                "commentCount": "370"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xHKhAlmNaNLOiF17CQGnFmKgp8k",
             "id": "WDrwRHNddMM",
             "snippet": {
                 "publishedAt": "2026-10-09T20:00:08Z",
@@ -2324,275 +2749,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "206054",
-                "likeCount": "16186",
+                "viewCount": "212564",
+                "likeCount": "16555",
                 "favoriteCount": "0",
-                "commentCount": "6285"
+                "commentCount": "6345"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "W_au0z92wZ-zsbS_-xk8jzWI5Eo",
-            "id": "lZYD0aqAvIU",
-            "snippet": {
-                "publishedAt": "2026-10-10T01:30:26Z",
-                "channelId": "UCaHEdZtk6k7SVP-umnzifmQ",
-                "title": "REACCIONANDO A MI PRIMERA VEZ LLEGANDO A HEROICO Y A GRAN MAESTRO EN FREE FIRE !! - TheDonato",
-                "description": "Vota aqui : https://esportsawards.com/vote/\n\n#FreeFire",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/lZYD0aqAvIU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "TheDonato",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "REACCIONANDO A MI PRIMERA VEZ LLEGANDO A HEROICO Y A GRAN MAESTRO EN FREE FIRE !! - TheDonato",
-                    "description": "Vota aqui : https://esportsawards.com/vote/\n\n#FreeFire"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "410141",
-                "likeCount": "16743",
-                "favoriteCount": "0",
-                "commentCount": "583"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "dnyuwbqdhAEbgEPlQLiAxIdKgBQ",
-            "id": "bqpgERKrVsU",
-            "snippet": {
-                "publishedAt": "2026-10-08T00:05:47Z",
-                "channelId": "UCCbat_U-ZzVEbQvQrh_VDUw",
-                "title": "7 Maravillas",
-                "description": "Provided to YouTube by WM Chile\n\n7 Maravillas \u00b7 Gino Mella \u00b7 Jairo Vera \u00b7 Ag Daddy\n\n7 Maravillas\n\n\u2117 2026 Anthony Sly S.P.A.\n\nBeats: Ag Daddy\nMasterer, Mixer, Producer: Ag Daddy\nVocals: Gino Mella\nVocals: Jairo Vera\nComposer, Lyricist: Danilo Bahamondes\nComposer, Lyricist: Gino Mella Acosta\nComposer, Lyricist: Jonathan Jairo Mellado Vera\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/bqpgERKrVsU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Gino Mella - Topic",
-                "tags": [
-                    "Gino Mella",
-                    "Jairo Vera",
-                    "Ag Daddy",
-                    "7 Maravillas"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "7 Maravillas",
-                    "description": "Provided to YouTube by WM Chile\n\n7 Maravillas \u00b7 Gino Mella \u00b7 Jairo Vera \u00b7 Ag Daddy\n\n7 Maravillas\n\n\u2117 2026 Anthony Sly S.P.A.\n\nBeats: Ag Daddy\nMasterer, Mixer, Producer: Ag Daddy\nVocals: Gino Mella\nVocals: Jairo Vera\nComposer, Lyricist: Danilo Bahamondes\nComposer, Lyricist: Gino Mella Acosta\nComposer, Lyricist: Jonathan Jairo Mellado Vera\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "72273",
-                "likeCount": "1912",
-                "favoriteCount": "0",
-                "commentCount": "61"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "PhnQQUPY-6hAmNo_YXFZGZeSLbI",
-            "id": "2LrIvlhVq-Y",
-            "snippet": {
-                "publishedAt": "2026-10-08T21:27:01Z",
-                "channelId": "UCYiGq8XF7YQD00x7wAd62Zg",
-                "title": "NO DESCANSARE HASTA ENCONTRAR LA AGUJA!!",
-                "description": "\ud83d\udd39Sigueme en IG: https://bit.ly/GermanGarmendiaIG\n\n\u2b50\ufe0f Mi canal de Musica: https://bit.ly/GermanMusica \u2b50\ufe0f\n\ud83d\udd25 SPOTIFY: https://spoti.fi/3p1iTSB \ud83d\udd25\n\n-------------------------------------- \n\n\ud83d\udc41 Tik Tok: https://www.tiktok.com/@germangarmendia\n\ud83d\udd39Facebook: https://www.facebook.com/germangarmendia\n\n-------------------------------------\n\nEdici\u00f3n: \nMiniatura:\n\nABRAZOOOOOS!!!\n\n:'D",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/2LrIvlhVq-Y/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "JuegaGerman",
-                "tags": [
-                    "juegagerman",
-                    "juega",
-                    "german",
-                    "holasoygerman",
-                    "hola soy german",
-                    "juega german"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "NO DESCANSARE HASTA ENCONTRAR LA AGUJA!!",
-                    "description": "\ud83d\udd39Sigueme en IG: https://bit.ly/GermanGarmendiaIG\n\n\u2b50\ufe0f Mi canal de Musica: https://bit.ly/GermanMusica \u2b50\ufe0f\n\ud83d\udd25 SPOTIFY: https://spoti.fi/3p1iTSB \ud83d\udd25\n\n-------------------------------------- \n\n\ud83d\udc41 Tik Tok: https://www.tiktok.com/@germangarmendia\n\ud83d\udd39Facebook: https://www.facebook.com/germangarmendia\n\n-------------------------------------\n\nEdici\u00f3n: \nMiniatura:\n\nABRAZOOOOOS!!!\n\n:'D"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "952058",
-                "likeCount": "35928",
-                "favoriteCount": "0",
-                "commentCount": "1336"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "KaCd2RqvL6CXvyVp1eVL8PxAZko",
-            "id": "LHyLPSU5l64",
-            "snippet": {
-                "publishedAt": "2026-10-06T16:00:10Z",
-                "channelId": "UC80-pD8usP8Z277k2E6QhZQ",
-                "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
-                "description": "\ud83c\udfb6 \u00a1Disfruta de la letra de \u2018BbY WOW\u2019 de KAROL G, Judeline y rusowsky!\n\nD\u00e9jate llevar por el ritmo y no olvides suscribirte y activar las notificaciones para no perderte ning\u00fan video nuevo \ud83e\ude76\n\n\ud83d\udcad Si te gust\u00f3 este video, puedes dejarnos un like y un comentario con tu opini\u00f3n. \u00a1Lo apreciar\u00edamos much\u00edsimo!\n\n\ud83c\udf1f Sigue a KAROL G:\nSpotify: https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla?si=I2ugsgXPRPibkYpm6PaxgA\nApple Music: https://music.apple.com/us/artist/karol-g/290814601\n\n\ud83d\udce9 Consultas: asoniq05@gmail.com\n\n\ud83c\udfa4 Icono de micr\u00f3fono creado por Freepik: https://www.flaticon.com/free-icons/microphone\n\n______________________________\n\nSing along and don\u2019t forget to subscribe and turn on notifications so you don't miss any new content \ud83e\ude76\n\n\ud83d\udcad You can give us a like if you liked this video! Also, you are welcome to leave a comment with your thoughts. We would really appreciate it.\n\n\ud83d\udce9 Inquiries: asoniq05@gmail.com\n\n\ud83c\udfa4 Microphone icon created by Freepik: https://www.flaticon.com/free-icons/microphone\n\nLyrics:\n[Intro: rusowsky & KAROL G]\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\nEy\n\n[Pre-Coro: KAROL G, KAROL G & Judeline, rusowsky, Judeline]\n\u00bfTerapia pa' qu\u00e9?\u2005\u00bfPa'\u2005qu\u00e9 sacarte del\u2005pecho? (Ah)\nSi ni queriendo yo me\u2005olvido de ti\n\u00bfArreglo de qu\u00e9? Yo quiero estar pecho a pecho (Ah)\nComo la noche en la que te conoc\u00ed\nHoy te vi, las ganas siguen ah\u00ed (Uh-uh, woh-oh, ah-ah), baby\n\n[Coro: KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llama'o\n\n[Post-Coro: KAROL G, KAROL G & Judeline, KAROL G & rusowsky]\nBaby, wow, me gustas demasia'o\nBeb\u00e9\nBaby, wow, te pienso demasia'o\n\n[Verso 1: rusowsky & KAROL G]\n\u00bfY ahora d\u00f3nde est\u00e1 ella? Bella como ninguna\nDime, dime, baby, c\u00f3mo hacer que tu boca\nSe acerque a m\u00ed, oh, woh, ah\nHay algo en ti, no s\u00e9 disimular, oh, woh, ah\nMaldici\u00f3n, yo no s\u00e9 escapar\nSuenan mil vac\u00edos a los que me has empuja'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nUh, baby, wow\nMe gustas demasia'o (Yeah, yeah, oh)\n\n[Verso 2: KAROL G]\nDe noche y de d\u00eda te pasas rondando mi mente\nLa disco est\u00e1 llena, se siente vac\u00eda\nPorque no est\u00e1 el que yo quer\u00eda\nQu\u00e9 rico t\u00fa, esos ojitos, beb\u00e9\nEsa boquita, es que t\u00fa ere' my dream come true\nSi la pasamo' hijuepu, es que la pasamo' bien\nSi esto era pa' siempre\nPa' estar juntos en verano y tambi\u00e9n en diciembre\nYo s\u00e9 que t\u00fa no lo dices, pero est\u00e1s pendiente\nVamo' a darnos otro chance, puede que haya suerte\nDime si lo siente', es que yo\n\n[Pre-Coro: Judeline]\nVoy manejando por la ciudad\nPor si nos vemo' de casualidad\nLlama pa' ver si volvemo' a empezar, baby\n\n[Coro: rusowsky & KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed, a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llamao'\n\n[Post-Coro: KAROL G, Judeline & rusowsky]\nBaby, wow, me gustas demasia'o\nWow (Me gustas demasia'o)\nBeb\u00e9\nBaby, wow, te pienso demasia'o\nOh, woh, ah\n\n[Outro: Judeline]\nWow, baby, me gustas demasia'o\nBaby, wow, yo te tengo choca'o\nBaby, wow, me gustas demasia'o\nMe gustas demasia'o, -a'o, -a'o\n\n#KAROLG #Judeline #rusowsky #BbYWOW",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/LHyLPSU5l64/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "Asoniq",
-                "tags": [
-                    "lyrics",
-                    "lyric video",
-                    "sing along",
-                    "karaoke",
-                    "music lyrics",
-                    "song lyrics",
-                    "asoniq",
-                    "official lyrics",
-                    "on screen lyrics",
-                    "lyric videos",
-                    "music video",
-                    "new music",
-                    "trending music",
-                    "letra",
-                    "letras",
-                    "canciones",
-                    "viral",
-                    "summer",
-                    "karol g",
-                    "judeline",
-                    "rusowsky",
-                    "bby wow"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
-                    "description": "\ud83c\udfb6 \u00a1Disfruta de la letra de \u2018BbY WOW\u2019 de KAROL G, Judeline y rusowsky!\n\nD\u00e9jate llevar por el ritmo y no olvides suscribirte y activar las notificaciones para no perderte ning\u00fan video nuevo \ud83e\ude76\n\n\ud83d\udcad Si te gust\u00f3 este video, puedes dejarnos un like y un comentario con tu opini\u00f3n. \u00a1Lo apreciar\u00edamos much\u00edsimo!\n\n\ud83c\udf1f Sigue a KAROL G:\nSpotify: https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla?si=I2ugsgXPRPibkYpm6PaxgA\nApple Music: https://music.apple.com/us/artist/karol-g/290814601\n\n\ud83d\udce9 Consultas: asoniq05@gmail.com\n\n\ud83c\udfa4 Icono de micr\u00f3fono creado por Freepik: https://www.flaticon.com/free-icons/microphone\n\n______________________________\n\nSing along and don\u2019t forget to subscribe and turn on notifications so you don't miss any new content \ud83e\ude76\n\n\ud83d\udcad You can give us a like if you liked this video! Also, you are welcome to leave a comment with your thoughts. We would really appreciate it.\n\n\ud83d\udce9 Inquiries: asoniq05@gmail.com\n\n\ud83c\udfa4 Microphone icon created by Freepik: https://www.flaticon.com/free-icons/microphone\n\nLyrics:\n[Intro: rusowsky & KAROL G]\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\n\u00bfY mi baby?\n\u00bfY mi, y mi baby?\nEy\n\n[Pre-Coro: KAROL G, KAROL G & Judeline, rusowsky, Judeline]\n\u00bfTerapia pa' qu\u00e9?\u2005\u00bfPa'\u2005qu\u00e9 sacarte del\u2005pecho? (Ah)\nSi ni queriendo yo me\u2005olvido de ti\n\u00bfArreglo de qu\u00e9? Yo quiero estar pecho a pecho (Ah)\nComo la noche en la que te conoc\u00ed\nHoy te vi, las ganas siguen ah\u00ed (Uh-uh, woh-oh, ah-ah), baby\n\n[Coro: KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llama'o\n\n[Post-Coro: KAROL G, KAROL G & Judeline, KAROL G & rusowsky]\nBaby, wow, me gustas demasia'o\nBeb\u00e9\nBaby, wow, te pienso demasia'o\n\n[Verso 1: rusowsky & KAROL G]\n\u00bfY ahora d\u00f3nde est\u00e1 ella? Bella como ninguna\nDime, dime, baby, c\u00f3mo hacer que tu boca\nSe acerque a m\u00ed, oh, woh, ah\nHay algo en ti, no s\u00e9 disimular, oh, woh, ah\nMaldici\u00f3n, yo no s\u00e9 escapar\nSuenan mil vac\u00edos a los que me has empuja'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nUh, baby, wow\nMe gustas demasia'o (Yeah, yeah, oh)\n\n[Verso 2: KAROL G]\nDe noche y de d\u00eda te pasas rondando mi mente\nLa disco est\u00e1 llena, se siente vac\u00eda\nPorque no est\u00e1 el que yo quer\u00eda\nQu\u00e9 rico t\u00fa, esos ojitos, beb\u00e9\nEsa boquita, es que t\u00fa ere' my dream come true\nSi la pasamo' hijuepu, es que la pasamo' bien\nSi esto era pa' siempre\nPa' estar juntos en verano y tambi\u00e9n en diciembre\nYo s\u00e9 que t\u00fa no lo dices, pero est\u00e1s pendiente\nVamo' a darnos otro chance, puede que haya suerte\nDime si lo siente', es que yo\n\n[Pre-Coro: Judeline]\nVoy manejando por la ciudad\nPor si nos vemo' de casualidad\nLlama pa' ver si volvemo' a empezar, baby\n\n[Coro: rusowsky & KAROL G]\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQu\u00e9 rico esos d\u00edas cuando est\u00e1bamo' tragao'\nT\u00fa y yo somo' fuego cuando estamo' emborrachao'\nSuena tu canci\u00f3n y t\u00fa no est\u00e1s aqu\u00ed, a mi la'o\nYo s\u00e9 que no debo, aunque te pienso demasia'o\nQuererte es tan f\u00e1cil y a la vez tan complica'o\nMirando al tel\u00e9fono, pero no me has llamao'\n\n[Post-Coro: KAROL G, Judeline & rusowsky]\nBaby, wow, me gustas demasia'o\nWow (Me gustas demasia'o)\nBeb\u00e9\nBaby, wow, te pienso demasia'o\nOh, woh, ah\n\n[Outro: Judeline]\nWow, baby, me gustas demasia'o\nBaby, wow, yo te tengo choca'o\nBaby, wow, me gustas demasia'o\nMe gustas demasia'o, -a'o, -a'o\n\n#KAROLG #Judeline #rusowsky #BbYWOW"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "199036",
-                "likeCount": "508",
-                "favoriteCount": "0",
-                "commentCount": "3"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "4ggebkp97OQHd-gAZaN8a1dxzjg",
+            "etag": "b5VZoI6Ah5LHso9ku9v2MLsRDhQ",
             "id": "MMgd6yhPxXw",
             "snippet": {
                 "publishedAt": "2026-10-09T20:52:00Z",
@@ -2672,173 +2837,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "520026",
-                "likeCount": "5698",
+                "viewCount": "543884",
+                "likeCount": "5939",
                 "favoriteCount": "0",
-                "commentCount": "333"
+                "commentCount": "343"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TjBtqfuDte2Fu1wBPB3uhvR15B0",
-            "id": "aB0U2WdJOPQ",
-            "snippet": {
-                "publishedAt": "2026-10-06T20:49:40Z",
-                "channelId": "UC3Zx1_6F_jU62RjPoaWlolg",
-                "title": "Ozuna & Omar Courtz - ZIZI (Letra/Lyrics)",
-                "description": "#ozuna #letra #lyrics #viral #latinmusic #trending #omarcourtz \nOzuna & Omar Courtz - ZIZI (Letra/Lyrics)\n\napoya a ozuna:\n@Ozuna \n\nRedes:\n\nhttps://www.instagram.com/ozuna/\nhttps://www.facebook.com/ozunapr/\n\n(Letra):\n[Intro: Omar Courtz & Ozuna]\nBASSYY, haha\nUh-uh, uh-uh\nBellaquita\nWoh-oh-oh, baby\nBellaquita\nYeah-yeah\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa\u2019 verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna, Ambos]\nSi te tengo 'e frente y empieza el bellaqueo (Yeah-yeah)\nAh\u00ed es que la mente maquinea (Ey, ah-ah-ah)\nDespacito por atr\u00e1' yo me le pego (Me le pego)\nYo te deseo, t\u00fa me desea\u2019\n\n[Verso 1: Ozuna]\nSi tu marido no te quiere\nBaja pa' la mansion, mami, con to' los podere' (Los podere')\nT\u00fa 't\u00e1s con el Ozu pa' que subas los nivele'\nVo\u2019a prenderla con la baby, \u00bfque t\u00fa quiere\u2019? (\u00bfQu\u00e9 t\u00fa quiere'?)\nOzuna\n\n[Refr\u00e1n: Ozuna]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere\u2019 mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\nSi te aloca\u2019\nTe hago na-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\n\n[Coro: Omar Courtz, Omar Courtz & Ozuna]\nY si te aloca', empieza el bellaqueo\nAh\u00ed es que la mente maquinea, ey\nDespacito por detr\u00e1' yo me le pego (Uh)\nYo te deseo, t\u00fa me desea' (Ey, yeah-yeah, bellaquita)\n\n[Verso 2: Omar Courtz]\nOusi con El Ozo, un perreo asqueroso\nToa' las nenas salen si salen los poderoso'\nHay luna llena y la nena se suelta, ey\nMami-Mami, \u00bfqu\u00e9 tiene ese cu? Que me tiene d\u00e1ndole zoom\n\u00bfSer\u00e1 la carita de pu, bebecita? \u00bfO la manera en que lo hicimo'? (Lo hicimo')\nYeah-yeah, s\u00ed\nC\u00f3mo conectamos, siempre se me va la mano por donde se mete el gistro\nSe pasa en la disco\nPonle Plan B pa' que vea' a ese culo dando brinco' (Yeah-yeah; uh), s\u00ed\nSi t\u00fa no te quita', mami, no me quito\n\u00bfC\u00f3mo va' a dejarme en visto si en cuatro te he visto?\nNoche 'e travesura', Nicky, de sexo un quickie\nLa noche est\u00e1 pa' que te ponga' freaky\nAqu\u00ed se dice \"el yipi\" pa' que le demo' el repeat\nEso me sale easy, llevarte para el cielo, ma\n[Refr\u00e1n: Omar Courtz, Ozuna & Ambos]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nUn perre\u00edto', mami, 'e sexo con ropa\nY si te aloca'\nTe hago na-na-na-na-na-na-na-eh' (Na-eh')\nT\u00fa ere' mi baby, t\u00fa ere' mi loca\nUn perre\u00edto', mami, 'e sexo con ropa\nSi te aloca'\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa' verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna]\nSi te tengo 'e frente y empieza el be\u2014\n\n[Outro: Ozuna & Omar Courtz]\nEy, yeah-yeah\nEl Negrito Ojos Claro'\nOzuna\nEl Ousi\nCon El Ozo, jaja\nHi Music Hi Flow\nK.A.R. Beats, ja\nWoh-oh-oh\nBaby, yeah\nEs El Negrito Ojos Claro'\nAh, ah, ah",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/aB0U2WdJOPQ/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Caguama",
-                "tags": [
-                    "ZIZI Letra",
-                    "ZIZI Ozuna",
-                    "Ozuna ZIZI",
-                    "Si te tengo 'e frente y empieza el bellaqueo",
-                    "Ah\u00ed es que la mente maquinea",
-                    "Despacito por atr\u00e1' yo me le pego",
-                    "Yo te deseo t\u00fa me desea\u2019",
-                    "ZIZI Ozuna Letra",
-                    "Ozuna ZIZI Letra",
-                    "ZIZI Letra Ozuna",
-                    "Ozuna Letra ZIZI",
-                    "Omar Courtz ZIZI",
-                    "ZIZI Omar Courtz",
-                    "ZIZI",
-                    "zizi ozuna letra",
-                    "ozuna zizi letra",
-                    "zizi letra ozuna",
-                    "ozuna letra zizi",
-                    "omar courtz zizi",
-                    "zizi omar courtz",
-                    "zizi",
-                    "zizi letra",
-                    "zizi ozuna",
-                    "ozuna zizi",
-                    "Zizi letra",
-                    "Zizi ozuna",
-                    "Ozuna zizi"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Ozuna & Omar Courtz - ZIZI (Letra/Lyrics)",
-                    "description": "#ozuna #letra #lyrics #viral #latinmusic #trending #omarcourtz \nOzuna & Omar Courtz - ZIZI (Letra/Lyrics)\n\napoya a ozuna:\n@Ozuna \n\nRedes:\n\nhttps://www.instagram.com/ozuna/\nhttps://www.facebook.com/ozunapr/\n\n(Letra):\n[Intro: Omar Courtz & Ozuna]\nBASSYY, haha\nUh-uh, uh-uh\nBellaquita\nWoh-oh-oh, baby\nBellaquita\nYeah-yeah\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa\u2019 verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna, Ambos]\nSi te tengo 'e frente y empieza el bellaqueo (Yeah-yeah)\nAh\u00ed es que la mente maquinea (Ey, ah-ah-ah)\nDespacito por atr\u00e1' yo me le pego (Me le pego)\nYo te deseo, t\u00fa me desea\u2019\n\n[Verso 1: Ozuna]\nSi tu marido no te quiere\nBaja pa' la mansion, mami, con to' los podere' (Los podere')\nT\u00fa 't\u00e1s con el Ozu pa' que subas los nivele'\nVo\u2019a prenderla con la baby, \u00bfque t\u00fa quiere\u2019? (\u00bfQu\u00e9 t\u00fa quiere'?)\nOzuna\n\n[Refr\u00e1n: Ozuna]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere\u2019 mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\nSi te aloca\u2019\nTe hago na-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nPerre\u00edto', mami, 'e sexo con ropa\n\n[Coro: Omar Courtz, Omar Courtz & Ozuna]\nY si te aloca', empieza el bellaqueo\nAh\u00ed es que la mente maquinea, ey\nDespacito por detr\u00e1' yo me le pego (Uh)\nYo te deseo, t\u00fa me desea' (Ey, yeah-yeah, bellaquita)\n\n[Verso 2: Omar Courtz]\nOusi con El Ozo, un perreo asqueroso\nToa' las nenas salen si salen los poderoso'\nHay luna llena y la nena se suelta, ey\nMami-Mami, \u00bfqu\u00e9 tiene ese cu? Que me tiene d\u00e1ndole zoom\n\u00bfSer\u00e1 la carita de pu, bebecita? \u00bfO la manera en que lo hicimo'? (Lo hicimo')\nYeah-yeah, s\u00ed\nC\u00f3mo conectamos, siempre se me va la mano por donde se mete el gistro\nSe pasa en la disco\nPonle Plan B pa' que vea' a ese culo dando brinco' (Yeah-yeah; uh), s\u00ed\nSi t\u00fa no te quita', mami, no me quito\n\u00bfC\u00f3mo va' a dejarme en visto si en cuatro te he visto?\nNoche 'e travesura', Nicky, de sexo un quickie\nLa noche est\u00e1 pa' que te ponga' freaky\nAqu\u00ed se dice \"el yipi\" pa' que le demo' el repeat\nEso me sale easy, llevarte para el cielo, ma\n[Refr\u00e1n: Omar Courtz, Ozuna & Ambos]\nNa-na-na-na-na-na-na-eh (Na-eh)\nT\u00fa ere' mi baby, t\u00fa ere' mi loca (Loca)\nUn perre\u00edto', mami, 'e sexo con ropa\nY si te aloca'\nTe hago na-na-na-na-na-na-na-eh' (Na-eh')\nT\u00fa ere' mi baby, t\u00fa ere' mi loca\nUn perre\u00edto', mami, 'e sexo con ropa\nSi te aloca'\n\n[Pre-Coro: Omar Courtz & Ozuna, Ambos]\nS\u00ed, s\u00ed, cuando te sientas solita, yo voy a estar ah\u00ed\nRecuerda que lo tuyo y lo m\u00edo, baby, es pa' siempre (Yeah)\nTe subo al cielo, mami, yo te hago sentir cosas que no dices, pero pasan por tu mente (Woh-oh, oh-oh)\nAvisa cuando te sube la bellacri, que yo paso, ma, por ah\u00ed pa' verte (Woh)\nLamberte y comerte\n\n[Coro: Omar Courtz & Ozuna]\nSi te tengo 'e frente y empieza el be\u2014\n\n[Outro: Ozuna & Omar Courtz]\nEy, yeah-yeah\nEl Negrito Ojos Claro'\nOzuna\nEl Ousi\nCon El Ozo, jaja\nHi Music Hi Flow\nK.A.R. Beats, ja\nWoh-oh-oh\nBaby, yeah\nEs El Negrito Ojos Claro'\nAh, ah, ah"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "87857",
-                "likeCount": "170",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "o5_cqtPnUknUgUpq0Evagng-WIQ",
-            "id": "1VFFCbPuFEE",
-            "snippet": {
-                "publishedAt": "2026-10-09T17:00:00Z",
-                "channelId": "UCiIvxNCnGngYbX6GBY7hs9A",
-                "title": "Intent\u00e9 ense\u00f1ar a CONDUCIR a mi Hermana Peque\u00f1a...",
-                "description": "\ud83e\udd11Juegos -70% DTO: https://ene.ba/Miguelillo_RL-ENEBA\n\ud83d\udd25\u00a1Xbox Game Pass al Mejor Precio!: https://ene.ba/Miguelillo_RL-GamePass     \n\ud83d\udd25Descuentos Exclusivos en Juegos de PC: https://ene.ba/Miguelillo_RL-SteamGames   #ad\n\n\u25bcREDES\u25bc\n\u291eTwitch \ud83d\udc7e: https://www.twitch.tv/miguelillo_rl\n\u291e\u00danete a nuestro servidor de discord \ud83d\ude08: https://discord.com/invite/randomlife \n\u291e\u00danete a nuestro grupo de whatsapp\ud83d\udc9a: https://whatsapp.com/channel/0029VawPY32I7BeARmY6d72u\n\u291eTwitter \ud83d\udd39: https://x.com/MiguelilIo_RL\n\u291eTikTok \ud83d\udcf1: https://www.tiktok.com/@miguelillorl\n\u291eInstagram \ud83d\udcf8: https://www.instagram.com/miguelillo_rl\n\nEDITOR de este video -- https://x.com/Shamaxito\n\nNo olvides usar el c\u00f3digo MIGUELILLORL en la tienda de Fortnite \ud83d\ude0e\n\u291eContacto-Business\ud83d\udce9: miguelillo@manag3r.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "Miguelillo_RL",
-                "tags": [
-                    "RANDOMLIFE",
-                    "RANDOM LIFE",
-                    "randomlaif",
-                    "randomlive",
-                    "random life",
-                    "miguelillo",
-                    "miguelillo directo",
-                    "cencia",
-                    "miguelillorl",
-                    "ramon life",
-                    "ramonlife"
-                ],
-                "categoryId": "23",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Intent\u00e9 ense\u00f1ar a CONDUCIR a mi Hermana Peque\u00f1a...",
-                    "description": "\ud83e\udd11Juegos -70% DTO: https://ene.ba/Miguelillo_RL-ENEBA\n\ud83d\udd25\u00a1Xbox Game Pass al Mejor Precio!: https://ene.ba/Miguelillo_RL-GamePass     \n\ud83d\udd25Descuentos Exclusivos en Juegos de PC: https://ene.ba/Miguelillo_RL-SteamGames   #ad\n\n\u25bcREDES\u25bc\n\u291eTwitch \ud83d\udc7e: https://www.twitch.tv/miguelillo_rl\n\u291e\u00danete a nuestro servidor de discord \ud83d\ude08: https://discord.com/invite/randomlife \n\u291e\u00danete a nuestro grupo de whatsapp\ud83d\udc9a: https://whatsapp.com/channel/0029VawPY32I7BeARmY6d72u\n\u291eTwitter \ud83d\udd39: https://x.com/MiguelilIo_RL\n\u291eTikTok \ud83d\udcf1: https://www.tiktok.com/@miguelillorl\n\u291eInstagram \ud83d\udcf8: https://www.instagram.com/miguelillo_rl\n\nEDITOR de este video -- https://x.com/Shamaxito\n\nNo olvides usar el c\u00f3digo MIGUELILLORL en la tienda de Fortnite \ud83d\ude0e\n\u291eContacto-Business\ud83d\udce9: miguelillo@manag3r.com"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "159312",
-                "likeCount": "6807",
-                "favoriteCount": "0",
-                "commentCount": "194"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "vQhziAAjobBxV2JgmwhOPXTR_fI",
+            "etag": "dYbOH3VvabWbSYvKvCCpD5mBCW0",
             "id": "g1Apss_oQxs",
             "snippet": {
                 "publishedAt": "2026-10-09T20:00:04Z",
@@ -2905,15 +2912,126 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "10640",
-                "likeCount": "498",
+                "viewCount": "11090",
+                "likeCount": "519",
                 "favoriteCount": "0",
-                "commentCount": "153"
+                "commentCount": "171"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Q8KjiYWWOqHR115h_19nbPtVeHA",
+            "etag": "w3A4QkAyUhnXI537yjztoToAZxk",
+            "id": "sJAIGZfoWKw",
+            "snippet": {
+                "publishedAt": "2026-10-09T20:22:34Z",
+                "channelId": "UC7qdNWFCD3lo8toe0TsaeUw",
+                "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
+                "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "CrisGreen ( \u0361\u00b0 3 \u0361\u00b0)",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
+                    "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "232716",
+                "likeCount": "14847",
+                "favoriteCount": "0",
+                "commentCount": "295"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2Os5upaY6E7VhhYPyHx_0V3ndGI",
+            "id": "ukvuCQtma4E",
+            "snippet": {
+                "publishedAt": "2026-10-09T21:00:08Z",
+                "channelId": "UCjs7v6LPryaCzzNAloKIJZA",
+                "title": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
+                "description": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pir\u00f3mano El Del Flow Gitano",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
+                    "description": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "9496",
+                "likeCount": "534",
+                "favoriteCount": "0",
+                "commentCount": "35"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tR4cco8EhWAcHWnpv8G7GTs9iZQ",
             "id": "_Ju2j1NSt9w",
             "snippet": {
                 "publishedAt": "2026-10-09T11:05:24Z",
@@ -2987,126 +3105,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1859175",
-                "likeCount": "20630",
+                "viewCount": "1914314",
+                "likeCount": "21201",
                 "favoriteCount": "0",
-                "commentCount": "231"
+                "commentCount": "239"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xLDODmkxk55cxd9o_C6qPLYY728",
-            "id": "ukvuCQtma4E",
-            "snippet": {
-                "publishedAt": "2026-10-09T21:00:08Z",
-                "channelId": "UCjs7v6LPryaCzzNAloKIJZA",
-                "title": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
-                "description": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ukvuCQtma4E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Pir\u00f3mano El Del Flow Gitano",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)",
-                    "description": "LE SE LA POSTA - Piromano El Del Flow Gitano x Adan La Amenaza x Victor La Voz (OFICIAL VIDEO)"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "9134",
-                "likeCount": "517",
-                "favoriteCount": "0",
-                "commentCount": "35"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "riXlrAtX4Yq7ln0VSl07WfkWc0M",
-            "id": "sJAIGZfoWKw",
-            "snippet": {
-                "publishedAt": "2026-10-09T20:22:34Z",
-                "channelId": "UC7qdNWFCD3lo8toe0TsaeUw",
-                "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
-                "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/sJAIGZfoWKw/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
-                    }
-                },
-                "channelTitle": "CrisGreen ( \u0361\u00b0 3 \u0361\u00b0)",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Uso la RULETA de DEDSAFIO para trolear en INVISIBLE",
-                    "description": "\u25cf KICK: https://kick.com/crisgreen\n\nJuegos -70% de descuento: https://ene.ba/CrisGreen-ENEBA\n\ud83c\udf0d Minecraft: Java & Bedrock Edition: https://ene.ba/CrisGreen-TODO-MINECRAFT\n\ud83c\udfae Mi Colecci\u00f3n Personal de Juegos Recomendados: https://ene.ba/CrisGreen-ColeccionPersonal\n\n\u25cf Email: cri2green@hotmail.com\n\u25cf Email: crisgreen@rift-agency.com\n\n\u25cf Mi Twitter: https://twitter.com/CrisGreen95 \n\n\u25cf Mi Instagram: https://www.instagram.com/crisgreen95 \n\n\u25cf Hacete miembro del canal y volvete un pibe especial \ud83d\udc38https://www.youtube.com/channel/UC7qdNWFCD3lo8toe0TsaeUw/join\n\n\u25cf DISCORD: https://discord.gg/dG2VcSPMxF \n\n\nClick ac\u00e1 para obtener 1 auto gratis \nhttps://goo.gl/Vdf1j1 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \n\n --- M\u00fasica --- \n\u25cf Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "225436",
-                "likeCount": "14204",
-                "favoriteCount": "0",
-                "commentCount": "294"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "_KK8W3RZC0-gLA2h2r676lA0fw4",
+            "etag": "5ZHBUprGCmzns5CkYZqI_GfDO6Y",
             "id": "ueunruWxEoc",
             "snippet": {
                 "publishedAt": "2026-10-09T00:02:23Z",
@@ -3161,93 +3168,86 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "84124",
-                "likeCount": "1088",
+                "viewCount": "85565",
+                "likeCount": "1128",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "fOLGG08oVnNQOLADeqsXkDDExfo",
-            "id": "qtrWQ6x1iTo",
+            "etag": "fMjRYXrJqSf1_dWu7qck6XDM62Y",
+            "id": "1VFFCbPuFEE",
             "snippet": {
-                "publishedAt": "2026-10-09T20:50:14Z",
-                "channelId": "UCcRpW9GxA3KFipksgwEXtEA",
-                "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
-                "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo",
+                "publishedAt": "2026-10-09T17:00:00Z",
+                "channelId": "UCiIvxNCnGngYbX6GBY7hs9A",
+                "title": "Intent\u00e9 ense\u00f1ar a CONDUCIR a mi Hermana Peque\u00f1a...",
+                "description": "\ud83e\udd11Juegos -70% DTO: https://ene.ba/Miguelillo_RL-ENEBA\n\ud83d\udd25\u00a1Xbox Game Pass al Mejor Precio!: https://ene.ba/Miguelillo_RL-GamePass     \n\ud83d\udd25Descuentos Exclusivos en Juegos de PC: https://ene.ba/Miguelillo_RL-SteamGames   #ad\n\n\u25bcREDES\u25bc\n\u291eTwitch \ud83d\udc7e: https://www.twitch.tv/miguelillo_rl\n\u291e\u00danete a nuestro servidor de discord \ud83d\ude08: https://discord.com/invite/randomlife \n\u291e\u00danete a nuestro grupo de whatsapp\ud83d\udc9a: https://whatsapp.com/channel/0029VawPY32I7BeARmY6d72u\n\u291eTwitter \ud83d\udd39: https://x.com/MiguelilIo_RL\n\u291eTikTok \ud83d\udcf1: https://www.tiktok.com/@miguelillorl\n\u291eInstagram \ud83d\udcf8: https://www.instagram.com/miguelillo_rl\n\nEDITOR de este video -- https://x.com/Shamaxito\n\nNo olvides usar el c\u00f3digo MIGUELILLORL en la tienda de Fortnite \ud83d\ude0e\n\u291eContacto-Business\ud83d\udce9: miguelillo@manag3r.com",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/qtrWQ6x1iTo/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/1VFFCbPuFEE/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Nukleo Plus",
+                "channelTitle": "Miguelillo_RL",
                 "tags": [
-                    "roba un huevo",
-                    "steal an egg",
-                    "roblox",
-                    "nukleo",
-                    "roba un huevo roblox",
-                    "steal an egg roblox",
-                    "top 1 roba un huevo",
-                    "top 1 mundial roba un huevo",
-                    "jugador numero 1 roba un huevo",
-                    "mejor mascota roba un huevo",
-                    "fusion roba un huevo",
-                    "nueva fusion roba un huevo",
-                    "fusion mas rota roba un huevo",
-                    "ballena divina",
-                    "royal skywhale",
-                    "leon eterno",
-                    "celestial sunlion",
-                    "mascota mas op roba un huevo",
-                    "steal an egg fusion",
-                    "steal an egg best pet",
-                    "steal an egg update",
-                    "top mundial roba un huevo",
-                    "roblox espa\u00f1ol"
+                    "RANDOMLIFE",
+                    "RANDOM LIFE",
+                    "randomlaif",
+                    "randomlive",
+                    "random life",
+                    "miguelillo",
+                    "miguelillo directo",
+                    "cencia",
+                    "miguelillorl",
+                    "ramon life",
+                    "ramonlife"
                 ],
-                "categoryId": "20",
+                "categoryId": "23",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "es",
                 "localized": {
-                    "title": "\u00a1POR FIN me Convert\u00ed en el JUGADOR #1 de Roba un Huevo!",
-                    "description": "\u00a1POR FIN CONSEGU\u00cd EL TOP 1 MUNDIAL EN ROBA UN HUEVO! \ud83c\udfc6\ud83d\ude31\n\nEn este video de Roblox Steal an Egg voy a realizar la FUSI\u00d3N M\u00c1S ROTA de todo el juego, combinando la BALLENA DIVINA (Royal Skywhale) con el LE\u00d3N ETERNO (Celestial Sunlion) para crear la MASCOTA M\u00c1S PODEROSA de Roba un Huevo. \ud83d\udd25\n\n\u00a1Una fusi\u00f3n incre\u00edble que me permiti\u00f3 conseguir la mejor mascota del juego y convertirme en el JUGADOR #1 DEL MUNDO! \ud83c\udf0e\ud83d\udc51\n\n\u00bfSer\u00e1 esta la mascota m\u00e1s chetada de toda la historia de Steal an Egg?\n\n\u00a1No te olvides de suscribirte y darle a like !\n\nR\u0332E\u0332D\u0332E\u0332S\u0332:\u0332\n\u25a0 Mi TWITTER @xNukleo: https://x.com/xNUKLEO\n\u25a0 Mi INSTAGRAM @Nukleo_TV: https://www.instagram.com/nukleo_tv/\n\u25a0 Mi DISCORD: https://discord.gg/BGdyxvZnH4\n\u25a0 Mi TikTok @nukleotwitch: http://tiktok.com/@nukleotwitch\n\u25a0 Mi Kick @nukleo: https://kick.com/nukleo"
+                    "title": "Intent\u00e9 ense\u00f1ar a CONDUCIR a mi Hermana Peque\u00f1a...",
+                    "description": "\ud83e\udd11Juegos -70% DTO: https://ene.ba/Miguelillo_RL-ENEBA\n\ud83d\udd25\u00a1Xbox Game Pass al Mejor Precio!: https://ene.ba/Miguelillo_RL-GamePass     \n\ud83d\udd25Descuentos Exclusivos en Juegos de PC: https://ene.ba/Miguelillo_RL-SteamGames   #ad\n\n\u25bcREDES\u25bc\n\u291eTwitch \ud83d\udc7e: https://www.twitch.tv/miguelillo_rl\n\u291e\u00danete a nuestro servidor de discord \ud83d\ude08: https://discord.com/invite/randomlife \n\u291e\u00danete a nuestro grupo de whatsapp\ud83d\udc9a: https://whatsapp.com/channel/0029VawPY32I7BeARmY6d72u\n\u291eTwitter \ud83d\udd39: https://x.com/MiguelilIo_RL\n\u291eTikTok \ud83d\udcf1: https://www.tiktok.com/@miguelillorl\n\u291eInstagram \ud83d\udcf8: https://www.instagram.com/miguelillo_rl\n\nEDITOR de este video -- https://x.com/Shamaxito\n\nNo olvides usar el c\u00f3digo MIGUELILLORL en la tienda de Fortnite \ud83d\ude0e\n\u291eContacto-Business\ud83d\udce9: miguelillo@manag3r.com"
                 },
-                "defaultAudioLanguage": "es-419"
+                "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "258926",
-                "likeCount": "4688",
+                "viewCount": "162940",
+                "likeCount": "6922",
                 "favoriteCount": "0",
-                "commentCount": "368"
+                "commentCount": "197"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8Qa4y0NSsBAO1q18DA0spZ2veM0",
+            "etag": "XOUUEb1SRFT65Z7YJQcVk_6GYBE",
             "id": "TRXxERvry4Q",
             "snippet": {
                 "publishedAt": "2026-10-09T00:00:09Z",
@@ -3319,15 +3319,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "88214",
-                "likeCount": "2060",
+                "viewCount": "90970",
+                "likeCount": "2092",
                 "favoriteCount": "0",
-                "commentCount": "139"
+                "commentCount": "140"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "D0kRbJ-qfjGpSYlZxqCBDHFTRSQ",
+            "etag": "B0U6AcFk6n5rSY8hj9fBX4FzDGo",
             "id": "JGMQUz99vCI",
             "snippet": {
                 "publishedAt": "2026-10-09T21:04:18Z",
@@ -3411,15 +3411,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "91343",
-                "likeCount": "3410",
+                "viewCount": "93089",
+                "likeCount": "3495",
                 "favoriteCount": "0",
-                "commentCount": "102"
+                "commentCount": "103"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "A1eMrmC5eh3VQ3SBRFygN5phUTY",
+            "etag": "qrjyogcNb4-0U83AWRGe_wnkTWM",
             "id": "PNIMgkhiH8E",
             "snippet": {
                 "publishedAt": "2026-10-08T23:00:10Z",
@@ -3495,15 +3495,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "38639",
-                "likeCount": "3489",
+                "viewCount": "38806",
+                "likeCount": "3504",
                 "favoriteCount": "0",
-                "commentCount": "333"
+                "commentCount": "332"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Yjsb32i2d8BBvg6fp9ko3q3tCxY",
+            "etag": "gO1HLQmsFC6G4U2xm2K-XERdYxU",
             "id": "d4hnFpYNs4Y",
             "snippet": {
                 "publishedAt": "2026-10-09T19:30:04Z",
@@ -3562,15 +3562,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "232135",
-                "likeCount": "2318",
+                "viewCount": "239769",
+                "likeCount": "2394",
                 "favoriteCount": "0",
-                "commentCount": "272"
+                "commentCount": "278"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PGSKe9Rp4GQxHmFCcI9nxqNJ4II",
+            "etag": "GBL0s0dte8zVKoLTGrXBIphxaL4",
             "id": "I6kOiPQXp54",
             "snippet": {
                 "publishedAt": "2026-10-09T04:01:05Z",
@@ -3632,10 +3632,10 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "438795",
-                "likeCount": "43638",
+                "viewCount": "442091",
+                "likeCount": "43967",
                 "favoriteCount": "0",
-                "commentCount": "5151"
+                "commentCount": "5175"
             }
         }
     ],

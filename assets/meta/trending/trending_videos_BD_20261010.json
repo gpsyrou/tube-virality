@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "GzviKvt074cVVwjATfgRlpEhUzw",
+    "etag": "VytgtwmcQXIiM02N94__1Zvpzug",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "2SMqn59bozQin2l5LAvaOzDfXkc",
+            "etag": "7jvyxGze5QB0iAmH13bvs3_uZik",
             "id": "D0YkgCt_MgA",
             "snippet": {
                 "publishedAt": "2026-10-03T07:30:26Z",
@@ -82,15 +82,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "8673716",
-                "likeCount": "115524",
+                "viewCount": "8714073",
+                "likeCount": "116214",
                 "favoriteCount": "0",
-                "commentCount": "2718"
+                "commentCount": "2728"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8wq-VY6x9EGJoS7aTtvNcEZ5kJo",
+            "etag": "jJ9Ibyu3Lwk7oMZFL0VbXga9gug",
             "id": "PWuJ5-WiEgY",
             "snippet": {
                 "publishedAt": "2026-10-05T12:34:42Z",
@@ -164,15 +164,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "10726841",
-                "likeCount": "184780",
+                "viewCount": "10761011",
+                "likeCount": "185111",
                 "favoriteCount": "0",
-                "commentCount": "5803"
+                "commentCount": "5807"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "F2b5aPGQ_cxFQeE7BKR7AOUlfI4",
+            "etag": "ApCiFi-LVBl4VtTwxFRyCodMjKY",
             "id": "NYoX-yPEAe0",
             "snippet": {
                 "publishedAt": "2026-10-09T04:31:32Z",
@@ -256,15 +256,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "620197",
-                "likeCount": "10887",
+                "viewCount": "632491",
+                "likeCount": "11088",
                 "favoriteCount": "0",
-                "commentCount": "806"
+                "commentCount": "822"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yf7KFpUaj6_X-psblZAJKFgmSss",
+            "etag": "ShZtV2yvBCNitFw5NAaXXC85AcQ",
             "id": "Efx99wS3aTg",
             "snippet": {
                 "publishedAt": "2026-10-01T09:29:33Z",
@@ -345,15 +345,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "790022",
-                "likeCount": "4480",
+                "viewCount": "791737",
+                "likeCount": "4488",
                 "favoriteCount": "0",
                 "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "pMPDloEGaoYPZvHgF8uM0i7WrgU",
+            "etag": "beIt1MPm3bJVNIZB7xXKK0KRFZE",
             "id": "ZRW6h0mzqNw",
             "snippet": {
                 "publishedAt": "2026-10-08T15:49:45Z",
@@ -430,15 +430,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "1201070",
-                "likeCount": "29945",
+                "viewCount": "1210372",
+                "likeCount": "30109",
                 "favoriteCount": "0",
-                "commentCount": "5350"
+                "commentCount": "5393"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "k36S1VO-XwEL4Jiz1vqfvmlqyVw",
+            "etag": "vaEo3SOkLH1dwTQEebDB-Tfp0qQ",
             "id": "vJ7Iz8i_CVA",
             "snippet": {
                 "publishedAt": "2026-10-08T05:00:03Z",
@@ -512,15 +512,15 @@
                 "defaultAudioLanguage": "bn-IN"
             },
             "statistics": {
-                "viewCount": "381775",
-                "likeCount": "2875",
+                "viewCount": "385322",
+                "likeCount": "2897",
                 "favoriteCount": "0",
-                "commentCount": "232"
+                "commentCount": "233"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UiOJAAZEoCPPE-9rHcjC_HPYPT0",
+            "etag": "D19cnGbSd6NRv2leY_437Txs7zg",
             "id": "vRjaGgDsWSo",
             "snippet": {
                 "publishedAt": "2026-09-19T05:30:09Z",
@@ -595,15 +595,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "105881510",
-                "likeCount": "1753349",
+                "viewCount": "106057378",
+                "likeCount": "1755341",
                 "favoriteCount": "0",
-                "commentCount": "132058"
+                "commentCount": "132168"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4pWnh79OkdPfdFi4WFrbeRxn0YY",
+            "etag": "sRXn8WLUm8yyg8UyjnHbZlNxidY",
             "id": "ieaesqlPKlM",
             "snippet": {
                 "publishedAt": "2026-09-30T09:00:22Z",
@@ -679,15 +679,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "1278018",
-                "likeCount": "11054",
+                "viewCount": "1280697",
+                "likeCount": "11066",
                 "favoriteCount": "0",
                 "commentCount": "841"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "HWcnBHokQgyYM54rllRWCIsubco",
+            "etag": "ftet2jlIStgtiyxieWxo6tzXQ_A",
             "id": "_QLRGIuTS-g",
             "snippet": {
                 "publishedAt": "2026-10-09T13:33:23Z",
@@ -757,15 +757,15 @@
                 "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "357615",
-                "likeCount": "4628",
+                "viewCount": "368925",
+                "likeCount": "4766",
                 "favoriteCount": "0",
-                "commentCount": "165"
+                "commentCount": "173"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xakOrFp_TXnPqpdJt6llEr559fs",
+            "etag": "JKlQcD1qJ446UEoyO6ZmPWsA5Vo",
             "id": "QJe7Wf17RlY",
             "snippet": {
                 "publishedAt": "2026-09-23T04:30:06Z",
@@ -843,15 +843,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "5146816",
-                "likeCount": "23199",
+                "viewCount": "5158407",
+                "likeCount": "23249",
                 "favoriteCount": "0",
                 "commentCount": "120"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Yh1aqQcRYGmKsF87BHauofxeLRw",
+            "etag": "QCPtYu1-6WiKuVvZQQQkClGYPAE",
             "id": "Lin-DzqYM8M",
             "snippet": {
                 "publishedAt": "2026-10-07T13:00:06Z",
@@ -928,15 +928,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "275452",
-                "likeCount": "3104",
+                "viewCount": "279977",
+                "likeCount": "3118",
                 "favoriteCount": "0",
                 "commentCount": "124"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vauO3jaDk4nbpeVWtUC8v8dyC7U",
+            "etag": "QKYkbktIz1esiOlRBZ4ZCIhtF4A",
             "id": "2IGy2upFZzU",
             "snippet": {
                 "publishedAt": "2026-10-08T07:30:00Z",
@@ -1013,15 +1013,15 @@
                 "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "359410",
-                "likeCount": "2217",
+                "viewCount": "362402",
+                "likeCount": "2223",
                 "favoriteCount": "0",
-                "commentCount": "58"
+                "commentCount": "59"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DcLCUPVcLVr58Cr5ErntPKq-h-o",
+            "etag": "b_7R-yzlioSdJFNgVGskEmghmuA",
             "id": "paQw2ry1w6k",
             "snippet": {
                 "publishedAt": "2026-09-29T15:07:47Z",
@@ -1066,15 +1066,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "335366",
-                "likeCount": "2999",
+                "viewCount": "336430",
+                "likeCount": "3008",
                 "favoriteCount": "0",
                 "commentCount": "103"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "LZQBfi5rIq5BGedqvDfEriHBvqE",
+            "etag": "cnyOPZihOOuzKeXB6GXA3k30AfE",
             "id": "A36nagDzugo",
             "snippet": {
                 "publishedAt": "2026-10-08T17:51:28Z",
@@ -1142,93 +1142,95 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "3186953",
-                "likeCount": "35932",
+                "viewCount": "3227103",
+                "likeCount": "36315",
                 "favoriteCount": "0",
-                "commentCount": "1117"
+                "commentCount": "1125"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "x0BAt1tNfOM_UuIBInf2OwFG0Uc",
-            "id": "SxeiYYJO8DE",
+            "etag": "dzaiQc-tBmge7B9N_Vuv9jbqpFI",
+            "id": "ujtwJ2z7QrY",
             "snippet": {
-                "publishedAt": "2026-10-07T14:52:34Z",
-                "channelId": "UCTNwxS7Cptx0J6tMPGGV9Dw",
-                "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
-                "description": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song | Romantic Song | Hindi Video Song | New Romantic Song | New Hindi Song 2026 | New Song 2026 Hindi | New Hindi Songs | Hindi Song | New Song Hindi | Hindi New Song | Romantic Song | Hindi Song New | Aryan Khan Songs | Aryan Khan New Song | Kriti Sanon Songs | Kriti Sanon New Song | Aryan Khan and Kriti Sanon | Romantic Hindi Song | Love Songs | Video Song | Romantic Songs | Hindi Song 2026 | Mohabbat Juda Ho Jaaye Song | Mohabbat Juda Ho Jaaye New Song | New Song\n\n#NewSong2026 #NewHindiSong #NewSong #RomanticSong #HindiVideoSong #NewRomanticSong #RomanticHindiSong #NewHindiSong2026 #NewSong2026Hindi #NewHindiSongs #HindiSong #SongNew #HindiNewSong #RomanticSongs #HindiSongNew #NewHindiSongs #HindiSongsNew #AryanKhan #AryanKhanSongs #AryanKhanNewSong #KritiSanon #KritiSanonSongs #KritiSanonNewSong #AryanKhanKritiSanon #NewRomanticSong #NewSongHindi #HindiSong2026 #LoveSongs #MohabbatJudaHoJaaye #MohabbatJudaHoJaayeSong #MohabbatJudaHoJaayeNewSong\n\nPresenting \"New Song 2026\" \u2014 Mohabbat Juda Ho Jaaye, Ft. Aryan Khan & Kriti Sanon, a New Hindi Song Sung/Composed by Gaurav Mali, Lyrics by Mahfuz Ali, and Music by Mahfuz Ali.\nA Romantic Song presented by 2Shade Entertainment Pvt Ltd\n\n\u25ba Subscribe Now: http://surl.li/eybwkz \ud83d\udd14 Stay updated!!\n\n\ud83c\udfa7 Song Credits:\nSong: Mohabbat Juda Ho Jaaye\nSinger/Composer: Gaurav Mali\nLyrics: Mahfuz Ali\nMusic: Mahfuz Ali\nMix/Master: Mahfuz Ali\nLabel: Gaurav Mali\nDigital Media Partner: Supernal Digital Media\nRecording Studio: Shree Raati Studio (Nathdwara)\n\nHindi Song,\nNew Song 2026,\nNew Hindi Song,\nNew Hindi Song 2026,\nHindi Song 2026,\nHindi New Song 2026,\nNew Song 2026 Hindi,\nHindi Video Song, Video Song Hindi, Video Song 2026\n\nIn this video, our purpose is to entertain people and make their lives enjoyable and happy.\n\nnew song,\nsong new,\nhindi song,\nnew song 2026,\nhindi song 2026,\nnew song 2026 hindi,\nnew hindi song 2026,\nromantic song,\nromantic song hindi,\naryan khan songs,\naryan khan new song,\nkriti sanon songs,\naryan khan kriti sanon\n\nnew song,hindi song,hindi songs,new songs,new song 2026,new song 2026 hindi,new hindi songs,romantic video song,hindi new song,romantic hindi songs,hindi song 2026 video,video song 2026,romantic song 2026,new hindi song 2026,new song 2026 hindi,hindi songs,hindi song new,romantic love song,hindi romantic song,new song hindi 2026,love song,love song hindi,bollywood songs,naye gaane,naye hindi gaane,\n\nFollow Me:\nInstagram: /gaurav_musicc.\nFacebook: /100070651383466\n\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
+                "publishedAt": "2026-10-02T11:31:55Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Kaho Na Kaho - 8K/4K Music Video | Emraan Hashmi, Mallika Sherawat | Amir Jamal | Anu Malik | Murder",
+                "description": "Relive the timeless romance of Kaho Na Kaho from Murder in stunning 8K/4K. \u2764\ufe0f\ud83c\udfb6 Featuring the soulful voice of Amir Jamal, this iconic melody composed by Anu Malik and penned by Sayeed Quadri brings back the unforgettable chemistry of Emraan Hashmi and Mallika Sherawat.\n\n#kahonakaho #murder #emraanhashmi #mallikasherawat #amirjamal #anumalik #sayeedquadri #8k #4k #8kmusicvideo #bollywoodsongs #hindisongs #romanticsongs #oldbollywoodsongs\n\nCredits:\nSong \u2013 Kaho Na Kaho\nMovie \u2013 Murder (2004)\nSinger \u2013 Amir Jamal\nMusic Composer \u2013 Anu Malik\nLyricist \u2013 Sayeed Quadri\nStarring \u2013 Emraan Hashmi & Mallika Sherawat\n\nLyrics:\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\n\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\ntamalli moaaan\nwalaaooo haa taaba idda\ninni fee albi hawaan\ntamalli b\u2019ali uffal di walaa bansaa\ntamalli waa hishmillah hataa banu wayyaa\n\n\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein tu hamaara hai\nAndhere raaston ka tu sitaara hai\n\n\nTamalli habibi mahta dilai\nI\u2019layya anayya bindaa \u2018ilai\nWilaha walayla kulli ku\nYakuniya habibi mahta dillai\n\nTu hi jine ka sahaara hai,\nmeri maujo ka kinaara hai\nMere liye yeh jahaan hai tu,\n\ntujhe mere dil ne pukaara hai\n\nKaho na kaho, yeh saansein\nbolati hai o sanam o sanam\nO mere sanam, labon pe\nnaam tere bas hamaara hai\nYeh tera dil bhi jaana hamaara hai\nKaho na kaho, yeh aankhein\nbolati hai o sanam o sanam\nO mere sanam, mohabbat ke\nsafar mein yeh sahaara hai\nWafa ki saahilon ka yeh kinaara hai\n\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\n\nAudio on Sony Music Entertainment India Pvt. Ltd (C) 2026\n\nSubscribe & Follow Sony Music India:\nhttps://www.youtube.com/@UC56gTxNs4f9xZ7Pa2i5xNzg \nhttps://www.facebook.com/SonyMusicIndia \nhttps://www.instagram.com/sonymusicindia\nhttps://www.snapchat.com/add/sonymusic_india\nhttps://twitter.com/sonymusicindia",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
                     }
                 },
-                "channelTitle": "Gaurav Mali",
+                "channelTitle": "Sony Music India",
                 "tags": [
-                    "new song",
-                    "hindi song",
-                    "hindi songs",
-                    "new songs",
-                    "new song 2026",
-                    "new song 2026 hindi",
-                    "new hindi songs",
-                    "romantic video song",
-                    "hindi new song",
-                    "romantic hindi songs",
-                    "hindi song 2026 video",
-                    "video song 2026",
-                    "romantic song 2026",
-                    "new hindi song 2026",
-                    "hindi song new",
-                    "romantic love song",
-                    "hindi romantic song",
-                    "new song hindi 2026",
-                    "love song",
-                    "love song hindi",
-                    "bollywood songs",
-                    "naye gaane",
-                    "naye hindi gaane"
+                    "kaho na kaho",
+                    "kaho na kaho 8k",
+                    "kaho na kaho murder",
+                    "murder 2004",
+                    "emraan hashmi songs",
+                    "mallika sherawat songs",
+                    "amir jamal",
+                    "anu malik",
+                    "sayeed quadri",
+                    "kaho na kaho song",
+                    "kaho na kaho music video",
+                    "emraan hashmi mallika sherawat",
+                    "ye aankhen bolti hai",
+                    "o sanam o sanam",
+                    "wafa ke sahilo ka kinara hai",
+                    "Jazbon mein Apne utaara hai",
+                    "kaho na kaho emraan hashmi",
+                    "Tamalli habibi mahta dilai",
+                    "Kaho na kaho",
+                    "O mere sanam"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
-                    "description": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song | Romantic Song | Hindi Video Song | New Romantic Song | New Hindi Song 2026 | New Song 2026 Hindi | New Hindi Songs | Hindi Song | New Song Hindi | Hindi New Song | Romantic Song | Hindi Song New | Aryan Khan Songs | Aryan Khan New Song | Kriti Sanon Songs | Kriti Sanon New Song | Aryan Khan and Kriti Sanon | Romantic Hindi Song | Love Songs | Video Song | Romantic Songs | Hindi Song 2026 | Mohabbat Juda Ho Jaaye Song | Mohabbat Juda Ho Jaaye New Song | New Song\n\n#NewSong2026 #NewHindiSong #NewSong #RomanticSong #HindiVideoSong #NewRomanticSong #RomanticHindiSong #NewHindiSong2026 #NewSong2026Hindi #NewHindiSongs #HindiSong #SongNew #HindiNewSong #RomanticSongs #HindiSongNew #NewHindiSongs #HindiSongsNew #AryanKhan #AryanKhanSongs #AryanKhanNewSong #KritiSanon #KritiSanonSongs #KritiSanonNewSong #AryanKhanKritiSanon #NewRomanticSong #NewSongHindi #HindiSong2026 #LoveSongs #MohabbatJudaHoJaaye #MohabbatJudaHoJaayeSong #MohabbatJudaHoJaayeNewSong\n\nPresenting \"New Song 2026\" \u2014 Mohabbat Juda Ho Jaaye, Ft. Aryan Khan & Kriti Sanon, a New Hindi Song Sung/Composed by Gaurav Mali, Lyrics by Mahfuz Ali, and Music by Mahfuz Ali.\nA Romantic Song presented by 2Shade Entertainment Pvt Ltd\n\n\u25ba Subscribe Now: http://surl.li/eybwkz \ud83d\udd14 Stay updated!!\n\n\ud83c\udfa7 Song Credits:\nSong: Mohabbat Juda Ho Jaaye\nSinger/Composer: Gaurav Mali\nLyrics: Mahfuz Ali\nMusic: Mahfuz Ali\nMix/Master: Mahfuz Ali\nLabel: Gaurav Mali\nDigital Media Partner: Supernal Digital Media\nRecording Studio: Shree Raati Studio (Nathdwara)\n\nHindi Song,\nNew Song 2026,\nNew Hindi Song,\nNew Hindi Song 2026,\nHindi Song 2026,\nHindi New Song 2026,\nNew Song 2026 Hindi,\nHindi Video Song, Video Song Hindi, Video Song 2026\n\nIn this video, our purpose is to entertain people and make their lives enjoyable and happy.\n\nnew song,\nsong new,\nhindi song,\nnew song 2026,\nhindi song 2026,\nnew song 2026 hindi,\nnew hindi song 2026,\nromantic song,\nromantic song hindi,\naryan khan songs,\naryan khan new song,\nkriti sanon songs,\naryan khan kriti sanon\n\nnew song,hindi song,hindi songs,new songs,new song 2026,new song 2026 hindi,new hindi songs,romantic video song,hindi new song,romantic hindi songs,hindi song 2026 video,video song 2026,romantic song 2026,new hindi song 2026,new song 2026 hindi,hindi songs,hindi song new,romantic love song,hindi romantic song,new song hindi 2026,love song,love song hindi,bollywood songs,naye gaane,naye hindi gaane,\n\nFollow Me:\nInstagram: /gaurav_musicc.\nFacebook: /100070651383466\n\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song"
+                    "title": "Kaho Na Kaho - 8K/4K Music Video | Emraan Hashmi, Mallika Sherawat | Amir Jamal | Anu Malik | Murder",
+                    "description": "Relive the timeless romance of Kaho Na Kaho from Murder in stunning 8K/4K. \u2764\ufe0f\ud83c\udfb6 Featuring the soulful voice of Amir Jamal, this iconic melody composed by Anu Malik and penned by Sayeed Quadri brings back the unforgettable chemistry of Emraan Hashmi and Mallika Sherawat.\n\n#kahonakaho #murder #emraanhashmi #mallikasherawat #amirjamal #anumalik #sayeedquadri #8k #4k #8kmusicvideo #bollywoodsongs #hindisongs #romanticsongs #oldbollywoodsongs\n\nCredits:\nSong \u2013 Kaho Na Kaho\nMovie \u2013 Murder (2004)\nSinger \u2013 Amir Jamal\nMusic Composer \u2013 Anu Malik\nLyricist \u2013 Sayeed Quadri\nStarring \u2013 Emraan Hashmi & Mallika Sherawat\n\nLyrics:\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\n\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\ntamalli moaaan\nwalaaooo haa taaba idda\ninni fee albi hawaan\ntamalli b\u2019ali uffal di walaa bansaa\ntamalli waa hishmillah hataa banu wayyaa\n\n\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein tu hamaara hai\nAndhere raaston ka tu sitaara hai\n\n\nTamalli habibi mahta dilai\nI\u2019layya anayya bindaa \u2018ilai\nWilaha walayla kulli ku\nYakuniya habibi mahta dillai\n\nTu hi jine ka sahaara hai,\nmeri maujo ka kinaara hai\nMere liye yeh jahaan hai tu,\n\ntujhe mere dil ne pukaara hai\n\nKaho na kaho, yeh saansein\nbolati hai o sanam o sanam\nO mere sanam, labon pe\nnaam tere bas hamaara hai\nYeh tera dil bhi jaana hamaara hai\nKaho na kaho, yeh aankhein\nbolati hai o sanam o sanam\nO mere sanam, mohabbat ke\nsafar mein yeh sahaara hai\nWafa ki saahilon ka yeh kinaara hai\n\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\n\nAudio on Sony Music Entertainment India Pvt. Ltd (C) 2026\n\nSubscribe & Follow Sony Music India:\nhttps://www.youtube.com/@UC56gTxNs4f9xZ7Pa2i5xNzg \nhttps://www.facebook.com/SonyMusicIndia \nhttps://www.instagram.com/sonymusicindia\nhttps://www.snapchat.com/add/sonymusic_india\nhttps://twitter.com/sonymusicindia"
                 },
-                "defaultAudioLanguage": "hi"
+                "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1617775",
-                "likeCount": "3794",
+                "viewCount": "4280874",
+                "likeCount": "21150",
                 "favoriteCount": "0",
-                "commentCount": "61"
+                "commentCount": "264"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "t67YmzqUsqGVXUoQFIbPaNtXUTs",
+            "etag": "73OT5sAIRQ4mNYo1xKvwb40kdbI",
             "id": "iT_17Kl3bDw",
             "snippet": {
                 "publishedAt": "2026-10-10T09:00:09Z",
@@ -1303,153 +1305,177 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "84471",
-                "likeCount": "2102",
+                "viewCount": "97914",
+                "likeCount": "2314",
                 "favoriteCount": "0",
-                "commentCount": "264"
+                "commentCount": "296"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "NIsRzZahPOeLnP9MqBG47V9BGj8",
-            "id": "grA9MKX2SDY",
+            "etag": "R-s1nApkOK0YrsIrwM6UabM8TIU",
+            "id": "5ctJcUFlID0",
             "snippet": {
-                "publishedAt": "2026-10-08T13:45:32Z",
-                "channelId": "UC6YjmRsUNgra_WHA9rFlGCw",
-                "title": "DECIDING DAY OF TOP18 FFBPL S4 \ud83d\udd34LIVE",
-                "description": "FOR DAILY LIVE VISIT \ud83d\udc47 \n@FREAK22PLUS \n\nmail: businesswithfreak22@gmail.com \n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf10 CONNECT WITH FREAK 22\nStay connected across all platforms\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcfa Main YouTube Channel\n\ud83d\udd17 https://tinyurl.com/bkbdw8uz\n\n\ud83c\udfac Second YouTube Channel\n\ud83d\udd17 https://tinyurl.com/5xm93spj\n\n\ud83d\udcd8 Facebook Page\n\ud83d\udd17 https://tinyurl.com/y9r74zst\n\n\ud83d\udc64 Personal Facebook Account\n\ud83d\udd17 https://tinyurl.com/3f3m3dsn\n\n\ud83d\udc65 Facebook Community Group\n\ud83d\udd17 https://tinyurl.com/44r7wr5m\n\n\ud83d\udcf8 Instagram\n\ud83d\udd17 https://tinyurl.com/367mywps\n\n\ud83c\udfae Discord Channel \n\ud83d\udd17 https://tinyurl.com/en3cfeyj\n\n\ud83c\udfb5 TikTok 1\n\ud83d\udd17 https://tinyurl.com/22ase6sh\n\n\ud83c\udfb6 TikTok 2\n\ud83d\udd17 https://tinyurl.com/jsbh8aeb\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2b50 Join the Freak 22 Community\n\u2764\ufe0f Subscribe \u2022 \ud83d\udc4d Like \u2022 \ud83d\udcac Comment \u2022 \ud83d\udd14 Turn On Notifications\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n #FFBPLS4 #FFBPL #FreeFire\n\u09b6\u09c1\u09b0\u09c1 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 FFBPL S4-\u098f\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09b2\u09dc\u09be\u0987!\n\n\u09ed\u09e8\u099f\u09bf \u099f\u09bf\u09ae, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b2\u09c0\u0997 \u09b8\u09cd\u099f\u09c7\u099c\u09c7 \u09b8\u09cd\u09b2\u099f \u09ae\u09be\u09a4\u09cd\u09b0 \u09e8\u09ea\u099f\u09bf\u0964 \u0995\u09be\u09b0\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7 \u09a8\u09bf\u099c\u09c7\u09a6\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be? \ud83d\udc40\n\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ab\u09be\u0987\u099f \u098f\u0995\u099f\u09be \u09b8\u09cd\u099f\u09c7\u099f\u09ae\u09c7\u09a8\u09cd\u099f\u0964\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09bf\u09ae\u09c7\u09b0 \u09b2\u0995\u09cd\u09b7\u09cd\u09af \u098f\u0995\u099f\u09be\u0987\u2014\u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u0964\n\n\u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2 \u098f\u09a4 \u09b8\u09b9\u099c \u09a8\u09df\u0964\n\n\nFight or Bye. \ud83d\udd25\n\n#FFBPLS4 #FFBPL #FreeFire #FreeFireEsportsBD\n\n#ffwsbd2026fall  #FFWSBDFALL #FFWSBD #FFWS #FFWSBDCoStreamer\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n#FreeFire #EWC2026 #EWCFreeFire2026\n #FreeFire #EWC2026 #EWCFreeFire2026\n#TEC #BDTOP1 #RHKLIVE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n....\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n\n\u0986\u09aa\u09a8\u09bf \u0995\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09ab\u09c7\u09ad\u09be\u09b0\u09bf\u099f \u099f\u09bf\u09ae\u0995\u09c7 \u099a\u09bf\u09df\u09be\u09b0 \u0995\u09b0\u09a4\u09c7 \u09b0\u09c7\u09a1\u09bf?  #FFBPLS3 #FFBPL #FFBPLLIVE #FreeFire\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#FFBPL #proleague #FFRC \n\n#FFMAI #FFM #FFESPORTS \n\n\n\n #FFWSGF2025 #FFWS2025 #FREEFIRE   #tournamenthighlightsfreefire #esportsbangladesh #JBFREAK22 #RHKLIVE #RCLIVE #RHKTOURNAMENT LIVE \n#roadtoglory \n#ffbc2025 \n#roadtoglory #roadtoglorylive freefirebangladesh official \n#freefirelivesteam #livesteam #blackfridaylive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u0993 \u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u0987\u09b8\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09b8 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b2\u09be\u0987\u09ad \u098f\u09ac\u0982 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b9\u09be\u0987\u09b2\u09be\u0987\u099f\u09b8 \u2014 \u09aa\u09cd\u09b0\u09cb \u09b2\u09c7\u09ad\u09c7\u09b2\u09c7\u09b0 \u0997\u09c7\u09ae\u09aa\u09cd\u09b2\u09c7, \u0995\u09cd\u09b2\u09be\u099a \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4 \u098f\u09ac\u0982 \u0995\u09ae\u09cd\u09aa\u09c7\u099f\u09bf\u099f\u09bf\u09ad \u09af\u09c1\u09a6\u09cd\u09a7\u0964 Free Fire & Free Fire Max esports tournament live stream with intense highlights, insane plays, and pro-level action. \u0e01\u0e32\u0e23\u0e41\u0e02\u0e48\u0e07\u0e02\u0e31\u0e19 Free Fire \u0e41\u0e1a\u0e1a\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e14\u0e41\u0e25\u0e30\u0e44\u0e2e\u0e44\u0e25\u0e15\u0e4c\u0e2a\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e1b\u0e23. Live turnamen Free Fire dan highlight paling seru dari para pro player. Highlights e transmiss\u00e3o ao vivo do torneio de Free Fire com jogadas insanas. Torneo de Free Fire en vivo con las mejores jugadas \u00e9picas. \u0628\u062b \u0645\u0628\u0627\u0634\u0631 \u0648\u0645\u0644\u062e\u0635\u0627\u062a \u0628\u0637\u0648\u0644\u0629 \u0641\u0631\u064a \u0641\u0627\u064a\u0631 \u0645\u0639 \u0623\u0642\u0648\u0649 \u0627\u0644\u0644\u0642\u0637\u0627\u062a \u0648\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629. Gi\u1ea3i \u0111\u1ea5u Free Fire tr\u1ef1c ti\u1ebfp c\u00f9ng highlight \u0111\u1eb7c s\u1eafc t\u1eeb tuy\u1ec3n th\u1ee7 chuy\u00ean nghi\u1ec7p.\n\n\n#freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp \n\n\n#ftiktok \n\nestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tikttiktok e\n#earnmoneyonline #earnmoneyfromtournaments #freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp #skylord #skylordlive #wassimos #wassimostv #zikuvaiff #zikuviofficial \n#freefirestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tiktoktrending",
+                "publishedAt": "2026-10-09T07:30:13Z",
+                "channelId": "UCSY1FIWnpjS35mWBUHq2r2A",
+                "title": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5",
+                "description": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb SUPER MYSTERY CONTAINERS ! GTA\n#sokhergamer #gta #gtav #banglagaming #gamerbhai \n\nThis Video is only entertainment purpose only.\n\nLike aim :- 100\n\n\n\n\n\n\n\nfranklin shinchan in bengali\nsokher gamer \nmr reo gta 5\nfrank shinchan new gta v\ntechno gamer new video\nfranklin shinchan upgrade venom\nfrankiln bangla cartoon\nvalo valo franklin video\nshinchan er bangla video gta \nlion upgrade gta 5\nhati upgrade video\ntiger upgrade gta 5\nanimals upgrade gta 5\ngamer bhai gta 5\nindian bike driving 3d new cheat codes\nfranklin clinton cartoon\nindian driving 3d game\ngta 5 ramp challenge indian car\nupgrading hulk to god hulk in gta 5\nspider- man wala spider-man wala\nfranklin shinchan picture video\nfranklin shinchan challenge video\nspiderman vs hulk gta 5 cars\ngta 5 bangla gameplay\nfranklin cartoon bengali\nfranklin gta v new video\nhulk franklin video\nbong gamer gta 5\nbengal yt gta 5\nmrxpart gta 5\nfranklin gta 5 video\nfranklin shinchan gta video\ngta 5 gameplay bangla\nfranklin er video\nshinchan franklin new episode\ngta 5 funny gameplay\nhulk video\nsuit upgrade video",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
                     "fhd": {
-                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/fhddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/fhddefault.jpg",
                         "width": 1920,
                         "height": 1080
                     }
                 },
-                "channelTitle": "JB FREAK 22",
+                "channelTitle": "GTA PLAYER",
+                "tags": [
+                    "gta 5 gameplay bangla",
+                    "franklin video bangla",
+                    "hulk franklin video",
+                    "hulk er video",
+                    "franklin suit upgrade",
+                    "gta 5",
+                    "sokher gamer",
+                    "mr reo gta 5",
+                    "gamer bhai gta 5",
+                    "fraklin shinchan gameplay",
+                    "franklin er video",
+                    "avenger gta 5 franklin",
+                    "hulk video",
+                    "shinchan franklin gta",
+                    "franklin cartoon",
+                    "franklin make new car",
+                    "lion upgrade gta 5",
+                    "lion gta 5",
+                    "ghost ride upgrade",
+                    "franklin poor to rich in gta 5",
+                    "franklin bengali cartoon",
+                    "franklin video",
+                    "shinchan video",
+                    "techno gamer new video"
+                ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "bn",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "DECIDING DAY OF TOP18 FFBPL S4 \ud83d\udd34LIVE",
-                    "description": "FOR DAILY LIVE VISIT \ud83d\udc47 \n@FREAK22PLUS \n\nmail: businesswithfreak22@gmail.com \n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf10 CONNECT WITH FREAK 22\nStay connected across all platforms\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcfa Main YouTube Channel\n\ud83d\udd17 https://tinyurl.com/bkbdw8uz\n\n\ud83c\udfac Second YouTube Channel\n\ud83d\udd17 https://tinyurl.com/5xm93spj\n\n\ud83d\udcd8 Facebook Page\n\ud83d\udd17 https://tinyurl.com/y9r74zst\n\n\ud83d\udc64 Personal Facebook Account\n\ud83d\udd17 https://tinyurl.com/3f3m3dsn\n\n\ud83d\udc65 Facebook Community Group\n\ud83d\udd17 https://tinyurl.com/44r7wr5m\n\n\ud83d\udcf8 Instagram\n\ud83d\udd17 https://tinyurl.com/367mywps\n\n\ud83c\udfae Discord Channel \n\ud83d\udd17 https://tinyurl.com/en3cfeyj\n\n\ud83c\udfb5 TikTok 1\n\ud83d\udd17 https://tinyurl.com/22ase6sh\n\n\ud83c\udfb6 TikTok 2\n\ud83d\udd17 https://tinyurl.com/jsbh8aeb\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2b50 Join the Freak 22 Community\n\u2764\ufe0f Subscribe \u2022 \ud83d\udc4d Like \u2022 \ud83d\udcac Comment \u2022 \ud83d\udd14 Turn On Notifications\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n #FFBPLS4 #FFBPL #FreeFire\n\u09b6\u09c1\u09b0\u09c1 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 FFBPL S4-\u098f\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09b2\u09dc\u09be\u0987!\n\n\u09ed\u09e8\u099f\u09bf \u099f\u09bf\u09ae, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b2\u09c0\u0997 \u09b8\u09cd\u099f\u09c7\u099c\u09c7 \u09b8\u09cd\u09b2\u099f \u09ae\u09be\u09a4\u09cd\u09b0 \u09e8\u09ea\u099f\u09bf\u0964 \u0995\u09be\u09b0\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7 \u09a8\u09bf\u099c\u09c7\u09a6\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be? \ud83d\udc40\n\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ab\u09be\u0987\u099f \u098f\u0995\u099f\u09be \u09b8\u09cd\u099f\u09c7\u099f\u09ae\u09c7\u09a8\u09cd\u099f\u0964\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09bf\u09ae\u09c7\u09b0 \u09b2\u0995\u09cd\u09b7\u09cd\u09af \u098f\u0995\u099f\u09be\u0987\u2014\u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u0964\n\n\u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2 \u098f\u09a4 \u09b8\u09b9\u099c \u09a8\u09df\u0964\n\n\nFight or Bye. \ud83d\udd25\n\n#FFBPLS4 #FFBPL #FreeFire #FreeFireEsportsBD\n\n#ffwsbd2026fall  #FFWSBDFALL #FFWSBD #FFWS #FFWSBDCoStreamer\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n#FreeFire #EWC2026 #EWCFreeFire2026\n #FreeFire #EWC2026 #EWCFreeFire2026\n#TEC #BDTOP1 #RHKLIVE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n....\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n\n\u0986\u09aa\u09a8\u09bf \u0995\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09ab\u09c7\u09ad\u09be\u09b0\u09bf\u099f \u099f\u09bf\u09ae\u0995\u09c7 \u099a\u09bf\u09df\u09be\u09b0 \u0995\u09b0\u09a4\u09c7 \u09b0\u09c7\u09a1\u09bf?  #FFBPLS3 #FFBPL #FFBPLLIVE #FreeFire\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#FFBPL #proleague #FFRC \n\n#FFMAI #FFM #FFESPORTS \n\n\n\n #FFWSGF2025 #FFWS2025 #FREEFIRE   #tournamenthighlightsfreefire #esportsbangladesh #JBFREAK22 #RHKLIVE #RCLIVE #RHKTOURNAMENT LIVE \n#roadtoglory \n#ffbc2025 \n#roadtoglory #roadtoglorylive freefirebangladesh official \n#freefirelivesteam #livesteam #blackfridaylive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u0993 \u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u0987\u09b8\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09b8 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b2\u09be\u0987\u09ad \u098f\u09ac\u0982 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b9\u09be\u0987\u09b2\u09be\u0987\u099f\u09b8 \u2014 \u09aa\u09cd\u09b0\u09cb \u09b2\u09c7\u09ad\u09c7\u09b2\u09c7\u09b0 \u0997\u09c7\u09ae\u09aa\u09cd\u09b2\u09c7, \u0995\u09cd\u09b2\u09be\u099a \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4 \u098f\u09ac\u0982 \u0995\u09ae\u09cd\u09aa\u09c7\u099f\u09bf\u099f\u09bf\u09ad \u09af\u09c1\u09a6\u09cd\u09a7\u0964 Free Fire & Free Fire Max esports tournament live stream with intense highlights, insane plays, and pro-level action. \u0e01\u0e32\u0e23\u0e41\u0e02\u0e48\u0e07\u0e02\u0e31\u0e19 Free Fire \u0e41\u0e1a\u0e1a\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e14\u0e41\u0e25\u0e30\u0e44\u0e2e\u0e44\u0e25\u0e15\u0e4c\u0e2a\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e1b\u0e23. Live turnamen Free Fire dan highlight paling seru dari para pro player. Highlights e transmiss\u00e3o ao vivo do torneio de Free Fire com jogadas insanas. Torneo de Free Fire en vivo con las mejores jugadas \u00e9picas. \u0628\u062b \u0645\u0628\u0627\u0634\u0631 \u0648\u0645\u0644\u062e\u0635\u0627\u062a \u0628\u0637\u0648\u0644\u0629 \u0641\u0631\u064a \u0641\u0627\u064a\u0631 \u0645\u0639 \u0623\u0642\u0648\u0649 \u0627\u0644\u0644\u0642\u0637\u0627\u062a \u0648\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629. Gi\u1ea3i \u0111\u1ea5u Free Fire tr\u1ef1c ti\u1ebfp c\u00f9ng highlight \u0111\u1eb7c s\u1eafc t\u1eeb tuy\u1ec3n th\u1ee7 chuy\u00ean nghi\u1ec7p.\n\n\n#freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp \n\n\n#ftiktok \n\nestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tikttiktok e\n#earnmoneyonline #earnmoneyfromtournaments #freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp #skylord #skylordlive #wassimos #wassimostv #zikuvaiff #zikuviofficial \n#freefirestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tiktoktrending"
+                    "title": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5",
+                    "description": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb SUPER MYSTERY CONTAINERS ! GTA\n#sokhergamer #gta #gtav #banglagaming #gamerbhai \n\nThis Video is only entertainment purpose only.\n\nLike aim :- 100\n\n\n\n\n\n\n\nfranklin shinchan in bengali\nsokher gamer \nmr reo gta 5\nfrank shinchan new gta v\ntechno gamer new video\nfranklin shinchan upgrade venom\nfrankiln bangla cartoon\nvalo valo franklin video\nshinchan er bangla video gta \nlion upgrade gta 5\nhati upgrade video\ntiger upgrade gta 5\nanimals upgrade gta 5\ngamer bhai gta 5\nindian bike driving 3d new cheat codes\nfranklin clinton cartoon\nindian driving 3d game\ngta 5 ramp challenge indian car\nupgrading hulk to god hulk in gta 5\nspider- man wala spider-man wala\nfranklin shinchan picture video\nfranklin shinchan challenge video\nspiderman vs hulk gta 5 cars\ngta 5 bangla gameplay\nfranklin cartoon bengali\nfranklin gta v new video\nhulk franklin video\nbong gamer gta 5\nbengal yt gta 5\nmrxpart gta 5\nfranklin gta 5 video\nfranklin shinchan gta video\ngta 5 gameplay bangla\nfranklin er video\nshinchan franklin new episode\ngta 5 funny gameplay\nhulk video\nsuit upgrade video"
                 },
-                "defaultAudioLanguage": "en-US"
+                "defaultAudioLanguage": "bn-IN"
             },
             "statistics": {
-                "viewCount": "377912",
-                "likeCount": "21164",
+                "viewCount": "206754",
+                "likeCount": "1220",
                 "favoriteCount": "0",
-                "commentCount": "168"
+                "commentCount": "12"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TwNppuZWhBjUV8sESKAXbMS0qac",
-            "id": "ujtwJ2z7QrY",
+            "etag": "L9QrwvbBaiuPQ_jdGDuInlgvx6M",
+            "id": "SxeiYYJO8DE",
             "snippet": {
-                "publishedAt": "2026-10-02T11:31:55Z",
-                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                "title": "Kaho Na Kaho - 8K/4K Music Video | Emraan Hashmi, Mallika Sherawat | Amir Jamal | Anu Malik | Murder",
-                "description": "Relive the timeless romance of Kaho Na Kaho from Murder in stunning 8K/4K. \u2764\ufe0f\ud83c\udfb6 Featuring the soulful voice of Amir Jamal, this iconic melody composed by Anu Malik and penned by Sayeed Quadri brings back the unforgettable chemistry of Emraan Hashmi and Mallika Sherawat.\n\n#kahonakaho #murder #emraanhashmi #mallikasherawat #amirjamal #anumalik #sayeedquadri #8k #4k #8kmusicvideo #bollywoodsongs #hindisongs #romanticsongs #oldbollywoodsongs\n\nCredits:\nSong \u2013 Kaho Na Kaho\nMovie \u2013 Murder (2004)\nSinger \u2013 Amir Jamal\nMusic Composer \u2013 Anu Malik\nLyricist \u2013 Sayeed Quadri\nStarring \u2013 Emraan Hashmi & Mallika Sherawat\n\nLyrics:\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\n\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\ntamalli moaaan\nwalaaooo haa taaba idda\ninni fee albi hawaan\ntamalli b\u2019ali uffal di walaa bansaa\ntamalli waa hishmillah hataa banu wayyaa\n\n\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein tu hamaara hai\nAndhere raaston ka tu sitaara hai\n\n\nTamalli habibi mahta dilai\nI\u2019layya anayya bindaa \u2018ilai\nWilaha walayla kulli ku\nYakuniya habibi mahta dillai\n\nTu hi jine ka sahaara hai,\nmeri maujo ka kinaara hai\nMere liye yeh jahaan hai tu,\n\ntujhe mere dil ne pukaara hai\n\nKaho na kaho, yeh saansein\nbolati hai o sanam o sanam\nO mere sanam, labon pe\nnaam tere bas hamaara hai\nYeh tera dil bhi jaana hamaara hai\nKaho na kaho, yeh aankhein\nbolati hai o sanam o sanam\nO mere sanam, mohabbat ke\nsafar mein yeh sahaara hai\nWafa ki saahilon ka yeh kinaara hai\n\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\n\nAudio on Sony Music Entertainment India Pvt. Ltd (C) 2026\n\nSubscribe & Follow Sony Music India:\nhttps://www.youtube.com/@UC56gTxNs4f9xZ7Pa2i5xNzg \nhttps://www.facebook.com/SonyMusicIndia \nhttps://www.instagram.com/sonymusicindia\nhttps://www.snapchat.com/add/sonymusic_india\nhttps://twitter.com/sonymusicindia",
+                "publishedAt": "2026-10-07T14:52:34Z",
+                "channelId": "UCTNwxS7Cptx0J6tMPGGV9Dw",
+                "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
+                "description": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song | Romantic Song | Hindi Video Song | New Romantic Song | New Hindi Song 2026 | New Song 2026 Hindi | New Hindi Songs | Hindi Song | New Song Hindi | Hindi New Song | Romantic Song | Hindi Song New | Aryan Khan Songs | Aryan Khan New Song | Kriti Sanon Songs | Kriti Sanon New Song | Aryan Khan and Kriti Sanon | Romantic Hindi Song | Love Songs | Video Song | Romantic Songs | Hindi Song 2026 | Mohabbat Juda Ho Jaaye Song | Mohabbat Juda Ho Jaaye New Song | New Song\n\n#NewSong2026 #NewHindiSong #NewSong #RomanticSong #HindiVideoSong #NewRomanticSong #RomanticHindiSong #NewHindiSong2026 #NewSong2026Hindi #NewHindiSongs #HindiSong #SongNew #HindiNewSong #RomanticSongs #HindiSongNew #NewHindiSongs #HindiSongsNew #AryanKhan #AryanKhanSongs #AryanKhanNewSong #KritiSanon #KritiSanonSongs #KritiSanonNewSong #AryanKhanKritiSanon #NewRomanticSong #NewSongHindi #HindiSong2026 #LoveSongs #MohabbatJudaHoJaaye #MohabbatJudaHoJaayeSong #MohabbatJudaHoJaayeNewSong\n\nPresenting \"New Song 2026\" \u2014 Mohabbat Juda Ho Jaaye, Ft. Aryan Khan & Kriti Sanon, a New Hindi Song Sung/Composed by Gaurav Mali, Lyrics by Mahfuz Ali, and Music by Mahfuz Ali.\nA Romantic Song presented by 2Shade Entertainment Pvt Ltd\n\n\u25ba Subscribe Now: http://surl.li/eybwkz \ud83d\udd14 Stay updated!!\n\n\ud83c\udfa7 Song Credits:\nSong: Mohabbat Juda Ho Jaaye\nSinger/Composer: Gaurav Mali\nLyrics: Mahfuz Ali\nMusic: Mahfuz Ali\nMix/Master: Mahfuz Ali\nLabel: Gaurav Mali\nDigital Media Partner: Supernal Digital Media\nRecording Studio: Shree Raati Studio (Nathdwara)\n\nHindi Song,\nNew Song 2026,\nNew Hindi Song,\nNew Hindi Song 2026,\nHindi Song 2026,\nHindi New Song 2026,\nNew Song 2026 Hindi,\nHindi Video Song, Video Song Hindi, Video Song 2026\n\nIn this video, our purpose is to entertain people and make their lives enjoyable and happy.\n\nnew song,\nsong new,\nhindi song,\nnew song 2026,\nhindi song 2026,\nnew song 2026 hindi,\nnew hindi song 2026,\nromantic song,\nromantic song hindi,\naryan khan songs,\naryan khan new song,\nkriti sanon songs,\naryan khan kriti sanon\n\nnew song,hindi song,hindi songs,new songs,new song 2026,new song 2026 hindi,new hindi songs,romantic video song,hindi new song,romantic hindi songs,hindi song 2026 video,video song 2026,romantic song 2026,new hindi song 2026,new song 2026 hindi,hindi songs,hindi song new,romantic love song,hindi romantic song,new song hindi 2026,love song,love song hindi,bollywood songs,naye gaane,naye hindi gaane,\n\nFollow Me:\nInstagram: /gaurav_musicc.\nFacebook: /100070651383466\n\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SxeiYYJO8DE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    },
-                    "fhd": {
-                        "url": "https://i.ytimg.com/vi/ujtwJ2z7QrY/fhddefault.jpg",
-                        "width": 1920,
-                        "height": 1080
                     }
                 },
-                "channelTitle": "Sony Music India",
+                "channelTitle": "Gaurav Mali",
                 "tags": [
-                    "kaho na kaho",
-                    "kaho na kaho 8k",
-                    "kaho na kaho murder",
-                    "murder 2004",
-                    "emraan hashmi songs",
-                    "mallika sherawat songs",
-                    "amir jamal",
-                    "anu malik",
-                    "sayeed quadri",
-                    "kaho na kaho song",
-                    "kaho na kaho music video",
-                    "emraan hashmi mallika sherawat",
-                    "ye aankhen bolti hai",
-                    "o sanam o sanam",
-                    "wafa ke sahilo ka kinara hai",
-                    "Jazbon mein Apne utaara hai",
-                    "kaho na kaho emraan hashmi",
-                    "Tamalli habibi mahta dilai",
-                    "Kaho na kaho",
-                    "O mere sanam"
+                    "new song",
+                    "hindi song",
+                    "hindi songs",
+                    "new songs",
+                    "new song 2026",
+                    "new song 2026 hindi",
+                    "new hindi songs",
+                    "romantic video song",
+                    "hindi new song",
+                    "romantic hindi songs",
+                    "hindi song 2026 video",
+                    "video song 2026",
+                    "romantic song 2026",
+                    "new hindi song 2026",
+                    "hindi song new",
+                    "romantic love song",
+                    "hindi romantic song",
+                    "new song hindi 2026",
+                    "love song",
+                    "love song hindi",
+                    "bollywood songs",
+                    "naye gaane",
+                    "naye hindi gaane"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Kaho Na Kaho - 8K/4K Music Video | Emraan Hashmi, Mallika Sherawat | Amir Jamal | Anu Malik | Murder",
-                    "description": "Relive the timeless romance of Kaho Na Kaho from Murder in stunning 8K/4K. \u2764\ufe0f\ud83c\udfb6 Featuring the soulful voice of Amir Jamal, this iconic melody composed by Anu Malik and penned by Sayeed Quadri brings back the unforgettable chemistry of Emraan Hashmi and Mallika Sherawat.\n\n#kahonakaho #murder #emraanhashmi #mallikasherawat #amirjamal #anumalik #sayeedquadri #8k #4k #8kmusicvideo #bollywoodsongs #hindisongs #romanticsongs #oldbollywoodsongs\n\nCredits:\nSong \u2013 Kaho Na Kaho\nMovie \u2013 Murder (2004)\nSinger \u2013 Amir Jamal\nMusic Composer \u2013 Anu Malik\nLyricist \u2013 Sayeed Quadri\nStarring \u2013 Emraan Hashmi & Mallika Sherawat\n\nLyrics:\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein yeh sahaara hai\nVafa ke saahilon ka yeh kinaara hai\n\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\nBaadalon se oonchi uraanoon ki\nSab se alag pehechaanoon ki\nUse hai pyaar ki kahaani mansoob\nAati jaati saanson ki rawaani mansoob\n\ntamalli moaaan\nwalaaooo haa taaba idda\ninni fee albi hawaan\ntamalli b\u2019ali uffal di walaa bansaa\ntamalli waa hishmillah hataa banu wayyaa\n\n\nKaho na kaho yeh aankhen bolti hain\nO sanam o sanam, o mere sanam\nMohabbat ke safar mein tu hamaara hai\nAndhere raaston ka tu sitaara hai\n\n\nTamalli habibi mahta dilai\nI\u2019layya anayya bindaa \u2018ilai\nWilaha walayla kulli ku\nYakuniya habibi mahta dillai\n\nTu hi jine ka sahaara hai,\nmeri maujo ka kinaara hai\nMere liye yeh jahaan hai tu,\n\ntujhe mere dil ne pukaara hai\n\nKaho na kaho, yeh saansein\nbolati hai o sanam o sanam\nO mere sanam, labon pe\nnaam tere bas hamaara hai\nYeh tera dil bhi jaana hamaara hai\nKaho na kaho, yeh aankhein\nbolati hai o sanam o sanam\nO mere sanam, mohabbat ke\nsafar mein yeh sahaara hai\nWafa ki saahilon ka yeh kinaara hai\n\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\nKhwaabon mein tujhko sanwaara hai\nJazbon mein apne utaara hai\nMeri yeh aankhen jidhar dekhe\nTera hi chehra nazaara hai\n\n\nAudio on Sony Music Entertainment India Pvt. Ltd (C) 2026\n\nSubscribe & Follow Sony Music India:\nhttps://www.youtube.com/@UC56gTxNs4f9xZ7Pa2i5xNzg \nhttps://www.facebook.com/SonyMusicIndia \nhttps://www.instagram.com/sonymusicindia\nhttps://www.snapchat.com/add/sonymusic_india\nhttps://twitter.com/sonymusicindia"
+                    "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
+                    "description": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song | Romantic Song | Hindi Video Song | New Romantic Song | New Hindi Song 2026 | New Song 2026 Hindi | New Hindi Songs | Hindi Song | New Song Hindi | Hindi New Song | Romantic Song | Hindi Song New | Aryan Khan Songs | Aryan Khan New Song | Kriti Sanon Songs | Kriti Sanon New Song | Aryan Khan and Kriti Sanon | Romantic Hindi Song | Love Songs | Video Song | Romantic Songs | Hindi Song 2026 | Mohabbat Juda Ho Jaaye Song | Mohabbat Juda Ho Jaaye New Song | New Song\n\n#NewSong2026 #NewHindiSong #NewSong #RomanticSong #HindiVideoSong #NewRomanticSong #RomanticHindiSong #NewHindiSong2026 #NewSong2026Hindi #NewHindiSongs #HindiSong #SongNew #HindiNewSong #RomanticSongs #HindiSongNew #NewHindiSongs #HindiSongsNew #AryanKhan #AryanKhanSongs #AryanKhanNewSong #KritiSanon #KritiSanonSongs #KritiSanonNewSong #AryanKhanKritiSanon #NewRomanticSong #NewSongHindi #HindiSong2026 #LoveSongs #MohabbatJudaHoJaaye #MohabbatJudaHoJaayeSong #MohabbatJudaHoJaayeNewSong\n\nPresenting \"New Song 2026\" \u2014 Mohabbat Juda Ho Jaaye, Ft. Aryan Khan & Kriti Sanon, a New Hindi Song Sung/Composed by Gaurav Mali, Lyrics by Mahfuz Ali, and Music by Mahfuz Ali.\nA Romantic Song presented by 2Shade Entertainment Pvt Ltd\n\n\u25ba Subscribe Now: http://surl.li/eybwkz \ud83d\udd14 Stay updated!!\n\n\ud83c\udfa7 Song Credits:\nSong: Mohabbat Juda Ho Jaaye\nSinger/Composer: Gaurav Mali\nLyrics: Mahfuz Ali\nMusic: Mahfuz Ali\nMix/Master: Mahfuz Ali\nLabel: Gaurav Mali\nDigital Media Partner: Supernal Digital Media\nRecording Studio: Shree Raati Studio (Nathdwara)\n\nHindi Song,\nNew Song 2026,\nNew Hindi Song,\nNew Hindi Song 2026,\nHindi Song 2026,\nHindi New Song 2026,\nNew Song 2026 Hindi,\nHindi Video Song, Video Song Hindi, Video Song 2026\n\nIn this video, our purpose is to entertain people and make their lives enjoyable and happy.\n\nnew song,\nsong new,\nhindi song,\nnew song 2026,\nhindi song 2026,\nnew song 2026 hindi,\nnew hindi song 2026,\nromantic song,\nromantic song hindi,\naryan khan songs,\naryan khan new song,\nkriti sanon songs,\naryan khan kriti sanon\n\nnew song,hindi song,hindi songs,new songs,new song 2026,new song 2026 hindi,new hindi songs,romantic video song,hindi new song,romantic hindi songs,hindi song 2026 video,video song 2026,romantic song 2026,new hindi song 2026,new song 2026 hindi,hindi songs,hindi song new,romantic love song,hindi romantic song,new song hindi 2026,love song,love song hindi,bollywood songs,naye gaane,naye hindi gaane,\n\nFollow Me:\nInstagram: /gaurav_musicc.\nFacebook: /100070651383466\n\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song\nNew Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song"
                 },
-                "defaultAudioLanguage": "en"
+                "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "4270385",
-                "likeCount": "21042",
+                "viewCount": "1624256",
+                "likeCount": "3818",
                 "favoriteCount": "0",
-                "commentCount": "264"
+                "commentCount": "61"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "gudewJbexNbhuk6v3zbeMYeChrk",
+            "etag": "ptZl-BSymcnBfkylmg90xb2n4SQ",
             "id": "VtKfz_jYpCw",
             "snippet": {
                 "publishedAt": "2026-10-05T15:22:26Z",
@@ -1530,15 +1556,15 @@
                 "defaultAudioLanguage": "zxx"
             },
             "statistics": {
-                "viewCount": "1058631",
-                "likeCount": "22659",
+                "viewCount": "1059643",
+                "likeCount": "22672",
                 "favoriteCount": "0",
                 "commentCount": "888"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Hlh5rNlqJkH-aLihx6Xp_ENt7hI",
+            "etag": "Ws8iWY7_Yg8F5rWLmwk1gltg4Mw",
             "id": "YGc2UU7RZzI",
             "snippet": {
                 "publishedAt": "2026-10-08T03:48:11Z",
@@ -1583,7 +1609,7 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "305752",
+                "viewCount": "307154",
                 "likeCount": "900",
                 "favoriteCount": "0",
                 "commentCount": "30"
@@ -1591,7 +1617,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "VrDAGWoCGKYwh9WdjP3LFJOPTJo",
+            "etag": "CGrIT0zniCgtDxDV1fx1sTswI9I",
             "id": "L6vCkil_sPQ",
             "snippet": {
                 "publishedAt": "2026-10-04T11:00:18Z",
@@ -1666,15 +1692,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "215053",
-                "likeCount": "1976",
+                "viewCount": "217495",
+                "likeCount": "1991",
                 "favoriteCount": "0",
-                "commentCount": "104"
+                "commentCount": "106"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xUcspiDwCcLX8CTlz393lkoCJ3g",
+            "etag": "YNOzdy02Hfdi29wsqbsail5yE-Y",
             "id": "Mb6c-2Fhlak",
             "snippet": {
                 "publishedAt": "2026-10-07T14:50:38Z",
@@ -1745,99 +1771,73 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "447472",
-                "likeCount": "2819",
+                "viewCount": "456902",
+                "likeCount": "2889",
                 "favoriteCount": "0",
-                "commentCount": "102"
+                "commentCount": "107"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OGWdzZBKTuysAT6YvrxBPVMxf0w",
-            "id": "5ctJcUFlID0",
+            "etag": "_wSSgtssUmlXtr6JOvHnYuTbavo",
+            "id": "grA9MKX2SDY",
             "snippet": {
-                "publishedAt": "2026-10-09T07:30:13Z",
-                "channelId": "UCSY1FIWnpjS35mWBUHq2r2A",
-                "title": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5",
-                "description": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb SUPER MYSTERY CONTAINERS ! GTA\n#sokhergamer #gta #gtav #banglagaming #gamerbhai \n\nThis Video is only entertainment purpose only.\n\nLike aim :- 100\n\n\n\n\n\n\n\nfranklin shinchan in bengali\nsokher gamer \nmr reo gta 5\nfrank shinchan new gta v\ntechno gamer new video\nfranklin shinchan upgrade venom\nfrankiln bangla cartoon\nvalo valo franklin video\nshinchan er bangla video gta \nlion upgrade gta 5\nhati upgrade video\ntiger upgrade gta 5\nanimals upgrade gta 5\ngamer bhai gta 5\nindian bike driving 3d new cheat codes\nfranklin clinton cartoon\nindian driving 3d game\ngta 5 ramp challenge indian car\nupgrading hulk to god hulk in gta 5\nspider- man wala spider-man wala\nfranklin shinchan picture video\nfranklin shinchan challenge video\nspiderman vs hulk gta 5 cars\ngta 5 bangla gameplay\nfranklin cartoon bengali\nfranklin gta v new video\nhulk franklin video\nbong gamer gta 5\nbengal yt gta 5\nmrxpart gta 5\nfranklin gta 5 video\nfranklin shinchan gta video\ngta 5 gameplay bangla\nfranklin er video\nshinchan franklin new episode\ngta 5 funny gameplay\nhulk video\nsuit upgrade video",
+                "publishedAt": "2026-10-08T13:45:32Z",
+                "channelId": "UC6YjmRsUNgra_WHA9rFlGCw",
+                "title": "DECIDING DAY OF TOP18 FFBPL S4 \ud83d\udd34LIVE",
+                "description": "FOR DAILY LIVE VISIT \ud83d\udc47 \n@FREAK22PLUS \n\nmail: businesswithfreak22@gmail.com \n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf10 CONNECT WITH FREAK 22\nStay connected across all platforms\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcfa Main YouTube Channel\n\ud83d\udd17 https://tinyurl.com/bkbdw8uz\n\n\ud83c\udfac Second YouTube Channel\n\ud83d\udd17 https://tinyurl.com/5xm93spj\n\n\ud83d\udcd8 Facebook Page\n\ud83d\udd17 https://tinyurl.com/y9r74zst\n\n\ud83d\udc64 Personal Facebook Account\n\ud83d\udd17 https://tinyurl.com/3f3m3dsn\n\n\ud83d\udc65 Facebook Community Group\n\ud83d\udd17 https://tinyurl.com/44r7wr5m\n\n\ud83d\udcf8 Instagram\n\ud83d\udd17 https://tinyurl.com/367mywps\n\n\ud83c\udfae Discord Channel \n\ud83d\udd17 https://tinyurl.com/en3cfeyj\n\n\ud83c\udfb5 TikTok 1\n\ud83d\udd17 https://tinyurl.com/22ase6sh\n\n\ud83c\udfb6 TikTok 2\n\ud83d\udd17 https://tinyurl.com/jsbh8aeb\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2b50 Join the Freak 22 Community\n\u2764\ufe0f Subscribe \u2022 \ud83d\udc4d Like \u2022 \ud83d\udcac Comment \u2022 \ud83d\udd14 Turn On Notifications\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n #FFBPLS4 #FFBPL #FreeFire\n\u09b6\u09c1\u09b0\u09c1 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 FFBPL S4-\u098f\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09b2\u09dc\u09be\u0987!\n\n\u09ed\u09e8\u099f\u09bf \u099f\u09bf\u09ae, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b2\u09c0\u0997 \u09b8\u09cd\u099f\u09c7\u099c\u09c7 \u09b8\u09cd\u09b2\u099f \u09ae\u09be\u09a4\u09cd\u09b0 \u09e8\u09ea\u099f\u09bf\u0964 \u0995\u09be\u09b0\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7 \u09a8\u09bf\u099c\u09c7\u09a6\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be? \ud83d\udc40\n\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ab\u09be\u0987\u099f \u098f\u0995\u099f\u09be \u09b8\u09cd\u099f\u09c7\u099f\u09ae\u09c7\u09a8\u09cd\u099f\u0964\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09bf\u09ae\u09c7\u09b0 \u09b2\u0995\u09cd\u09b7\u09cd\u09af \u098f\u0995\u099f\u09be\u0987\u2014\u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u0964\n\n\u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2 \u098f\u09a4 \u09b8\u09b9\u099c \u09a8\u09df\u0964\n\n\nFight or Bye. \ud83d\udd25\n\n#FFBPLS4 #FFBPL #FreeFire #FreeFireEsportsBD\n\n#ffwsbd2026fall  #FFWSBDFALL #FFWSBD #FFWS #FFWSBDCoStreamer\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n#FreeFire #EWC2026 #EWCFreeFire2026\n #FreeFire #EWC2026 #EWCFreeFire2026\n#TEC #BDTOP1 #RHKLIVE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n....\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n\n\u0986\u09aa\u09a8\u09bf \u0995\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09ab\u09c7\u09ad\u09be\u09b0\u09bf\u099f \u099f\u09bf\u09ae\u0995\u09c7 \u099a\u09bf\u09df\u09be\u09b0 \u0995\u09b0\u09a4\u09c7 \u09b0\u09c7\u09a1\u09bf?  #FFBPLS3 #FFBPL #FFBPLLIVE #FreeFire\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#FFBPL #proleague #FFRC \n\n#FFMAI #FFM #FFESPORTS \n\n\n\n #FFWSGF2025 #FFWS2025 #FREEFIRE   #tournamenthighlightsfreefire #esportsbangladesh #JBFREAK22 #RHKLIVE #RCLIVE #RHKTOURNAMENT LIVE \n#roadtoglory \n#ffbc2025 \n#roadtoglory #roadtoglorylive freefirebangladesh official \n#freefirelivesteam #livesteam #blackfridaylive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u0993 \u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u0987\u09b8\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09b8 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b2\u09be\u0987\u09ad \u098f\u09ac\u0982 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b9\u09be\u0987\u09b2\u09be\u0987\u099f\u09b8 \u2014 \u09aa\u09cd\u09b0\u09cb \u09b2\u09c7\u09ad\u09c7\u09b2\u09c7\u09b0 \u0997\u09c7\u09ae\u09aa\u09cd\u09b2\u09c7, \u0995\u09cd\u09b2\u09be\u099a \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4 \u098f\u09ac\u0982 \u0995\u09ae\u09cd\u09aa\u09c7\u099f\u09bf\u099f\u09bf\u09ad \u09af\u09c1\u09a6\u09cd\u09a7\u0964 Free Fire & Free Fire Max esports tournament live stream with intense highlights, insane plays, and pro-level action. \u0e01\u0e32\u0e23\u0e41\u0e02\u0e48\u0e07\u0e02\u0e31\u0e19 Free Fire \u0e41\u0e1a\u0e1a\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e14\u0e41\u0e25\u0e30\u0e44\u0e2e\u0e44\u0e25\u0e15\u0e4c\u0e2a\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e1b\u0e23. Live turnamen Free Fire dan highlight paling seru dari para pro player. Highlights e transmiss\u00e3o ao vivo do torneio de Free Fire com jogadas insanas. Torneo de Free Fire en vivo con las mejores jugadas \u00e9picas. \u0628\u062b \u0645\u0628\u0627\u0634\u0631 \u0648\u0645\u0644\u062e\u0635\u0627\u062a \u0628\u0637\u0648\u0644\u0629 \u0641\u0631\u064a \u0641\u0627\u064a\u0631 \u0645\u0639 \u0623\u0642\u0648\u0649 \u0627\u0644\u0644\u0642\u0637\u0627\u062a \u0648\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629. Gi\u1ea3i \u0111\u1ea5u Free Fire tr\u1ef1c ti\u1ebfp c\u00f9ng highlight \u0111\u1eb7c s\u1eafc t\u1eeb tuy\u1ec3n th\u1ee7 chuy\u00ean nghi\u1ec7p.\n\n\n#freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp \n\n\n#ftiktok \n\nestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tikttiktok e\n#earnmoneyonline #earnmoneyfromtournaments #freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp #skylord #skylordlive #wassimos #wassimostv #zikuvaiff #zikuviofficial \n#freefirestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tiktoktrending",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     },
                     "fhd": {
-                        "url": "https://i.ytimg.com/vi/5ctJcUFlID0/fhddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/grA9MKX2SDY/fhddefault.jpg",
                         "width": 1920,
                         "height": 1080
                     }
                 },
-                "channelTitle": "GTA PLAYER",
-                "tags": [
-                    "gta 5 gameplay bangla",
-                    "franklin video bangla",
-                    "hulk franklin video",
-                    "hulk er video",
-                    "franklin suit upgrade",
-                    "gta 5",
-                    "sokher gamer",
-                    "mr reo gta 5",
-                    "gamer bhai gta 5",
-                    "fraklin shinchan gameplay",
-                    "franklin er video",
-                    "avenger gta 5 franklin",
-                    "hulk video",
-                    "shinchan franklin gta",
-                    "franklin cartoon",
-                    "franklin make new car",
-                    "lion upgrade gta 5",
-                    "lion gta 5",
-                    "ghost ride upgrade",
-                    "franklin poor to rich in gta 5",
-                    "franklin bengali cartoon",
-                    "franklin video",
-                    "shinchan video",
-                    "techno gamer new video"
-                ],
+                "channelTitle": "JB FREAK 22",
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "bn",
                 "localized": {
-                    "title": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5",
-                    "description": "FRANKLIN OPEN \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA 5\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb \u0985\u09a6\u09cd\u09ad\u09c1\u09a4 \u09b8\u09ac MYSTERY CONTAINERS ! GTA\nFRANKLIN \u0996\u09c1\u09b2\u09b2\u09cb \u0995\u09b0\u09b2\u09cb SUPER MYSTERY CONTAINERS ! GTA\n#sokhergamer #gta #gtav #banglagaming #gamerbhai \n\nThis Video is only entertainment purpose only.\n\nLike aim :- 100\n\n\n\n\n\n\n\nfranklin shinchan in bengali\nsokher gamer \nmr reo gta 5\nfrank shinchan new gta v\ntechno gamer new video\nfranklin shinchan upgrade venom\nfrankiln bangla cartoon\nvalo valo franklin video\nshinchan er bangla video gta \nlion upgrade gta 5\nhati upgrade video\ntiger upgrade gta 5\nanimals upgrade gta 5\ngamer bhai gta 5\nindian bike driving 3d new cheat codes\nfranklin clinton cartoon\nindian driving 3d game\ngta 5 ramp challenge indian car\nupgrading hulk to god hulk in gta 5\nspider- man wala spider-man wala\nfranklin shinchan picture video\nfranklin shinchan challenge video\nspiderman vs hulk gta 5 cars\ngta 5 bangla gameplay\nfranklin cartoon bengali\nfranklin gta v new video\nhulk franklin video\nbong gamer gta 5\nbengal yt gta 5\nmrxpart gta 5\nfranklin gta 5 video\nfranklin shinchan gta video\ngta 5 gameplay bangla\nfranklin er video\nshinchan franklin new episode\ngta 5 funny gameplay\nhulk video\nsuit upgrade video"
+                    "title": "DECIDING DAY OF TOP18 FFBPL S4 \ud83d\udd34LIVE",
+                    "description": "FOR DAILY LIVE VISIT \ud83d\udc47 \n@FREAK22PLUS \n\nmail: businesswithfreak22@gmail.com \n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf10 CONNECT WITH FREAK 22\nStay connected across all platforms\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcfa Main YouTube Channel\n\ud83d\udd17 https://tinyurl.com/bkbdw8uz\n\n\ud83c\udfac Second YouTube Channel\n\ud83d\udd17 https://tinyurl.com/5xm93spj\n\n\ud83d\udcd8 Facebook Page\n\ud83d\udd17 https://tinyurl.com/y9r74zst\n\n\ud83d\udc64 Personal Facebook Account\n\ud83d\udd17 https://tinyurl.com/3f3m3dsn\n\n\ud83d\udc65 Facebook Community Group\n\ud83d\udd17 https://tinyurl.com/44r7wr5m\n\n\ud83d\udcf8 Instagram\n\ud83d\udd17 https://tinyurl.com/367mywps\n\n\ud83c\udfae Discord Channel \n\ud83d\udd17 https://tinyurl.com/en3cfeyj\n\n\ud83c\udfb5 TikTok 1\n\ud83d\udd17 https://tinyurl.com/22ase6sh\n\n\ud83c\udfb6 TikTok 2\n\ud83d\udd17 https://tinyurl.com/jsbh8aeb\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2b50 Join the Freak 22 Community\n\u2764\ufe0f Subscribe \u2022 \ud83d\udc4d Like \u2022 \ud83d\udcac Comment \u2022 \ud83d\udd14 Turn On Notifications\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n #FFBPLS4 #FFBPL #FreeFire\n\u09b6\u09c1\u09b0\u09c1 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 FFBPL S4-\u098f\u09b0 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09b2\u09dc\u09be\u0987!\n\n\u09ed\u09e8\u099f\u09bf \u099f\u09bf\u09ae, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b2\u09c0\u0997 \u09b8\u09cd\u099f\u09c7\u099c\u09c7 \u09b8\u09cd\u09b2\u099f \u09ae\u09be\u09a4\u09cd\u09b0 \u09e8\u09ea\u099f\u09bf\u0964 \u0995\u09be\u09b0\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7 \u09a8\u09bf\u099c\u09c7\u09a6\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be? \ud83d\udc40\n\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ab\u09be\u0987\u099f \u098f\u0995\u099f\u09be \u09b8\u09cd\u099f\u09c7\u099f\u09ae\u09c7\u09a8\u09cd\u099f\u0964\n\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09bf\u09ae\u09c7\u09b0 \u09b2\u0995\u09cd\u09b7\u09cd\u09af \u098f\u0995\u099f\u09be\u0987\u2014\u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u0964\n\n\u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2 \u098f\u09a4 \u09b8\u09b9\u099c \u09a8\u09df\u0964\n\n\nFight or Bye. \ud83d\udd25\n\n#FFBPLS4 #FFBPL #FreeFire #FreeFireEsportsBD\n\n#ffwsbd2026fall  #FFWSBDFALL #FFWSBD #FFWS #FFWSBDCoStreamer\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n#FreeFire #EWC2026 #EWCFreeFire2026\n #FreeFire #EWC2026 #EWCFreeFire2026\n#TEC #BDTOP1 #RHKLIVE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n....\n\n #FFBPLS3 #FFBPL #FFBPLLIVE\nFFBPL S3 \u0997\u09cd\u09b0\u09c1\u09aa \u09b8\u09cd\u099f\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u09c7\u0987 \u099c\u09ae\u09c7 \u0989\u09a0\u099b\u09c7 \u09b2\u09dc\u09be\u0987 \ud83d\udd25 \u09b8\u09ac\u0997\u09c1\u09b2\u09cb \u099f\u09bf\u09ae \u09a8\u09be\u09ae\u099b\u09c7 \u09ac\u09cd\u09af\u09be\u099f\u09c7\u09b2\u09c7, \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09a6\u09bf\u09a8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u099f\u09aa \u099f\u09bf\u09ae\u0987 \u098f\u0997\u09bf\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b0\u09be\u0989\u09a8\u09cd\u09a1\u09c7\u2014\u09ac\u09be\u0995\u09bf\u09a6\u09c7\u09b0 \u098f\u0996\u09be\u09a8\u09c7\u0987 \u09ac\u09bf\u09a6\u09be\u09df\u0964  \n\n\u0986\u09aa\u09a8\u09bf \u0995\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09ab\u09c7\u09ad\u09be\u09b0\u09bf\u099f \u099f\u09bf\u09ae\u0995\u09c7 \u099a\u09bf\u09df\u09be\u09b0 \u0995\u09b0\u09a4\u09c7 \u09b0\u09c7\u09a1\u09bf?  #FFBPLS3 #FFBPL #FFBPLLIVE #FreeFire\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#FFBPL #proleague #FFRC \n\n#FFMAI #FFM #FFESPORTS \n\n\n\n #FFWSGF2025 #FFWS2025 #FREEFIRE   #tournamenthighlightsfreefire #esportsbangladesh #JBFREAK22 #RHKLIVE #RCLIVE #RHKTOURNAMENT LIVE \n#roadtoglory \n#ffbc2025 \n#roadtoglory #roadtoglorylive freefirebangladesh official \n#freefirelivesteam #livesteam #blackfridaylive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u0993 \u09ab\u09cd\u09b0\u09bf \u09ab\u09be\u09af\u09bc\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u0987\u09b8\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09b8 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b2\u09be\u0987\u09ad \u098f\u09ac\u0982 \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f \u09b9\u09be\u0987\u09b2\u09be\u0987\u099f\u09b8 \u2014 \u09aa\u09cd\u09b0\u09cb \u09b2\u09c7\u09ad\u09c7\u09b2\u09c7\u09b0 \u0997\u09c7\u09ae\u09aa\u09cd\u09b2\u09c7, \u0995\u09cd\u09b2\u09be\u099a \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4 \u098f\u09ac\u0982 \u0995\u09ae\u09cd\u09aa\u09c7\u099f\u09bf\u099f\u09bf\u09ad \u09af\u09c1\u09a6\u09cd\u09a7\u0964 Free Fire & Free Fire Max esports tournament live stream with intense highlights, insane plays, and pro-level action. \u0e01\u0e32\u0e23\u0e41\u0e02\u0e48\u0e07\u0e02\u0e31\u0e19 Free Fire \u0e41\u0e1a\u0e1a\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e14\u0e41\u0e25\u0e30\u0e44\u0e2e\u0e44\u0e25\u0e15\u0e4c\u0e2a\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e1b\u0e23. Live turnamen Free Fire dan highlight paling seru dari para pro player. Highlights e transmiss\u00e3o ao vivo do torneio de Free Fire com jogadas insanas. Torneo de Free Fire en vivo con las mejores jugadas \u00e9picas. \u0628\u062b \u0645\u0628\u0627\u0634\u0631 \u0648\u0645\u0644\u062e\u0635\u0627\u062a \u0628\u0637\u0648\u0644\u0629 \u0641\u0631\u064a \u0641\u0627\u064a\u0631 \u0645\u0639 \u0623\u0642\u0648\u0649 \u0627\u0644\u0644\u0642\u0637\u0627\u062a \u0648\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629. Gi\u1ea3i \u0111\u1ea5u Free Fire tr\u1ef1c ti\u1ebfp c\u00f9ng highlight \u0111\u1eb7c s\u1eafc t\u1eeb tuy\u1ec3n th\u1ee7 chuy\u00ean nghi\u1ec7p.\n\n\n#freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp \n\n\n#ftiktok \n\nestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tikttiktok e\n#earnmoneyonline #earnmoneyfromtournaments #freefire #freefirebrasil #freefireindonesia #freefiregame #garenafreefire #freefirebooyah #garena #pubg #freefirememes #freefirememe #freefirekocak #ff #freefireindo #freefiregarena #freefirebattleground #freefireshare #pubgmobile #booyah #freefirenews #freefiresquad #game #gamer #freefirevideo #freefirebgid #freefirelatam #loud #freefirelucu #freefiregames #mobilelegends #bhfyp #skylord #skylordlive #wassimos #wassimostv #zikuvaiff #zikuviofficial \n#freefirestudio #gaming #games #free #freefirewtf #elgato #freefirehack #garenabrasil #fortnite #losgrandes #freefiregirls #like #freefireid #gamers #loudgg #memes #freefiregokil #freefirebr #b #follow #mobile #freefireparody #freefirebrazil #garenafreefireindonesia #followforfollowback #garenaff #garenaoficial #likeforlikes #nobrutv #tiktoktrending"
                 },
-                "defaultAudioLanguage": "bn-IN"
+                "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "202350",
-                "likeCount": "1194",
+                "viewCount": "378057",
+                "likeCount": "21166",
                 "favoriteCount": "0",
-                "commentCount": "12"
+                "commentCount": "168"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "fi9Nm8wubPWLoN78y018XCWYnTo",
+            "etag": "CMWLZeeFLYZTtwN6iUgJMKeKohk",
             "id": "uDBtohZh8_I",
             "snippet": {
                 "publishedAt": "2026-10-07T10:04:12Z",
@@ -1886,15 +1886,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "391643",
-                "likeCount": "380",
+                "viewCount": "393652",
+                "likeCount": "381",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PNthPfgmBHv1HI0AkEYm3bIR-g8",
+            "etag": "oK2pefgv5YG_LxV4mybSh76MuJw",
             "id": "6ciqviu4-zI",
             "snippet": {
                 "publishedAt": "2026-10-05T14:45:10Z",
@@ -1944,15 +1944,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "1045295",
-                "likeCount": "23514",
+                "viewCount": "1045942",
+                "likeCount": "23519",
                 "favoriteCount": "0",
                 "commentCount": "726"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "O9cHW-KpZEnnddlbZhNOeBlbi1M",
+            "etag": "5mKoEtq41e0Bvjjth9sIqWp8S8I",
             "id": "vK8LjzBaSMc",
             "snippet": {
                 "publishedAt": "2026-10-07T13:21:09Z",
@@ -2014,15 +2014,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "462164",
-                "likeCount": "28395",
+                "viewCount": "462269",
+                "likeCount": "28397",
                 "favoriteCount": "0",
                 "commentCount": "472"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Mkm4grd-U_H6eUFe1djjwvAz9Ts",
+            "etag": "q8XYFKua__My4t75qRlurF3rKkQ",
             "id": "14FqRU2vaOY",
             "snippet": {
                 "publishedAt": "2026-09-25T06:20:37Z",
@@ -2092,15 +2092,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "2248419",
-                "likeCount": "6394",
+                "viewCount": "2252919",
+                "likeCount": "6414",
                 "favoriteCount": "0",
-                "commentCount": "37"
+                "commentCount": "38"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9iGxa5q2TpjrkTOtPeHc0I1nTTM",
+            "etag": "CXM_AhJEMv6UAUX1q-gjzM6J80c",
             "id": "w25FXjNrR-4",
             "snippet": {
                 "publishedAt": "2026-10-01T14:00:09Z",
@@ -2170,15 +2170,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "983412",
-                "likeCount": "4425",
+                "viewCount": "984973",
+                "likeCount": "4437",
                 "favoriteCount": "0",
                 "commentCount": "160"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qGxAXW4UFPNpPdR6He18BspEAig",
+            "etag": "wDxHUL1fAOlmdOBTFZQT4GqN2S0",
             "id": "KtGjQEvUYr8",
             "snippet": {
                 "publishedAt": "2026-10-08T05:30:07Z",
@@ -2250,14 +2250,14 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "219039",
+                "viewCount": "220141",
                 "favoriteCount": "0",
                 "commentCount": "69"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sMxshVi4Bwu2bbrxOOnejBM-Chs",
+            "etag": "9cPlNqc9S-SU4o3TIdcmCBoIgic",
             "id": "u9MpnqWC6Xg",
             "snippet": {
                 "publishedAt": "2026-09-23T05:41:13Z",
@@ -2323,15 +2323,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "82883863",
-                "likeCount": "298913",
+                "viewCount": "83264929",
+                "likeCount": "298991",
                 "favoriteCount": "0",
-                "commentCount": "23589"
+                "commentCount": "23605"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GqP1YvmFrDclp48XvdIIyAxNSG4",
+            "etag": "K9bVTRMWJFhsG93ltcml99rkJ4Y",
             "id": "-aWFT_iXTZI",
             "snippet": {
                 "publishedAt": "2026-10-06T04:45:32Z",
@@ -2405,15 +2405,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "358160",
-                "likeCount": "2274",
+                "viewCount": "359753",
+                "likeCount": "2279",
                 "favoriteCount": "0",
                 "commentCount": "133"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QCDkzK-Zg9uxDdUVNdf71PG6Fqg",
+            "etag": "6YSmvv3veF5ii_e0Pi2DUPubJqk",
             "id": "K5I8iKQ_Au0",
             "snippet": {
                 "publishedAt": "2026-09-28T13:41:38Z",
@@ -2466,15 +2466,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "413242",
-                "likeCount": "1729",
+                "viewCount": "414071",
+                "likeCount": "1735",
                 "favoriteCount": "0",
                 "commentCount": "23"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "H8MiNuM6SLhstYKMYcsnB0tCPrk",
+            "etag": "e78JETpOdepnCW6gv3RdbGdk3c8",
             "id": "48SRmnsz1Cc",
             "snippet": {
                 "publishedAt": "2026-10-08T15:05:47Z",
@@ -2523,15 +2523,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "954188",
-                "likeCount": "8724",
+                "viewCount": "954758",
+                "likeCount": "8727",
                 "favoriteCount": "0",
                 "commentCount": "105"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mX7jX-6C6oP2-BRmrcB-7W17xL8",
+            "etag": "jifndw11stGCLvueQgDNl8Z4aio",
             "id": "7sC1VDm4f-o",
             "snippet": {
                 "publishedAt": "2026-10-08T10:04:47Z",
@@ -2581,15 +2581,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "68687",
-                "likeCount": "65",
+                "viewCount": "68829",
+                "likeCount": "66",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ARcEHIlrvaOiG94YKUStRyx_FSM",
+            "etag": "VlxSsTshG8NXMtoWKF79RFJuiJI",
             "id": "nDPmhEllECA",
             "snippet": {
                 "publishedAt": "2026-10-08T12:49:21Z",
@@ -2649,95 +2649,97 @@
                 "defaultAudioLanguage": "en-IN"
             },
             "statistics": {
-                "viewCount": "1941313",
-                "likeCount": "37660",
+                "viewCount": "1957715",
+                "likeCount": "37868",
                 "favoriteCount": "0",
-                "commentCount": "3079"
+                "commentCount": "3112"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "xlet7tdWJ3dyNVT3RkOHkU2lZwc",
-            "id": "Z9UMoi4Am1w",
+            "etag": "C97qnE90gNeEgeRPmk36ziVoito",
+            "id": "D_J4cGrygxg",
             "snippet": {
-                "publishedAt": "2026-09-28T08:40:07Z",
+                "publishedAt": "2026-10-08T14:39:46Z",
                 "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "Endless Love - Chillout Mashup | Arijit Singh | Lo-fi 2307 | Latest Trending Mashup",
-                "description": "\u201cSome love stories never end\u2026 they simply turn into melodies.\u201d \u2764\ufe0f\ud83c\udfb6\n\nA soulful journey through love, memories, and emotions. \ud83c\udf19\ud83d\udcab\n\n\ud83c\udfa7 Put on your headphones and let the music take you somewhere beautiful.\nIf this mashup touches your heart, don\u2019t forget to **Like, Share & Subscribe**. \u2764\ufe0f\n\n#EndlessLove #LoveMashup #HindiMashup #BollywoodMashup #RomanticMashup #SoulfulMashup #Dil #SunoNaSangemarmar #KabhiJoBaadal\n\n\n*DON'T REUPLOAD - OTHERWISE YOU WILL GET COPYRIGHT STRIKE\u26a0\ufe0f*\n\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCh7aocZezr9gnY0uh0uONVA/join\n\nMusic - Lo-fi 2307\nVideo - Lio Music Official\n\n\nHello!\nStep into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a soulful mashup that will take you on a nostalgic journey while keeping your heart relaxed and your mind at ease.\n\nPerfect for unwinding, studying, or just vibing with your favorite tunes, this mashup is crafted with love and passion for all music lovers out there. \ud83c\udf1f\n\nHit play, sit back, and let the music transport you to a realm of pure bliss. Don\u2019t forget to like, comment, and subscribe to join our ever-growing lo-fi family! \ud83d\udc9c\n\nLet\u2019s vibe together. \ud83c\udf19\u2728\n\n\u00a0\nDownload/Stream:\n\nSpotify : https://open.spotify.com/track/7ptuP2kI6EqewK4gkOnlEd?si=4a9988cd88764d5f\n\nFor Music Production /Ghost Production Contact Us :lofi2307team@gmail.com\n\nEnjoy the Latest Trending Mashup By @lofi2307\n\nEk Mulaqat X Barbaad - https://youtu.be/Un91UKYlr6g\nMain Dhoondne X Bhula Dena - https://youtu.be/FlSzbD3OPt4\nDillagi X Teri Meri - https://youtu.be/ysZgy3YGgR8\nTumhi Aana X Chale Jana Phir - https://youtu.be/DglU8q6vDY4\nISHQ X Chal Ghar Chalein - https://youtu.be/wfp6O5QACn4\nSajde X Saiyaara - https://youtu.be/1W3eNtYk-w4\nDhun X Janiye - https://youtu.be/l1KVkVaN_CY\nKabhi Jo Badal X Tujhe Bhula Diya - https://youtu.be/NBDhwZDXe2g\nAttention X Manjha - https://youtu.be/K7lGFEIuuG8\nAasa Kooda X Nainowale - https://youtu.be/2y03GckZm20\nSoulmate X Ve Kameya - https://youtu.be/vvMtGxCVgXs\nHum jee Lenge X Piya Aaye Na - https://youtu.be/3v--wDojZ4Q\nAP Dhillon Mashup 2022 - Vol.01 - https://youtu.be/hMtDHODun4I\nAP Dhillon Mashup 2023 - Vol.02 - https://youtu.be/PwJgRgcKiec\nPunjabi Takeover Mahsup - https://youtu.be/k4MA2baCKBU\nDil x Pal Pal Mashup - https://youtu.be/ru1RfZTURxI\nSada Pyaar x Saajna Mashup - https://youtu.be/kbLYN1MNBOU\nPaani Da x Mitti Di Khushboo Mashup - https://youtu.be/kWmeJZCNRXI\nMain Suneya x Main Dhoondhne Ko - https://youtu.be/L_Ta_AYeujs\n\n.\n*DISCLAIMER: This Following Audio/Video is Strictly meant for Promotional purposes. We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*\n\n*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s).All the contents are intended to Showcase the creativity of the artist involved and are strictly done for promotional purposes.*\n\n*DISCLAIMER: As per the 3rd Section of Fair use guidelines Borrowing small bits of material from an original work is more likely to be considered fair use. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use.\n\n\n#lofi2307",
+                "title": "Feel The Pain - Chillout Mashup | Lo-fi 2307 | Arijit SIngh | Latest 4K Trending Mashup",
+                "description": "Some songs don\u2019t just play\u2026 they remind you of the pain you tried to forget. \ud83d\udda4\n\n**Feel The Pain** \u2014 a soulful Bollywood mashup featuring\n\nMusic @lofi2307 \nVideo @MOXHMUSIC \n\nFor everyone who loved deeply, lost silently, and still remembers. \ud83e\udd40\n\n\ud83c\udfa7 Headphones on. Feel every beat.\n\n#FeelThePain #LoFi2307 #BollywoodMashup #SadMashup #HeartbreakMashup #HindiMashup #LofiMashup #SadSongs #HeartTouching #BrokenHeart #EmotionalSongs #BollywoodSongs #ArijitSingh #MohitChauhan #AnkitTiwari #LoveMashup\n\n\n*DON'T REUPLOAD - OTHERWISE YOU WILL GET COPYRIGHT STRIKE\u26a0\ufe0f*\n\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCh7aocZezr9gnY0uh0uONVA/join\n\n\n\nHello!\nStep into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a soulful mashup that will take you on a nostalgic journey while keeping your heart relaxed and your mind at ease.\n\nPerfect for unwinding, studying, or just vibing with your favorite tunes, this mashup is crafted with love and passion for all music lovers out there. \ud83c\udf1f\n\nHit play, sit back, and let the music transport you to a realm of pure bliss. Don\u2019t forget to like, comment, and subscribe to join our ever-growing lo-fi family! \ud83d\udc9c\n\nLet\u2019s vibe together. \ud83c\udf19\u2728\n\n\u00a0\nDownload/Stream:\n\nSpotify : https://open.spotify.com/track/7ptuP2kI6EqewK4gkOnlEd?si=4a9988cd88764d5f\n\nFor Music Production /Ghost Production Contact Us :lofi2307team@gmail.com\n\nEnjoy the Latest Trending Mashup By @lofi2307\n\nEk Mulaqat X Barbaad - https://youtu.be/Un91UKYlr6g\nMain Dhoondne X Bhula Dena - https://youtu.be/FlSzbD3OPt4\nDillagi X Teri Meri - https://youtu.be/ysZgy3YGgR8\nTumhi Aana X Chale Jana Phir - https://youtu.be/DglU8q6vDY4\nISHQ X Chal Ghar Chalein - https://youtu.be/wfp6O5QACn4\nSajde X Saiyaara - https://youtu.be/1W3eNtYk-w4\nDhun X Janiye - https://youtu.be/l1KVkVaN_CY\nKabhi Jo Badal X Tujhe Bhula Diya - https://youtu.be/NBDhwZDXe2g\nAttention X Manjha - https://youtu.be/K7lGFEIuuG8\nAasa Kooda X Nainowale - https://youtu.be/2y03GckZm20\nSoulmate X Ve Kameya - https://youtu.be/vvMtGxCVgXs\nHum jee Lenge X Piya Aaye Na - https://youtu.be/3v--wDojZ4Q\nAP Dhillon Mashup 2022 - Vol.01 - https://youtu.be/hMtDHODun4I\nAP Dhillon Mashup 2023 - Vol.02 - https://youtu.be/PwJgRgcKiec\nPunjabi Takeover Mahsup - https://youtu.be/k4MA2baCKBU\nDil x Pal Pal Mashup - https://youtu.be/ru1RfZTURxI\nSada Pyaar x Saajna Mashup - https://youtu.be/kbLYN1MNBOU\nPaani Da x Mitti Di Khushboo Mashup - https://youtu.be/kWmeJZCNRXI\nMain Suneya x Main Dhoondhne Ko - https://youtu.be/L_Ta_AYeujs\n\n.\n*DISCLAIMER: This Following Audio/Video is Strictly meant for Promotional purposes. We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*\n\n*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s).All the contents are intended to Showcase the creativity of the artist involved and are strictly done for promotional purposes.*\n\n*DISCLAIMER: As per the 3rd Section of Fair use guidelines Borrowing small bits of material from an original work is more likely to be considered fair use. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use.\n\n\n#lofi2307",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Z9UMoi4Am1w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/D_J4cGrygxg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Z9UMoi4Am1w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D_J4cGrygxg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Z9UMoi4Am1w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D_J4cGrygxg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Z9UMoi4Am1w/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D_J4cGrygxg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/Z9UMoi4Am1w/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D_J4cGrygxg/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "Lo-fi 2307",
                 "tags": [
-                    "Endless Love Mashup",
-                    "Dil X Suno Na Sangemarmar X Kabhi Jo Baadal",
-                    "Dil Mashup",
-                    "Suno Na Sangemarmar Mashup",
-                    "Kabhi Jo Baadal Mashup",
-                    "Love Mashup",
-                    "Romantic Mashup",
-                    "Hindi Mashup",
-                    "Bollywood Mashup",
-                    "Soulful Mashup",
-                    "Heart Touching Mashup",
+                    "Feel The Pain Mashup",
+                    "Aasaan Nahi Yahan",
+                    "Dil De Diya",
+                    "Aasaan Nahi Yahan Mashup",
+                    "Dil De Diya Mashup",
+                    "Feel The Pain",
+                    "Sad Love Mashup",
+                    "Heartbreak Mashup",
                     "Emotional Mashup",
-                    "New Hindi Mashup",
-                    "Latest Mashup",
+                    "Bollywood Mashup",
+                    "Hindi Mashup",
+                    "Romantic Mashup",
+                    "Love Mashup",
+                    "Sad Song Mashup",
                     "Trending Mashup",
-                    "Love Songs Mashup",
-                    "Romantic Songs",
-                    "Bollywood Love Songs",
-                    "Hindi Love Songs",
-                    "Soulful Love Songs",
+                    "Latest Mashup",
+                    "New Mashup",
+                    "LoFi Mashup",
                     "Chillout Mashup",
-                    "Aesthetic Mashup",
-                    "Melodic Mashup",
-                    "Endless Love",
-                    "Romantic Vibes"
+                    "Heart Touching Mashup",
+                    "One Sided Love",
+                    "Painful Love Songs",
+                    "Bollywood Love Songs",
+                    "Hindi Songs",
+                    "Viral Mashup",
+                    "Instagram Trending Mashup",
+                    "LoFi 2307"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Endless Love - Chillout Mashup | Arijit Singh | Lo-fi 2307 | Latest Trending Mashup",
-                    "description": "\u201cSome love stories never end\u2026 they simply turn into melodies.\u201d \u2764\ufe0f\ud83c\udfb6\n\nA soulful journey through love, memories, and emotions. \ud83c\udf19\ud83d\udcab\n\n\ud83c\udfa7 Put on your headphones and let the music take you somewhere beautiful.\nIf this mashup touches your heart, don\u2019t forget to **Like, Share & Subscribe**. \u2764\ufe0f\n\n#EndlessLove #LoveMashup #HindiMashup #BollywoodMashup #RomanticMashup #SoulfulMashup #Dil #SunoNaSangemarmar #KabhiJoBaadal\n\n\n*DON'T REUPLOAD - OTHERWISE YOU WILL GET COPYRIGHT STRIKE\u26a0\ufe0f*\n\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCh7aocZezr9gnY0uh0uONVA/join\n\nMusic - Lo-fi 2307\nVideo - Lio Music Official\n\n\nHello!\nStep into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a soulful mashup that will take you on a nostalgic journey while keeping your heart relaxed and your mind at ease.\n\nPerfect for unwinding, studying, or just vibing with your favorite tunes, this mashup is crafted with love and passion for all music lovers out there. \ud83c\udf1f\n\nHit play, sit back, and let the music transport you to a realm of pure bliss. Don\u2019t forget to like, comment, and subscribe to join our ever-growing lo-fi family! \ud83d\udc9c\n\nLet\u2019s vibe together. \ud83c\udf19\u2728\n\n\u00a0\nDownload/Stream:\n\nSpotify : https://open.spotify.com/track/7ptuP2kI6EqewK4gkOnlEd?si=4a9988cd88764d5f\n\nFor Music Production /Ghost Production Contact Us :lofi2307team@gmail.com\n\nEnjoy the Latest Trending Mashup By @lofi2307\n\nEk Mulaqat X Barbaad - https://youtu.be/Un91UKYlr6g\nMain Dhoondne X Bhula Dena - https://youtu.be/FlSzbD3OPt4\nDillagi X Teri Meri - https://youtu.be/ysZgy3YGgR8\nTumhi Aana X Chale Jana Phir - https://youtu.be/DglU8q6vDY4\nISHQ X Chal Ghar Chalein - https://youtu.be/wfp6O5QACn4\nSajde X Saiyaara - https://youtu.be/1W3eNtYk-w4\nDhun X Janiye - https://youtu.be/l1KVkVaN_CY\nKabhi Jo Badal X Tujhe Bhula Diya - https://youtu.be/NBDhwZDXe2g\nAttention X Manjha - https://youtu.be/K7lGFEIuuG8\nAasa Kooda X Nainowale - https://youtu.be/2y03GckZm20\nSoulmate X Ve Kameya - https://youtu.be/vvMtGxCVgXs\nHum jee Lenge X Piya Aaye Na - https://youtu.be/3v--wDojZ4Q\nAP Dhillon Mashup 2022 - Vol.01 - https://youtu.be/hMtDHODun4I\nAP Dhillon Mashup 2023 - Vol.02 - https://youtu.be/PwJgRgcKiec\nPunjabi Takeover Mahsup - https://youtu.be/k4MA2baCKBU\nDil x Pal Pal Mashup - https://youtu.be/ru1RfZTURxI\nSada Pyaar x Saajna Mashup - https://youtu.be/kbLYN1MNBOU\nPaani Da x Mitti Di Khushboo Mashup - https://youtu.be/kWmeJZCNRXI\nMain Suneya x Main Dhoondhne Ko - https://youtu.be/L_Ta_AYeujs\n\n.\n*DISCLAIMER: This Following Audio/Video is Strictly meant for Promotional purposes. We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*\n\n*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s).All the contents are intended to Showcase the creativity of the artist involved and are strictly done for promotional purposes.*\n\n*DISCLAIMER: As per the 3rd Section of Fair use guidelines Borrowing small bits of material from an original work is more likely to be considered fair use. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use.\n\n\n#lofi2307"
+                    "title": "Feel The Pain - Chillout Mashup | Lo-fi 2307 | Arijit SIngh | Latest 4K Trending Mashup",
+                    "description": "Some songs don\u2019t just play\u2026 they remind you of the pain you tried to forget. \ud83d\udda4\n\n**Feel The Pain** \u2014 a soulful Bollywood mashup featuring\n\nMusic @lofi2307 \nVideo @MOXHMUSIC \n\nFor everyone who loved deeply, lost silently, and still remembers. \ud83e\udd40\n\n\ud83c\udfa7 Headphones on. Feel every beat.\n\n#FeelThePain #LoFi2307 #BollywoodMashup #SadMashup #HeartbreakMashup #HindiMashup #LofiMashup #SadSongs #HeartTouching #BrokenHeart #EmotionalSongs #BollywoodSongs #ArijitSingh #MohitChauhan #AnkitTiwari #LoveMashup\n\n\n*DON'T REUPLOAD - OTHERWISE YOU WILL GET COPYRIGHT STRIKE\u26a0\ufe0f*\n\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCh7aocZezr9gnY0uh0uONVA/join\n\n\n\nHello!\nStep into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a soulful mashup that will take you on a nostalgic journey while keeping your heart relaxed and your mind at ease.\n\nPerfect for unwinding, studying, or just vibing with your favorite tunes, this mashup is crafted with love and passion for all music lovers out there. \ud83c\udf1f\n\nHit play, sit back, and let the music transport you to a realm of pure bliss. Don\u2019t forget to like, comment, and subscribe to join our ever-growing lo-fi family! \ud83d\udc9c\n\nLet\u2019s vibe together. \ud83c\udf19\u2728\n\n\u00a0\nDownload/Stream:\n\nSpotify : https://open.spotify.com/track/7ptuP2kI6EqewK4gkOnlEd?si=4a9988cd88764d5f\n\nFor Music Production /Ghost Production Contact Us :lofi2307team@gmail.com\n\nEnjoy the Latest Trending Mashup By @lofi2307\n\nEk Mulaqat X Barbaad - https://youtu.be/Un91UKYlr6g\nMain Dhoondne X Bhula Dena - https://youtu.be/FlSzbD3OPt4\nDillagi X Teri Meri - https://youtu.be/ysZgy3YGgR8\nTumhi Aana X Chale Jana Phir - https://youtu.be/DglU8q6vDY4\nISHQ X Chal Ghar Chalein - https://youtu.be/wfp6O5QACn4\nSajde X Saiyaara - https://youtu.be/1W3eNtYk-w4\nDhun X Janiye - https://youtu.be/l1KVkVaN_CY\nKabhi Jo Badal X Tujhe Bhula Diya - https://youtu.be/NBDhwZDXe2g\nAttention X Manjha - https://youtu.be/K7lGFEIuuG8\nAasa Kooda X Nainowale - https://youtu.be/2y03GckZm20\nSoulmate X Ve Kameya - https://youtu.be/vvMtGxCVgXs\nHum jee Lenge X Piya Aaye Na - https://youtu.be/3v--wDojZ4Q\nAP Dhillon Mashup 2022 - Vol.01 - https://youtu.be/hMtDHODun4I\nAP Dhillon Mashup 2023 - Vol.02 - https://youtu.be/PwJgRgcKiec\nPunjabi Takeover Mahsup - https://youtu.be/k4MA2baCKBU\nDil x Pal Pal Mashup - https://youtu.be/ru1RfZTURxI\nSada Pyaar x Saajna Mashup - https://youtu.be/kbLYN1MNBOU\nPaani Da x Mitti Di Khushboo Mashup - https://youtu.be/kWmeJZCNRXI\nMain Suneya x Main Dhoondhne Ko - https://youtu.be/L_Ta_AYeujs\n\n.\n*DISCLAIMER: This Following Audio/Video is Strictly meant for Promotional purposes. We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*\n\n*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s).All the contents are intended to Showcase the creativity of the artist involved and are strictly done for promotional purposes.*\n\n*DISCLAIMER: As per the 3rd Section of Fair use guidelines Borrowing small bits of material from an original work is more likely to be considered fair use. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use.\n\n\n#lofi2307"
                 },
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "1020367",
-                "likeCount": "5316",
+                "viewCount": "132104",
+                "likeCount": "980",
                 "favoriteCount": "0",
-                "commentCount": "79"
+                "commentCount": "22"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QUKA4r4voe8mRJh_PXtSYGDpD3k",
+            "etag": "cjJl7BqZOkMZuol2WAhCZ-bL5CI",
             "id": "CUCZv4SYakY",
             "snippet": {
                 "publishedAt": "2026-10-04T09:30:10Z",
@@ -2787,15 +2789,15 @@
                 "defaultAudioLanguage": "bn-IN"
             },
             "statistics": {
-                "viewCount": "1056900",
-                "likeCount": "8859",
+                "viewCount": "1062533",
+                "likeCount": "8910",
                 "favoriteCount": "0",
-                "commentCount": "951"
+                "commentCount": "954"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "kmsFOHbR6XcKcNRYtECCUxlxl6A",
+            "etag": "bXuyhN3qpm0YRlvrenZApco9G4M",
             "id": "nno6AiEAORA",
             "snippet": {
                 "publishedAt": "2026-10-02T06:35:36Z",
@@ -2859,15 +2861,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "8960364",
-                "likeCount": "103134",
+                "viewCount": "8992035",
+                "likeCount": "103481",
                 "favoriteCount": "0",
-                "commentCount": "1445"
+                "commentCount": "1451"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "LvjHgTbemyHnYgwZ81Lz_BoozOU",
+            "etag": "e1nUsp2QL3uxdixpKxf8zOMBT7A",
             "id": "RlQ5nt4D17M",
             "snippet": {
                 "publishedAt": "2026-10-04T07:00:08Z",
@@ -2922,15 +2924,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "500561",
-                "likeCount": "1991",
+                "viewCount": "502024",
+                "likeCount": "1996",
                 "favoriteCount": "0",
-                "commentCount": "81"
+                "commentCount": "82"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eK_IJiX1dNnryqWEnUP3YTMQ28U",
+            "etag": "EevnRLgcQgoEOcJanvj0FjaDkxI",
             "id": "Oxj0OJ_minY",
             "snippet": {
                 "publishedAt": "2026-10-03T08:30:40Z",
@@ -2982,44 +2984,44 @@
                 }
             },
             "statistics": {
-                "viewCount": "400808",
-                "likeCount": "1512",
+                "viewCount": "402309",
+                "likeCount": "1516",
                 "favoriteCount": "0",
                 "commentCount": "13"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "G5JqFoagL9jHk3Hpb2qfxdYbL1c",
-            "id": "lpe-4Dni7tw",
+            "etag": "pamU0mCRKUHq__t7wL-PF2PMBjc",
+            "id": "dKBQowprbWM",
             "snippet": {
-                "publishedAt": "2026-10-02T17:45:35Z",
+                "publishedAt": "2026-10-09T18:14:33Z",
                 "channelId": "UCLFx8k-QspdXV9wv5Q3C-Ig",
-                "title": "Steal An Egg | Roblox | Day 1",
-                "description": "Steal An Egg | Roblox | Day 1\n\n\n  #button  #escapegame  #gettingoverit #roblox \n\ud83c\udfae Game: Roblox\n\nHow Was The Video Guys And What Should I Do Next ! Comment Below.\ud83d\udc47\n\nLike Share And Subscribe . \ud83e\udd70 \n\nThanks For Your Precious Time Guys\ud83d\udc99\ud83d\udc9a\n\nMAIN CHANNEL LINK : www.youtube.com/@MrTripleR\n\n3rd Channel Link : https://youtube.com/@mrtripler-shorts\n\nFacebook Official Page Link  :  https://www.facebook.com/MrTripleR3/\n\nFacebook Official Group : https://www.facebook.com/groups/mrtriplerarmy/\n\nTwitter Account : https://twitter.com/MrTripleR1?t=T2XbPLcOZCTGf01ZnfKI2w&s=09\n\nInstagram Id : Rejaur Rahman Resvy  ( mr.triple.r.official ) \n\n\nInstagram Id Link : https://instagram.com/mr.triple.r.official\n\n\nDiscord Link : https://discord.gg/mrtripler\n\n\nTikTok Id Link : https://www.tiktok.com/@mrtripler.official\n\nMail Me Here For Business Purpose :\n\ntriplershort@gmail.com\n\n\nPeace \u2764\n\n#Bengal #TripleR #MrTripleR #3r #Bengali #Funny #Fun #Troll #\u09ac\u09be\u0982\u09b2\u09be #\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 #\u0995\u09b2\u0995\u09be\u09a4\u09be #Ff #Freefire #bd #Garena #Battleground  #Gameplay\u00a0#Bd\u00a0#Bangla",
+                "title": "Trying To Find A Niddle In Haystack With @SokherGamer",
+                "description": "Trying To Find A Niddle In Haystack With @SokherGamer \n\n\n  #button  #escapegame  #gettingoverit #roblox \n\ud83c\udfae Game: Roblox\n\nHow Was The Video Guys And What Should I Do Next ! Comment Below.\ud83d\udc47\n\nLike Share And Subscribe . \ud83e\udd70 \n\nThanks For Your Precious Time Guys\ud83d\udc99\ud83d\udc9a\n\nMAIN CHANNEL LINK : www.youtube.com/@MrTripleR\n\n3rd Channel Link : https://youtube.com/@mrtripler-shorts\n\nFacebook Official Page Link  :  https://www.facebook.com/MrTripleR3/\n\nFacebook Official Group : https://www.facebook.com/groups/mrtriplerarmy/\n\nTwitter Account : https://twitter.com/MrTripleR1?t=T2XbPLcOZCTGf01ZnfKI2w&s=09\n\nInstagram Id : Rejaur Rahman Resvy  ( mr.triple.r.official ) \n\n\nInstagram Id Link : https://instagram.com/mr.triple.r.official\n\n\nDiscord Link : https://discord.gg/mrtripler\n\n\nTikTok Id Link : https://www.tiktok.com/@mrtripler.official\n\nMail Me Here For Business Purpose :\n\ntriplershort@gmail.com\n\n\nPeace \u2764\n\n#Bengal #TripleR #MrTripleR #3r #Bengali #Funny #Fun #Troll #\u09ac\u09be\u0982\u09b2\u09be #\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 #\u0995\u09b2\u0995\u09be\u09a4\u09be #Ff #Freefire #bd #Garena #Battleground  #Gameplay\u00a0#Bd\u00a0#Bangla",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lpe-4Dni7tw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dKBQowprbWM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lpe-4Dni7tw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dKBQowprbWM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lpe-4Dni7tw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dKBQowprbWM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/lpe-4Dni7tw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dKBQowprbWM/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/lpe-4Dni7tw/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dKBQowprbWM/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -3048,27 +3050,32 @@
                     "funny",
                     "Roblox",
                     "Roblox steal en egg",
-                    "Steal en egg bangla"
+                    "Steal en egg bangla",
+                    "Needle",
+                    "sokhergamer",
+                    "bijan",
+                    "Needle in a Haystack",
+                    "Gameplay Trailer"
                 ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Steal An Egg | Roblox | Day 1",
-                    "description": "Steal An Egg | Roblox | Day 1\n\n\n  #button  #escapegame  #gettingoverit #roblox \n\ud83c\udfae Game: Roblox\n\nHow Was The Video Guys And What Should I Do Next ! Comment Below.\ud83d\udc47\n\nLike Share And Subscribe . \ud83e\udd70 \n\nThanks For Your Precious Time Guys\ud83d\udc99\ud83d\udc9a\n\nMAIN CHANNEL LINK : www.youtube.com/@MrTripleR\n\n3rd Channel Link : https://youtube.com/@mrtripler-shorts\n\nFacebook Official Page Link  :  https://www.facebook.com/MrTripleR3/\n\nFacebook Official Group : https://www.facebook.com/groups/mrtriplerarmy/\n\nTwitter Account : https://twitter.com/MrTripleR1?t=T2XbPLcOZCTGf01ZnfKI2w&s=09\n\nInstagram Id : Rejaur Rahman Resvy  ( mr.triple.r.official ) \n\n\nInstagram Id Link : https://instagram.com/mr.triple.r.official\n\n\nDiscord Link : https://discord.gg/mrtripler\n\n\nTikTok Id Link : https://www.tiktok.com/@mrtripler.official\n\nMail Me Here For Business Purpose :\n\ntriplershort@gmail.com\n\n\nPeace \u2764\n\n#Bengal #TripleR #MrTripleR #3r #Bengali #Funny #Fun #Troll #\u09ac\u09be\u0982\u09b2\u09be #\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 #\u0995\u09b2\u0995\u09be\u09a4\u09be #Ff #Freefire #bd #Garena #Battleground  #Gameplay\u00a0#Bd\u00a0#Bangla"
+                    "title": "Trying To Find A Niddle In Haystack With @SokherGamer",
+                    "description": "Trying To Find A Niddle In Haystack With @SokherGamer \n\n\n  #button  #escapegame  #gettingoverit #roblox \n\ud83c\udfae Game: Roblox\n\nHow Was The Video Guys And What Should I Do Next ! Comment Below.\ud83d\udc47\n\nLike Share And Subscribe . \ud83e\udd70 \n\nThanks For Your Precious Time Guys\ud83d\udc99\ud83d\udc9a\n\nMAIN CHANNEL LINK : www.youtube.com/@MrTripleR\n\n3rd Channel Link : https://youtube.com/@mrtripler-shorts\n\nFacebook Official Page Link  :  https://www.facebook.com/MrTripleR3/\n\nFacebook Official Group : https://www.facebook.com/groups/mrtriplerarmy/\n\nTwitter Account : https://twitter.com/MrTripleR1?t=T2XbPLcOZCTGf01ZnfKI2w&s=09\n\nInstagram Id : Rejaur Rahman Resvy  ( mr.triple.r.official ) \n\n\nInstagram Id Link : https://instagram.com/mr.triple.r.official\n\n\nDiscord Link : https://discord.gg/mrtripler\n\n\nTikTok Id Link : https://www.tiktok.com/@mrtripler.official\n\nMail Me Here For Business Purpose :\n\ntriplershort@gmail.com\n\n\nPeace \u2764\n\n#Bengal #TripleR #MrTripleR #3r #Bengali #Funny #Fun #Troll #\u09ac\u09be\u0982\u09b2\u09be #\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 #\u0995\u09b2\u0995\u09be\u09a4\u09be #Ff #Freefire #bd #Garena #Battleground  #Gameplay\u00a0#Bd\u00a0#Bangla"
                 },
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "591696",
-                "likeCount": "8685",
+                "viewCount": "244163",
+                "likeCount": "5041",
                 "favoriteCount": "0",
-                "commentCount": "1335"
+                "commentCount": "354"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3wywsFB3XzTH5jMu6InVjy90Sx0",
+            "etag": "TEWDPXf4_uFR9w5JDkyORO9mNdE",
             "id": "QDx8EVgt1MQ",
             "snippet": {
                 "publishedAt": "2026-09-22T10:45:37Z",
@@ -3140,15 +3147,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "502243",
-                "likeCount": "2752",
+                "viewCount": "503014",
+                "likeCount": "2757",
                 "favoriteCount": "0",
-                "commentCount": "55"
+                "commentCount": "56"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mpJ0XFVPiSjjBCz0zcXcxFa4JXk",
+            "etag": "Jv_q42ovqI1RZRq3gUkK9KluHl4",
             "id": "_bzoFwFFlR8",
             "snippet": {
                 "publishedAt": "2026-10-06T17:44:22Z",
@@ -3223,15 +3230,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "444905",
-                "likeCount": "32012",
+                "viewCount": "445616",
+                "likeCount": "32043",
                 "favoriteCount": "0",
-                "commentCount": "7039"
+                "commentCount": "7042"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4eR0TpG640yUjAOqAcq-6hbXTx4",
+            "etag": "CHv0IWn2fDJn9ZmVun7T01K4U2o",
             "id": "sqg8CimdOSI",
             "snippet": {
                 "publishedAt": "2026-10-05T03:01:39Z",
@@ -3301,15 +3308,15 @@
                 "defaultAudioLanguage": "hi"
             },
             "statistics": {
-                "viewCount": "1186222",
-                "likeCount": "3816",
+                "viewCount": "1190975",
+                "likeCount": "3837",
                 "favoriteCount": "0",
                 "commentCount": "46"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wyta8pSrII7YxAX5rbHYV0BnAz4",
+            "etag": "R1--iGxLcuj7J5a0kSoBWL0wjZI",
             "id": "6yP_9Ah9i8Q",
             "snippet": {
                 "publishedAt": "2026-10-02T13:41:34Z",
@@ -3363,15 +3370,15 @@
                 "defaultAudioLanguage": "en-IN"
             },
             "statistics": {
-                "viewCount": "6194235",
-                "likeCount": "71250",
+                "viewCount": "6209433",
+                "likeCount": "71346",
                 "favoriteCount": "0",
-                "commentCount": "7967"
+                "commentCount": "7978"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3twcwyVCAJuoCDLJz0lEXTnXmIw",
+            "etag": "pgmf4vY83U6-lWKTDj64JyB0mJA",
             "id": "vYGdZgbnUM8",
             "snippet": {
                 "publishedAt": "2026-09-24T10:00:29Z",
@@ -3421,15 +3428,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "524115",
-                "likeCount": "4019",
+                "viewCount": "524879",
+                "likeCount": "4026",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YC64-h6hYjyWLdXKZ3ci2Bhov6U",
+            "etag": "z_aRCYhfGIHJrrZ7ZjSM7RFOLho",
             "id": "4s1XXGuHWQA",
             "snippet": {
                 "publishedAt": "2026-10-08T16:39:10Z",
@@ -3479,15 +3486,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1410911",
-                "likeCount": "15539",
+                "viewCount": "1411557",
+                "likeCount": "15595",
                 "favoriteCount": "0",
-                "commentCount": "579"
+                "commentCount": "584"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "zG765mVcJx7wJaA8ykumJ6b8Nyc",
+            "etag": "7hiAvOQRDA24NqkOIHw3euCpTK0",
             "id": "BBXDOCYYNfc",
             "snippet": {
                 "publishedAt": "2026-10-04T05:10:23Z",
@@ -3542,15 +3549,15 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "140217",
-                "likeCount": "656",
+                "viewCount": "142257",
+                "likeCount": "667",
                 "favoriteCount": "0",
                 "commentCount": "59"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1vofh7SMtf5OxxRbIu7xLu7tT50",
+            "etag": "fXy3WMcHsx0sOJmkLG6DwDW9VK0",
             "id": "Qh9WVon0-OY",
             "snippet": {
                 "publishedAt": "2026-10-09T08:01:20Z",
@@ -3612,10 +3619,10 @@
                 "defaultAudioLanguage": "bn"
             },
             "statistics": {
-                "viewCount": "112133",
-                "likeCount": "3019",
+                "viewCount": "114035",
+                "likeCount": "3061",
                 "favoriteCount": "0",
-                "commentCount": "341"
+                "commentCount": "343"
             }
         }
     ],

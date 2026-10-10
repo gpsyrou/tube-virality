@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "q96XpiE-vYuXJZBlZIz7G0zhB14",
+    "etag": "Vi8IWKMpiJoKh4D8ePtsmdGdHOw",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "VL5cf0W5pJUx-l8YtRWLmrv6sD4",
+            "etag": "3jCSJXMrMh-ozByBrA11E5SaIZY",
             "id": "vF4GQR0oSp0",
             "snippet": {
                 "publishedAt": "2026-10-05T12:21:12Z",
@@ -55,15 +55,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "477563",
-                "likeCount": "11542",
+                "viewCount": "482593",
+                "likeCount": "11619",
                 "favoriteCount": "0",
                 "commentCount": "607"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "q_W4qAj5wfcgWMbWSVXrF0k_xgY",
+            "etag": "GE4tff4AnfNShxkU2iXJ9SUvmD0",
             "id": "sXKnmgmbkoE",
             "snippet": {
                 "publishedAt": "2026-10-01T16:00:21Z",
@@ -117,15 +117,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "20792516",
-                "likeCount": "251103",
+                "viewCount": "20805002",
+                "likeCount": "251212",
                 "favoriteCount": "0",
-                "commentCount": "8803"
+                "commentCount": "8805"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eoHccCxt4TVvMgGAnXN-YDII1kI",
+            "etag": "Csop-MyH0T5CwrrzsHMmFqBE0HE",
             "id": "8t8YBu7bdT0",
             "snippet": {
                 "publishedAt": "2026-10-06T13:00:07Z",
@@ -187,15 +187,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "5048929",
-                "likeCount": "140879",
+                "viewCount": "5061526",
+                "likeCount": "141060",
                 "favoriteCount": "0",
-                "commentCount": "19110"
+                "commentCount": "19123"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OPw2JzqkWs4wmGpS5IysoCwM8-c",
+            "etag": "9CYE0BXN0CQUNUnsv4_49v28kBg",
             "id": "B8e5U33YuMc",
             "snippet": {
                 "publishedAt": "2026-10-01T12:17:24Z",
@@ -248,15 +248,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "522469",
-                "likeCount": "16647",
+                "viewCount": "530293",
+                "likeCount": "16812",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hNEVUfMV-6vkp2f6jG1NrUgpkEM",
+            "etag": "SDK32y2Aj2lLd2g2Dr3AA3MVwGU",
             "id": "e1e0ZlP5o08",
             "snippet": {
                 "publishedAt": "2026-10-09T09:20:04Z",
@@ -323,15 +323,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "69873",
-                "likeCount": "1249",
+                "viewCount": "72976",
+                "likeCount": "1309",
                 "favoriteCount": "0",
-                "commentCount": "74"
+                "commentCount": "78"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IuYfWDIXQb_xXu-IVGJ5_hyDMyw",
+            "etag": "c9vTIvOrIKxvGBh0YjDzjTTJyWM",
             "id": "lo2J79wvA2o",
             "snippet": {
                 "publishedAt": "2026-10-09T12:00:02Z",
@@ -381,15 +381,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "480417",
-                "likeCount": "6355",
+                "viewCount": "485383",
+                "likeCount": "6399",
                 "favoriteCount": "0",
-                "commentCount": "642"
+                "commentCount": "644"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Jj6wOzwzikrC0guN8V4wzkl9Kyk",
+            "etag": "uzFyJPx7TTvpqEKIkdPLMWRh1Oc",
             "id": "r2L2IoUPx8A",
             "snippet": {
                 "publishedAt": "2026-09-24T10:00:00Z",
@@ -440,15 +440,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "1944503",
-                "likeCount": "50035",
+                "viewCount": "1950532",
+                "likeCount": "50206",
                 "favoriteCount": "0",
-                "commentCount": "2000"
+                "commentCount": "2003"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IRmjYMtfm0vzTtcb7Ps0ex6zhWE",
+            "etag": "qTeuTMMpHRLlOMDBP0T_bkk38HM",
             "id": "W9W5CLUGjbU",
             "snippet": {
                 "publishedAt": "2026-10-06T22:30:32Z",
@@ -510,15 +510,15 @@
                 "defaultAudioLanguage": "ja"
             },
             "statistics": {
-                "viewCount": "3418645",
-                "likeCount": "74992",
+                "viewCount": "3430510",
+                "likeCount": "75212",
                 "favoriteCount": "0",
-                "commentCount": "4168"
+                "commentCount": "4179"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vAzmplal-lLZvTTTKnk68MCrFfg",
+            "etag": "pE4tSQyFo44_VBvIN6KrM11-Igk",
             "id": "VLwcqaXiNOA",
             "snippet": {
                 "publishedAt": "2026-10-03T18:30:16Z",
@@ -573,15 +573,15 @@
                 "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "4106150",
-                "likeCount": "83291",
+                "viewCount": "4111312",
+                "likeCount": "83344",
                 "favoriteCount": "0",
-                "commentCount": "6353"
+                "commentCount": "6355"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "47KEbGPi2rcl8sbVhxqHHvkuEJM",
+            "etag": "fA3OynOpq6igs93lSL3rZH8w_-I",
             "id": "2ZTcvsdMR1c",
             "snippet": {
                 "publishedAt": "2026-10-05T16:02:40Z",
@@ -632,15 +632,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "5796846",
-                "likeCount": "181076",
+                "viewCount": "5849070",
+                "likeCount": "182029",
                 "favoriteCount": "0",
-                "commentCount": "8439"
+                "commentCount": "8470"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3Qxl77N0x8DvlVK8EyxpvCYzH1s",
+            "etag": "YBpgmNAtlSn6_Y8uhxjgRu_D9DI",
             "id": "W1Se8qvdoTw",
             "snippet": {
                 "publishedAt": "2026-10-06T13:00:24Z",
@@ -737,15 +737,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "626949",
-                "likeCount": "5362",
+                "viewCount": "631283",
+                "likeCount": "5412",
                 "favoriteCount": "0",
-                "commentCount": "91"
+                "commentCount": "93"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mCidYm9EWB9awqKrbmy90bTreJk",
+            "etag": "pWznd-kc70nLPyJDYMGLd5pecq8",
             "id": "mf2Pew7GePk",
             "snippet": {
                 "publishedAt": "2026-10-08T10:04:50Z",
@@ -795,15 +795,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "83463",
-                "likeCount": "4157",
+                "viewCount": "84770",
+                "likeCount": "4212",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "pDMx-Ff4-6F9ABlD8UJd953PwNc",
+            "etag": "8CvLuYyeS9BjG_NGNXEuGaCDpNA",
             "id": "7hWJcgSEdeI",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:38Z",
@@ -863,15 +863,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "639141",
-                "likeCount": "5435",
+                "viewCount": "650591",
+                "likeCount": "5481",
                 "favoriteCount": "0",
-                "commentCount": "752"
+                "commentCount": "757"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "C_Szs06a3Rg-axvvrXldUhLWhag",
+            "etag": "mEHe2b_cUqI4gaFsJnDSM2gfZRo",
             "id": "YPfgezrXcdY",
             "snippet": {
                 "publishedAt": "2026-10-07T22:04:23Z",
@@ -921,15 +921,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "103956",
-                "likeCount": "3506",
+                "viewCount": "105126",
+                "likeCount": "3526",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Q8KjiYWWOqHR115h_19nbPtVeHA",
+            "etag": "tR4cco8EhWAcHWnpv8G7GTs9iZQ",
             "id": "_Ju2j1NSt9w",
             "snippet": {
                 "publishedAt": "2026-10-09T11:05:24Z",
@@ -1003,15 +1003,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1859175",
-                "likeCount": "20630",
+                "viewCount": "1914314",
+                "likeCount": "21201",
                 "favoriteCount": "0",
-                "commentCount": "231"
+                "commentCount": "239"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lsvLAJARa1ZYGePzaVJaEm9cecY",
+            "etag": "Bff_zADQYn459Uc2pbEeWpp0m4g",
             "id": "lMlhufoeq-A",
             "snippet": {
                 "publishedAt": "2026-10-08T10:00:36Z",
@@ -1061,15 +1061,135 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "128235",
-                "likeCount": "10564",
+                "viewCount": "130492",
+                "likeCount": "10678",
                 "favoriteCount": "0",
-                "commentCount": "818"
+                "commentCount": "819"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ElZj76NzeVrz8HamqZB4faxOFLI",
+            "etag": "qx68OA6bxQ8NCJ93-shPewZKltw",
+            "id": "ULJZbI96WRg",
+            "snippet": {
+                "publishedAt": "2026-10-09T14:25:35Z",
+                "channelId": "UChR1Yn7YpVrnP-SbsWtjuBA",
+                "title": "I Manage Man City after Guilty Charges...",
+                "description": "Get your S2G Merch!\nhttps://www.s2gshop.com\n\nEmail for Business Enquiries :-\nS2G@velocetalent.gg\n\nSubscribe to my Other Channels!\n\u25ba @MoreS2G \n\u25ba @EvenMoreS2G \n\u25ba @S2GReacts\n\n\u25baClub Twitter - https://twitter.com/S2GFC\n\nFollow me on Social Media!\n\u25baTwitch - https://www.twitch.tv/thereals2g\n\u25baTwitter - https://twitter.com/OfficialS2G\n\u25baInstagram - https://www.instagram.com/officials2g",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "S2G",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "I Manage Man City after Guilty Charges...",
+                    "description": "Get your S2G Merch!\nhttps://www.s2gshop.com\n\nEmail for Business Enquiries :-\nS2G@velocetalent.gg\n\nSubscribe to my Other Channels!\n\u25ba @MoreS2G \n\u25ba @EvenMoreS2G \n\u25ba @S2GReacts\n\n\u25baClub Twitter - https://twitter.com/S2GFC\n\nFollow me on Social Media!\n\u25baTwitch - https://www.twitch.tv/thereals2g\n\u25baTwitter - https://twitter.com/OfficialS2G\n\u25baInstagram - https://www.instagram.com/officials2g"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "620669",
+                "likeCount": "14611",
+                "favoriteCount": "0",
+                "commentCount": "467"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "saaeSQrvqgKM2AhyPon5E8hT4vI",
+            "id": "YLPFBuo4b6U",
+            "snippet": {
+                "publishedAt": "2026-10-01T12:19:19Z",
+                "channelId": "UCw1ddjhb7zqMEUBmnruZh5w",
+                "title": "Sphalaphala",
+                "description": "Provided to YouTube by Virgin Music Group\n\nSphalaphala \u00b7 2Break4 \u00b7 Self Made Barb \u00b7 PLXYBOII_017 \u00b7 Dolly Ditebogo \u00b7 Ez Maestro \u00b7 Criimora b.k.z\n\nSphalaphala\n\n\u2117 2026 KompoNation\n\nReleased on: 2026-10-02\n\nComposer: Thabo Blessing Ramothwala\nComposer: Dolly Ditebogo Moagi\nLyricist: Moloko Precious Choshi\nLyricist: CHRISTINE BOKANG MGIBA\nLyricist: Phenyo Tsebe\nLyricist: Kwanele Nkosinamandla Mjoli\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "2Break4 - Topic",
+                "tags": [
+                    "2Break4",
+                    "Self Made Barb",
+                    "PLXYBOII_017",
+                    "Dolly Ditebogo",
+                    "Ez Maestro",
+                    "Criimora b.k.z",
+                    "Sphalaphala"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Sphalaphala",
+                    "description": "Provided to YouTube by Virgin Music Group\n\nSphalaphala \u00b7 2Break4 \u00b7 Self Made Barb \u00b7 PLXYBOII_017 \u00b7 Dolly Ditebogo \u00b7 Ez Maestro \u00b7 Criimora b.k.z\n\nSphalaphala\n\n\u2117 2026 KompoNation\n\nReleased on: 2026-10-02\n\nComposer: Thabo Blessing Ramothwala\nComposer: Dolly Ditebogo Moagi\nLyricist: Moloko Precious Choshi\nLyricist: CHRISTINE BOKANG MGIBA\nLyricist: Phenyo Tsebe\nLyricist: Kwanele Nkosinamandla Mjoli\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "279458",
+                "likeCount": "8126",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mbtXs3Pb73XV0k97WGzdjAd4yxM",
             "id": "jEVBoEjlxnc",
             "snippet": {
                 "publishedAt": "2026-10-09T14:00:28Z",
@@ -1129,135 +1249,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "350335",
-                "likeCount": "6029",
+                "viewCount": "356416",
+                "likeCount": "6122",
                 "favoriteCount": "0",
-                "commentCount": "728"
+                "commentCount": "739"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "m1x-4tp8rL4uyWoN6CoO1WC7gZQ",
-            "id": "YLPFBuo4b6U",
-            "snippet": {
-                "publishedAt": "2026-10-01T12:19:19Z",
-                "channelId": "UCw1ddjhb7zqMEUBmnruZh5w",
-                "title": "Sphalaphala",
-                "description": "Provided to YouTube by Virgin Music Group\n\nSphalaphala \u00b7 2Break4 \u00b7 Self Made Barb \u00b7 PLXYBOII_017 \u00b7 Dolly Ditebogo \u00b7 Ez Maestro \u00b7 Criimora b.k.z\n\nSphalaphala\n\n\u2117 2026 KompoNation\n\nReleased on: 2026-10-02\n\nComposer: Thabo Blessing Ramothwala\nComposer: Dolly Ditebogo Moagi\nLyricist: Moloko Precious Choshi\nLyricist: CHRISTINE BOKANG MGIBA\nLyricist: Phenyo Tsebe\nLyricist: Kwanele Nkosinamandla Mjoli\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/YLPFBuo4b6U/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "2Break4 - Topic",
-                "tags": [
-                    "2Break4",
-                    "Self Made Barb",
-                    "PLXYBOII_017",
-                    "Dolly Ditebogo",
-                    "Ez Maestro",
-                    "Criimora b.k.z",
-                    "Sphalaphala"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Sphalaphala",
-                    "description": "Provided to YouTube by Virgin Music Group\n\nSphalaphala \u00b7 2Break4 \u00b7 Self Made Barb \u00b7 PLXYBOII_017 \u00b7 Dolly Ditebogo \u00b7 Ez Maestro \u00b7 Criimora b.k.z\n\nSphalaphala\n\n\u2117 2026 KompoNation\n\nReleased on: 2026-10-02\n\nComposer: Thabo Blessing Ramothwala\nComposer: Dolly Ditebogo Moagi\nLyricist: Moloko Precious Choshi\nLyricist: CHRISTINE BOKANG MGIBA\nLyricist: Phenyo Tsebe\nLyricist: Kwanele Nkosinamandla Mjoli\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "277852",
-                "likeCount": "8080",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "miNoLxKKDVMqDPk1diUJLwyoSd8",
-            "id": "ULJZbI96WRg",
-            "snippet": {
-                "publishedAt": "2026-10-09T14:25:35Z",
-                "channelId": "UChR1Yn7YpVrnP-SbsWtjuBA",
-                "title": "I Manage Man City after Guilty Charges...",
-                "description": "Get your S2G Merch!\nhttps://www.s2gshop.com\n\nEmail for Business Enquiries :-\nS2G@velocetalent.gg\n\nSubscribe to my Other Channels!\n\u25ba @MoreS2G \n\u25ba @EvenMoreS2G \n\u25ba @S2GReacts\n\n\u25baClub Twitter - https://twitter.com/S2GFC\n\nFollow me on Social Media!\n\u25baTwitch - https://www.twitch.tv/thereals2g\n\u25baTwitter - https://twitter.com/OfficialS2G\n\u25baInstagram - https://www.instagram.com/officials2g",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/ULJZbI96WRg/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "S2G",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-GB",
-                "localized": {
-                    "title": "I Manage Man City after Guilty Charges...",
-                    "description": "Get your S2G Merch!\nhttps://www.s2gshop.com\n\nEmail for Business Enquiries :-\nS2G@velocetalent.gg\n\nSubscribe to my Other Channels!\n\u25ba @MoreS2G \n\u25ba @EvenMoreS2G \n\u25ba @S2GReacts\n\n\u25baClub Twitter - https://twitter.com/S2GFC\n\nFollow me on Social Media!\n\u25baTwitch - https://www.twitch.tv/thereals2g\n\u25baTwitter - https://twitter.com/OfficialS2G\n\u25baInstagram - https://www.instagram.com/officials2g"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "606340",
-                "likeCount": "14353",
-                "favoriteCount": "0",
-                "commentCount": "464"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "vl-zoyrpqVnr0klma6gPn-X4IJA",
+            "etag": "dIbyLFl6Bwh5mQSf3MBm0eJ4Mz4",
             "id": "edz-ttL1Kck",
             "snippet": {
                 "publishedAt": "2026-09-29T20:43:46Z",
@@ -1306,15 +1306,148 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "346469",
-                "likeCount": "6932",
+                "viewCount": "347875",
+                "likeCount": "6957",
                 "favoriteCount": "0",
-                "commentCount": "725"
+                "commentCount": "728"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eqepZOsRpvPxmZ72MazCWV9RLzQ",
+            "etag": "AmnS4UipAqU5TK9K7FAjPB8lhW0",
+            "id": "ea-gnnkBiGE",
+            "snippet": {
+                "publishedAt": "2026-10-09T16:00:36Z",
+                "channelId": "UCzlUw75H5ILJ2l_ackxyI6A",
+                "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
+                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "uhd": {
+                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/uhddefault.jpg",
+                        "width": 3840,
+                        "height": 2160
+                    }
+                },
+                "channelTitle": "More Techy",
+                "tags": [
+                    "roblox",
+                    "funnyroblox",
+                    "techyblox",
+                    "techy",
+                    "crazy fan girls",
+                    "crazy fan girl",
+                    "my crazy fan girls",
+                    "girlfriend",
+                    "roblox girlfriend"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
+                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "384606",
+                "likeCount": "4884",
+                "favoriteCount": "0",
+                "commentCount": "1229"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wn2WI_bQl0gfSRGsT9NpYu5mf8I",
+            "id": "PJCc2womyOo",
+            "snippet": {
+                "publishedAt": "2026-10-08T10:03:44Z",
+                "channelId": "UCZaCh_qum2iHxt5Os8ib3rw",
+                "title": "Mosamaria",
+                "description": "Provided to YouTube by The Orchard Enterprises\n\nMosamaria \u00b7 Poobington \u00b7 Mangee Beats \u00b7 Ch'cco \u00b7 EeQue \u00b7 Bradley Matsoake \u00b7 Shiko Goodman Matlebjane \u00b7 Leago Sinclair Moganedi\n\nUnited States Of Africa\n\n\u2117 2026 Poobington & ManGee Beats, exclusively distributed under Limp Flow (Pty) Ltd\n\nReleased on: 2026-10-09\n\nProducer: Mpho Gift Makola\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Poobington - Topic",
+                "tags": [
+                    "Poobington",
+                    "Mangee Beats",
+                    "Ch'cco",
+                    "EeQue",
+                    "Bradley Matsoake",
+                    "Shiko Goodman Matlebjane",
+                    "Leago Sinclair Moganedi",
+                    "United States Of Africa",
+                    "Mosamaria"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Mosamaria",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nMosamaria \u00b7 Poobington \u00b7 Mangee Beats \u00b7 Ch'cco \u00b7 EeQue \u00b7 Bradley Matsoake \u00b7 Shiko Goodman Matlebjane \u00b7 Leago Sinclair Moganedi\n\nUnited States Of Africa\n\n\u2117 2026 Poobington & ManGee Beats, exclusively distributed under Limp Flow (Pty) Ltd\n\nReleased on: 2026-10-09\n\nProducer: Mpho Gift Makola\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "63364",
+                "likeCount": "3789",
+                "favoriteCount": "0",
+                "commentCount": "192"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GSQbZ8KyNPsRPsZwbdILS3d1km0",
             "id": "t5wy_OsuMvM",
             "snippet": {
                 "publishedAt": "2026-10-05T11:00:21Z",
@@ -1358,15 +1491,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1787209",
-                "likeCount": "9586",
+                "viewCount": "1795159",
+                "likeCount": "9615",
                 "favoriteCount": "0",
-                "commentCount": "928"
+                "commentCount": "930"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "iwUDXIWQ1h8sG_mqba304fEUuOY",
+            "etag": "mtz7pKjtATzPO4S_7ChBGvP_1Go",
             "id": "B-WFNxKVbSg",
             "snippet": {
                 "publishedAt": "2026-10-03T13:00:25Z",
@@ -1442,148 +1575,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "175342",
-                "likeCount": "1016",
+                "viewCount": "177830",
+                "likeCount": "1031",
                 "favoriteCount": "0",
                 "commentCount": "27"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "L_3ktK3WMO-D-RTfpYcSvvvlu3M",
-            "id": "ea-gnnkBiGE",
-            "snippet": {
-                "publishedAt": "2026-10-09T16:00:36Z",
-                "channelId": "UCzlUw75H5ILJ2l_ackxyI6A",
-                "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
-                "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    },
-                    "uhd": {
-                        "url": "https://i.ytimg.com/vi/ea-gnnkBiGE/uhddefault.jpg",
-                        "width": 3840,
-                        "height": 2160
-                    }
-                },
-                "channelTitle": "More Techy",
-                "tags": [
-                    "roblox",
-                    "funnyroblox",
-                    "techyblox",
-                    "techy",
-                    "crazy fan girls",
-                    "crazy fan girl",
-                    "my crazy fan girls",
-                    "girlfriend",
-                    "roblox girlfriend"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Pretending to be a NOOB then becoming a PYRAMID GOD...",
-                    "description": "Join My Roblox Group!\nhttps://www.roblox.com/groups/33043362/The-Techy-ARMY#!/about\n\nSocials: https://solo.to/techys\n\n#Roblox"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "377177",
-                "likeCount": "4806",
-                "favoriteCount": "0",
-                "commentCount": "1212"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "HhuCi-fqBIwBOk3q98SfzNGDDhs",
-            "id": "PJCc2womyOo",
-            "snippet": {
-                "publishedAt": "2026-10-08T10:03:44Z",
-                "channelId": "UCZaCh_qum2iHxt5Os8ib3rw",
-                "title": "Mosamaria",
-                "description": "Provided to YouTube by The Orchard Enterprises\n\nMosamaria \u00b7 Poobington \u00b7 Mangee Beats \u00b7 Ch'cco \u00b7 EeQue \u00b7 Bradley Matsoake \u00b7 Shiko Goodman Matlebjane \u00b7 Leago Sinclair Moganedi\n\nUnited States Of Africa\n\n\u2117 2026 Poobington & ManGee Beats, exclusively distributed under Limp Flow (Pty) Ltd\n\nReleased on: 2026-10-09\n\nProducer: Mpho Gift Makola\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PJCc2womyOo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Poobington - Topic",
-                "tags": [
-                    "Poobington",
-                    "Mangee Beats",
-                    "Ch'cco",
-                    "EeQue",
-                    "Bradley Matsoake",
-                    "Shiko Goodman Matlebjane",
-                    "Leago Sinclair Moganedi",
-                    "United States Of Africa",
-                    "Mosamaria"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Mosamaria",
-                    "description": "Provided to YouTube by The Orchard Enterprises\n\nMosamaria \u00b7 Poobington \u00b7 Mangee Beats \u00b7 Ch'cco \u00b7 EeQue \u00b7 Bradley Matsoake \u00b7 Shiko Goodman Matlebjane \u00b7 Leago Sinclair Moganedi\n\nUnited States Of Africa\n\n\u2117 2026 Poobington & ManGee Beats, exclusively distributed under Limp Flow (Pty) Ltd\n\nReleased on: 2026-10-09\n\nProducer: Mpho Gift Makola\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "62254",
-                "likeCount": "3752",
-                "favoriteCount": "0",
-                "commentCount": "192"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "hHpMbIusZVQCf8KE35_juN5Cz-c",
+            "etag": "eQ4xVs9Wm0im3bUL-LbQ8-37qIo",
             "id": "45PZjTginRY",
             "snippet": {
                 "publishedAt": "2026-10-09T15:00:22Z",
@@ -1633,15 +1633,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "301385",
-                "likeCount": "3986",
+                "viewCount": "305447",
+                "likeCount": "4029",
                 "favoriteCount": "0",
-                "commentCount": "361"
+                "commentCount": "362"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ZcJKA_cuZiNFCnbTdl5QpQmR5fs",
+            "etag": "_kX0KZ8XRBMQkjllhB59Lyz4ZpY",
             "id": "ahg5FoUJnbQ",
             "snippet": {
                 "publishedAt": "2026-10-08T23:33:32Z",
@@ -1690,15 +1690,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "95866",
-                "likeCount": "7905",
+                "viewCount": "97045",
+                "likeCount": "7978",
                 "favoriteCount": "0",
-                "commentCount": "955"
+                "commentCount": "962"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9J4KaCEBrrrvLROpIsWXhlVEDGg",
+            "etag": "S-mxsnLdNjI8sbEwj0xGGtq_uyk",
             "id": "fZ-b4MQAmIQ",
             "snippet": {
                 "publishedAt": "2026-10-03T17:18:00Z",
@@ -1777,15 +1777,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "774166",
-                "likeCount": "9017",
+                "viewCount": "777951",
+                "likeCount": "9060",
                 "favoriteCount": "0",
                 "commentCount": "165"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sjMPdg_PgP-f9kd55wiNH8BX63U",
+            "etag": "teNesHuVeVoarZXaWG74nh7DBL0",
             "id": "eJFi2TK5174",
             "snippet": {
                 "publishedAt": "2026-10-01T10:00:26Z",
@@ -1839,15 +1839,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "2652778",
-                "likeCount": "62065",
+                "viewCount": "2657523",
+                "likeCount": "62155",
                 "favoriteCount": "0",
                 "commentCount": "1387"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9pzArpWjqyG_dzjwAH1cTnQsMmw",
+            "etag": "38aT2K5BByBVNZtJ80obHqjF8o8",
             "id": "ONdXW2oIsdc",
             "snippet": {
                 "publishedAt": "2026-10-09T01:00:13Z",
@@ -1922,15 +1922,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "749006",
-                "likeCount": "5783",
+                "viewCount": "762436",
+                "likeCount": "5868",
                 "favoriteCount": "0",
-                "commentCount": "400"
+                "commentCount": "401"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "iVB2MpOUOEFi8YsiNp7-7sa0nhs",
+            "etag": "8M-qTQVXPHTIG47Egj-L1aeZeAA",
             "id": "d4sq5-Oh33E",
             "snippet": {
                 "publishedAt": "2026-10-05T11:19:30Z",
@@ -1977,15 +1977,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "136242",
-                "likeCount": "2852",
+                "viewCount": "138004",
+                "likeCount": "2883",
                 "favoriteCount": "0",
                 "commentCount": "79"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sKfElrtjUqwA1Qs7qMk0QvxvPlU",
+            "etag": "jRzZ7fUN3C5roso690FWux4rGfs",
             "id": "zASFOM3s9O4",
             "snippet": {
                 "publishedAt": "2026-10-09T10:00:00Z",
@@ -2058,15 +2058,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "265898",
-                "likeCount": "1432",
+                "viewCount": "269097",
+                "likeCount": "1448",
                 "favoriteCount": "0",
                 "commentCount": "43"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oK3sQZfqHa3RwGq9SOKH7qMlN5w",
+            "etag": "sNuFXrOiJFDqLNOP_SeMCHkaJBI",
             "id": "u9MCmNRtp_o",
             "snippet": {
                 "publishedAt": "2026-10-02T08:30:17Z",
@@ -2111,15 +2111,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "247299",
-                "likeCount": "5243",
+                "viewCount": "248868",
+                "likeCount": "5257",
                 "favoriteCount": "0",
                 "commentCount": "82"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JMVabJL39QmLEOjgsVTqoSucHEE",
+            "etag": "iXjl2uUz6jFqEU08VAnhkW0Io2k",
             "id": "hbf394xYLwM",
             "snippet": {
                 "publishedAt": "2026-10-07T14:41:47Z",
@@ -2169,72 +2169,76 @@
                 "defaultAudioLanguage": "en-GB"
             },
             "statistics": {
-                "viewCount": "562901",
-                "likeCount": "18961",
+                "viewCount": "564382",
+                "likeCount": "19012",
                 "favoriteCount": "0",
-                "commentCount": "1276"
+                "commentCount": "1277"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ok5EXLXVYizcF3PVjNPPKlWfY94",
-            "id": "lV1DPjdLBOg",
+            "etag": "He8LmcNX3UbK0ApckWdot-7NlT4",
+            "id": "dUmFte0N4LE",
             "snippet": {
-                "publishedAt": "2026-10-09T04:02:25Z",
-                "channelId": "UCrVy34TUqqLahN4MijTaXQA",
-                "title": "pop it",
-                "description": "Provided to YouTube by Gunna Music\n\npop it \u00b7 Gunna\n\npop it\n\n\u2117 A Gunna Music release., \u2117 2026 Gunna Music, LLC\n\nEngineer: Florian \u201cFlo\u201d Ongonga\nVocals: Gunna\nA& R: James Flynn\nAssistant: Jesse Navarro\nMasterer: Joe LaPorta\nAssistant: Jordan O\u2019 Brien\nProducer: Kizzy\nWriter: Sergio Kitchens\nWriter: Darnell Ramon Carr Jr\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-08T10:02:04Z",
+                "channelId": "UCPuWRwEDLHnvhugIPwiREeA",
+                "title": "u'Jola Nobani",
+                "description": "Provided to YouTube by Kreative Kornerr\n\nu'Jola Nobani \u00b7 Musical Jazz \u00b7 Royal Musiq \u00b7 DJ Smallz \u00b7 Djy Mash SA \u00b7 ZinedinexSguche\n\nu'Jola Nobani\n\n\u2117 2026 South Africa - Kreative Kornerr Communications (Pty) Ltd, exclusively distributed under Sony Music Entertainment Africa (Pty) Ltd\n\nReleased on: 2026-10-09\n\nAssociated Performer: Musical Jazz, Royal Musiq & DJ Smallz feat. Djy Mash SA, ZinedinexSguche\nAssociated Performer: Musical Jazz\nAssociated Performer: Royal Musiq\nAssociated Performer: DJ Smallz\nAssociated Performer: Djy Mash SA\nAssociated Performer: ZinedinexSguche\nProducer, Composer, Lyricist: Tisetso Njabulo Masangu\nProducer: Ronny Siphosakhe\nProducer: Gugu Junior Zulu\nProducer: Musa Mashiane\nProducer: Thabang Sebolaoa\nProducer: Sibongakonke Xulu\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Gunna - Topic",
+                "channelTitle": "Musical Jazz - Topic",
                 "tags": [
-                    "Gunna",
-                    "pop it"
+                    "Musical Jazz",
+                    "Royal Musiq",
+                    "DJ Smallz",
+                    "Djy Mash SA",
+                    "ZinedinexSguche",
+                    "u'Jola Nobani"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "pop it",
-                    "description": "Provided to YouTube by Gunna Music\n\npop it \u00b7 Gunna\n\npop it\n\n\u2117 A Gunna Music release., \u2117 2026 Gunna Music, LLC\n\nEngineer: Florian \u201cFlo\u201d Ongonga\nVocals: Gunna\nA& R: James Flynn\nAssistant: Jesse Navarro\nMasterer: Joe LaPorta\nAssistant: Jordan O\u2019 Brien\nProducer: Kizzy\nWriter: Sergio Kitchens\nWriter: Darnell Ramon Carr Jr\n\nAuto-generated by YouTube."
+                    "title": "u'Jola Nobani",
+                    "description": "Provided to YouTube by Kreative Kornerr\n\nu'Jola Nobani \u00b7 Musical Jazz \u00b7 Royal Musiq \u00b7 DJ Smallz \u00b7 Djy Mash SA \u00b7 ZinedinexSguche\n\nu'Jola Nobani\n\n\u2117 2026 South Africa - Kreative Kornerr Communications (Pty) Ltd, exclusively distributed under Sony Music Entertainment Africa (Pty) Ltd\n\nReleased on: 2026-10-09\n\nAssociated Performer: Musical Jazz, Royal Musiq & DJ Smallz feat. Djy Mash SA, ZinedinexSguche\nAssociated Performer: Musical Jazz\nAssociated Performer: Royal Musiq\nAssociated Performer: DJ Smallz\nAssociated Performer: Djy Mash SA\nAssociated Performer: ZinedinexSguche\nProducer, Composer, Lyricist: Tisetso Njabulo Masangu\nProducer: Ronny Siphosakhe\nProducer: Gugu Junior Zulu\nProducer: Musa Mashiane\nProducer: Thabang Sebolaoa\nProducer: Sibongakonke Xulu\n\nAuto-generated by YouTube."
                 },
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "290367",
-                "likeCount": "13810",
+                "viewCount": "58020",
+                "likeCount": "4009",
                 "favoriteCount": "0",
-                "commentCount": "860"
+                "commentCount": "54"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "5uGbZ4NsFtv8GqVW-fSc0qYtgRA",
+            "etag": "GyjVtJozEPp0ij7C8poiThMwKFs",
             "id": "HEzmHs7iAvw",
             "snippet": {
                 "publishedAt": "2026-10-08T19:13:31Z",
@@ -2299,76 +2303,72 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "2972797",
-                "likeCount": "101122",
+                "viewCount": "2988858",
+                "likeCount": "101633",
                 "favoriteCount": "0",
-                "commentCount": "2552"
+                "commentCount": "2560"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3dwsbz5piPiCm7MBfhim5fGG7L4",
-            "id": "dUmFte0N4LE",
+            "etag": "CC66Q-dKezxgzexzZc3wDqXDMgg",
+            "id": "lV1DPjdLBOg",
             "snippet": {
-                "publishedAt": "2026-10-08T10:02:04Z",
-                "channelId": "UCPuWRwEDLHnvhugIPwiREeA",
-                "title": "u'Jola Nobani",
-                "description": "Provided to YouTube by Kreative Kornerr\n\nu'Jola Nobani \u00b7 Musical Jazz \u00b7 Royal Musiq \u00b7 DJ Smallz \u00b7 Djy Mash SA \u00b7 ZinedinexSguche\n\nu'Jola Nobani\n\n\u2117 2026 South Africa - Kreative Kornerr Communications (Pty) Ltd, exclusively distributed under Sony Music Entertainment Africa (Pty) Ltd\n\nReleased on: 2026-10-09\n\nAssociated Performer: Musical Jazz, Royal Musiq & DJ Smallz feat. Djy Mash SA, ZinedinexSguche\nAssociated Performer: Musical Jazz\nAssociated Performer: Royal Musiq\nAssociated Performer: DJ Smallz\nAssociated Performer: Djy Mash SA\nAssociated Performer: ZinedinexSguche\nProducer, Composer, Lyricist: Tisetso Njabulo Masangu\nProducer: Ronny Siphosakhe\nProducer: Gugu Junior Zulu\nProducer: Musa Mashiane\nProducer: Thabang Sebolaoa\nProducer: Sibongakonke Xulu\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-09T04:02:25Z",
+                "channelId": "UCrVy34TUqqLahN4MijTaXQA",
+                "title": "pop it",
+                "description": "Provided to YouTube by Gunna Music\n\npop it \u00b7 Gunna\n\npop it\n\n\u2117 A Gunna Music release., \u2117 2026 Gunna Music, LLC\n\nEngineer: Florian \u201cFlo\u201d Ongonga\nVocals: Gunna\nA& R: James Flynn\nAssistant: Jesse Navarro\nMasterer: Joe LaPorta\nAssistant: Jordan O\u2019 Brien\nProducer: Kizzy\nWriter: Sergio Kitchens\nWriter: Darnell Ramon Carr Jr\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/dUmFte0N4LE/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lV1DPjdLBOg/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Musical Jazz - Topic",
+                "channelTitle": "Gunna - Topic",
                 "tags": [
-                    "Musical Jazz",
-                    "Royal Musiq",
-                    "DJ Smallz",
-                    "Djy Mash SA",
-                    "ZinedinexSguche",
-                    "u'Jola Nobani"
+                    "Gunna",
+                    "pop it"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "u'Jola Nobani",
-                    "description": "Provided to YouTube by Kreative Kornerr\n\nu'Jola Nobani \u00b7 Musical Jazz \u00b7 Royal Musiq \u00b7 DJ Smallz \u00b7 Djy Mash SA \u00b7 ZinedinexSguche\n\nu'Jola Nobani\n\n\u2117 2026 South Africa - Kreative Kornerr Communications (Pty) Ltd, exclusively distributed under Sony Music Entertainment Africa (Pty) Ltd\n\nReleased on: 2026-10-09\n\nAssociated Performer: Musical Jazz, Royal Musiq & DJ Smallz feat. Djy Mash SA, ZinedinexSguche\nAssociated Performer: Musical Jazz\nAssociated Performer: Royal Musiq\nAssociated Performer: DJ Smallz\nAssociated Performer: Djy Mash SA\nAssociated Performer: ZinedinexSguche\nProducer, Composer, Lyricist: Tisetso Njabulo Masangu\nProducer: Ronny Siphosakhe\nProducer: Gugu Junior Zulu\nProducer: Musa Mashiane\nProducer: Thabang Sebolaoa\nProducer: Sibongakonke Xulu\n\nAuto-generated by YouTube."
+                    "title": "pop it",
+                    "description": "Provided to YouTube by Gunna Music\n\npop it \u00b7 Gunna\n\npop it\n\n\u2117 A Gunna Music release., \u2117 2026 Gunna Music, LLC\n\nEngineer: Florian \u201cFlo\u201d Ongonga\nVocals: Gunna\nA& R: James Flynn\nAssistant: Jesse Navarro\nMasterer: Joe LaPorta\nAssistant: Jordan O\u2019 Brien\nProducer: Kizzy\nWriter: Sergio Kitchens\nWriter: Darnell Ramon Carr Jr\n\nAuto-generated by YouTube."
                 },
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "56566",
-                "likeCount": "3935",
+                "viewCount": "294066",
+                "likeCount": "13964",
                 "favoriteCount": "0",
-                "commentCount": "54"
+                "commentCount": "863"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4H8MmTtUA0rlSTy5HJ5r6nv87Gs",
+            "etag": "t7_-f1fBM17DcdwQfUOyZW8qQAA",
             "id": "UDLcMYF579E",
             "snippet": {
                 "publishedAt": "2026-10-09T02:45:34Z",
@@ -2451,15 +2451,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "2647520",
-                "likeCount": "67266",
+                "viewCount": "2681810",
+                "likeCount": "67830",
                 "favoriteCount": "0",
-                "commentCount": "6039"
+                "commentCount": "6090"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4b0lxgmXWvP0tuSwlcj2WXf1MFQ",
+            "etag": "x43IsbWPE37Smra8AB_kfwplAdk",
             "id": "T_4MUC15MmA",
             "snippet": {
                 "publishedAt": "2026-10-08T10:05:23Z",
@@ -2512,15 +2512,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "54578",
-                "likeCount": "3552",
+                "viewCount": "55758",
+                "likeCount": "3643",
                 "favoriteCount": "0",
                 "commentCount": "84"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "LBX1rUy1czuN56u2UTwA8MS0Zhw",
+            "etag": "dFdba46OUY7sCZoXrHsWuxQlGcg",
             "id": "p97rVBYJe3U",
             "snippet": {
                 "publishedAt": "2026-10-08T18:02:00Z",
@@ -2593,15 +2593,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "171214",
-                "likeCount": "5926",
+                "viewCount": "173228",
+                "likeCount": "5988",
                 "favoriteCount": "0",
                 "commentCount": "320"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WqPjIliY-Jw8D1Muwl4XTxewADk",
+            "etag": "Xd0qPeloGARO_880WcWOcyWxEE4",
             "id": "FfluZzakfnM",
             "snippet": {
                 "publishedAt": "2026-10-08T22:00:11Z",
@@ -2655,15 +2655,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "59192",
-                "likeCount": "1404",
+                "viewCount": "60678",
+                "likeCount": "1421",
                 "favoriteCount": "0",
-                "commentCount": "232"
+                "commentCount": "233"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1edegTp7ghnksb4Cm7H2rfOg5Hc",
+            "etag": "zpa5HsLFjuBuectF55BUZtAJYUo",
             "id": "CiIx2BJs3Rw",
             "snippet": {
                 "publishedAt": "2026-10-06T13:00:19Z",
@@ -2722,15 +2722,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "472961",
-                "likeCount": "6772",
+                "viewCount": "475444",
+                "likeCount": "6800",
                 "favoriteCount": "0",
                 "commentCount": "416"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Y0atBw_wn85VIemi3BDhffEP40w",
+            "etag": "k3SLWHtGeFTQJD2GCo18SaY4B18",
             "id": "CnemDOCOvUY",
             "snippet": {
                 "publishedAt": "2026-10-05T12:19:45Z",
@@ -2781,15 +2781,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "56605",
-                "likeCount": "1870",
+                "viewCount": "57759",
+                "likeCount": "1891",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "QOY6RYMLiEDoI5bIjr9Ci5rw1kA",
+            "etag": "9ZNhPpToGbglG26G5EN5lrKOSJc",
             "id": "EcCNQkKuvoE",
             "snippet": {
                 "publishedAt": "2026-10-10T02:29:53Z",
@@ -2860,71 +2860,73 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "164455",
-                "likeCount": "2250",
+                "viewCount": "174854",
+                "likeCount": "2350",
                 "favoriteCount": "0",
-                "commentCount": "174"
+                "commentCount": "178"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "U-ylYEG8nLUvcXx9Z9IreV09IRw",
-            "id": "K8Z2WTwv45Q",
+            "etag": "3afV8CUN5HBz8Xz0PyU_Sq3J53w",
+            "id": "EBfL5i1FORY",
             "snippet": {
-                "publishedAt": "2026-10-02T04:14:25Z",
-                "channelId": "UCcQNyVHW_DY_4zQuqNqqy_g",
-                "title": "Luda g - wally g Pum pum Dj Danie & Dj Tolla",
-                "description": "Provided to YouTube by DistroKid\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla \u00b7 DJ DANIE\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla\n\n\u2117 HIGHEST ORDER PRODUCTIONS\n\nReleased on: 2026-10-01\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-09T10:04:15Z",
+                "channelId": "UC53YdIKz7VVdTK0ZwRVtzTg",
+                "title": "Ikuwe",
+                "description": "Provided to YouTube by DistroKid\n\nIkuwe \u00b7 Egyptian Pharaoh\n\nThe last Dance\n\n\u2117 11168931 Records DK\n\nReleased on: 2026-10-10\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "DJ DANIE - Topic",
+                "channelTitle": "Egyptian Pharaoh - Topic",
                 "tags": [
-                    "DJ DANIE",
-                    "Luda g - wally g Pum pum Dj Danie & Dj Tolla"
+                    "Egyptian Pharaoh",
+                    "The last Dance",
+                    "Ikuwe"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Luda g - wally g Pum pum Dj Danie & Dj Tolla",
-                    "description": "Provided to YouTube by DistroKid\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla \u00b7 DJ DANIE\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla\n\n\u2117 HIGHEST ORDER PRODUCTIONS\n\nReleased on: 2026-10-01\n\nAuto-generated by YouTube."
-                }
+                    "title": "Ikuwe",
+                    "description": "Provided to YouTube by DistroKid\n\nIkuwe \u00b7 Egyptian Pharaoh\n\nThe last Dance\n\n\u2117 11168931 Records DK\n\nReleased on: 2026-10-10\n\nAuto-generated by YouTube."
+                },
+                "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "151348",
-                "likeCount": "4242",
+                "viewCount": "29644",
+                "likeCount": "1343",
                 "favoriteCount": "0",
-                "commentCount": "0"
+                "commentCount": "185"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "7hFafWxn2qQizrK9-ld8E1Mpdx4",
+            "etag": "oaxT30SZB_68JBWj1repeT3OR3g",
             "id": "zaYjzdI8op8",
             "snippet": {
                 "publishedAt": "2026-10-04T18:30:06Z",
@@ -2989,73 +2991,71 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "320155",
-                "likeCount": "6249",
+                "viewCount": "324836",
+                "likeCount": "6356",
                 "favoriteCount": "0",
-                "commentCount": "547"
+                "commentCount": "552"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K5cVO3eSKGNayu8Vz1XeGX9XO14",
-            "id": "EBfL5i1FORY",
+            "etag": "8Kaa5O-zz8T3N5uh7ZT2XWGzlws",
+            "id": "K8Z2WTwv45Q",
             "snippet": {
-                "publishedAt": "2026-10-09T10:04:15Z",
-                "channelId": "UC53YdIKz7VVdTK0ZwRVtzTg",
-                "title": "Ikuwe",
-                "description": "Provided to YouTube by DistroKid\n\nIkuwe \u00b7 Egyptian Pharaoh\n\nThe last Dance\n\n\u2117 11168931 Records DK\n\nReleased on: 2026-10-10\n\nAuto-generated by YouTube.",
+                "publishedAt": "2026-10-02T04:14:25Z",
+                "channelId": "UCcQNyVHW_DY_4zQuqNqqy_g",
+                "title": "Luda g - wally g Pum pum Dj Danie & Dj Tolla",
+                "description": "Provided to YouTube by DistroKid\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla \u00b7 DJ DANIE\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla\n\n\u2117 HIGHEST ORDER PRODUCTIONS\n\nReleased on: 2026-10-01\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/EBfL5i1FORY/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K8Z2WTwv45Q/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Egyptian Pharaoh - Topic",
+                "channelTitle": "DJ DANIE - Topic",
                 "tags": [
-                    "Egyptian Pharaoh",
-                    "The last Dance",
-                    "Ikuwe"
+                    "DJ DANIE",
+                    "Luda g - wally g Pum pum Dj Danie & Dj Tolla"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "Ikuwe",
-                    "description": "Provided to YouTube by DistroKid\n\nIkuwe \u00b7 Egyptian Pharaoh\n\nThe last Dance\n\n\u2117 11168931 Records DK\n\nReleased on: 2026-10-10\n\nAuto-generated by YouTube."
-                },
-                "defaultAudioLanguage": "en"
+                    "title": "Luda g - wally g Pum pum Dj Danie & Dj Tolla",
+                    "description": "Provided to YouTube by DistroKid\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla \u00b7 DJ DANIE\n\nLuda g - wally g Pum pum Dj Danie & Dj Tolla\n\n\u2117 HIGHEST ORDER PRODUCTIONS\n\nReleased on: 2026-10-01\n\nAuto-generated by YouTube."
+                }
             },
             "statistics": {
-                "viewCount": "27401",
-                "likeCount": "1284",
+                "viewCount": "152579",
+                "likeCount": "4262",
                 "favoriteCount": "0",
-                "commentCount": "178"
+                "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "cwUhFLQwwukEBwgKdqPygDZDnw0",
+            "etag": "Cfgdq1ImvbMsIBr9V7wqaJZ9mwo",
             "id": "j1q6fh03xVc",
             "snippet": {
                 "publishedAt": "2026-10-09T18:06:55Z",
@@ -3125,15 +3125,15 @@
                 "defaultAudioLanguage": "en-US"
             },
             "statistics": {
-                "viewCount": "361653",
-                "likeCount": "5110",
+                "viewCount": "373055",
+                "likeCount": "5245",
                 "favoriteCount": "0",
-                "commentCount": "1191"
+                "commentCount": "1205"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "fX3B1_DtvNeBSkQxSZBryDZwDrY",
+            "etag": "p7_ZLlLwarZcc0hgpSp6O2Y4PW8",
             "id": "bbyuXcv6sFo",
             "snippet": {
                 "publishedAt": "2026-10-01T10:03:46Z",
@@ -3183,15 +3183,15 @@
                 "defaultAudioLanguage": "und"
             },
             "statistics": {
-                "viewCount": "167254",
-                "likeCount": "3262",
+                "viewCount": "167433",
+                "likeCount": "3263",
                 "favoriteCount": "0",
                 "commentCount": "55"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "HAxBAQpSw0DwOX8W0zTs8Q8vFyg",
+            "etag": "PB4mTQG1xoSR43ExMi-tIpQTqsA",
             "id": "K6TjGh6jPsY",
             "snippet": {
                 "publishedAt": "2026-10-09T11:00:24Z",
@@ -3248,15 +3248,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "408392",
-                "likeCount": "4176",
+                "viewCount": "416173",
+                "likeCount": "4227",
                 "favoriteCount": "0",
-                "commentCount": "845"
+                "commentCount": "847"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "A3_VZNyxkFQjIqhNkMLVpfpj94U",
+            "etag": "ercFbdecpYODbmSLaPejAau8WHc",
             "id": "kfefo3GstTo",
             "snippet": {
                 "publishedAt": "2026-10-04T08:00:07Z",
@@ -3350,10 +3350,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "108188",
-                "likeCount": "4788",
+                "viewCount": "109107",
+                "likeCount": "4809",
                 "favoriteCount": "0",
-                "commentCount": "305"
+                "commentCount": "306"
             }
         }
     ],
