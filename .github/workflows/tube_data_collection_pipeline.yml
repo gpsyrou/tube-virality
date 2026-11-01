@@ -24,9 +24,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y libatlas-base-dev libopenblas-dev
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
